@@ -32,4 +32,4 @@ jobs:
           MIRROR_URL: ${{ secrets.MIRROR_URL }}
           MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
         run: |
-           git push "https://git:$MIRROR_TOKEN@$MIRROR_URL" --all
+           git push "https://git:$MIRROR_TOKEN@$MIRROR_URL" --all --force
