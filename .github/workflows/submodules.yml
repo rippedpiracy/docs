@@ -1,0 +1,46 @@
+name: 'Submodules Sync'
+
+on:
+  # Allows you to run this workflow manually from the Actions tab or through HTTP API
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: 'Submodules Sync'
+    runs-on: ubuntu-latest
+
+    # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    # Checkout the repository to the GitHub Actions runner
+    - name: Checkout remote
+      uses: actions/checkout@v2
+      with:
+        repository: ${{ secrets.REMOTE_REPO }}
+        path: './remote'
+        submodules: true
+        token: ${{ secrets.REMOTE_TOKEN }}
+    - name: Checkout local
+      uses: actions/checkout@v2
+      with:
+        path: './local'
+
+    - name: Update and commit submodule
+      working-directory: ./remote
+      shell: bash
+      env:
+        REMOTE_REPO: ${{ secrets.REMOTE_REPO }}
+        REMOTE_TOKEN: ${{ secrets.REMOTE_TOKEN }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git pull --recurse-submodules
+        git submodule update --recursive --remote
+        git remote set-url origin "https://git:$REMOTE_TOKEN@github.com/$REMOTE_REPO"
+        git commit -am "Updated documents submodule rippedpiracy/docs@$(git -C ../local rev-parse --short HEAD)" && git push || echo "No changes to commit"

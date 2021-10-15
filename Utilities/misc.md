@@ -87,13 +87,15 @@ description: Tools and Apps to make your life easier.
 
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
-[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.
+[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
+
+[**GoldbergGUI**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152) - GUI Tool for applying Goldberg's Steam Emulator. Allows you to unlock a Steam Game's DLCs.
 
 [**pe-studio**](https://www.winitor.com/) - Helps you check for Malware in apps.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and efficient file hash verifier, it also integrates into Windows Shell.
 
-[**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or Weird ones.
+[**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 

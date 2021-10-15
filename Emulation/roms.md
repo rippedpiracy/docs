@@ -6,7 +6,11 @@ description: List of sites that host ROMs.
 
 **[ROMSPURE](https://romspure.cc/roms) (DDL)**
 
-Nice place to get a large list of ROMs for every type of console.
+Nice place to get a large list of ROMs from every type of system.
+
+**[RomsGet](https://romsget.io/) (DDL)**  
+
+Straight forward UI to Download many ROMs directly.
 
 **[/r/ROMs Megathread](https://r-roms.github.io/) (DDL)**
 

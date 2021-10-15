@@ -82,7 +82,11 @@ Big Forums for **_Adult Games_**. U18-Chan focuses more on **_Yiff Games_** whil
 
 **[Nyaa](https://nyaa.si) & [Sukebei](https://sukebei.nyaa.si) (Torrent)**
 
-Both are good sources for popular Visual Novels and Japanese Games while the latter is more for **_NSFW titles_**.
+Both are good sources for popular Visual Novels and Japanese Games while the latter is more for **_NSFW titles_**.  
+
+**[Lewd Patcher](https://lewdpatcher.com) (DDL)**
+
+Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
  
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
