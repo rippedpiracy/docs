@@ -10,13 +10,17 @@ description: List of sites that host ROMs.
 
 Nice place to get a large list of ROMs from every type of system.
 
+**[RomUlation](https://www.romulation.org/) (DDL)**  
+
+Offering ROM Downloads since 2004. **Ignore any Pop-ups/Banners about faster Downloads/Premium.**
+
 **[RomsGet](https://romsget.io/) (DDL)**  
 
 Straight forward UI to Download many ROMs directly.
 
-**[/r/ROMs Megathread](https://r-roms.github.io/) (DDL)**
+**[r/ROMs Megathread](https://r-roms.github.io/) (DDL)**
 
-The /r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with mkdocs.
+The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with mkdocs.
 
 **[NoPayStation](https://nopaystation.com/) | [PSNDL](https://psndl.net/) (DDL)**
 
