@@ -95,7 +95,7 @@ description: Tools and Apps to make your life easier.
 
 [**pe-studio**](https://www.winitor.com/) - Helps you check for Malware in apps.
 
-[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and efficient file hash verifier, it also integrates into Windows Shell.
+[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
 
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
