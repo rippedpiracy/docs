@@ -7,7 +7,7 @@ description: Welcome to Ripped!
 
 **This is a collection of sites and tools that are trusted by the community.**
 
-Feel free to contribute by sending an issue on our [**suggestions**](https://github.com/rippedpiracy/suggestions) page.
+Feel free to check the About section if you wish to help out by Contributing.
 
-Click on the categories in the sidebar for more information.
+*Click on the categories in the sidebar for more information.*
 
