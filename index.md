@@ -1,7 +1,7 @@
 ---
 title: Intro
 description: Welcome to Ripped!
-no-show-title: true
+no_show_title: true
 ---
 
 ![](https://i.imgur.com/h3WqLFs.png)
