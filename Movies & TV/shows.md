@@ -14,7 +14,7 @@ Streaming site with a UI similar to Prime Video, **beware of Pop-ups.**
 Page where you can choose which mirror of Soap2Day to use.  
 Soap2Day offers Streaming Content, while trying to minimize the amount of Porn Ads & Pop-ups that might slip through.
 
-[**rinzry**](https://rinzry.stream/)
+[**rinzry**](https://rinzry.stream/)  
 Huge Index with many Movies & TV Shows, using Google Drive.  
 In the Streaming section as you can Stream the Content you want to Download.
 
