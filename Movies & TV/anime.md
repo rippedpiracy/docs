@@ -4,8 +4,8 @@ description: Comprehensive list of sites for downloading and streaming anime.
 ---
 
 # Streaming
-We *could* add a huge list of Anime Streaming sites, but its better off to make **you** choose the one **you** need,  
-using [**The Anime Index**](https://piracy.moe), a **_HUGE_** list of sites, categorized in Languages, Sub/Dubs and more.
+We *could* add a huge list of Anime Streaming sites, but its better off to make **you** choose the one **you** need using:  
+[**The Anime Index**](https://piracy.moe), a **_HUGE_** list of sites, categorized in Languages, Sub/Dubs and more.
 
 # Downloads
 
