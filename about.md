@@ -1,5 +1,7 @@
+---
 title: About
 description: About this site.
+---
 
 ## Contributing
 
@@ -12,8 +14,10 @@ This website is generated using mkdocs & Markdown, you can learn more about the 
 In brief, here's how it works:
 
 ```md
+---
 title: (title here)
 description: (a short description that will appear in embeds)
+---
 
 # Header 1
 
@@ -34,7 +38,7 @@ here is **_italic and bold text_**
 
 ## Guides
 
-For Guides, you may include some extra metadata at the top:
+For Guides, you may include some extra metadata at the top (within the `---`):
 
 ```md
 author: (you)

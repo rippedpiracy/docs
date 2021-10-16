@@ -1,5 +1,7 @@
+---
 title: Anime
 description: Comprehensive list of sites for downloading and streaming anime.
+---
 
 # Downloads
 

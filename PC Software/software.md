@@ -1,5 +1,7 @@
+---
 title: Software
 description: List of safe and trusted sites for Software.
+---
 
 # Torrents
 

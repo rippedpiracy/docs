@@ -1,5 +1,7 @@
+---
 title: Debloating Windows
 description: Make your OS lighter, faster and more secure.
+---
 
 <sub>*Pro Tip: Make a Restore Point before running these apps!*</sub>
 # Debloating & Privacy

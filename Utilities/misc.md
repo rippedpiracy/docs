@@ -1,5 +1,7 @@
+---
 title: Miscellaneous
 description: Tools and Apps to make your life easier.
+---
 
 # Browser Extensions
 

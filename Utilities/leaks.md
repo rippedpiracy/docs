@@ -1,5 +1,7 @@
+---
 title: Accounts & Leaks
 description: Sources for Leaks, Account Generators and more.
+---
 
 <sub>*psst. use the stuff in the misc page to bypass shorteners and wait times.*</sub>
 

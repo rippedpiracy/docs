@@ -1,5 +1,7 @@
+---
 title: Games
 description: List of safe and trusted sites for Games.
+---
 
 ## General Torrent
 **NOTE: Some of these sites have Fake and Mirror sites, you should only use the ones we linked.**

@@ -1,5 +1,7 @@
+---
 title: Scene Glossary
 description: Definitions for common Scene terminology.
+---
 
 **0sec**
 
