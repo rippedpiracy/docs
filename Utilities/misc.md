@@ -8,16 +8,16 @@ description: Tools and Apps to make your life easier.
 <sub>*We reccomend coupling these Extensions & UserScripts with [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).*</sub>  
 &nbsp;  
   
-[**FastForward**](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance, FastForward circumvents link shorteners (An actively maintained [Universal-Bypass](https://github.com/Sainan/Universal-Bypass) fork).
+[**FastForward**](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance, FastForward circumvents link shorteners (Actively maintained [Universal-Bypass](https://github.com/Sainan/Universal-Bypass) fork).
 
 [**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) Filters for blocking Pop-ups and Anti-AdBlock bypasses.</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) Filters for blocking Pop-ups and Anti-AdBlocks.</sub>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[iplogger](https://github.com/piperun/iploggerfilter) Filters any site who's only purpose is to log your IP.</sub>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) A collection of filter lists for Anime streaming, Manga reading, and downloading of other Japanese media.</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) A collection of Filter lists for Anime Streaming, Manga reading, and Downloading of other Japanese media.</sub>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) Fix and remove annoying web elements such as sticky headers, floating boxes, etc.</sub>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Filter Stalker](https://rentry.co/FilterStalker) A collection of Filter Lists by **@LukeThighStalker**.</sub> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Filter Stalker](https://rentry.co/FilterStalker) A collection of Filter lists by **@LukeThighStalker**.</sub> 
 
-[**Dark Reader**](https://github.com/darkreader/darkreader) - Dark/Light mode for all websites.
+[**Dark Reader**](https://github.com/darkreader/darkreader) - Dark/Light mode for all websites. **_May slow down page load times._**
 
 [**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
 **_NOTE: Difficult to setup for the Average User._**
@@ -28,21 +28,21 @@ description: Tools and Apps to make your life easier.
 
 [**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
 
-[**ClearURLs**](https://github.com/ClearURLs/Addon) - Remove tracking elements from URLs.
+[**ClearURLs**](https://github.com/ClearURLs/Addon) - Remove Tracking elements from URLs.
 
-[**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually or Automatically suspend/unsuspend Tabs to save up Memory usage.  
+[**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually or Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
-[**Search by Image**](https://github.com/dessant/search-by-image) - Quickly reverse image search on 35+ different search engines.  
+[**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 
-[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for humans.  
+[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
 [**HTTPS Everywhere**](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 
-[**Decentraleyes**](https://git.synz.io/Synzvato/decentraleyes) - Emulates Content Delivery Networks to improve online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.
+[**Decentraleyes**](https://git.synz.io/Synzvato/decentraleyes) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.
 
-[**Download All Images**](https://github.com/belaviyo/save-images) - Download all images from any webpage you're on.
+[**Download All Images**](https://github.com/belaviyo/save-images) - Download all Images from any web page you're on.
 
-[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a faithful copy of an entire web page in a single HTML file.
+[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
 
 [**ToS;DR**](https://github.com/tosdr/browser-extensions) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements.
 
@@ -50,20 +50,20 @@ description: Tools and Apps to make your life easier.
 
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**Disconnect**](https://github.com/disconnectme/disconnect) - Makes the web faster, more private, and more secure.
+[**Disconnect**](https://github.com/disconnectme/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
 
-[**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript managers.  
+[**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
 
 # Browser UserScripts
 <sub>*You need a Browser UserScript Manager.*</sub>
 
-[**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's age restricted videos.
+[**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
-[**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted pop-up windows in different browsers.
+[**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different browsers.
 
-[**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses Ad counters. 
+[**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses count-downs. 
 
-[**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Link Bypasser, bypassess some sites other tools can't bypass.
+[**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) -   Shortlink Bypasser, bypassess some sites other tools can't bypass.
 
 [**SiteScrubber**](https://github.com/PrimePlaya24/dl-site-scrubber) - Skip certain Timers or Ads and remove clutter that make it harder to download from certain DDL sites.
 
@@ -73,13 +73,13 @@ description: Tools and Apps to make your life easier.
 
 [**Mega.nz Unlimited Import**](https://pastebin.com/raw/4AXkE1yE) - Import any file/folder to your Mega Cloud without worrying about the space it takes as long as your Storage isn't full.
 
-[**CS.RIN.RU Enhanced**](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhances the UI and the functionality of the cs.rin.ru site.
+[**CS.RIN.RU Enhanced**](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhances the UI and the functionality of cs.rin.ru.
 
 [**Get Data from Steam / SteamDB / EpicDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB/) - Extracts all the information of the DLCs/Games from Steam/SteamDB/EpicDB and exports in various formats.
 
 # Useful Apps
 
-[**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) - Simple, scalable, cross-platform and effective solutions on ISP/Government blocked Websites.  
+[**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites.  
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. **_NOTE: ZeroTier can be difficult to setup._**
 
@@ -115,11 +115,11 @@ description: Tools and Apps to make your life easier.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
 
-[**Outline**](https://outline.com/) - Removes clutter from news articles.
+[**Outline**](https://outline.com/) - Removes clutter from News Articles.
 
-[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop items without having to own the game.
+[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.
 
-[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying ad-links on the spot.
+[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/)'s Website, has good information about various security and privacy tools.
 
