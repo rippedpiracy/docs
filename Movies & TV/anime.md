@@ -20,7 +20,7 @@ We *could* add a huge list of Anime Streaming sites, but its better off to make 
 **[The Anime Index](https://piracy.moe/), again (DDL / Torrent)** - Has a huge list of Downloading sites for Anime/**_Hentai_**/Manga and more.  
 
 [**Nibl Bots**](https://nibl.co.uk/bots) | [**AniMK**](https://animk.info/xdcc/) **(XDCC)** - Sites indexing IRC Bots where you can Download from using IRC Clients.   
-Check the [AnimePiracy Wiki](https://wiki.piracy.moe/en/tutorials/irc) for a detailed guide into XDCC.
+<sub>Check the [AnimePiracy Wiki](https://wiki.piracy.moe/en/tutorials/irc) for a detailed guide into XDCC.</sub>
 
 # Release Indexes
 
