@@ -9,5 +9,5 @@ description: Welcome to Ripped!
 
 Feel free to check the About section if you wish to help out by Contributing.
 
-*Click on the categories in the sidebar for more information.*
+*Click on the categories in the sidebar to start browsing.*
 
