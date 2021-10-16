@@ -2,6 +2,8 @@
 
 Everything in the Ripped Website, mirrored here for Suggestions and Improvements.
 
+**Be sure to check in the repo if anything you're about to suggest is already inside.**
+
 # How?
 
 Simply make a Issue with a brief description of your Suggestion  
