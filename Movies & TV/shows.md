@@ -16,7 +16,7 @@ Soap2Day offers streaming content, while trying to minimize the amount of porn a
 
 [**rinzry**](https://rinzry.stream/)  
 Huge index with many movies & TV Shows, using Google Drive.  
-In the streaming section as you can stream the content you want to download. <!-- I'm not sure what that's supposed to mean - glibg10b --->
+In the streaming section as you can stream the content instead of downloading it.
 
 [**StreamingCommunity**](https://streamingcommunity.video/)  
 Constantly updated site with Italian dubbed/subbed content. UI similar to Netflix.
@@ -32,7 +32,7 @@ Quality can vary from one release to another, always check file sizes and torren
 TV shows & movie torrents, each with a list with different quality releases.
 
 # IRC
-*With IRC, there's no middleman between you. Downloading the content **requires a IRC Client.***
+*With IRC, there's no middleman between you and the content.* **_requires a IRC Client._**
 
 [**MovieGods**](irc://irc.abjects.net/MOVIEGODS) (XDCC)  
 FIle sharing network with vast resources, mainly for movies and shows. Head to `#mg-chat` to Download Content.

@@ -24,7 +24,7 @@ description: List of sources for music.
 [**Hikarinoakariost**](http://hikarinoakari.com/) | [**Sukidesuost**](http://sukidesuost.info/) - Very good and reliable sources to get mainly Anime OSTs from, but also other Japanese Music as well. They use friendly file hosters.
 
 > Doujin, Dōjin (同人): self-published creative works produced by an individual or groups of individuals.  
->
-> ---
->
+
+> &nbsp;
+
 > Dōjin music (同人音楽): Music, Fan-Arranges, Videogame Arranges, Original Works, Touhou Works

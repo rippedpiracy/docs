@@ -112,7 +112,7 @@ Set up this tab exactly as shown. You'll have to browse to the path where you ha
 
 The commandline parameters have changed in this version, so this will look new to most of you. The commandline recommended for optimal completeness is this:  
 
-```bash
+```
 -8 -e -p -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest%
 ```
 
@@ -145,8 +145,7 @@ V2 MP3:
 ```
 
 q8 Ogg:  
-
-```bash
+```
 -q 8 -a "%artist%" -t "%title%" -l "%albumtitle%" -d "%year%" -N "%tracknr%" -G "%genre%" %source% -o %dest%
 ```
 
