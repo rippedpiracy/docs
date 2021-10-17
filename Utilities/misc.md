@@ -67,7 +67,7 @@ description: Tools and Apps to make your life easier.
 
 [**SiteScrubber**](https://github.com/PrimePlaya24/dl-site-scrubber) - Skip certain Timers or Ads and remove clutter that make it harder to download from certain DDL sites.
 
-[**reCAPTCHA Solver**](https://greasyfork.org/en/scripts/430593-recaptcha-solver-automatically-solves-recaptcha-in-browser) | [**hCaptcha Solver**](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser) - Automatically solves reCAPTCHAs and hCaptchas on websites, no user interaction required.
+[**reCAPTCHA Solver**](https://greasyfork.org/en/scripts/430593-recaptcha-solver-automatically-solves-recaptcha-in-browser) & [**hCaptcha Solver**](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser) - Automatically solves reCAPTCHAs and hCaptchas on websites, no user interaction required.
 
 [**MoreCAPTCHA**](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 
@@ -126,6 +126,3 @@ description: Tools and Apps to make your life easier.
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
-
-
-
