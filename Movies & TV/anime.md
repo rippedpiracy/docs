@@ -32,9 +32,7 @@ We *could* add a huge list of anime streaming sites, but it's better to make **y
 
 [**The AnimePiracy Wiki**](https://wiki.piracy.moe/) - Comprehensive information about everything anime piracy. A MUST READ if you are interested.
 
-[**Themes.moe**](https://themes.moe) | [**Openings.moe**](https://openings.moe/) - A huge collection of ending/opening themes for anime.
-
-()[] ()[]
+[**AnimeThemes**](https://staging.animethemes.moe/wiki) | [**Themes.moe**](https://themes.moe) | [**Openings.moe**](https://openings.moe/) - A huge collection of ending/opening Themes for Anime.
 
 [**The Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engine for anime.
 

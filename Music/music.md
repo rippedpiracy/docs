@@ -21,6 +21,8 @@ description: List of sources for music.
 
 [**Doujin Café Discord**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online.
 
+[**Hikarinoakariost**](http://hikarinoakari.com/) | [**Sukidesuost**](http://sukidesuost.info/) - Very good and reliable sources to get mainly Anime OSTs from, but also other Japanese Music as well. They use friendly file hosters.
+
 > Doujin, Dōjin (同人): self-published creative works produced by an individual or groups of individuals.  
 >
 > ---
