@@ -9,9 +9,9 @@ description: Sources for Leaks, Account Generators and more.
 
 [**h-gen.to**](https://h-gen.to) - Account Dispenser with varying categories of Accounts, mostly reliable. 
 
-[**leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Pastebins, browse it using an [AdBlocker](https://ublockorigin.com/).  
+[**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Pastebins, browse it using an [AdBlocker](https://ublockorigin.com/).  
 
-[**leak.to**](https://leak.to/forum/21-premium-accounts/) | [**cracked.to**](https://cracked.to/Forum-Accounts) | [**nulled.to**](https://nulled.to/forum/43-accounts/) | [**leakzone.net**](https://leakzone.net/Forum-Accounts) | [**crackx.to**](https://crackx.to/Forum-Accounts)- Forums with an Account Leaks category, Only get Accounts and __NOTHING ELSE__. **_Requires Sign-Up._**  
+[**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.to/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**Crackx.to**](https://crackx.to/Forum-Accounts)- Forums with an Account Leaks category, Only get Accounts and __NOTHING ELSE__. **_Requires Sign-Up._**  
 <sub>psst. you might need to like and reply to a post to get access to the content.</sub>
 
 [**s1ck.pw**](https://s1ck.pw/dispenser.php) - No-Hassles Dispenser, gives out many different Accounts as soon as you visit the page.  
@@ -24,6 +24,6 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Kemono**](https://kemono.party/) - The successor to yiff.party, has Leaks for sites like Patreon and more which are user-submitted with an automated process.  
 
-[**leak.to 18+**](https://leak.to/forum/24-18/) | [**Crackx Porn**](https://crackx.to/Forum-Porn) | [**Nulled ThotHub**](https://www.nulled.to/forum/223-thothub/) | [**Cracked Porn**](https://cracked.to/Forum-Porn) - More 18+ categories for the Forums listed above, OnlyFans and Paid Porn sites mostly.
+[**Leak.to 18+**](https://leak.to/forum/24-18/) | [**Crackx Porn**](https://crackx.to/Forum-Porn) | [**Nulled ThotHub**](https://www.nulled.to/forum/223-thothub/) | [**Cracked Porn**](https://cracked.to/Forum-Porn) - More 18+ categories for the Forums listed above, OnlyFans and Paid Porn sites mostly.
 
 [**PornLeaks**](https://pornleaks.in/) - Site dedicated to posting Leaks of Pornstars. **_Use an AdBlocker._**
