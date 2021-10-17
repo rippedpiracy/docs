@@ -4,7 +4,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 ---
 
 # Streaming
-<sub>Useful for watching Content easily, but mostly with a loss of Quality.</sub>
+<sub>*Useful for watching Content easily, but mostly with a loss of Quality.*</sub>
 
 [**SFlix**](https://sflix.to/home)  
 Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
@@ -26,7 +26,7 @@ Clients for Streaming in general with an intuitive design, they both allow Strea
 <sub>Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</sub>
 
 # Downloading
-<sub>Higher Quality most of the time and better watching experience overall.</sub>
+<sub>*Higher Quality most of the time and better watching experience overall.*</sub>
 
 **[1337x](https://1337x.to) (Torrent)**  
 Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
@@ -36,7 +36,7 @@ Quality can vary from Release to another, always check file sizes and Torrent na
 TV Shows & Movie Torrents, each with a list with different Quality Releases.
 
 # IRC
-<sub>No Middle-Man between you, and Downloading the Content from the IRC bots. **_Requires an IRC Client._**</sub>
+<sub>_No Middle-Man between you, and Downloading the Content from the IRC bots. **Requires an IRC Client.**_</sub>
 
 [**MovieGods**](irc://irc.abjects.net/MOVIEGODS) (XDCC)  
 File sharing network with vast resources, mainly for movies and shows. Head to #mg-chat to Download Content.
