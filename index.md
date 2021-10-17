@@ -11,7 +11,6 @@ no_show_footer: true
 
 **This is a collection of sites and tools that are trusted by the community.**
 
-Feel free to check the About section if you wish to help out by Contributing.
+Feel free to check the [About](about.md) section if you wish to help out by contributing.
 
 *Click on the categories in the sidebar to start browsing.*
-

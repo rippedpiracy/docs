@@ -4,41 +4,35 @@ description: List of sites to Stream and Download TV Shows and Movies.
 ---
 
 # Streaming
-*useful for watching Content easily, but with a loss of Quality.*
+*Useful for watching content easily, but with a loss of quality.*
 
 [**SFlix**](https://sflix.to/home)  
-Streaming site with a UI similar to Prime Video, **beware of Pop-ups.**  
-<sub>psst. there's some anti-popups extensions in the misc category.</sub>
+Streaming site with a UI similar to Prime Video. **Beware of pop-ups.**  
+<sub>psst, there are some anti-popup extensions in the misc category.</sub>
 
 [**SoapGate**](https://soapgate.org/)  
 Page where you can choose which mirror of Soap2Day to use.  
-Soap2Day offers Streaming Content, while trying to minimize the amount of Porn Ads & Pop-ups that might slip through.
+Soap2Day offers streaming content, while trying to minimize the amount of porn ads & pop-ups that might slip through.
 
 [**rinzry**](https://rinzry.stream/)  
-Huge Index with many Movies & TV Shows, using Google Drive.  
-In the Streaming section as you can Stream the Content you want to Download.
+Huge index with many movies & TV Shows, using Google Drive.  
+In the streaming section as you can stream the content you want to download. <!-- I'm not sure what that's supposed to mean - glibg10b --->
 
 [**StreamingCommunity**](https://streamingcommunity.video/)  
-Constantly updated site with Italian Dubbed/Subbed content. UI similar to Netflix.
-
-
+Constantly updated site with Italian dubbed/subbed content. UI similar to Netflix.
 
 # Downloading
-*with Downloads, you have a Higher Quality and better watching experience.
+*With downloads, you have a higher quality and better watching experience.*
 
 **[1337x](https://1337x.to) (Torrent)**  
-Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
-Quality can vary from Release to another, always check file sizes and Torrent names.  
+Torrent tracker with an enourmous amount of movies, TV shows and everything in-between.  
+Quality can vary from one release to another, always check file sizes and torrent names.  
 
 **[Zooqle](https://zooqle.com/) (Torrent)**  
-TV Shows & Movie Torrents, each with a list with different Quality Releases.
-
-
+TV shows & movie torrents, each with a list with different quality releases.
 
 # IRC
-*with IRC, there's no Middle-Man between you, and Downloading the content.* **_Requires a IRC Client._**
+*With IRC, there's no middleman between you. Downloading the content **requires a IRC Client.***
 
 [**MovieGods**](irc://irc.abjects.net/MOVIEGODS) (XDCC)  
-FIle sharing network with vast resources, mainly for movies and shows. Head to #mg-chat to Download Content.
-
-
+FIle sharing network with vast resources, mainly for movies and shows. Head to `#mg-chat` to Download Content.

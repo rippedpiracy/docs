@@ -7,37 +7,37 @@ description: List of safe and trusted sites for Software.
 
 **[RuTracker.org](https://rutracker.org)** | **[RuTracker.net](https://rutracker.net)** | **[RuTracker.nl](https://rutracker.nl)** | **[RuTracker.ru](https://rutracker.ru)**
 
-The go-to site for Software Piracy, for more than 10+ years. Requires Sign-up to search content.
+The go-to site for Software Piracy, for more than 10+ years. Requires sign-up to search content.
 Everything is uploaded by members with more than decades of experience with checked uploads.
 
 **[m0nkrus](https://w14.monkrus.ws/)**
 
-Software cracked by the one and only m0nkrus, the most reliable Adobe Cracker for many years.  
-You can mostly find Adobe Products and Autodesk Software.
+Software cracked by the one and only m0nkrus, the most reliable Adobe cracker for many years.  
+You can mostly find Adobe products and Autodesk software.
 
 # DDLs
 
 **[repack.me](https://repack.me)**
 
-Has compressed Downloads for Software, with silent installs. Currently only Registered Members can download from the site.  
-<sub>Staff Members from Ripped have Accounts on the site, so just ask in the Discord for something.</sub>  
+Has compressed downloads for software, with silent installs. Currently only registered Members can download from the site.  
+<sub>Staff members from Ripped have accounts on the site, so just ask in the Discord for something.</sub>  
 
 **[FileCR](https://filecr.com)**
 
-Has different Categories for Windows, Mac and Android Software Piracy. Offers Torrents too but DDLs prevail.  
+Has different categories for Windows, Mac and Android software piracy. Offers torrents too but DDLs prevail.  
 
 **[AudioZ](https://audioz.download/)**
 
-Focused more on Plugins and VSTs than Software, good for Video/Music Production.
+Focused more on plugins and VSTs than software, good for video/music production.
 
 **[Team V.R](https://codec.kiev.ua/releases.html)**
 
-Like AudioZ, Team V.R is more focused on Audio and Video Production, Cracking Software and Plugins for it.
+Like AudioZ, Team V.R is more focused on audio and video Production, cracking software and plugins for it.
 
 **[Nsane Forums](https://nsaneforums.com/)**
 
-Forum focused on News for everything Piracy, with downloads for Software and Utilites.  
+Forum focused on news for everything piracy, with downloads for software and utilites.  
 
 **[DirtyWarez](https://forum.dirtywarez.com/)**
 
-Good Forum for Software Piracy and other Warez with popular for its Requests section.
+Good forum for software piracy and other Warez with popular for its requests section.
