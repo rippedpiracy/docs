@@ -627,4 +627,4 @@ Windows
 |Windows|[OpenParrot](https://github.com/teknogods/OpenParrot)|
 ||[TeknoParrotUI](https://github.com/teknogods/TeknoParrotUI)|
 
-<sub>Check the (/emugen/ Wiki)[https://emulation.gametechwiki.com/] for more info about emulators</sub>
+<sub>Check the [/emugen/ Wiki](https://emulation.gametechwiki.com/) for more info about emulators</sub>
