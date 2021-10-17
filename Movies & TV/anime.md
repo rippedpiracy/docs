@@ -36,7 +36,7 @@ We *could* add a huge list of Anime Streaming sites, but its better off to make 
 
 [**The Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engine for Anime.
 
-[**Taiga**](https://github.com/erengy/taiga) (Windows) & [**Trackma**](https://github.com/z411/trackma/) (Linux) - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more. **A must have for Weebs.**
+[**Taiga**](https://github.com/erengy/taiga) (Windows) | [**Trackma**](https://github.com/z411/trackma/) (Linux) - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more. **A must have for Weebs.**
 
 [**Senpai.moe**](https://www.senpai.moe/) | [**Monthly**](https://www.monthly.moe/) - Calender for upcoming Official Anime Releases.
 
