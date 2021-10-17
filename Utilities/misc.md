@@ -19,8 +19,7 @@ description: Tools and Apps to make your life easier.
 
 [**Dark Reader**](https://github.com/darkreader/darkreader) - Dark/Light mode for all websites. **_May slow down page load times._**
 
-[**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
-**_NOTE: Difficult to setup for the Average User._**
+[**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. **_Difficult to setup for the Average User._**
 
 [**SponsorBlock**](https://github.com/ajayyy/SponsorBlock) - Skip YouTube Sponsorships & Shoutouts.
 
@@ -81,7 +80,7 @@ description: Tools and Apps to make your life easier.
 
 [**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites.  
 
-[**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. **_NOTE: ZeroTier can be difficult to setup._**
+[**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. **_ZeroTier can be difficult to setup._**
 
 [**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).
 
