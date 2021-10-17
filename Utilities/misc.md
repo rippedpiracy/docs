@@ -54,7 +54,7 @@ description: Tools and Apps to make your life easier.
 [**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
 
 # Browser UserScripts
-<sub>*You need a Browser UserScript Manager.*</sub>
+<sub>**_Requires a Browser UserScript Manager._**</sub>
 
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
