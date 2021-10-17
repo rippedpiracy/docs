@@ -36,7 +36,7 @@ Quality can vary from Release to another, always check file sizes and Torrent na
 TV Shows & Movie Torrents, each with a list with different Quality Releases.
 
 # IRC
-*with IRC, there's no Middle-Man between you, and Downloading the Content.* **_Requires a IRC Client._**
+<sub>No Middle-Man between you, and Downloading the Content from the IRC bots. **_Requires an IRC Client._**</sub>
 
 [**MovieGods**](irc://irc.abjects.net/MOVIEGODS) (XDCC)  
 File sharing network with vast resources, mainly for movies and shows. Head to #mg-chat to Download Content.
