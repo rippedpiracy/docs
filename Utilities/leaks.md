@@ -11,7 +11,7 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Pastebins, browse it using an [AdBlocker](https://ublockorigin.com/).  
 
-[**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.to/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**Crackx**](https://crackx.to/Forum-Accounts) - Forums with an Account Leaks category, Only get Accounts and __NOTHING ELSE__.  
+[**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.to/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**CrackX**](https://crackx.to/Forum-Accounts) - Forums with an Account Leaks category, Only get Accounts and __NOTHING ELSE__.  
 **_Requires Sign-Up._**  
 <sub>psst. you might need to like and reply to a post to get access to the content.</sub>
 
@@ -19,7 +19,7 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Steam Account Generator**](https://accgen.cathook.club/) - Actual Generator for Steam Accounts, creates a Steam Alt with no Paid Games included, mostly used for cheating.  
 
-[**thealtening.com**](https://thealtening.com/free/free-minecraft-alts) - Minecraft Token Dispenser, needs an external app for the accounts to work, not reccomended. 
+[**The Altening**](https://thealtening.com/free/free-minecraft-alts) | [**EasyMC**](https://easymc.io/) - Minecraft Token Dispensers, they need an external app for the "Accounts" to work, not reccomended. 
 
 # Paid Content Leaks
 
