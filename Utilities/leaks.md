@@ -19,7 +19,7 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Steam Account Generator**](https://accgen.cathook.club/) - Actual Generator for Steam Accounts, creates a Steam Alt with no Paid Games included, mostly used for cheating.  
 
-[**The Altening**](https://thealtening.com/free/free-minecraft-alts) | [**EasyMC**](https://easymc.io/) - Minecraft Token Dispensers, they need an external app for the "Accounts" to work, not reccomended. 
+[**The Altening**](https://thealtening.com/free/free-minecraft-alts) | [**EasyMC**](https://easymc.io/) - Minecraft Token Dispensers, they need an external app for the "Accounts" to work, not recommended. 
 
 # Paid Content Leaks
 
