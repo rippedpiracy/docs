@@ -103,4 +103,4 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 
 > &nbsp;
 
-> **Mirrors: DONT FORGET ABOUT THISSISSI**
+> **Mirrors:** The same thing as a DDL, but hosted on another server (usually to alleviate bandwidth issues). For example, a file might be hosted on a US server but also mirrored on servers in Asia and Europe
