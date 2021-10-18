@@ -7,7 +7,7 @@ description: Sources for Leaks, Account Generators and more.
 
 # Accounts  
 
-[**h-gen.to**](https://h-gen.to) - Account Dispenser with varying categories of Accounts, mostly reliable. 
+[**H-Gen**](https://h-gen.to) - Account Dispenser with varying categories of Accounts, mostly reliable. 
 
 [**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Pastebins, browse it using an [AdBlocker](https://ublockorigin.com/).  
 
@@ -16,7 +16,7 @@ description: Sources for Leaks, Account Generators and more.
 
 [**s1ck.pw**](https://s1ck.pw/dispenser.php) - No-Hassles Dispenser, gives out many different Accounts as soon as you visit the page.  
 
-[**cathook.club**](https://accgen.cathook.club/) - Actual Generator for Steam Accounts, creates a Steam Alt with no Paid Games included, mostly used for cheating.  
+[**Steam Account Generator**](https://accgen.cathook.club/) - Actual Generator for Steam Accounts, creates a Steam Alt with no Paid Games included, mostly used for cheating.  
 
 [**thealtening.com**](https://thealtening.com/free/free-minecraft-alts) - Minecraft Token Dispenser, needs an external app for the accounts to work, not reccomended. 
 
@@ -24,6 +24,7 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Kemono**](https://kemono.party/) - The successor to yiff.party, has Leaks for sites like Patreon and more which are user-submitted with an automated process.  
 
-[**Leak.to 18+**](https://leak.to/forum/24-18/) | [**Crackx Porn**](https://crackx.to/Forum-Porn) | [**Nulled ThotHub**](https://www.nulled.to/forum/223-thothub/) | [**Cracked Porn**](https://cracked.to/Forum-Porn) - More 18+ categories for the Forums listed above, OnlyFans and Paid Porn sites mostly.
+[**Leak.to 18+**](https://leak.to/forum/24-18/) | [**Crackx Porn**](https://crackx.to/Forum-Porn) | [**Nulled ThotHub**](https://www.nulled.to/forum/223-thothub/) | [**Cracked.to Porn**](https://cracked.to/Forum-Porn) - More 18+ categories for the Forums listed above, OnlyFans and Paid Porn sites mostly.
 
-[**PornLeaks**](https://pornleaks.in/) - Site dedicated to posting Leaks of Pornstars. **_Use an AdBlocker._**
+[**PornLeaks**](https://pornleaks.in/) - Site dedicated to posting Leaks of Pornstars.  
+**_Use an AdBlocker._**
