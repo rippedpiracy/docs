@@ -5,9 +5,11 @@ description: Comprehensive list of sites for downloading and streaming anime.
 
 # Streaming
 We *could* add a huge list of Anime Streaming sites, but its better off to make **you** choose the one **you** need using:  
-[**The Anime Index**](https://piracy.moe), a **_HUGE_** list of sites, categorized in Languages, Sub/Dubs and more.
+[**The Anime Index**](https://piracy.moe), a **HUGE** list of sites, categorized in Languages, Sub/Dubs and more.
 
 # Downloads
+
+**[The Anime Index](https://piracy.moe/) (DDL / Torrent)** - This site also has Download sites/apps for Anime/**_Hentai_**/Manga and more.
 
 **[Nyaa](https://nyaa.si/) (Torrent)** - The Best Public Tracker to get Anime from, old Releases may not be seeded very well.
 
@@ -15,9 +17,7 @@ We *could* add a huge list of Anime Streaming sites, but its better off to make 
 
 **[AniDex](https://anidex.info/) (Torrent)** - Alternative Tracker to get Anime from, A Few Releasers post exclusively here.
 
-**[Tokyo Toshokan](https://www.tokyotosho.info/?cat=1) (Torrent)** - A Library for every type of Japanese Media, shared with Torrents.
-
-**[The Anime Index](https://piracy.moe/), again (DDL / Torrent)** - Has a huge list of Downloading sites for Anime/**_Hentai_**/Manga and more.  
+**[Tokyo Toshokan](https://www.tokyotosho.info/?cat=1) (Torrent)** - A Library for every type of Japanese Media, shared with Torrents.  
 
 [**Nibl Bots**](https://nibl.co.uk/bots) | [**AniMK**](https://animk.info/xdcc/) **(XDCC)** - Sites indexing IRC Bots where you can Download from using IRC Clients.   
 <sub>Check the [AnimePiracy Wiki](https://wiki.piracy.moe/en/tutorials/irc) for a detailed guide into XDCC.</sub>
