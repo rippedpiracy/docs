@@ -86,8 +86,6 @@ description: Tools and Apps to make your life easier.
 
 [**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
-[**AutoRuns**](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - See what programs are configured to startup automatically when your system boots and you login.
-
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
 [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
