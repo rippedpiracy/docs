@@ -18,7 +18,7 @@ A very safe site to get Games from, mostly Scene Releases which they have Auto U
 
 **[RuTor](http://rutor.info) (Torrent)**
 
-An old Russian site that has plenty of content but with generally less seeders.  
+An old Russian tracker that has plenty of content but with generally less seeders. Some Repackers upload exclusively here.  
 **_NOTE: Only get Games from R.G. Mechanics, Chovka, XATAB and FitGirl_**.
 
 ## Repackers
@@ -43,7 +43,7 @@ One of the oldest and most respected Repacker that passed away recently. His sit
 
 **[Ova Games](https://ovagames.com) (DDL)**
 
-A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. They rarely include Torrent links. Takes requests too.
+A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. They rarely include Torrent links. They take requests.
 
 **[CrackHub](https://crackhub.site) (DDL)**
 
@@ -51,7 +51,7 @@ Another site that mainly focuses on re-uploading to different hosts, they take r
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
-Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various hosts. They take requests.
+Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various hosts. They also take requests.
 
 ## Forums
 
