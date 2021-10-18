@@ -48,3 +48,7 @@ contributors: (omit this line if empty)
 ## Discord
 
 [![Discord Server](https://discordapp.com/api/guilds/702220357834244248/embed.png?style=banner2)](https://discord.gg/6qVr2aR)
+
+## Contributors
+
+{{ github.contributors }}
