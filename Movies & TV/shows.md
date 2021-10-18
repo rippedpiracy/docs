@@ -32,6 +32,9 @@ Clients for Streaming in general with an intuitive design, they both allow Strea
 Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
 Quality can vary from Release to another, always check file sizes and Torrent names.  
 
+**[RARBG](https://rarbg.to) (Torrent)**
+Organized tracker with their own release group. Usually has very high quality releases. *Tip: search by IMDB tags*
+
 **[Zooqle](https://zooqle.com/) (Torrent)**  
 TV Shows & Movie Torrents, each with a list with different Quality Releases.
 
