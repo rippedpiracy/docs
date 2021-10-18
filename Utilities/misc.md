@@ -19,7 +19,8 @@ description: Tools and Apps to make your life easier.
 
 [**Dark Reader**](https://github.com/darkreader/darkreader) - Dark/Light mode for all websites. **_May slow down page load times._**
 
-[**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. **_Difficult to setup for the Average User._**
+[**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
+**_Difficult to setup for the Average User._**
 
 [**SponsorBlock**](https://github.com/ajayyy/SponsorBlock) - Skip YouTube Sponsorships & Shoutouts.
 
@@ -62,7 +63,7 @@ description: Tools and Apps to make your life easier.
 
 [**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses count-downs. 
 
-[**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) -   Shortlink Bypasser, bypassess some sites other tools can't bypass.
+[**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.
 
 [**SiteScrubber**](https://github.com/PrimePlaya24/dl-site-scrubber) - Skip certain Timers or Ads and remove clutter that make it harder to download from certain DDL sites.
 
