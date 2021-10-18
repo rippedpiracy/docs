@@ -103,4 +103,4 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 
 > &nbsp;
 
-> **Mirrors:** The same thing as a DDL, but hosted on another server (usually to alleviate bandwidth issues). For example, a file might be hosted on a US server but also mirrored on servers in Asia and Europe
+> **Mirrors:** An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another mirror
