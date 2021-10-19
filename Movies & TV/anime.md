@@ -9,9 +9,9 @@ We *could* add a huge list of Anime Streaming sites, but its better off to make 
 
 # Downloads
 
-**[The Anime Index](https://piracy.moe/) (DDL / Torrent)** - This site also has Download sites/apps for Anime/**_Hentai_**/Manga and more.
+**[Nyaa](https://nyaa.si/) (Torrent)** - The Best Public Tracker to get Anime from.
 
-**[Nyaa](https://nyaa.si/) (Torrent)** - The Best Public Tracker to get Anime from, old Releases may not be seeded very well.
+**[The Anime Index](https://piracy.moe/) (DDL / Torrent)** - This site also has Download sites/apps for Anime/**_Hentai_**/Manga and more.
 
 **[AnimeTosho](https://animetosho.org) (Torrent)** - Collates Releases from Public Trackers, and has DDL links for file attachments (Subtitles, Fonts, Chapters, Tags).
 
