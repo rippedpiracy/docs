@@ -5,7 +5,7 @@ no_show_title: true
 no_show_footer: true
 ---
 
-![](https://i.imgur.com/h3WqLFs.png)
+![](/img/ripped_banner.png)
 
 # Welcome to the Official Ripped Website!
 
