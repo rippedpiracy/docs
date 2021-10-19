@@ -6,8 +6,9 @@ Everything in the Ripped Website, mirrored here for Suggestions and Improvements
 
 # How to Contribute?
 
-Simply make an Issue with a brief description of your Suggestion,  
+Simply make an Issue with a brief description of your Suggestion  
   
 _or_
 
 Make a Pull Request with the modified/added Content.
+
