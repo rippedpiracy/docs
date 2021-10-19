@@ -26,3 +26,11 @@ jobs:
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
         run: |
           ./.github/workflows/scripts/fill_ids.sh contributors.txt
+      - name: Setup Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit & Push
+        run: |
+            git commit -am "Update user IDs"
+            git push
