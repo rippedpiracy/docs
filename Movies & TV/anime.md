@@ -40,4 +40,4 @@ We *could* add a huge list of Anime Streaming sites, but its better off to make 
 
 [**Senpai.moe**](https://www.senpai.moe/) | [**Monthly**](https://www.monthly.moe/) - Calender for upcoming Official Anime Releases.
 
-[**because.moe**](https://because.moe/) - Search engine to find streaming services that offer the Anime you search for. **Accurate up to May 27, 2020**.
+[**BECAUSE.MOE**](https://because.moe/) - Search engine to find streaming services that offer the Anime you search for. **Accurate up to May 27, 2020**.
