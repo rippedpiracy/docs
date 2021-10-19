@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Home
 description: Welcome to Ripped!
 no_show_title: true
 no_show_footer: true
