@@ -97,6 +97,8 @@ description: Tools and Apps to make your life easier.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
 
+[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) - Preservation project for Adobe Flash Games. With it, you can play your childhood's Games, again. Use Flashpoint Infinity for general use and messing around.
+
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
