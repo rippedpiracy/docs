@@ -1,23 +1,24 @@
 ---
 title: Anime
-description: Comprehensive list of sites for downloading and streaming anime.
+description: Comprehensive list of sites for downloading and streaming Anime.
 ---
 
 # Streaming
-We *could* add a huge list of anime streaming sites, but it's better for **you** to choose the one **you** need using:
-[**The Anime Index**](https://piracy.moe), a **_HUGE_** list of sites, categorized in Languages, Sub/Dubs and more.
+
+We *could* add a huge list of Anime Streaming sites, but its better off to make **you** choose the one **you** need using:  
+[**The Anime Index**](https://piracy.moe), a **HUGE** list of sites, categorized in Languages, Sub/Dubs and more.
 
 # Downloads
 
-**[Nyaa](https://nyaa.si/) (Torrent)** - The best public tracker to get anime from, old releases may not be seeded very well.
+**[Nyaa](https://nyaa.si/) (Torrent)** - The best public Tracker to get anime from.
+
+**[The Anime Index](https://piracy.moe/) (DDL / Torrent)** - This site also has download sites/apps for Anime/**_Hentai_**/Manga and more.
 
 **[AnimeTosho](https://animetosho.org) (Torrent)** - Collates releases from public trackers, and has DDL links for file attachments (subtitles, fonts, chapters, tags).
 
 **[AniDex](https://anidex.info/) (Torrent)** - Alternative tracker to get anime from, a few releasers post exclusively here.
 
-**[Tokyo Toshokan](https://www.tokyotosho.info/?cat=1) (Torrent)** - A library for every type of Japanese media, shared with torrents.
-
-**[The Anime Index](https://piracy.moe/), again (DDL / Torrent)** - Has a huge list of downloading sites for anime/**_hentai_**/manga and more.  
+**[Tokyo Toshokan](https://www.tokyotosho.info/?cat=1) (Torrent)** - A library for every type of Japanese Media, shared with torrents.  
 
 [**Nibl Bots**](https://nibl.co.uk/bots) | [**AniMK**](https://animk.info/xdcc/) **(XDCC)** - Sites indexing IRC bots where you can download from using IRC clients.   
 <sub>Check the [AnimePiracy Wiki](https://wiki.piracy.moe/en/tutorials/irc) for a detailed guide into XDCC.</sub>
@@ -36,8 +37,8 @@ We *could* add a huge list of anime streaming sites, but it's better for **you**
 
 [**The Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engine for anime.
 
-[**Taiga**](https://github.com/erengy/taiga)(Windows) & [**Trackma**](https://github.com/z411/trackma/)(Linux) - Automatically detects the anime videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more. **A must have for weebs.**
+[**Taiga**](https://github.com/erengy/taiga) (Windows) | [**Trackma**](https://github.com/z411/trackma/) (Linux) - Automatically detects the anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more. **A must have for weebs.**
 
-[](https://www.senpai.moe/) (https://www.monthly.moe/)
+[**Senpai.moe**](https://www.senpai.moe/) | [**Monthly**](https://www.monthly.moe/) - Calender for upcoming Official Anime Releases.
 
 [**BECAUSE.MOE**](https://because.moe/) - Search engine to find streaming services that offer the anime you search for. **Accurate up to May 27, 2020**.

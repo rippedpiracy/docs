@@ -19,8 +19,8 @@ A very safe site to get games from, mostly scene releases which they have auto-u
 
 **[RuTor](http://rutor.info) (Torrent)**
 
-An old Russian site that has plenty of content but with generally less seeders.  
-**_NOTE: Only get games from R.G. Mechanics, Chovka, XATAB, and FitGirl_**.
+An old russian tracker that has plenty of content but with generally less seeders. Some Repackers upload exclusively here.  
+**_NOTE: Only get games from R.G. Mechanics, Chovka, XATAB and FitGirl_**.
 
 ## Repackers
 
@@ -44,7 +44,7 @@ One of the oldest and most respected repacker that passed away recently. His sit
 
 **[Ova Games](https://ovagames.com) (DDL)**
 
-A site which focuses on re-uploading repacks, P2P cracks, scene releases and GOG rips to various hosts. They rarely include Torrent links. Takes requests too.
+A site which focuses on re-uploading Repacks, P2P cracks, scene releases and GOG rips to various hosts. They rarely include Torrent links. They take requests.
 
 **[CrackHub](https://crackhub.site) (DDL)**
 
@@ -52,7 +52,7 @@ Another site that mainly focuses on re-uploading to different hosts. They take r
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
-Another site that re-uploads repacks, P2P cracks and scene releases to various hosts. They take requests.
+Another site that re-uploads repacks, P2P cracks and scene releases to various hosts. They also take requests.
 
 ## Forums
 
@@ -97,4 +97,4 @@ Has many different **_uncensored_** and **_lewd_** patches for games, which can 
 >
 > **Repacks:** Highly compressed games that usually include all released DLCs, language packs, are pre-cracked and require minimal piracy knowledge. Good for beginners and people who have limited internet bandwidth.
 >
-> **Mirrors: DONT FORGET ABOUT THISSISSI**
+> **Mirrors:** An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another mirror
