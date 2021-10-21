@@ -89,6 +89,25 @@ Both are good sources for popular Visual Novels and Japanese Games while the lat
 **[Lewd Patcher](https://lewdpatcher.com) (DDL)**
 
 Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
+
+# Tools
+
+[**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tool that can unlock all DLCs on legitimately owned Steam Games.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**creamapi-db**](https://creamapidb.tech/) - A database site that generates CreamAPI configuration files quickly.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Auto-CreamAPI 2**](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
+
+[**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.
+[**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.
+[**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.
+
+[**Golderberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) - A Steam Emulator which can bypass the basic Steam DRM. It also allows playing some Multiplayer Games on LAN with other friends and unlock DLCs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**GoldbergGUI**](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.
+
+[**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games and more.
+
+<sub>Check out the Release Board of [CS.RIN.RU](https://cs.rin.ru/forum/viewforum.php?f=29) and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</sub>
+
+[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) - Preservation project for Adobe Flash Games. With it, you can play your childhood's Games, again. Use Flashpoint Infinity for general use and messing around.
  
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
