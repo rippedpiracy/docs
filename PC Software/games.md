@@ -93,15 +93,18 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 # Tools
 
 [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tool that can unlock all DLCs on legitimately owned Steam Games.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**creamapi-db**](https://creamapidb.tech/) - A database site that generates CreamAPI configuration files quickly.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Auto-CreamAPI 2**](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.tech/) - A database site that generates CreamAPI configuration files quickly.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
 
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
 [**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games. (has support for Mac)  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.  
 
-[**Golderberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) - A Steam Emulator which can bypass the basic Steam DRM. It also allows playing some Multiplayer Games on LAN with other friends and unlock DLCs.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**GoldbergGUI**](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.
+ -   
+[**Golderberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu SSE**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.
+[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.
+[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
 
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games and more.
 
