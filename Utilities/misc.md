@@ -19,38 +19,32 @@ description: Tools and Apps to make your life easier.
 
 [**Dark Reader**](https://github.com/darkreader/darkreader) - Dark/Light mode for all websites. **_May slow down page load times._**
 
+[**ClearURLs**](https://github.com/ClearURLs/Addon) - Remove Tracking elements from URLs.
+
 [**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
 **_Difficult to setup for the Average User._**
+[**HTTPS Everywhere**](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+[**Decentraleyes**](https://git.synz.io/Synzvato/decentraleyes) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.
+[**Disconnect**](https://github.com/disconnectme/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
 
 [**SponsorBlock**](https://github.com/ajayyy/SponsorBlock) - Skip YouTube Sponsorships & Shoutouts.
-
-[**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.
-
-[**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
-
-[**ClearURLs**](https://github.com/ClearURLs/Addon) - Remove Tracking elements from URLs.
 
 [**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually or Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
+[**Download All Images**](https://github.com/belaviyo/save-images) - Download all Images from any web page you're on.
 
 [**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
-[**HTTPS Everywhere**](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-
-[**Decentraleyes**](https://git.synz.io/Synzvato/decentraleyes) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.
-
-[**Download All Images**](https://github.com/belaviyo/save-images) - Download all Images from any web page you're on.
+[**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.
+[**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
 
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
 
 [**ToS;DR**](https://github.com/tosdr/browser-extensions) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements.
 
 [**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.
-
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
-
-[**Disconnect**](https://github.com/disconnectme/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
 
 [**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
 
@@ -80,13 +74,12 @@ description: Tools and Apps to make your life easier.
 
 [**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).
 
+[**pe-studio**](https://www.winitor.com/) - Helps you check for Malware in apps.
+
 [**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
-[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
-
-[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
-
-[**pe-studio**](https://www.winitor.com/) - Helps you check for Malware in apps.
+[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
+[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
 
@@ -97,11 +90,11 @@ description: Tools and Apps to make your life easier.
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) | [**XDM**](https://github.com/subhra74/xdm) - Download Managers that can boost download speeds. Motrix and FDM support Torrenting, while JDownloader2 is best for downloading multiple files simultaneously.  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - An advanced Media Downloader, it captures Download packets by intercepting your traffic with the site.
 
+[**video_decrypter**](https://github.com/CrackerCat/video_decrypter) - Decrypt Video from Streaming sites that have MPEG-DASH Widevine DRM encryption.
+
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. **_ZeroTier can be difficult to setup._**
 
-[**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images.
-
-[**video_decrypter**](https://github.com/CrackerCat/video_decrypter) - Decrypt Video from Streaming sites that have MPEG-DASH Widevine DRM encryption. 
+[**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
 
 [**1337x Discord Bot**](https://github.com/brandongallagher1999/1337x-Bot) - 1337x Discord Bot. Deployed on Azure, and used by over 15,000 people daily.
 
@@ -111,6 +104,8 @@ description: Tools and Apps to make your life easier.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
+[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/)'s Website, has good information about various security and privacy tools.
+
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
 
 [**Outline**](https://outline.com/) - Removes clutter from News Articles.
@@ -118,8 +113,6 @@ description: Tools and Apps to make your life easier.
 [**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
-
-[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/)'s Website, has good information about various security and privacy tools.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
