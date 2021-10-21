@@ -79,6 +79,8 @@ description: Tools and Apps to make your life easier.
 
 # Useful Apps
 
+[**1337x Discord Bot**](https://github.com/brandongallagher1999/1337x-Bot) - 1337x Discord Bot. Deployed on Azure, and used by over 15,000 people daily.
+
 [**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites.  
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. **_ZeroTier can be difficult to setup._**
