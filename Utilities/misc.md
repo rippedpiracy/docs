@@ -72,8 +72,7 @@ description: Tools and Apps to make your life easier.
 
 [**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites.  
 
-[**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).
-
+[**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).   
 [**pe-studio**](https://www.winitor.com/) - Helps you check for Malware in apps.
 
 [**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
@@ -85,10 +84,9 @@ description: Tools and Apps to make your life easier.
 
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
-[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
-
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) | [**XDM**](https://github.com/subhra74/xdm) - Download Managers that can boost download speeds. Motrix and FDM support Torrenting, while JDownloader2 is best for downloading multiple files simultaneously.  
-[**TubeDigger**](https://www.tubedigger.com/index.html) - An advanced Media Downloader, it captures Download packets by intercepting your traffic with the site.
+[**TubeDigger**](https://www.tubedigger.com/index.html) - An advanced Media Downloader, it captures packets by intercepting your traffic with the site.  
+[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 
 [**video_decrypter**](https://github.com/CrackerCat/video_decrypter) - Decrypt Video from Streaming sites that have MPEG-DASH Widevine DRM encryption.
 
