@@ -97,7 +97,7 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Auto-CreamAPI 2**](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
 
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
-[**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
+[**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games. (has support for Mac)  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.  
 
 [**Golderberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) - A Steam Emulator which can bypass the basic Steam DRM. It also allows playing some Multiplayer Games on LAN with other friends and unlock DLCs.  
@@ -114,7 +114,6 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 > &nbsp;
   
 > **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down. We recommend using [qBittorrent](https://www.qbittorrent.org/) as a BitTorrent client.   
-
 
 > &nbsp;
 
