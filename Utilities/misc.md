@@ -22,9 +22,9 @@ description: Tools and Apps to make your life easier.
 [**ClearURLs**](https://github.com/ClearURLs/Addon) - Remove Tracking elements from URLs.
 
 [**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
-**_Difficult to setup for the Average User._**
-[**HTTPS Everywhere**](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-[**Decentraleyes**](https://git.synz.io/Synzvato/decentraleyes) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.
+**_Difficult to setup for the Average User._**  
+[**HTTPS Everywhere**](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.  
+[**Decentraleyes**](https://git.synz.io/Synzvato/decentraleyes) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.  
 [**Disconnect**](https://github.com/disconnectme/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
 
 [**SponsorBlock**](https://github.com/ajayyy/SponsorBlock) - Skip YouTube Sponsorships & Shoutouts.
@@ -36,14 +36,14 @@ description: Tools and Apps to make your life easier.
 
 [**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
-[**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.
+[**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 [**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
 
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
 
 [**ToS;DR**](https://github.com/tosdr/browser-extensions) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements.
 
-[**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.
+[**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
 [**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
@@ -78,7 +78,7 @@ description: Tools and Apps to make your life easier.
 
 [**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
-[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
+[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
