@@ -120,15 +120,15 @@ description: Tools and Apps to make your life easier.
 
 # Informational
 
-[**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://vpn.reddit.com)'s Google Spreadsheet that compares various popular VPNs
+[**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://vpn.reddit.com)'s Google Spreadsheet that compares various popular VPNs, ranking the best ones for your needs.
 
 [**Spyware Neocities**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
-[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various security and privacy tools.
+[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various Security and Privacy Tools.
 
-[**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s techsupport wiki that has some useful guides.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://redd.it/33evdi) - Guide to remove Malware.
+[**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s tech support wiki that has some useful Guides.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://redd.it/33evdi) - Guide to help you remove Malware.
 
-[**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many video/audio and general Media ripping/recording/encoding tools, the site also has a [Guides](https://www.videohelp.com/guides) section that has many guides for various uses of these tools.
+[**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and general Media Ripping/Recording/Encoding tools, a [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on how to use these Tools.
