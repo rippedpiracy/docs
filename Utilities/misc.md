@@ -116,7 +116,7 @@ description: Tools and Apps to make your life easier.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
-# Guides
+# Informational
 
 [**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://vpn.reddit.com)'s Google Spreadsheet that compares various popular VPNs
 
@@ -125,5 +125,8 @@ description: Tools and Apps to make your life easier.
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various security and privacy tools.
+
+[**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s techsupport wiki that has some useful guides.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://redd.it/33evdi) - Guide to remove Malware.
 
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many video/audio and general Media ripping/recording/encoding tools, the site also has a [Guides](https://www.videohelp.com/guides) section that has many guides for various uses of these tools.
