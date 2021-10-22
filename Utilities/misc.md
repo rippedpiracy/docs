@@ -81,7 +81,7 @@ description: Tools and Apps to make your life easier.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
 
-[**hashcat**](https://github.com/hashcat/hashcat) - Advanced Password recovery and cracking utility.
+[**hashcat**](https://github.com/hashcat/hashcat) - An advanced Password recovery and Cracking utility.
 
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
@@ -95,6 +95,8 @@ description: Tools and Apps to make your life easier.
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
 [**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
+
+[**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.
 
 [**1337x Discord Bot**](https://github.com/brandongallagher1999/1337x-Bot) - 1337x Discord Bot. Deployed on Azure, and used by over 15,000 people daily.
 
