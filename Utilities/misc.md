@@ -122,7 +122,7 @@ description: Tools and Apps to make your life easier.
 
 [**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://vpn.reddit.com)'s Google Spreadsheet that compares various popular VPNs, ranking the best ones for your needs.
 
-[**Spyware Neocities**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
+[**Spyware Watchdog**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
