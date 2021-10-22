@@ -118,10 +118,12 @@ description: Tools and Apps to make your life easier.
 
 # Guides
 
+[**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://vpn.reddit.com)'s Google Spreadsheet that compares various popular VPNs
+
 [**Spyware Neocities**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
-[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/)'s Website, has good information about various security and privacy tools.
+[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various security and privacy tools.
 
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many video/audio and general Media ripping/recording/encoding tools, the site also has a [Guides](https://www.videohelp.com/guides) section that has many guides for various uses of these tools.
