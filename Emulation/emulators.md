@@ -2,7 +2,7 @@
 title: Emulators
 description: Comprehensive list of Emulators.
 ---
-<sub>Check out the [/emugen/](https://emulation.gametechwiki.com/) Wiki for more info about emulators.</sub>
+<sub>Check out the [/emugen/ wiki](https://emulation.gametechwiki.com/) for more info about emulators.</sub>
 &nbsp;
 # Atari
 
