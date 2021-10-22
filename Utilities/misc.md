@@ -81,6 +81,8 @@ description: Tools and Apps to make your life easier.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
 
+[**hashcat**](https://github.com/hashcat/hashcat) - Advanced Password recovery and cracking utility.
+
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) | [**XDM**](https://github.com/subhra74/xdm) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, while JDownloader2 is best for downloading multiple files simultaneously.  
@@ -98,20 +100,28 @@ description: Tools and Apps to make your life easier.
 
 # Useful Websites
 
+[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
+
+[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
+
+[**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the browser and the ability to create hidden bookmarks without a browser extension
+
+[**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
+
+[**Outline**](https://outline.com/) - Removes clutter from News Articles.
+
+[**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL
+
+[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.
+
+[**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
+
+# Guides
+
 [**Spyware Neocities**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://www.reddit.com/r/PrivacyGuides/)'s Website, has good information about various security and privacy tools.
 
-[**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
-
-[**Outline**](https://outline.com/) - Removes clutter from News Articles.
-
-[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.
-
-[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
-
-[**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
-
-[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
+[**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many video/audio and general Media ripping/recording/encoding tools, the site also has a [Guides](https://www.videohelp.com/guides) section that has many guides for various uses of these tools.
