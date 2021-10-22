@@ -131,4 +131,4 @@ description: Tools and Apps to make your life easier.
 [**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s tech support wiki that has some useful Guides.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://redd.it/33evdi) - Guide to help you remove Malware.
 
-[**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and general Media Ripping/Recording/Encoding tools, a [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on how to use these Tools.
+[**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and Media Ripping/Recording/Encoding tools, a [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on how to use these Tools.
