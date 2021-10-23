@@ -4,7 +4,7 @@ description: List of sites that host ROMs.
 ---
 
 *Tip: Use an AdBlocker while browsing all of these sites!*  
-<sub>*psst. go to the misc page to pimp up your download experience.*</sub>
+<sub>*Note: Many of the tools on the [misc](https://ripped.guide/Utilities/misc/) page can be used to improve your downloading experience.*</sub>
 
 **[ROMSPURE](https://romspure.cc/roms) (DDL)**
 
@@ -51,7 +51,7 @@ This site is a pretty nice source for 3DS CIA Games, if you're a bit rusty in Sp
 
 You can easily Download 3DS Games by scanning a QR code with the [FBI](https://gbatemp.net/threads/release-fbi-open-source-cia-installer.386433/) app.
 
-<sub>Installing via QR code on the 3DS may be quite slow as the device does not have a great network chip.</sub>
+<sub>Note: Installing via QR code on the 3DS may be quite slow as the device does not have a great network chip.</sub>
 
 
 **[nsw2u](https://nsw2u.xyz/) (DDL)**
