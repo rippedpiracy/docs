@@ -318,7 +318,11 @@ Groups of people who pirate and release software, music and movies.
 
 Entity or Group which makes Repacks and releases them.
 
-**Repack**
+**Repack[1]**
+
+When a Scene Group releases a fixed version of one of their older releases.
+
+**Repack[2]**
 
 A Scene Release compressed to the lightest possible, has to be installed when downloaded. 
 
