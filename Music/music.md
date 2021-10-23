@@ -27,4 +27,4 @@ description: List of sources for music.
 
 > &nbsp;
 
-> Dōjin music (同人音楽): Music, Fan-Arranges, Videogame Arranges, Original Works, Touhou Works
+> Dōjin music (同人音楽): Music, Fan-Arranges, Videogame Arranges, Original Works, Touhou Works etc.
