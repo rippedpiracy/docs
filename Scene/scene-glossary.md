@@ -314,10 +314,6 @@ Original releases are rips of movies, programs, games and music, all released by
 
 Groups of people who pirate and release software, music and movies.  
 
-**Remastered**
-
-(Digitally) remastered means that an older not-digital movie has been re-editted, remastered and is released on DVD.  
-
 **Repacker**
 
 Entity or Group which makes Repacks and releases them.
@@ -409,10 +405,6 @@ Especially PSP releases, but also other console releases, are sometimes tagged a
 **Warez**
 
 Illegally pirated software, movies or music.  
-
-**Watermark**
-
-A watermark is a small tag generally in one of the corners of a movie. A lot of Asian Silvers / PDVDs and are tagged by the people responsible. This is usually a letter, initials or a little logo. Most famous are the "Z" "A" and "Globe" watermarks.  
 
 **XDCC**
 
