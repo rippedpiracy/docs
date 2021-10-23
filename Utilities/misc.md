@@ -9,6 +9,7 @@ description: Tools and Apps to make your life easier.
 &nbsp;  
   
 [**FastForward**](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance, FastForward circumvents link shorteners (Actively maintained [Universal-Bypass](https://github.com/Sainan/Universal-Bypass) fork).
+<sub>Note: Universal-Bypass should no longer be used as it is not maintained.</sub>
 
 [**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking Pop-ups and Anti-AdBlocks.</sub>  
@@ -118,6 +119,7 @@ description: Tools and Apps to make your life easier.
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL
 
 [**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.
+<sub>Note: Use an adblocker as there can be a fair amount of pop-upas and intrusive ads.</sub>
 
 # Informational
 
