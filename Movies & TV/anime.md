@@ -20,7 +20,7 @@ We *could* add a huge list of Anime Streaming sites, but its better off to make 
 **[Tokyo Toshokan](https://www.tokyotosho.info/?cat=1) (Torrent)** - A Library for every type of Japanese Media, shared with Torrents.  
 
 [**Nibl Bots**](https://nibl.co.uk/bots) | [**AniMK**](https://animk.info/xdcc/) **(XDCC)** - Sites indexing IRC Bots where you can Download from using IRC Clients.   
-<sub>Check the [AnimePiracy Wiki](https://wiki.piracy.moe/en/tutorials/irc) for a detailed guide into XDCC.</sub>
+<sub>Note: Check the [AnimePiracy Wiki](https://wiki.piracy.moe/en/tutorials/irc) for a detailed guide into XDCC.</sub>
 
 # Release Indexes
 
