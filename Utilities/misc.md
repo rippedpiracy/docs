@@ -92,9 +92,11 @@ description: Tools and Apps to make your life easier.
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 
-[**video_decrypter**](https://github.com/CrackerCat/video_decrypter) - Decrypt Video from Streaming sites that have MPEG-DASH Widevine DRM encryption.
+[**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
+
+[**video_decrypter**](https://github.com/CrackerCat/video_decrypter) - Decrypt Video from Streaming sites that have MPEG-DASH Widevine DRM encryption.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
