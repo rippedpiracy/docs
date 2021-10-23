@@ -128,7 +128,7 @@ description: Tools and Apps to make your life easier.
 
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various Security and Privacy Tools.
 
-[**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s tech support wiki that has some useful Guides.  
+[**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s Tech Support Wiki that has some useful Guides.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://redd.it/33evdi) - Guide to help you remove Malware.
 
-[**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and Media Ripping/Recording/Encoding tools, a [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on how to use these Tools.
+[**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and other Media Ripping/Recording/Encoding tools, a [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.
