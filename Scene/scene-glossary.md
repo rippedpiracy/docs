@@ -189,10 +189,6 @@ iND stands for Independent. iND is not a real group, just term to categorize use
 
 A release is done internal when it's released for a limited amount of people. Nowadays it's mostly used when a release is already done by another group. By adding the internal tag, the release won't be nuked.  
 
-**IP**
-
-Each machine connected to the Internet has an unique address known as an Internet Protocol address (IP address). The IP address takes the form of four numbers separated by dots, for example  123.45.67.890.  
-
 **IRC**
 
 IRC stands for Internet Relay Chat. IRC is a massive network of text-based chat channels and users from all across the world.  
@@ -217,9 +213,6 @@ The act of leaking ftp login info to other people.
 
 Downloading a lot without uploading.  
 
-**Leetspeak**
-
-Leetspeak (1337) is a digital language used by gamers but it's also in the scene.  
 
 **Mount**
 
@@ -261,10 +254,6 @@ FTP servers that unofficially host Scene releases. They work as Pay-to-Leech (P2
 
 Sharing and delivery system where users who are logged are able to download files from eachother.  
 
-**Piracy**
-
-The unauthorised duplication and/or use and distribution of a software program, music, movies etc.  
-
 **PPF**
 
 A .ppf file is a patch file, used to fix bad cd/dvd's.  
@@ -292,14 +281,6 @@ A gateway through which users can connect to the Internet. Advantage of proxy is
 **Proper**
 
 Due to scene rules, whoever releases a certain release the first, has won that race. For example, when a group releases the CAM version of Titanic the first. If there is something "wrong" with the release (poor quality, out-of-sync, audio errors etc.) and another group has a better/correct version, it can release it and add PROPER to the release title to avoid being nuked. However, the source must be the same as the original release. For example  A poor quality CAM release by group A and group B releases their CAM release PROPER. A Telesync release doesn't PROPER a CAM release, because the source is different. PROPER is the most subjective tag in the scene, and a lot of people will generally argue whether the PROPER is better than the original release. The reason for the PROPER should always be mentioned in the NFO. When a group 'propers' a PROPER it is tagged as REAL.PROPER.  
-
-**PS2**
-
-A Playstation 2 game released to CD.  
-
-**PS2DVD**
-
-A Playstation 2 game released to DVD.  
 
 **PSXPSP**
 
@@ -341,11 +322,7 @@ Groups of people who pirate and release software, music and movies.
 
 Entity or Group which makes Repacks and releases them.
 
-**Repack[1]**
-
-When a Scene Group releases a fixed version of one of their older releases after it gets nuked for whatever reason.
-
-**Repack[2]**
+**Repack**
 
 A Scene Release compressed to the lightest possible, has to be installed when downloaded. 
 
