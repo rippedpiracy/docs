@@ -136,3 +136,5 @@ description: Tools and Apps to make your life easier.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://redd.it/33evdi) - Guide to help you remove Malware.
 
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and other Media Ripping/Recording/Encoding tools, a [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.
+
+[**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) | [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
