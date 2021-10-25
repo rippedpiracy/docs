@@ -13,20 +13,22 @@ As listed in the [**Scene Glossary**](https://ripped.guide/Scene/scene-glossary/
 
 > With commands one is able to 'check' a release.
 
-That said, here's some Pre-Database sites to check for releases.
-
-**[PreDB.live](https://predb.live/)** |
-**[PreDB.org](https://www.predb.org/)** |
-**[PreDB.de](https://predb.de/)** |
-**[PreDB.ovh](https://predb.ovh/)** |
-**[PreDB.me](https://predb.me/)** |
-**[xREL](https://www.xrel.to/releases.html#)**|
-**[Pre.Corrupt-Net](https://pre.corrupt-net.org/)**
-## Public Pre IRC Channels
-- irc://irc.zenet.org/Pre
-- irc://irc.corrupt-net.org/Pre
-- irc://irc.c-burns.co.uk:9000/Pre
-
+## PreDB Sites
+- **[xREL](https://www.xrel.to/releases.html#)** 
+- **[PreDB.live](https://predb.live/)**
+- **[PreDB.org](https://www.predb.org/)**  
+- **[PreDB.de](https://predb.de/)**  
+- **[PreDB.ovh](https://predb.ovh/)**  
+- **[PreDB.me](https://predb.me/)**   
+- **[Pre.Corrupt-net](https://pre.corrupt-net.org/)**
+&nbsp;  
+&nbsp;
+## Pre IRC Channels  
+- **[zenet.org/Pre](irc://irc.zenet.org/Pre)**
+- **[corrupt-net.org/Pre](irc://irc.corrupt-net.org/Pre)**
+- **[c-burns.co.uk:9000/Pre](irc://irc.c-burns.co.uk:9000/Pre)**
+&nbsp;  
+&nbsp;
 ## Honorable Mention
 **[CrackWatch](https://crackwatch.com/)**
 
