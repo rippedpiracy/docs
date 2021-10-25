@@ -20,7 +20,12 @@ That said, here's some Pre-Database sites to check for releases.
 **[PreDB.de](https://predb.de/)** |
 **[PreDB.ovh](https://predb.ovh/)** |
 **[PreDB.me](https://predb.me/)** |
-**[xREL](https://www.xrel.to/releases.html#)**
+**[xREL](https://www.xrel.to/releases.html#)**|
+**[Pre.Corrupt-Net](https://pre.corrupt-net.org/)**
+## Public Pre IRC Channels
+- irc://irc.zenet.org/Pre
+- irc://irc.corrupt-net.org/Pre
+- irc://irc.c-burns.co.uk:9000/Pre
 
 ## Honorable Mention
 **[CrackWatch](https://crackwatch.com/)**
