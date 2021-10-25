@@ -130,7 +130,7 @@ description: Tools and Apps to make your life easier.
 
 [**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://vpn.reddit.com)'s Google Spreadsheet that compares various popular VPNs, ranking the best ones for your needs.  
 
-[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various Security and Privacy Tools.
+[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various Security and Privacy Tools.  
 [**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://privacy.reddit.com).
 
 [**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s Wiki that has some useful Tech Guides.  
