@@ -50,7 +50,7 @@ description: Tools and Apps to make your life easier.
 # Browser UserScripts
 <sub>**_Requires a Browser UserScript Manager._**</sub>
 
-[**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different browsers.
+[**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different Browsers.
 
 [**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses count-downs.   
 [**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
@@ -86,7 +86,7 @@ description: Tools and Apps to make your life easier.
 
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
-[**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) | [**XDM**](https://github.com/subhra74/xdm) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, while JDownloader2 is best for downloading multiple files simultaneously.  
+[**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://github.com/subhra74/xdm) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
 [**TubeDigger**](https://www.tubedigger.com/index.html) | [**AllavSoft**](https://www.allavsoft.com/) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
@@ -112,7 +112,7 @@ description: Tools and Apps to make your life easier.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
 
-[**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the browser and the ability to create hidden bookmarks without a browser extension
+[**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
 
