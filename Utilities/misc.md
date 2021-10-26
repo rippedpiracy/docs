@@ -92,6 +92,8 @@ description: Tools and Apps to make your life easier.
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 
+[**Streamlink**](https://github.com/streamlink/streamlink) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC. (An actively maintained fork of the now inactive [Livestreamer](https://github.com/chrippa/livestreamer))
+
 [**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
