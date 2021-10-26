@@ -87,7 +87,7 @@ description: Tools and Apps to make your life easier.
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) | [**XDM**](https://github.com/subhra74/xdm) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, while JDownloader2 is best for downloading multiple files simultaneously.  
-[**TubeDigger**](https://www.tubedigger.com/index.html) - An advanced Media Downloader, it captures packets by intercepting your traffic with the site.  
+[**TubeDigger**](https://www.tubedigger.com/index.html) | [**AllavSoft**](https://www.allavsoft.com/) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
