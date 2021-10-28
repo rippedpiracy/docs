@@ -91,14 +91,15 @@ Both are good sources for popular Visual Novels and Japanese Games while the lat
 Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
 # Tools
+<sub>Most of these DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the game topic in [CS.RIN.RU](https://cs.rin.ru/forum), check the first post for links to the DLC files, if there are none, then use the searchbar to search for the DLC files within the thread.</sub>
 
 [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tool that can unlock all DLCs on legitimately owned Steam Games.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.tech/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
 
+[**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games. (Has support for Mac.)  
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
-[**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games. (has support for Mac)  
-[**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.  
+[**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu SSE**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
