@@ -1,0 +1,26 @@
+---
+title: Free Tidal Account
+author: Red.
+description: Create your very own trial of Tidal to rip music!
+---
+# Pre-requisites:
+- You will need a BIN (Bank Identification Number) which will be provided and updated with the latest one here.
+- VPN [Windscribe workds](https://windscribe.com/)
+- A browser, preferrably a mobile device for better fingerprint trust
+
+## Generating a Card Number
+Head over to [Namsogen](https://namso-gen.com/) and use one of the following BIN's to generate a list of cards via the Luhn algorithm. Leave the month and date columns as is and generate around 100 cards.
+| BIN | Validity | ZIP |
+| --- | --- | --- |
+| 42409402757xxxxx | Valid | 10001/10080 |
+| 401658xxxxxxxxxx | Valid | 10001/10080 |
+
+## Checking the card with CCN Gate
+Now, we will have to check which cards are live and which are dead. For this, visit [Mr Checker](https://www.mrchecker.net/card-checker/ccn2/) and paste the list of cards generated. The checker will filter out the invalid cards and show the live, valid cards.
+> **Note** - Just because a card is valid on the CCN gate does *not* mean it has funds in it. In any case, 99% of the cards are not valid - as in, they do not have any money but are merely live.
+
+## Creating your Tidal account
+Use the VPN (Location as Chicago/New York) and start creating your account on tidal, you can use any email. I suggest trying out [Mail.tm](https://mail.tm) for a good temp-mail since it has a permanent inbox. In the next step, choose the plan you desire and you will then get redirected to the billing page to add your card.
+Now, take one of the cards which is **valid** from Mr.Checker and enter the card details, and enter the ZIP code of the corresponding BIN, as shown in the table above. If you followed all the steps carefully, your trial subscription should now be active. Use a script like Tidal-dl to rip music in FLAC!
+
+> If you wish to use a different VPN, do not use NordVPN or ExpressVPN as they get detected. Use Windscribe or some other good alternative like Mullvad.
