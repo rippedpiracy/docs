@@ -52,9 +52,9 @@ description: A compilation of good sites to download ebooks
 - [**Flibusta**](https://flibusta.site/) - Russian ebooks.
 - [**Getcomics**](http://www.getcomics.info/) - A large collection of comic books with an option to read online.
 - [**YudhaCookBook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
-- [**The ebooks channel on IRCHighway has a lot of ebooks, here's a guide for it**](https://redd.it/2oftbu)
-- [**Calishot,a collection of calibre channels**](https://redd.it/oh1673)
-- [**RaveEbookSearch, an open source pirate books search engine**](https://ravebooksearch.com/?q=%s)
+- [**The ebooks channel on IRCHighway**](https://redd.it/2oftbu)
+- [**Calishot**](https://redd.it/oh1673) - a collection of calibre channels.
+- [**RaveEbookSearch**](https://ravebooksearch.com/?q=%s) - an open source pirate books search engine
  
 
 
