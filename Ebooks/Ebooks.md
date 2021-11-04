@@ -19,19 +19,22 @@ description: A compilation of good sites to download ebooks
 - [**YudhaCookBook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks
 - [**OceanofPdf**](https://oceanofpdf.com/) - Has a few pdfs
 - [**Myanonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche ebooks and audiobooks.Friendly community and mods. Pretty easy to get into.
-
+&nbsp;  
+&nbsp;
 # Scientific Journals/Technical Manuals
 
 - [**Libgen-fun**](http://www.libgen.fun/) - Technical manuals and magazines
 - [**Sci-Hub**](https://sci-hub.se/) [mirror 1](sci-hub.ru) - For technical papers
 - [**Free-full-pdf**](http://www.freefullpdf.com/) - Scientific articles
 - [**Freetechbooks**](https://www.freetechbooks.com/) - Legal Technical publications
-
+&nbsp;  
+&nbsp;
 # Audio books
 - [**Golden Audiobooks](https://goldenaudiobooks.com/) - Mainstream
 - [**Galaxy Audiobooks](https://galaxyaudiobook.com/) - Mainstream
 - [**Audiobookbay](http://www.audiobookbay.net/) - Has most audiobooks, recommended.
-
+&nbsp;  
+&nbsp;
 # Miscellaneous
 - [**Project Gutenberg**](http://www.gutenberg.org/) - Legal books
 - [**Archive.org**](https://archive.org/details/southerncookbook00lustrich/page/34/mode/2up) - Has a lot of niche historical content
