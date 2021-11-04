@@ -13,7 +13,7 @@ description: A compilation of good sites to download ebooks
 - [**Ebookee**](https://ebookee.com/) - Generic ebooks.
 - [**Ebook3000**](http://www.Ebook3000.com) - Decent collection of ebooks.
 - [**Ebookbb**](https://www.ebookbb.com/) - Has some ebooks, you can request some too.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**eBookoz**](https://ebookoz.net/viewforum.php?f=5) - Forum for the site that has ebooks by category.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[eBookoz](https://ebookoz.net/viewforum.php?f=5) - Forum for the site that has ebooks by category.  
 - [**Ikindleebooks**](https://ikindlebooks.com/) - MOBIs and ePUBs for Kindle.
 - [**PDF Drive**](https://www.pdfdrive.com/) - Vast collection of different kinds of PDFs.
 - [**PDFGet**](https://pdfget.com/)
@@ -30,7 +30,7 @@ description: A compilation of good sites to download ebooks
 # Scientific Journals/Technical Manuals
 
 - [**Libgen-fun**](http://www.libgen.fun/) - Technical manuals and magazines.
-- [**Sci-Hub**](https://sci-hub.se/) [mirror 1](sci-hub.ru) - For technical papers.
+- [**Sci-Hub**](https://sci-hub.se/) - For technical papers.
 - [**Free-full-pdf**](http://www.freefullpdf.com/) - Scientific articles.
 - [**Freetechbooks**](https://www.freetechbooks.com/) - Legal Technical publications.
 &nbsp;  
