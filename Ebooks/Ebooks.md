@@ -18,11 +18,12 @@ Description: A compilation of good sites to download ebooks
 - [Ebook hunter](https://ebook-hunter.org/Books/) - Normal collection
 - [YudhaCookBook](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks
 - [OceanofPdf](https://oceanofpdf.com/) - Has a few pdfs
+- [Myanonamouse](https://www.myanonamouse.net/) - Has a lot of content, including niche ebooks and audiobooks.Friendly community and mods. Pretty easy to get into.
 
-# Sites for Scientific Journals/Technical Manuals
+# Scientific Journals/Technical Manuals
 
 - [Libgen-fun](http://www.libgen.fun/) - Technical manuals and magazines
-- [Sci-Hub](http://sci-hub.tw/) - For technical papers
+- [Sci-Hub](https://sci-hub.se/) [mirror 1](sci-hub.ru) - For technical papers
 - [Free-full-pdf](http://www.freefullpdf.com/) - Scientific articles
 - [Freetechbooks](https://www.freetechbooks.com/) - Legal Technical publications
 
@@ -30,10 +31,6 @@ Description: A compilation of good sites to download ebooks
 - [Golden Audiobooks](https://goldenaudiobooks.com/) - Mainstream
 - [Galaxy Audiobooks](https://galaxyaudiobook.com/) - Mainstream
 - [Audiobookbay](http://www.audiobookbay.net/) - Has most audiobooks, recommended.
-
-# Private and semi-private trackers for niche content
-- [Myanonamouse](https://www.myanonamouse.net/) - Has a lot of content, including niche ebooks and audiobooks.Friendly community and mods. Pretty easy to get into.
-- [Bibliotik](https://bibliotik.me/) - The holy grail of ebook piracy, has a LOT of content, well maintained.But it's hard to get into unless you have contacts.
 
 # Miscellaneous
 - [Project Gutenberg](http://www.gutenberg.org/) - Legal books
