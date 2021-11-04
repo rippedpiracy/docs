@@ -1,6 +1,6 @@
 ---
-Title: Ebooks
-Description: A compilation of good sites to download ebooks
+title: Ebooks
+description: A compilation of good sites to download ebooks
 ---
 
 **Use something like [Calibre](https://calibre-ebook.com/) to manage and convert your ebooks, it provides a good interface to manage your stuff.Now,moving onto websites-**
