@@ -12,7 +12,7 @@ description: A compilation of good sites to download ebooks
 - [**OceanofPDF**](https://oceanofpdf.com/) - Has a few pdfs.
 - [**Ebookee**](https://ebookee.com/) - Generic ebooks.
 - [**Ebook3000**](http://www.Ebook3000.com) - Decent collection of ebooks.
-- [**Ebookbb**](https://www.ebookbb.com/) - Has some ebooks, you can request some too.
+- [**Ebookbb**](https://www.ebookbb.com/) - Has some ebooks, you can request some too.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**eBookoz**](https://ebookoz.net/viewforum.php?f=5) - Forum for the site that has ebooks by category.  
 - [**Ikindleebooks**](https://ikindlebooks.com/) - MOBIs and ePUBs for Kindle.
 - [**PDF Drive**](https://www.pdfdrive.com/) - Vast collection of different kinds of PDFs.
