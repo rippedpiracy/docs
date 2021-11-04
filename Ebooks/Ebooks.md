@@ -8,7 +8,7 @@ description: A compilation of good sites to download ebooks
 # General E-Books
 
 - [**Z-Library**](http://www.z-lib.org/) - Good collection, pretty popular.
-- [**Mobilism**](https://mobilism.me) [**.org**](https://mobilism.org/) - A pretty decent mainstream site, has almost all generic content.
+- [**Mobilism**](https://mobilism.me) | [**.org**](https://mobilism.org/) - A pretty decent mainstream site, has almost all generic content.
 - [**OceanofPDF**](https://oceanofpdf.com/) - Has a few pdfs.
 - [**Ebookee**](https://ebookee.com/) - Generic ebooks.
 - [**Ebook3000**](http://www.Ebook3000.com) - Decent collection of ebooks.
@@ -18,7 +18,7 @@ description: A compilation of good sites to download ebooks
 - [**PDF Drive**](https://www.pdfdrive.com/) - Vast collection of different kinds of PDFs.
 - [**PDFGet**](https://pdfget.com/)
 - [**eBook Hunter**](https://ebook-hunter.org/) - Normal collection.
-- [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche ebooks and audiobooks.Friendly community and mods. Pretty easy to get into.
+- [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche ebooks and audiobooks. Friendly community and mods. Pretty easy to get into.
 &nbsp;  
 &nbsp;
 # Audio Books
