@@ -43,7 +43,7 @@ Description: A compilation of good sites to download ebooks
 - [Trantor](https://trantor.is/) - Darkweb ebook resource
 - [Flibusta](https://flibusta.site/) - Russian ebooks
 - [Getcomics](http://www.getcomics.info/) - A large collection of comic books with an option to read online
-- [The ebooks channel on IRCHighway has a lot of ebooks, here's a guide for it](http://redd.it/2oftbu)
+- [The ebooks channel on IRCHighway has a lot of ebooks, here's a guide for it](https://redd.it/2oftbu)
 - [Calishot,a collection of calibre channels](https://redd.it/oh1673)
 - [RaveEbookSearch, an open source pirate books search engine](https://ravebooksearch.com/?q=%s)
  
