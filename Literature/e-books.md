@@ -1,5 +1,5 @@
 ---
-title: Ebooks
+title: e-Books
 description: A compilation of good sites to download ebooks
 ---
 
@@ -49,10 +49,9 @@ description: A compilation of good sites to download ebooks
 - [**Trantor**](https://trantor.is/) - Darkweb ebook resource.
 - [**Flibusta**](https://flibusta.site/) - Russian ebooks.
 - [**YudhaCookBook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
-
 - [**Calishot**](https://redd.it/oh1673) - a collection of calibre channels.
 - [**RaveEbookSearch**](https://ravebooksearch.com/?q=%s) - an open source pirate books search engine
-
+- *empty line* <sub>for now</sub>
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 - **Unpaywall**: [**Chromium**](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [**Firefox version**](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
