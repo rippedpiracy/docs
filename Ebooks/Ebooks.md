@@ -55,6 +55,10 @@ description: A compilation of good sites to download ebooks
 - [**The ebooks channel on IRCHighway**](https://redd.it/2oftbu)
 - [**Calishot**](https://redd.it/oh1673) - a collection of calibre channels.
 - [**RaveEbookSearch**](https://ravebooksearch.com/?q=%s) - an open source pirate books search engine
+
+- [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
+- [**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
+- [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
  
 to be edited
 https://scholar.reddit.com/ request
