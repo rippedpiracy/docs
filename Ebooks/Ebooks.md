@@ -24,6 +24,9 @@ description: A compilation of good sites to download ebooks
 # Audio Books
 - [**AudioBookBay**](http://www.audiobookbay.net/) - Has most mainstream stuff.
 - [**XAudioBooks**](https://xaudiobooks.com/) 
+- [**Golden Audiobooks**](https://goldenaudiobooks.com/) - Mainstream.
+- [**Galaxy Audiobooks**](https://galaxyaudiobook.com/) - Mainstream.
+- [**Audiobookbay**](http://www.audiobookbay.net/) - Has most audiobooks, recommended.
 - [**AudioBook Reviews**](https://audiobookreviews.com/)
 &nbsp;  
 &nbsp;
@@ -33,13 +36,6 @@ description: A compilation of good sites to download ebooks
 - [**Sci-Hub**](https://sci-hub.se/) - For technical papers.
 - [**Free-full-pdf**](http://www.freefullpdf.com/) - Scientific articles.
 - [**Freetechbooks**](https://www.freetechbooks.com/) - Legal Technical publications.
-&nbsp;  
-&nbsp;
-# Audio books
-
-- [**Golden Audiobooks**](https://goldenaudiobooks.com/) - Mainstream.
-- [**Galaxy Audiobooks**](https://galaxyaudiobook.com/) - Mainstream.
-- [**Audiobookbay**](http://www.audiobookbay.net/) - Has most audiobooks, recommended.
 &nbsp;  
 &nbsp;
 # Miscellaneous
