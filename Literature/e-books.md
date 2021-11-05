@@ -54,8 +54,10 @@ description: A compilation of good sites to download ebooks
 - [**RaveEbookSearch**](https://ravebooksearch.com/?q=%s) - an open source pirate books search engine
 
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
-- [**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
+- **Unpaywall**: [**Chromium**](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [**Firefox version**](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
+- [**Open Access Button**](https://openaccessbutton.org/) - Search engine for research articles.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open Access Button: [Chromium](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/openaccessbutton/)  
 &nbsp;  
 &nbsp;
 # IRC
