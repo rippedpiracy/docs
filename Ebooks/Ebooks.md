@@ -33,9 +33,11 @@ description: A compilation of good sites to download ebooks
 &nbsp;
 # Scientific Journals/Technical Manuals
 
-- [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - Technical manuals and magazines.
+- [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - Technical manuals and magazines.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
-- [**Sci-Hub (.se)**](https://sci-hub.se/) | [**.st**](https://sci-hub.st/) | [**.ru**](https://sci-hub.ru/) - For technical papers.
+- [**Sci-Hub (.se)**](https://sci-hub.se/) | [**.st**](https://sci-hub.st/) | [**.ru**](https://sci-hub.ru/) - For technical papers.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sci-Hub X Now!](https://chrome.google.com/webstore/detail/sci-hub-x-now/gmmnidkpkgiohfdoenhpghbilmeeagjj) (Chromium) - Opens the sci-hub page for the article you want to read.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for [Zotero](https://www.zotero.org/) and [Juris-M](https://juris-m.github.io/) to automatically download PDFs from Sci-Hub.
 - [**Free Full PDF**](https://freefullpdf.com/) - Scientific articles.
 - [**Freetechbooks**](https://www.freetechbooks.com/) - Legal Technical publications.
 &nbsp;  
@@ -54,5 +56,5 @@ description: A compilation of good sites to download ebooks
 - [**Calishot**](https://redd.it/oh1673) - a collection of calibre channels.
 - [**RaveEbookSearch**](https://ravebooksearch.com/?q=%s) - an open source pirate books search engine
  
-
-
+to be edited
+https://scholar.reddit.com/ request
