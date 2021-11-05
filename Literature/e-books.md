@@ -8,6 +8,9 @@ description: A compilation of good sites to download ebooks
 # General E-Books
 
 - [**Z-Library**](http://www.z-lib.org/) - Good collection, pretty popular.
+- [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - Technical manuals and magazines.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Libgen Desktop](https://wiki.mhut.org/software:libgen_desktop) - Windows application for browsing a local copy of the LibGen catalog.
 - [**Mobilism**](https://mobilism.me) | [**.org**](https://mobilism.org/) - A pretty decent mainstream site, has almost all generic content.
 - [**OceanofPDF**](https://oceanofpdf.com/) - Has a few pdfs.
 - [**Ebookee**](https://ebookee.com/) - Generic ebooks.
@@ -33,8 +36,6 @@ description: A compilation of good sites to download ebooks
 &nbsp;
 # Scientific Journals/Technical Manuals
 
-- [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - Technical manuals and magazines.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
 - [**Sci-Hub (.se)**](https://sci-hub.se/) | [**.st**](https://sci-hub.st/) | [**.ru**](https://sci-hub.ru/) - For technical papers.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sci-Hub X Now!](https://chrome.google.com/webstore/detail/sci-hub-x-now/gmmnidkpkgiohfdoenhpghbilmeeagjj) (Chromium) - Opens the sci-hub page for the article you want to read.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for [Zotero](https://www.zotero.org/) and [Juris-M](https://juris-m.github.io/) to automatically download PDFs from Sci-Hub.
