@@ -59,12 +59,15 @@ description: A compilation of good sites to download ebooks
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 - [**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
+&nbsp;  
+&nbsp;
+# IRC
+
+- [**IRChighway.net/eBooks**](irc://irc.irchighway.net:6665/ebooks) - Use this [guide](https://redd.it/2oftbu) or their official [FAQ](http://ebooks.byethost6.com/) to learn how to use the commands.
+
  
 to be edited
 - https://scholar.reddit.com/ request
 
 to be added to diff section
 - [**Getcomics**](http://www.getcomics.info/) - A large collection of comic books with an option to read online.
-
-idk
-- [guide](https://redd.it/2oftbu) for it
