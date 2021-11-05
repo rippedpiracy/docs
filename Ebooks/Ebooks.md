@@ -22,6 +22,7 @@ description: A compilation of good sites to download ebooks
 &nbsp;  
 &nbsp;
 # Audio Books
+
 - [**AudioBookBay**](http://www.audiobookbay.net/) - Has most mainstream stuff.
 - [**XAudioBooks**](https://xaudiobooks.com/) 
 - [**Golden Audiobooks**](https://goldenaudiobooks.com/) - Mainstream.
@@ -32,9 +33,10 @@ description: A compilation of good sites to download ebooks
 &nbsp;
 # Scientific Journals/Technical Manuals
 
-- [**Libgen-fun**](http://www.libgen.fun/) - Technical manuals and magazines.
-- [**Sci-Hub**](https://sci-hub.se/) - For technical papers.
-- [**Free-full-pdf**](http://www.freefullpdf.com/) - Scientific articles.
+- [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - Technical manuals and magazines.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
+- [**Sci-Hub (.se)**](https://sci-hub.se/) | [**.st**](https://sci-hub.st/) | [**.ru**](https://sci-hub.ru/) - For technical papers.
+- [**Free Full PDF**](https://freefullpdf.com/) - Scientific articles.
 - [**Freetechbooks**](https://www.freetechbooks.com/) - Legal Technical publications.
 &nbsp;  
 &nbsp;
