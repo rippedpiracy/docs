@@ -35,9 +35,6 @@ description: Tools and Apps to make your life easier.
 
 [**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
-[**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
-[**Unpaywall**](https://unpaywall.org/products/extension) - Read journal articles for free using OpenAccess.
-
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
 
 [**ToS;DR**](https://github.com/tosdr/browser-extensions) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements.
@@ -115,8 +112,6 @@ description: Tools and Apps to make your life easier.
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
-
-[**Outline**](https://outline.com/) - Removes clutter from News Articles.
 
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL
 
