@@ -11,7 +11,7 @@ description: A compilation of good sites to download ebooks
 - [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - Technical manuals and magazines.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Libgen Desktop](https://wiki.mhut.org/software:libgen_desktop) - Windows application for browsing a local copy of the LibGen catalog.
-- [**Mobilism**](https://mobilism.me) | [**.org**](https://mobilism.org/) - A pretty decent mainstream site, has almost all generic content.
+- [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - A pretty decent mainstream site, has almost all generic content.
 - [**OceanofPDF**](https://oceanofpdf.com/) - Has a few pdfs.
 - [**Ebookee**](https://ebookee.com/) - Generic ebooks.
 - [**Ebook3000**](http://www.Ebook3000.com) - Decent collection of ebooks.
@@ -46,14 +46,13 @@ description: A compilation of good sites to download ebooks
 # Miscellaneous
 
 - [**Project Gutenberg**](http://www.gutenberg.org/) - Legal books.
-- [**Archive.org**](https://archive.org/details/southerncookbook00lustrich/page/34/mode/2up) - Has a lot of niche historical content.
+- [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
 - [**Mywarez**](https://mywarez.org/) - 40k+ random ebooks.
-- [**The-eye**](https://the-eye.eu/public/Books/) - Many ebooks and calibre libraries.
+- [**The-eye**](https://the-eye.eu/public/Books/) - Many ebooks and calibre libraries. **Currently Down**.
 - [**Trantor**](https://trantor.is/) - Darkweb ebook resource.
 - [**Flibusta**](https://flibusta.site/) - Russian ebooks.
-- [**Getcomics**](http://www.getcomics.info/) - A large collection of comic books with an option to read online.
 - [**YudhaCookBook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
-- [**The ebooks channel on IRCHighway**](https://redd.it/2oftbu)
+
 - [**Calishot**](https://redd.it/oh1673) - a collection of calibre channels.
 - [**RaveEbookSearch**](https://ravebooksearch.com/?q=%s) - an open source pirate books search engine
 
@@ -62,4 +61,10 @@ description: A compilation of good sites to download ebooks
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
  
 to be edited
-https://scholar.reddit.com/ request
+- https://scholar.reddit.com/ request
+
+to be added to diff section
+- [**Getcomics**](http://www.getcomics.info/) - A large collection of comic books with an option to read online.
+
+idk
+- [guide](https://redd.it/2oftbu) for it
