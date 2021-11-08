@@ -1,9 +1,9 @@
 ---
 title: e-Books
-description: A comprehensive list of sites to download eBooks.
+description: A comprehensive list of sites to download e-Books.
 ---
 
-<sub>Use an ebook manager like [Calibre](https://calibre-ebook.com/) to manage and convert your ebooks, it provides a good interface.</sub>
+<sub>Use an e-Book manager like [Calibre](https://calibre-ebook.com/) to manage and convert your e-Books, it provides a good interface.</sub>
 
 # General E-Books
 
@@ -12,8 +12,8 @@ description: A comprehensive list of sites to download eBooks.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Libgen Desktop](https://wiki.mhut.org/software:libgen_desktop) - Windows application for browsing a local copy of the LibGen catalog.
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, also has Audiobooks.
-- [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Ebook section of a Forum, **_Requires Sign-up_**.
-- [**The-eye**](https://the-eye.eu/public/Books/) - Many ebooks and calibre libraries. **Currently Down**.
+- [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - e-Book section of a Forum, **_Requires Sign-up_**.
+- [**The-eye**](https://the-eye.eu/public/Books/) - Many e-Books and calibre libraries. **Currently Down**.
 - [**eBook Hunter**](https://ebook-hunter.org/)
 - [**Ebookee**](https://ebookee.com/)
 - [**Ebook3000**](http://www.Ebook3000.com)
@@ -23,7 +23,7 @@ description: A comprehensive list of sites to download eBooks.
 - [**PDF Drive**](https://www.pdfdrive.com/)
 - [**PDFGet**](https://pdfget.com/)
 - [**Ikindleebooks**](https://ikindlebooks.com/) - MOBIs and ePUBs for Kindle.
-- [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche ebooks and audiobooks. Friendly community and mods. Pretty easy to get into.
+- [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche e-Books and audiobooks. Friendly community and mods. Pretty easy to get into.
 &nbsp;  
 &nbsp;
 # Audio Books
@@ -48,12 +48,12 @@ description: A comprehensive list of sites to download eBooks.
 &nbsp;
 # Miscellaneous
 
-- [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, eBook and Audiobook sites.
+- [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
 - [**CALISHOT**](https://calishot-eng-3.herokuapp.com/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://calishot-non-eng-3.herokuapp.com/index-non-eng/summary)
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
-- [**Project Gutenberg**](http://www.gutenberg.org/) - Legal, and old ebooks.
-- [**Trantor**](https://trantor.is/) - Darkweb ebook resource.
-- [**Flibusta**](https://flibusta.site/) - Russian ebook site.
+- [**Project Gutenberg**](http://www.gutenberg.org/) - Legal, and old e-Books.
+- [**Trantor**](https://trantor.is/) - Darkweb e-Book resource.
+- [**Flibusta**](https://flibusta.site/) - Russian e-Book site.
 - [**Yudhacookbook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
