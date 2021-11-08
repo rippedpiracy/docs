@@ -1,6 +1,6 @@
 ---
 title: e-Books
-description: A comprehensive list of sites to download e-Books.
+description: Reliable sources to obtain e-Books.
 ---
 
 <sub>Use an e-Book manager like [Calibre](https://calibre-ebook.com/) to manage and convert your e-Books, it provides a good interface.</sub>
