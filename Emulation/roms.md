@@ -61,6 +61,6 @@ Changes domains frequently, offering NSP / XCI files for Switch Games, with Upda
 
 Site comparable to [Ziperto](https://ziperto.com) which offers more ROMs, for different consoles, uploaded directly to the site.
 
-**[Scene CrackHub] (DDL)**
+**[Scene CrackHub](http://scene.crackhub.site/) (DDL)**
 
 Auto Scene Uploading Bot that uploads Nintendo Switch titles.
