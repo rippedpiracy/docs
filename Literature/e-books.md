@@ -1,6 +1,6 @@
 ---
 title: e-Books
-description: A compilation of good sites to download ebooks
+description: A comprehensive list of sites to download eBooks.
 ---
 
 <sub>Use an ebook manager like [Calibre](https://calibre-ebook.com/) to manage and convert your ebooks, it provides a good interface.</sub>
@@ -55,7 +55,6 @@ description: A compilation of good sites to download ebooks
 - [**Trantor**](https://trantor.is/) - Darkweb ebook resource.
 - [**Flibusta**](https://flibusta.site/) - Russian ebook site.
 - [**Yudhacookbook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
-- *empty line* <sub>for now</sub>
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
