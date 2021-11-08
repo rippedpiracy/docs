@@ -53,7 +53,6 @@ You can easily Download 3DS Games by scanning a QR code with the [FBI](https://g
 
 <sub>Note: Installing via QR code on the 3DS may be quite slow as the device does not have a great network chip.</sub>
 
-
 **[nsw2u](https://nsw2u.xyz/) (DDL)**
 
 Changes domains frequently, offering NSP / XCI files for Switch Games, with Updates included.
@@ -61,3 +60,7 @@ Changes domains frequently, offering NSP / XCI files for Switch Games, with Upda
 **[CDRomance](https://cdromance.com/) (DDL)**
 
 Site comparable to [Ziperto](https://ziperto.com) which offers more ROMs, for different consoles, uploaded directly to the site.
+
+**[Scene CrackHub] (DDL)**
+
+Auto Scene Uploading Bot that uploads Nintendo Switch titles.
