@@ -11,13 +11,18 @@ description: A compilation of good sites to download ebooks
 - [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Libgen Desktop](https://wiki.mhut.org/software:libgen_desktop) - Windows application for browsing a local copy of the LibGen catalog.
-- [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106)
+- [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, also has Audiobooks.
+- [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Ebook section of a Forum, **_Requires Sign-up_**.
+- [**The-eye**](https://the-eye.eu/public/Books/) - Many ebooks and calibre libraries. **Currently Down**.
+- [**eBook Hunter**](https://ebook-hunter.org/)
 - [**Ebookee**](https://ebookee.com/)
 - [**Ebook3000**](http://www.Ebook3000.com)
 - [**Ebookbb**](https://www.ebookbb.com/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[eBookoz](https://ebookoz.net/viewforum.php?f=5) - Forum for the site that has ebooks by category.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[eBookoz](https://ebookoz.net/viewforum.php?f=5) - Forum for the site.  
+- [**OceanofPDF**](https://oceanofpdf.com/)
+- [**PDF Drive**](https://www.pdfdrive.com/)
+- [**PDFGet**](https://pdfget.com/)
 - [**Ikindleebooks**](https://ikindlebooks.com/) - MOBIs and ePUBs for Kindle.
-- [**eBook Hunter**](https://ebook-hunter.org/)
 - [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche ebooks and audiobooks. Friendly community and mods. Pretty easy to get into.
 &nbsp;  
 &nbsp;
@@ -29,6 +34,7 @@ description: A compilation of good sites to download ebooks
 - [**Galaxy Audiobooks**](https://galaxyaudiobook.com/)
 - [**Audiobookbay**](http://www.audiobookbay.net/)
 - [**AudioBook Reviews**](https://audiobookreviews.com/)
+- [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=26) - Audiobooks section of a Forum, **_Requires Sign-up_**.
 &nbsp;  
 &nbsp;
 # Scientific Journals/Technical Manuals
@@ -44,33 +50,23 @@ description: A compilation of good sites to download ebooks
 
 - [**Project Gutenberg**](http://www.gutenberg.org/) - Legal books.
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
-- [**Mywarez**](https://mywarez.org/) - 40k+ random ebooks.
-- [**The-eye**](https://the-eye.eu/public/Books/) - Many ebooks and calibre libraries. **Currently Down**.
 - [**Trantor**](https://trantor.is/) - Darkweb ebook resource.
 - [**Flibusta**](https://flibusta.site/) - Russian ebooks.
 - [**YudhaCookBook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
 - [**Calishot**](https://redd.it/oh1673) - a collection of calibre channels.
-- [**RaveEbookSearch**](https://ravebooksearch.com/?q=%s) - an open source pirate books search engine
+- [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, eBook and Audiobook sites.
 - *empty line* <sub>for now</sub>
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
 - [**Open Access Button**](https://openaccessbutton.org/) - Search engine for research articles.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Browser Extension [Chromium](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/openaccessbutton/)  
+- [**r/Scholar**](https://scholar.reddit.com/) - If you cant find an article anywhere, you can request it in this subreddit.
 &nbsp;  
 &nbsp;
 # IRC
 
-- [**IRChighway.net/eBooks**](irc://irc.irchighway.net:6665/ebooks) - Use this [guide](https://redd.it/2oftbu) or their official [FAQ](http://ebooks.byethost6.com/) to learn how to use the commands.
+- [**IRChighway.net/eBooks**](irc://irc.irchighway.net:6665/ebooks) - Use this [guide](https://redd.it/2oftbu) or their official [FAQ](http://ebooks.byethost6.com/) to learn how to use the commands.  
 
- 
-to be edited
-- https://scholar.reddit.com/ request
-
-to be added to diff section
-- [**Getcomics**](http://www.getcomics.info/) - A large collection of comic books with an option to read online.
-
-pdf stuff  
-- [**OceanofPDF**](https://oceanofpdf.com/)
-- [**PDF Drive**](https://www.pdfdrive.com/) - Vast collection of different kinds of PDFs.
-- [**PDFGet**](https://pdfget.com/)
+to be added to diff section  
+- [**Getcomics**](http://www.getcomics.info/) - A large collection of comic books with an option to read online.  
