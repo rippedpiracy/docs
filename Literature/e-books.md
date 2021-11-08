@@ -48,13 +48,13 @@ description: A compilation of good sites to download ebooks
 &nbsp;
 # Miscellaneous
 
-- [**Project Gutenberg**](http://www.gutenberg.org/) - Legal books.
-- [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
-- [**Trantor**](https://trantor.is/) - Darkweb ebook resource.
-- [**Flibusta**](https://flibusta.site/) - Russian ebooks.
-- [**YudhaCookBook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
-- [**Calishot**](https://redd.it/oh1673) - a collection of calibre channels.
 - [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, eBook and Audiobook sites.
+- [**CALISHOT**](https://calishot-eng-3.herokuapp.com/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://calishot-non-eng-3.herokuapp.com/index-non-eng/summary)
+- [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
+- [**Project Gutenberg**](http://www.gutenberg.org/) - Legal, and old ebooks.
+- [**Trantor**](https://trantor.is/) - Darkweb ebook resource.
+- [**Flibusta**](https://flibusta.site/) - Russian ebook site.
+- [**Yudhacookbook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
 - *empty line* <sub>for now</sub>
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
