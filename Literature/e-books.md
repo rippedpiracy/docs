@@ -67,6 +67,3 @@ description: A compilation of good sites to download ebooks
 # IRC
 
 - [**IRChighway.net/eBooks**](irc://irc.irchighway.net:6665/ebooks) - Use this [guide](https://redd.it/2oftbu) or their official [FAQ](http://ebooks.byethost6.com/) to learn how to use the commands.  
-
-to be added to diff section  
-- [**Getcomics**](http://www.getcomics.info/) - A large collection of comic books with an option to read online.  
