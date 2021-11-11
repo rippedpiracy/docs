@@ -115,8 +115,7 @@ description: Tools and Apps to make your life easier.
 
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL
 
-[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.  
-<sub>Note: Use an adblocker as there can be a fair amount of pop-upas and intrusive ads.</sub>
+[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game. Use an AdBlocker as there can be a fair amount of pop-ups and intrusive ads.
 
 # Informational
 
