@@ -66,7 +66,7 @@ description: Tools and Apps to make your life easier.
 
 # Useful Apps
 
-[**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites.  
+[**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites. GoodbyeDPI is not very beginner friendly.  
 
 [**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Plugins](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.  
@@ -115,7 +115,7 @@ description: Tools and Apps to make your life easier.
 
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL
 
-[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.
+[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.  
 <sub>Note: Use an adblocker as there can be a fair amount of pop-upas and intrusive ads.</sub>
 
 # Informational
