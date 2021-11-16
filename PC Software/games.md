@@ -90,6 +90,8 @@ Both are good sources for popular Visual Novels and Japanese Games while the lat
 
 Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
+[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) - Preservation project for Adobe Flash Games. With it, you can play your childhood's Games, again. Use Flashpoint Infinity for general use and messing around.  
+
 # Tools
 <sub>Most of these DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the game topic in [CS.RIN.RU](https://cs.rin.ru/forum), check the first post for links to the DLC files, if there are none, then use the searchbar to search for the DLC files within the thread.</sub>
 
@@ -109,8 +111,6 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games and more.
 
 <sub>Check out the Release Board of [CS.RIN.RU](https://cs.rin.ru/forum/viewforum.php?f=29) and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</sub>
-
-[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) - Preservation project for Adobe Flash Games. With it, you can play your childhood's Games, again. Use Flashpoint Infinity for general use and messing around.
  
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
