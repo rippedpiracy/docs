@@ -6,7 +6,7 @@ description: List of safe and trusted sites for Games.
 ## General Torrent
 **NOTE: Some of these sites have Fake and Mirror sites, you should only use the ones we linked.**
 
-**[1337x (.to)](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
+**[1337x.to](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including a bad moderation team in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
 **_NOTE: Do not get Software Releases from this site. Stay away from Torrents by IGGGAMES, xGIROx, Seyter, Qoob, nosTEAM and CorePack._**  
