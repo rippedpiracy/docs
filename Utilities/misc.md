@@ -68,9 +68,9 @@ description: Tools and Apps to make your life easier.
 
 [**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites. GoodbyeDPI is not very beginner friendly.  
 
+[**pe-studio**](https://www.winitor.com/) - Helps you check for Malware in apps.
 [**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Plugins](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.  
-[**pe-studio**](https://www.winitor.com/) - Helps you check for Malware in apps.
 
 [**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
@@ -84,12 +84,14 @@ description: Tools and Apps to make your life easier.
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://github.com/subhra74/xdm) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
+
 [**TubeDigger**](https://www.tubedigger.com/index.html) | [**AllavSoft**](https://www.allavsoft.com/) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 
-[**Streamlink**](https://github.com/streamlink/streamlink) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC. (An actively maintained fork of the now inactive [Livestreamer](https://github.com/chrippa/livestreamer))
+[**Streamlink**](https://github.com/streamlink/streamlink) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
+<sub>An actively maintained fork of the now inactive [Livestreamer](https://github.com/chrippa/livestreamer)</sub>  
 
 [**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
 
