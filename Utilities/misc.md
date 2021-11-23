@@ -109,7 +109,9 @@ description: Tools and Apps to make your life easier.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
 
-[**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension
+[**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
+
+[**urlscan**](https://urlscan.io/) - Allows you to see a image preview of a Potentially Unsafe Website without actually visiting it yourself.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
 
