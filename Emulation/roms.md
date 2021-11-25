@@ -51,7 +51,7 @@ This site is a pretty nice source for 3DS CIA Games, if you're a bit rusty in Sp
 
 You can easily Download 3DS Games by scanning a QR code with the [FBI](https://gbatemp.net/threads/release-fbi-open-source-cia-installer.386433/) app.
 
-<sub>Note: Installing via QR code on the 3DS may be quite slow as the device does not have a great network chip.</sub>
+<sub>Installing via QR code on the 3DS may be quite slow as the device does not have a great network chip.</sub>
 
 **[nsw2u](https://nsw2u.xyz/) (DDL)**
 
