@@ -8,26 +8,27 @@ description: Reliable sources to obtain e-Books.
 # General E-Books
 
 - [**Z-Library**](http://www.z-lib.org/)
-- [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciMag](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Libgen Desktop](https://wiki.mhut.org/software:libgen_desktop) - Windows application for browsing a local copy of the LibGen catalog.
-- [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, also has Audiobooks.
-- [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - e-Book section of a Forum, **_Requires Sign-up_**.
-- [**The-eye**](https://the-eye.eu/public/Books/) - Many e-Books and calibre libraries. **Currently Down**.
+- [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/)
+- [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, **_Requires Sign-up_**.
+- [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Forum, **_Requires Sign-up_**.
+- [**The-eye**](https://the-eye.eu/public/Books/) - Many e-Books and calibre libraries. **_Currently Down_**.
 - [**eBook Hunter**](https://ebook-hunter.org/)
 - [**Ebookee**](https://ebookee.com/) 
 - [**OceanofPDF**](https://oceanofpdf.com/)
 - [**PDF Drive**](https://www.pdfdrive.com/)
 - [**Ikindleebooks**](https://ikindlebooks.com/) - MOBIs and ePUBs for Kindle.
 - [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche e-Books and audiobooks. Friendly community and mods. Pretty easy to get into.
+- [**Project Gutenberg**](http://www.gutenberg.org/) - Legally free e-Books.
 &nbsp;  
 &nbsp;
 # Audio Books
 
+- [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=124) | [**.org**](https://forum.mobilism.org/viewforum.php?f=124) - Forum, **_Requires Sign-up_**.
 - [**AudioBookBay**](http://www.audiobookbay.net/)
 - [**XAudioBooks**](https://xaudiobooks.com/) 
 - [**Galaxy Audiobooks**](https://galaxyaudiobook.com/)
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=26) - Audiobooks section of a Forum, **_Requires Sign-up_**.
+- [**LibriVox**](https://librivox.org/) - Legally free audiobooks
 &nbsp;  
 &nbsp;
 # Scientific Journals/Technical Manuals
@@ -38,24 +39,27 @@ description: Reliable sources to obtain e-Books.
 - [**SciMag**](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
 - [**Free Full PDF**](https://freefullpdf.com/)
 - [**Freetechbooks**](https://www.freetechbooks.com/)
+- [**r/Scholar**](https://scholar.reddit.com/) - If you cant find an article anywhere, you can request it in this subreddit.
 &nbsp;  
 &nbsp;
 # Miscellaneous
 
 - [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
 - [**CALISHOT**](https://calishot-eng-4.herokuapp.com/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://calishot-non-eng-4.herokuapp.com/index-non-eng/summary).  
-<sub>Check out [r/opencalibre](https://opencalibre.reddit.com) for updated links if these links stop working.</sub>
+<sub>If the links stop working check [here](https://www.reddit.com/search?q=flair_name%3A%22CALISHOT%22) for updated ones.</sub>
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
-- [**Project Gutenberg**](http://www.gutenberg.org/) - Legal, and old e-Books.
 - [**Trantor**](https://trantor.is/) - Darkweb e-Book resource.
 - [**Flibusta**](https://flibusta.site/) - Russian e-Book site.
 - [**Yudhacookbook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
+&nbsp;  
+&nbsp;
+# Tools
 - [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
 - [**Open Access Button**](https://openaccessbutton.org/) - Search engine for research articles.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Browser Extension [Chromium](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/openaccessbutton/)  
-- [**r/Scholar**](https://scholar.reddit.com/) - If you cant find an article anywhere, you can request it in this subreddit.
+- [**Libgen Desktop**](https://wiki.mhut.org/software:libgen_desktop) - Windows application for browsing a local copy of the LibGen catalog.
 &nbsp;  
 &nbsp;
 # IRC
