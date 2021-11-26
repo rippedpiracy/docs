@@ -15,13 +15,9 @@ description: Reliable sources to obtain e-Books.
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - e-Book section of a Forum, **_Requires Sign-up_**.
 - [**The-eye**](https://the-eye.eu/public/Books/) - Many e-Books and calibre libraries. **Currently Down**.
 - [**eBook Hunter**](https://ebook-hunter.org/)
-- [**Ebookee**](https://ebookee.com/)
-- [**Ebook3000**](http://www.Ebook3000.com)
-- [**Ebookbb**](https://www.ebookbb.com/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[eBookoz](https://ebookoz.net/viewforum.php?f=5) - Forum for the site.  
+- [**Ebookee**](https://ebookee.com/) 
 - [**OceanofPDF**](https://oceanofpdf.com/)
 - [**PDF Drive**](https://www.pdfdrive.com/)
-- [**PDFGet**](https://pdfget.com/)
 - [**Ikindleebooks**](https://ikindlebooks.com/) - MOBIs and ePUBs for Kindle.
 - [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche e-Books and audiobooks. Friendly community and mods. Pretty easy to get into.
 &nbsp;  
@@ -30,10 +26,7 @@ description: Reliable sources to obtain e-Books.
 
 - [**AudioBookBay**](http://www.audiobookbay.net/)
 - [**XAudioBooks**](https://xaudiobooks.com/) 
-- [**Golden Audiobooks**](https://goldenaudiobooks.com/)
 - [**Galaxy Audiobooks**](https://galaxyaudiobook.com/)
-- [**Audiobookbay**](http://www.audiobookbay.net/)
-- [**AudioBook Reviews**](https://audiobookreviews.com/)
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=26) - Audiobooks section of a Forum, **_Requires Sign-up_**.
 &nbsp;  
 &nbsp;
@@ -42,6 +35,7 @@ description: Reliable sources to obtain e-Books.
 - [**Sci-Hub (.se)**](https://sci-hub.se/) | [**.st**](https://sci-hub.st/) | [**.ru**](https://sci-hub.ru/)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sci-Hub X Now!](https://chrome.google.com/webstore/detail/sci-hub-x-now/gmmnidkpkgiohfdoenhpghbilmeeagjj) (Chromium) - Opens the sci-hub page for the article you want to read.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for [Zotero](https://www.zotero.org/) and [Juris-M](https://juris-m.github.io/) to automatically download PDFs from Sci-Hub.
+- [**SciMag**](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
 - [**Free Full PDF**](https://freefullpdf.com/)
 - [**Freetechbooks**](https://www.freetechbooks.com/)
 &nbsp;  
@@ -49,7 +43,8 @@ description: Reliable sources to obtain e-Books.
 # Miscellaneous
 
 - [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
-- [**CALISHOT**](https://calishot-eng-3.herokuapp.com/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://calishot-non-eng-3.herokuapp.com/index-non-eng/summary)
+- [**CALISHOT**](https://calishot-eng-4.herokuapp.com/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://calishot-non-eng-4.herokuapp.com/index-non-eng/summary).  
+<sub>Check out [r/opencalibre](https://opencalibre.reddit.com) for updated links if these links stop working.</sub>
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
 - [**Project Gutenberg**](http://www.gutenberg.org/) - Legal, and old e-Books.
 - [**Trantor**](https://trantor.is/) - Darkweb e-Book resource.
