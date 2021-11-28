@@ -9,7 +9,8 @@ description: Sources for Leaks, Account Generators and more.
 
 [**H-Gen**](https://h-gen.to) - Account Dispenser with varying categories of Accounts, mostly reliable. 
 
-[**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Pastebins, browse it using an [AdBlocker](https://ublockorigin.com/).  
+[**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Account Pastebins.  
+**_Use an AdBlocker._**  
 
 [**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.to/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**CrackX**](https://crackx.to/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
 **_Requires Sign-Up._**  
