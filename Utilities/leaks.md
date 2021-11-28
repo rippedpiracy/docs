@@ -13,7 +13,7 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.to/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**CrackX**](https://crackx.to/Forum-Accounts) - Forums with an Account Leaks category, Only get Accounts and __NOTHING ELSE__.  
 **_Requires Sign-Up._**  
-<sub>Note: you might need to like and reply to a post to get access to the content.</sub>
+<sub>You might need to like and reply to a post to get access to the content.</sub>
 
 [**s1ck.pw**](https://s1ck.pw/dispenser.php) - No-Hassles Dispenser, gives out many different Accounts as soon as you visit the page.  
 
