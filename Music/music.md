@@ -7,6 +7,8 @@ description: List of sources for getting all genres of Music.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
+[**DoubleNegative**](https://doublenegative.io/) - A website that can rip from Deezer, tidal and qobuz. Supports FLAC and albums. A better alternative to fmp3dl
+
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find music.
 
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader.
@@ -24,6 +26,8 @@ description: List of sources for getting all genres of Music.
 [**Hikarinoakariost**](http://hikarinoakari.com/) | [**Sukidesuost**](http://sukidesuost.info/) - Very good and reliable sources to get mainly Anime OSTs from, but also other Japanese Music as well. They use friendly file hosters.
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists.
+
+**PS:** r/freedeezerarl is a subreddit which provides Deezer Hi-Fi ARLs to people, they have a discord server which is currently private. Will update the guide when they become public.
 
 > Doujin, Dōjin (同人): self-published creative works produced by an individual or groups of individuals.  
 
