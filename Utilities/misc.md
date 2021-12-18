@@ -43,10 +43,10 @@ description: Tools and Apps to make your life easier.
 [**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
+[**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser Userscript Managers.  
 
 # Browser UserScripts
-<sub>**_Requires a Browser UserScript Manager._**</sub>
+<sub>**_Requires a Browser Userscript Manager._**</sub>
 
 [**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different Browsers.
 
