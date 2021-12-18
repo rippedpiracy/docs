@@ -104,8 +104,8 @@ description: Tools and Apps to make your life easier.
 
 [**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
 
-[**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.
-<sub>This is very outdated and vulnerable. Do **NOT** use this as main Browser!</sub>
+[**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
+<sub>This is very outdated and vulnerable. Do **NOT** use this as main Browser!</sub>  
 
 [**1337x Discord Bot**](https://github.com/brandongallagher1999/1337x-Bot) - 1337x Discord Bot. Deployed on Azure, and used by over 15,000 people daily.
 
