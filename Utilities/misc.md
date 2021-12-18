@@ -91,7 +91,7 @@ description: Tools and Apps to make your life easier.
 [**TubeDigger**](https://www.tubedigger.com/index.html) | [**AllavSoft**](https://www.allavsoft.com/) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
-[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl).
+[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl) with more functionality.
 
 [**Streamlink**](https://github.com/streamlink/streamlink) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 <sub>Actively maintained fork of the now inactive [Livestreamer](https://github.com/chrippa/livestreamer).</sub>  
