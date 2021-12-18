@@ -12,7 +12,7 @@ description: Sources for Leaks, Account Generators and more.
 [**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Account Pastebins.  
 **_Use an AdBlocker._**  
 
-[**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.to/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**CrackX**](https://crackx.to/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
+[**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.io/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**CrackX**](https://crackx.to/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
 **_Requires Sign-Up._**  
 <sub>You might need to like and reply to a post to get access to the content.</sub>
 
