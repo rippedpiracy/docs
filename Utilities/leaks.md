@@ -24,7 +24,7 @@ description: Sources for Leaks, Account Generators and more.
 
 # Paid Content Leaks
 
-[**Kemono**](https://kemono.party/) & [**Coomer**](https://coomer.party/)- The successor to yiff.party, has Leaks for sites like Patreon, OnlyFans and more which are user-submitted with an automated process.  
+[**Kemono**](https://kemono.party/) & [**Coomer**](https://coomer.party/)- The successors to yiff.party, has Leaks for sites like Patreon, OnlyFans and more which are user-submitted with an automated process.  
 
 [**Leak.to 18+**](https://leak.to/forum/24-18/) | [**Crackx Porn**](https://crackx.to/Forum-Porn) | [**Nulled ThotHub**](https://www.nulled.to/forum/223-thothub/) | [**Cracked.to Porn**](https://cracked.to/Forum-Porn) - More 18+ categories for the Forums listed above, OnlyFans and Paid Porn sites mostly.
 
