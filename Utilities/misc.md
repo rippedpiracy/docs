@@ -73,7 +73,7 @@ description: Tools and Apps to make your life easier.
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
 [**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.  
 [**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).  
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.</sub>  
 
 [**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
