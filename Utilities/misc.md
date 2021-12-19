@@ -111,7 +111,9 @@ description: Tools and Apps to make your life easier.
 
 # Useful Websites
 
-[**Intezer Analyze**](https://analyze.intezer.com/) | [**VirusTotal**](https://www.virustotal.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing them and logging their behavior.
+[**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing them and logging their behavior.
+**_Some may require Sign-Up._**  
+[**VirusTotal**](https://www.virustotal.com/) - Sends the File you want to Analyze through various Anti-Malware scans, all by different companies.  
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
@@ -119,13 +121,14 @@ description: Tools and Apps to make your life easier.
 
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
 
-[**urlscan**](https://urlscan.io/) - Allows you to see a image preview of a Potentially Unsafe Website without actually visiting it yourself.
+[**urlscan**](https://urlscan.io/) - Allows you to see a Image preview of a Potentially Unsafe Website without actually visiting it yourself.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
 
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.
 
-[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game. Use an AdBlocker as there can be a fair amount of pop-ups and intrusive ads.
+[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/) - Download Steam Workshop Items without having to own the game.  
+**_Use an AdBlocker as there can be a fair amount of pop-ups and intrusive ads._**  
 
 # Informational
 
