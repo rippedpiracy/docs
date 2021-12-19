@@ -12,7 +12,7 @@ description: Make your OS lighter, faster and more secure.
 
 **[privacy.sexy](https://privacy.sexy/)** - Easily create a custom Debloating script made for your specific needs.
 
-**[PrivateZilla](https://github.com/builtbybel/privatezilla)** or **[SharpApp](https://github.com/builtbybel/sharpapp)** - The simplest apps to perform a quick Privacy and Security check of your Windows 10 & 11 OS.
+**[PrivateZilla](https://github.com/builtbybel/privatezilla)** - The simplest app to perform a quick Privacy and Security check of your Windows 10 & 11 OS.
 
 **[Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows)** - The largest PowerShell module for Windows 10 & 11 tuning.
 
