@@ -8,7 +8,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 [**SFlix**](https://sflix.to/home)  
 Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
-<sub>psst. there's some anti-popups extensions in the misc category.</sub>
+<sub>Note: there's some anti-popups extensions in the misc category.</sub>
 
 [**SoapGate**](https://soapgate.org/)  
 Page where you can choose which mirror of Soap2Day to use.  
@@ -23,7 +23,7 @@ Constantly updated site with Italian Dubbed/Subbed Content. UI similar to Netfli
 
 [**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/)  
 Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links and have a plethora of Addons available that will make your experience much better.  
-<sub>Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</sub>
+<sub>Note: Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</sub>
 
 # Downloading
 <sub>*Higher Quality most of the time and better watching experience overall.*</sub>
@@ -32,8 +32,8 @@ Clients for Streaming in general with an intuitive design, they both allow Strea
 Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
 Quality can vary from Release to another, always check file sizes and Torrent names.  
 
-**[RARBG](https://rarbg.to) (Torrent)**
-Organized tracker with their own release group. Usually has very high quality releases. *Tip: search by IMDB tags*
+**[RARBG](https://rarbg.to) (Torrent)**  
+Organized tracker with their own release group. Usually has very high quality releases. *Tip: search by IMDb tags*.
 
 **[Zooqle](https://zooqle.com/) (Torrent)**  
 TV Shows & Movie Torrents, each with a list with different Quality Releases.
