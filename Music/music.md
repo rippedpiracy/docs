@@ -25,6 +25,8 @@ description: List of sources for getting all genres of Music.
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists.
 
+[**R/RipRequest**](https://www.reddit.com/r/riprequests/) - A sub-reddit for requesting songs (most flacs) **_Is currently private but you can request access_**
+
 [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - Modifies Spotify to allow unlimited skips can remove the "Upgrade" button.
 
 > Doujin, Dōjin (同人): self-published creative works produced by an individual or groups of individuals.  
