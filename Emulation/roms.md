@@ -64,5 +64,3 @@ Site comparable to [Ziperto](https://ziperto.com) which offers more ROMs, for di
 **[Scene CrackHub](http://scene.crackhub.site/) (DDL)**
 
 Auto Scene Uploading Bot that uploads Nintendo Switch titles.
-
-[**Vimm's Liar**]("https://vimm.net/") - A rom offering website thats been around since 1997 [**DDL**] 
