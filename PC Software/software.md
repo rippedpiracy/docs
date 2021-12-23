@@ -5,7 +5,7 @@ description: List of safe and trusted sites for Software.
 
 # Torrent
 
-**[RuTracker (.org)](https://rutracker.org)** | **[.net](https://rutracker.net)** | **[.nl](https://rutracker.nl)**
+**[RuTracker.org](https://rutracker.org)** | **[.net](https://rutracker.net)** | **[.nl](https://rutracker.nl)**
 
 The go-to site for Software Piracy, for more than 10+ years. Requires Sign-up to search content.  
 Everything is uploaded by members with more than decades of experience with checked uploads. **_Requires Sign-up._**  
@@ -15,7 +15,7 @@ Everything is uploaded by members with more than decades of experience with chec
 
 Software cracked by the one and only m0nkrus, the most reliable Adobe Cracker for many years.  
 You can mostly find Adobe Products and Autodesk Software.  
-<sub>Use the UNIONDHT.ORG if you dont't want to make an account</sub>
+<sub>_Use the UNIONDHT.ORG if you dont't want to make an account_</sub>
 
 # Direct Download
 
@@ -27,6 +27,7 @@ Has compressed Downloads for Software, with silent installs. Currently only Regi
 **[FileCR](https://filecr.com)**
 
 Has different Categories for Windows, Mac and Android Software Piracy. Offers Torrents too but DDLs prevail.  
+**NOTE: Do not download the FileCR Assistant/WebCRX extension if it prompts you to, get the Software you want from somewhere else.**
 
 **[AudioZ](https://audioz.download/)**
 
