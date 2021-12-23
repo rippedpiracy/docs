@@ -67,7 +67,7 @@ description: Tools and Apps to make your life easier.
 
 # Useful Apps
 
-[**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) & [**GoodByeDPI GUI**](https://github.com/mguludag/GUI-for-GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
+[**GodByeDPI**](https://github.com/ValdikSS/GoodbyeDPI) & [**GoodByeDPI GUI**](https://github.com/mguludag/GUI-for-GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
 <sub>_For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app._</sub>  
 
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
