@@ -19,7 +19,7 @@ description: List of sources for getting all genres of Music.
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists.
 
-# Apps
+# Tools
 
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find music.     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://github.com/nicotine-plus/nicotine-plus) - A graphical client for Soulseek that is frequently updated unlike Soulseek.
@@ -33,6 +33,8 @@ description: List of sources for getting all genres of Music.
 [**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music Downloader for Qobuz, Tidal, SoundCloud, and Deezer. **_Requires a paid Tidal/Deezer account._**    
 [**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloader for various platforms.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/RemixDev/orpheusdl-deezer) - Deezer plugin for OrpheusDL.
+
+[**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - A multi-purpose AdBlocker and skip-bypass for the Windows Spotify desktop application.
 
 # Misc
 
