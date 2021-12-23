@@ -67,7 +67,7 @@ description: Tools and Apps to make your life easier.
 
 # Useful Apps
 
-[**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) & [**GoodByeDPI GUI**](https://github.com/mguludag/GUI-for-GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPN's to unblock sites.  
+[**GoodbyeDPI**](https://github.com/ValdikSS/GoodbyeDPI) & [**GoodByeDPI GUI**](https://github.com/mguludag/GUI-for-GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
 <sub>_For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app._</sub>  
 
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
@@ -111,9 +111,8 @@ description: Tools and Apps to make your life easier.
 
 # Useful Websites
 
-[**VirusTotal**](https://www.virustotal.com/) - Sends the File you want to Analyze through various Anti-Malware scans, all by different companies.  
-[**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing them and logging their behavior.  
-**_Some may require Sign-Up._**  
+[**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
+[**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing them and logging their behavior. **_Some may require Sign-Up._**  
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
@@ -122,8 +121,6 @@ description: Tools and Apps to make your life easier.
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
 
 [**urlscan**](https://urlscan.io/) - Allows you to see a Image preview of a Potentially Unsafe Website without actually visiting it yourself.
-
-[**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing Online YouTube Music Downloader, no intrusive Ads.
 
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.
 
@@ -142,7 +139,7 @@ description: Tools and Apps to make your life easier.
 [**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://privacy.reddit.com).
 
 [**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s Wiki that has some useful Tech Guides.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide) - Guide to help you remove Malware, an alternalte [Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide) - Guide to help you remove Malware, an alternate [Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ransomware Mitigation Guide](https://rtech.support/books/safety-and-security/page/ransomware) - Helps to mitigate and prevent a Ransomware attack.  
 
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and other Media Ripping/Recording/Encoding tools, a [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.
