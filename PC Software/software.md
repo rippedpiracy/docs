@@ -15,19 +15,22 @@ Everything is uploaded by members with more than decades of experience with chec
 
 Software cracked by the one and only m0nkrus, the most reliable Adobe Cracker for many years.  
 You can mostly find Adobe Products and Autodesk Software.  
-<sub>_Use the UNIONDHT.ORG if you dont't want to make an account_</sub>
+<sub>_Use the UNIONDHT.ORG link if you dont't want to make an account_</sub>
 
 # Direct Download
-
-**[repack.me](https://repack.me)**
-
-Has compressed Downloads for Software, with silent installs. Currently only Registered Members can download from the site. **_Requires Sign-up_.**  
-<sub>Staff Members from Ripped have Accounts on the site, so just ask in the Discord for something.</sub>  
 
 **[FileCR](https://filecr.com)**
 
 Has different Categories for Windows, Mac and Android Software Piracy. Offers Torrents too but DDLs prevail.  
 **NOTE: Do not download the FileCR Assistant/WebCRX extension if it prompts you to, get the Software you want from somewhere else.**
+
+**[Nsane Forums](https://nsaneforums.com/)**
+
+Forum focused on News for everything Piracy, with downloads for Software and Utilites. Forum, **_Requires Sign-up._**  
+
+**[DirtyWarez](https://forum.dirtywarez.com/)**
+
+Good Forum for Software Piracy and other Warez with popular for its Requests section. Forum, **_Requires Sign-up._**
 
 **[AudioZ](https://audioz.download/)**
 
@@ -37,10 +40,7 @@ Focused more on Plugins and VSTs than Software, good for Video/Music Production.
 
 Like AudioZ, Team V.R is more focused on Audio and Video Production, Cracking Software and Plugins for it.
 
-**[Nsane Forums](https://nsaneforums.com/)**
+**[repack.me](https://repack.me)**
 
-Forum focused on News for everything Piracy, with downloads for Software and Utilites. Forum, **_Requires Sign-up._**  
-
-**[DirtyWarez](https://forum.dirtywarez.com/)**
-
-Good Forum for Software Piracy and other Warez with popular for its Requests section. Forum, **_Requires Sign-up._**
+Has compressed Downloads for Software, with silent installs. Currently only Registered Members can download from the site. **_Requires Sign-up_.**  
+<sub>_Staff Members from Ripped have Accounts on the site, so just ask in the Discord for something._</sub>  
