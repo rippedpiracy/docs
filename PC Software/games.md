@@ -82,7 +82,7 @@ Offers Downloads for old titles and hard to find Abandonware Games, including ev
 
 Big Forums for **_Adult Games_**. U18-Chan focuses more on **_Yiff Games_** while F95zone mainly focuses on **_Eroges_**. **_They both require you to Sign-up_**.
 
-**[Nyaa](https://nyaa.si) & [Sukebei](https://sukebei.nyaa.si) (Torrent)**
+**[Nyaa](https://nyaa.si/?c=6_0) & [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
 
 Both are good sources for popular Visual Novels and Japanese Games while the latter is more for **_NSFW titles_**.  
 
