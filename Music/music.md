@@ -40,9 +40,3 @@ description: List of sources for getting all genres of Music.
 # Misc
 
 [**r/FreeDeezerARL**](https://freedeezerarl.reddit.com) - Subreddit that publishes Deezer ARLs with paid plans to use with apps like [Deemix](https://deemix.app) to rip music from Deezer. Their Discord server is currently Public but may go Private soon.
-
-> Doujin, Dōjin (同人): self-published creative works produced by an individual or groups of individuals.  
-
-> &nbsp;
-
-> Dōjin music (同人音楽): Music, Fan-Arranges, Videogame Arranges, Original Works, Touhou Works etc.
