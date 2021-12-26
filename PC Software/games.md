@@ -96,7 +96,7 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 <sub>Most of these DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the game topic in [CS.RIN.RU](https://cs.rin.ru/forum), check the first post for links to the DLC files, if there are none, then use the searchbar to search for the DLC files within the thread.</sub>
 
 [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tool that can unlock all DLCs on legitimately owned Steam Games.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.tech/) - A database site that generates CreamAPI configuration files quickly.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
 
 [**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games. (Has support for Mac.)  
