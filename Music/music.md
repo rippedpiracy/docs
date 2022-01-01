@@ -40,3 +40,10 @@ description: List of sources for getting all genres of Music.
 # Misc
 
 [**r/FreeDeezerARL**](https://freedeezerarl.reddit.com) - Subreddit that publishes Deezer ARLs with paid plans to use with apps like [Deemix](https://deemix.app) to rip music from Deezer. Their Discord server is currently Public but may go Private soon.
+
+[**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX.
+[**SoX**](http://sox.sourceforge.net/) - Cross-platform CLI Swiss Army knife of sound processing programs, generates clean high quality spectograms with loads of additional features like collaging multiple spectograms and even applying various effects to these sound files. First time users may be confused by the [vast features](http://sox.sourceforge.net/Docs/Features) and are hence recommended to read the documentation once.
+
+[**Doujin cafe's hbcl**](https://github.com/doujincafe/hbcl) - A GUI / CLI discord community maintained log checker, supporting drag and drop (GUI only) and has a clean simple UI. Forked from official hbcl repository. 
+
+[**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.
