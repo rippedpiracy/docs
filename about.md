@@ -53,10 +53,10 @@ For Guides, you may include some extra metadata at the top (within the `---`):
 
 ```md
 author: (you)
-contributors: (omit this line if empty)
+contributors: (remove this line if empty)
 ```
 
-## Discord
+## Discord Invite
 
 [![Discord Server](https://discordapp.com/api/guilds/702220357834244248/embed.png?style=banner2)](https://discord.gg/6qVr2aR)
 
