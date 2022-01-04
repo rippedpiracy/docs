@@ -9,7 +9,8 @@ description: List of safe and trusted sites for Games.
 **[1337x.to](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including a bad moderation team in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
-**_NOTE: Do not get Software Releases from this site. Stay away from Torrents by IGGGAMES, xGIROx, Seyter, Qoob, nosTEAM and CorePack._**  
+**_NOTE: Do not get Software Releases from this site.  
+Stay away from Torrents by IGGGAMES, xGIROx, Seyter, Qoob, nosTEAM and CorePack._**  
 
 **[RARBG](https://rarbg.to) (Torrent)**
 
@@ -25,7 +26,7 @@ An old Russian tracker that has plenty of content but with generally less seeder
 
 **[FitGirl](https://fitgirl-repacks.site) (Torrent / DDL)**
 
-One of the most well known and reputable Repacker out there, very active and provides Torrent links with DDL mirrors. Only downside being the Repacks can take a long time to install depending on your hardware. Mostly Uploads on 1337x.to, RuTor.info, Tapocheck.net and some DDL mirrors that will be linked on her site.
+One of the most well known and reputable Repacker out there, very active and provides Torrent links with DDL mirrors. Only downside being the Repacks can take a long time to install depending on your hardware. Mostly Uploads on 1337x, RuTor, Tapocheck and some DDL mirrors that are linked on her site.
 
 **[DODI](https://dodi-repacks.site) (Torrent / DDL)**
 
@@ -37,17 +38,18 @@ A known Repacker that focuses more on Indie titles. Mostly uses Google Drive as 
 
 **[XATAB](https://xatab-repack.com) (Torrent)**
 
-One of the oldest and most respected Repacker that passed away recently. His site is currently reposting from other sources but his older Releases can still be found there. **RIP 196X - 2021.**
+One of the oldest and most respected Repacker that passed away recently. His site is currently reposting from other sources but his old Releases can still be found there.  
+**_RIP 196X - 2021._**
 
 ## General DDL
 
 **[Ova Games](https://ovagames.com) (DDL)**
 
-A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. They rarely include Torrent links. They take requests.
+A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. Rarely includes Torrent links. Takes requests.
 
 **[CrackHub](https://crackhub.site) (DDL)**
 
-Another site that mainly focuses on re-uploading to different hosts, they take requests too. It also has an Automatic Scene Uploading Bot which Uploads to Zippyshare, found [here](https://scene.crackhub.site).
+Another site that mainly focuses on re-uploading to different hosts, takes requests too. It also has an Automatic Scene Uploading Bot which Uploads to Zippyshare, found [here](https://scene.crackhub.site).
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
@@ -57,7 +59,7 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 
 **[CS.RIN.RU](https://cs.rin.ru/forum) (DDL)**
 
-Arguably the best site for Steam Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools for Steam Games. **_Requires Sign-up_**.
+Arguably the best site for Steam Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for Steam Games. **_Requires Sign-up_**.
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
