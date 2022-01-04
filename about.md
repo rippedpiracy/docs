@@ -19,7 +19,7 @@ title: (title here)
 description: (a short description that will appear in embeds)
 ---
 
-# Header 1
+# Header 
 
 Content
 
