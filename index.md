@@ -7,7 +7,7 @@ no_show_footer: true
 
 ![](/img/ripped_banner.png)
 
-# Welcome to the Official Ripped Website!
+# Welcome to Ripped's Website!
 
 **This is a collection of sites and tools that are trusted by the community.**
 
