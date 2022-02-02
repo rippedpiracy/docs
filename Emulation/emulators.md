@@ -232,7 +232,17 @@ Linux|[DeSmuME](https://desmume.org/)|
 |Windows|[Cemu](http://cemu.info/)|
 
 &nbsp;
+**Nintendo Switch**
 
+
+| Platform | Emulator |
+| --- | --- |
+|Windows|[Yuzu EA](https://pineappleea.github.io/)|
+||[Yuzu](https://yuzu-emu.org/)|
+||[Ryujinx](https://ryujinx.org/)|
+|Linux|[Yuzu EA](https://pineappleea.github.io/)|
+||[Yuzu](https://yuzu-emu.org/)|
+||[Ryujinx](https://ryujinx.org/)|
 ---
 
 &nbsp;
