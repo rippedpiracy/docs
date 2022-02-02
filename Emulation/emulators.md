@@ -238,11 +238,11 @@ Linux|[DeSmuME](https://desmume.org/)|
 | Platform | Emulator |
 | --- | --- |
 |Windows|[Yuzu EA](https://pineappleea.github.io/)|
+||[Yuzu](https://yuzu-emu.org/)|
+||[Ryujinx](https://ryujinx.org/)|
 |Linux|[Yuzu EA](https://pineappleea.github.io/)|
-|Windows|[Yuzu](https://yuzu-emu.org/)|
-|Linux|[Yuzu](https://yuzu-emu.org/)|
-|Windows|[Ryujinx](https://ryujinx.org/)|
-|Linux| [Ryujinx](https://ryujinx.org/)|
+||[Yuzu](https://yuzu-emu.org/)|
+||[Ryujinx](https://ryujinx.org/)|
 ---
 
 &nbsp;
