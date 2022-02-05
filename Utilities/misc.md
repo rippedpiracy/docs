@@ -89,7 +89,7 @@ description: Tools and Apps to make your life easier.
 
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://github.com/subhra74/xdm) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
 
-[**TubeDigger**](https://www.tubedigger.com/index.html) | [**AllavSoft**](https://www.allavsoft.com/) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
+[**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl) with more functionality.  
