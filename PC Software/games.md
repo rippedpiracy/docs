@@ -10,7 +10,7 @@ description: List of safe and trusted sites for Games.
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including a bad moderation team in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
 **_NOTE: Do not get Software Releases from this site.  
-Stay away from Torrents by IGGGAMES, xGIROx, Seyter, Qoob, nosTEAM and CorePack._**  
+Stay away from Torrents by [IGGGAMES](https://1337x.to/user/IGGGAMESCOM/), [xGIROx](https://1337x.to/user/xGIROx/), Seyter, Qoob, nosTEAM and CorePack._**  
 
 **[RARBG](https://rarbg.to) (Torrent)**
 
@@ -39,7 +39,7 @@ A known Repacker that focuses more on Indie titles. Mostly uses Google Drive as 
 **[XATAB](https://xatab-repack.com) (Torrent)**
 
 One of the oldest and most respected Repacker that passed away recently. His site is currently reposting from other sources but his old Releases can still be found there.  
-**_RIP 196X - 2021._**
+**RIP 196X - 2021.**
 
 ## General DDL
 
@@ -82,7 +82,7 @@ Offers Downloads for old titles and hard to find Abandonware Games, including ev
 
 **[F95zone](https://f95zone.to/) & [U18-Chan](https://u18chan.com/a/) (DDL)**
 
-Big Forums for **_Adult Games_**. U18-Chan focuses more on **_Yiff Games_** while F95zone mainly focuses on **_Eroges_**. **_They both require you to Sign-up_**.
+Big Forums for **_Adult Games_**. U18-Chan focuses more on **_Yiff Games_** while F95zone mainly focuses on **_Eroges_** but has other content as well. **_They both require you to Sign-up_**.
 
 **[Nyaa](https://nyaa.si/?c=6_0) & [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
 
