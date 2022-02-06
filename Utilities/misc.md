@@ -78,7 +78,7 @@ description: Tools and Apps to make your life easier.
 
 [**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
-[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) [**WinDirStat**](https://windirstat.net/) - See exactly what's taking up space on your drives.  
+[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) | [**WinDirStat**](https://windirstat.net/) - See exactly what's taking up space on your drives.  
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
