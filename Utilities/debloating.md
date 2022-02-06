@@ -32,7 +32,9 @@ description: Make your OS lighter, faster and more secure.
 [**Sigma Wiper**](https://github.com/owersite/sigma-wiper) | [**Sigma-Deleter**](https://github.com/XatzClient/Sigma-Deleter) - Deletes every trace of the Miner placed by the Sigma Minecraft Client.  
 For **Sigma Wiper** to work, you need to install the [**.NET 5.0 Desktop Runtime**](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.11-windows-x64-installer).
 
-**[BCUninstaller](https://www.bcuninstaller.com/)** - Way better Uninstaller than Windows's default one, really good for Bulk Uninstalling.
+[**BCUninstaller**](https://www.bcuninstaller.com/) - Way better Uninstaller than Windows's default one, really good for Bulk Uninstalling.
+
+[**BleachBit**](https://github.com/bleachbit/bleachbit) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
 
 <sub>*Disable [**hibernation**](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) to free as much space as your amount of RAM.*</sub>
 
