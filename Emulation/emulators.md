@@ -243,6 +243,7 @@ Linux|[DeSmuME](https://desmume.org/)|
 |Linux|[Yuzu EA](https://pineappleea.github.io/)|
 ||[Yuzu](https://yuzu-emu.org/)|
 ||[Ryujinx](https://ryujinx.org/)|
+|Android|[Skyline](https://github.com/skyline-emu/skyline)|
 
 &nbsp;
 
