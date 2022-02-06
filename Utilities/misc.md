@@ -131,6 +131,9 @@ description: Tools and Apps to make your life easier.
 
 # Informational
 
+[**WebOasis**](https://weboasis.app/) - An index of plenty of useful sites and apps, also has a forum [here](https://chat.weboasis.app/home)
+**RIP Webby**
+
 [**Spyware Watchdog**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
