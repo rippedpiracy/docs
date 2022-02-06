@@ -15,7 +15,7 @@ Stay away from Torrents by IGGGAMES, xGIROx, Seyter, Qoob, nosTEAM and CorePack.
 **[RARBG](https://rarbg.to) (Torrent)**
 
 A very safe site to get Games from, mostly Scene Releases which they have Auto Uploading Bots for. If you use a VPN get ready to solve reCAPTCHAs.  
-<sub>psst. check the misc page for captcha bypasses.</sub>
+<sub>psst. check the [misc](https://ripped.guide/Utilities/misc/#:~:text=reCAPTCHA%20Solver%20%26%20hCaptcha%20Solver%20%2D%20Automatically%20solves%20reCAPTCHAs%20and%20hCaptchas%20on%20websites%2C%20no%20user%20interaction%20required.) page for captcha bypasses.</sub>
 
 **[RuTor](http://rutor.info) (Torrent)**
 
@@ -74,7 +74,7 @@ Any Cracked Game that has Multiplayer unlocked (usually on Steam) you will most 
 
 **[GOG Games](https://gog-games.com) (DDL)**
 
-Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.  
+Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.
 
 **[My Abandonware](https://myabandonware.com) (DDL)**
 
