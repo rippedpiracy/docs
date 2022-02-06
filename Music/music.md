@@ -31,8 +31,11 @@ description: List of sources for getting all genres of Music.
 [**Tidal-Media-Downloader**](https://github.com/yaronzz/Tidal-Media-Downloader) & [**RedSea**](https://github.com/Dniel97/RedSea) - Tidal downloaders. **_Requires a paid Tidal account._** 
 
 [**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music Downloader for Qobuz, Tidal, SoundCloud, and Deezer. **_Requires a paid Qobuz/Tidal/Deezer account._**    
-[**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloading client.       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/RemixDev/orpheusdl-deezer) - Deezer downloader plugin. **_Requires a paid Deezer account._**  
+[**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloading client.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz downloader plugin. **_Requires a paid Qobuz account._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud downloader plugin. **_Requires a paid SoundCloud account to download high quality._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-napster) - Napster downloader plugin. **_Requires a paid Napster account._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch lyrics downloader plugin.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal downloader plugin. **_Requires a paid Tidal account._**
 
 [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - A multi-purpose AdBlocker and skip-bypass for the Windows Spotify desktop application.
