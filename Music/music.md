@@ -48,3 +48,5 @@ description: List of sources for getting all genres of Music.
 [**Doujin cafe's hbcl**](https://github.com/doujincafe/hbcl) - A GUI / CLI discord community maintained log checker, supporting drag and drop (GUI only) and has a clean simple UI. Forked from official hbcl repository. 
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.
+
+[**dzunlock**](https://git.freezerapp.xyz/uhwot/dzunlock) - A browser userscript that allows Hi-Fi streaming on deeezer.com.
