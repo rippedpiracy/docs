@@ -101,8 +101,8 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
 
-[**EA DLC Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Origin DLC Unlocker v1**](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older version that has support for Mac users.  
+[**EA DLC Unlocker v2**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for Mac users.  
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.
 
