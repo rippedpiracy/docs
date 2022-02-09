@@ -112,7 +112,7 @@ Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
 
-[**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud and more. Here's a slightly edited [FAQ](https://paste.masquerade.site/?e4dfea98bbd52487#4m3sucp8q94WkFoxBV5rHBARaicDKvwvv4DeryLvG1BG) if you've got questions.
+[**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?8f7d4294259c62d0#5iThxDiEs9YjQ8WM6z5PQTBXarGJX6UypGW6JVSfgcEP) if you've got questions.
 
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
 
