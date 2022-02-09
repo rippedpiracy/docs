@@ -3,8 +3,6 @@ title: Music
 description: List of sources for getting all genres of Music.
 ---
 # Websites
-[**DoubleNegative**](https://doublenegative.io/) - Tidal and Deezer downloader.
-
 [**Free MP3 Download**](https://free-mp3-download.net/) - Deezer downloader.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
