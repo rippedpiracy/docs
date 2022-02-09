@@ -41,13 +41,23 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 | Tier 3 | [RT](https://rutracker.org/) | [PTN](http://piratethenet.org/) | [TVV](https://tv-vault.me/)+[NBL](https://nebulance.io/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | [PB](https://playbits.org/) | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [AT](https://animetorrents.me/) | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) |
 
 **Audiobooks**: MyAnonamouse (note that the best GENERAL source of audiobooks is audiobookbay and occasionally rutracker)
+
 **Piano sheets**: MyAnonamouse
+
 **Older TV not available for purchase**: MySpleen
+
 **Older movies/TV**: ILoveClassics
+
 **Hentai**: Oppaitime, AnimeBytes
+
 **JAV**: yourexotic, Oppaitime, M-team, Sinderella
+
 **J-Pop**: Jpopsuki
+
 **Rhythm Games**: Bemaniso, OnlyOneCab
+
 **Music Software**: Audionews
+
 **3D Software, Graphic Design, VFX**: CGpeers
+
 **Magic**: ArtOfMisdirection, MagicTorrents
