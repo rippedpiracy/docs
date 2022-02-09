@@ -526,9 +526,9 @@ Linux|[DeSmuME](https://desmume.org/)|
 **PC Engine - TurboGrafx16**
 
 
-
-Windows
-[Ootake](http://www.ouma.jp/ootake/)|
+| Platform | Emulator |
+| --- | --- |
+|Windows|[Ootake](http://www.ouma.jp/ootake/)|
 
 &nbsp;
 **PC Engine CD - Turbo Duo - TurboGrafx CD**
