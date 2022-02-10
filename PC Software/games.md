@@ -94,7 +94,7 @@ Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied
 
 [**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/)
 
-Preservation project for Adobe Flash Games. Has over 90k Games (Search the [Collection](https://nul.sh/misc/flashpoint/)) in it's library which you can play in your Browser.   
+Preservation project for Adobe Flash Games. Has over 90k Games (Search the [Collection](https://nul.sh/misc/flashpoint/)) in it's library which are all playable as a Web Game.   
 
 # Tools
 <sub>Most of these DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the game topic in [CS.RIN.RU](https://cs.rin.ru/forum), check the first post for links to the DLC files, if there are none, then use the searchbar to search for the DLC files within the thread.</sub>
