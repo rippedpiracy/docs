@@ -92,7 +92,8 @@ Both are good sources for Visual Novels and Japanese Games while the latter is e
 
 Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
-[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) - Preservation project for Adobe Flash Games. With it, you can play your childhood's Games, again. Use Flashpoint Infinity for general use and messing around.  
+[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) 
+Preservation project for Adobe Flash Games. Has over 90k Games (Search the [Collection](https://nul.sh/misc/flashpoint/)) in it's library which you can play in your Browser.   
 
 # Tools
 <sub>Most of these DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the game topic in [CS.RIN.RU](https://cs.rin.ru/forum), check the first post for links to the DLC files, if there are none, then use the searchbar to search for the DLC files within the thread.</sub>
@@ -106,7 +107,7 @@ Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.
 
-[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs. Goldberg is more beginner friendly and easier to use but lacks some features SSE has, such as; Bypassing SteamStub DRM, tracking and unlocking Achievements, a pre-packaged Game Launcher that makes it easier to manage games and configure them, a more advanced Steam Overlay and support for Plugins.  
+[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs. Goldberg is more beginner friendly and easier to use but lacks some features SSE has, such as; Bypassing SteamStub DRM, tracking and unlocking Achievements, a pre-packaged Game Launcher that makes it easier to manage Games and configure them, a more advanced Steam Overlay and support for Plugins.  
 **NOTE: SSE is abandoned. If you're having issues with it, use [SSE Reborn Client [v1.46.1]](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
