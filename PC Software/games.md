@@ -92,7 +92,8 @@ Both are good sources for Visual Novels and Japanese Games while the latter is e
 
 Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
-[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) 
+[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/)
+
 Preservation project for Adobe Flash Games. Has over 90k Games (Search the [Collection](https://nul.sh/misc/flashpoint/)) in it's library which you can play in your Browser.   
 
 # Tools
