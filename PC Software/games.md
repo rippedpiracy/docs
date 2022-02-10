@@ -86,7 +86,8 @@ Big Forums for **_Adult Games_**. U18-Chan focuses more on **_Yiff Games_** whil
 
 **[Nyaa](https://nyaa.si/?c=6_0) & [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
 
-Both are good sources for popular Visual Novels and Japanese Games while the latter is more for **_NSFW titles_**.  
+Both are good sources for Visual Novels and Japanese Games while the latter is exclusively for **_NSFW titles_**.  
+<sub>Some Japanese Games require a [Locale Emulator](https://pooi.moe/Locale-Emulator/) to work.</sub>
 
 **[Lewd Patcher](https://lewdpatcher.com) (DDL)**
 
