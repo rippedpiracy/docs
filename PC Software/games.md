@@ -9,8 +9,8 @@ description: List of safe and trusted sites for Games.
 **[1337x.to](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including a bad moderation team in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
-**_NOTE: Do not get Software Releases from this site.  
-Stay away from Torrents by [IGGGAMES](https://1337x.to/user/IGGGAMESCOM/), [xGIROx](https://1337x.to/user/xGIROx/), Seyter, Qoob, nosTEAM and CorePack._**  
+**NOTE: Do not get Software Releases from this site.  
+Stay away from Torrents by [IGGGAMES](https://1337x.to/user/IGGGAMESCOM/), [xGIROx](https://1337x.to/user/xGIROx/), Seyter, Qoob, nosTEAM and CorePack.**  
 
 **[RARBG](https://rarbg.to) (Torrent)**
 
@@ -20,7 +20,7 @@ A very safe site to get Games from, mostly Scene Releases which they have Auto U
 **[RuTor](http://rutor.info) (Torrent)**
 
 An old Russian tracker that has plenty of content but with generally less seeders. Some Repackers upload exclusively here.  
-**_NOTE: Only get Games from R.G. Mechanics, Chovka, XATAB and FitGirl_**.
+**NOTE: Only get Games from R.G. Mechanics, Chovka, XATAB and FitGirl**.
 
 ## Repackers
 
@@ -69,8 +69,8 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 
 **[Online-Fix](https://online-fix.me) (DDL / Torrent)**
 
-Any Cracked Game that has Multiplayer unlocked (usually on Steam) you will most likely find it here done by their own internal Cracker, 0xdeadc0de.  
-**_NOTE: Their site has strong measures against Ad-blockers. Requires Sign-up._**  
+Any Cracked Game that has Multiplayer unlocked (usually on Steam) you will most likely find it here done by their own internal Cracker, 0xdeadc0de. **_Requires Sign-up_**.  
+**NOTE: Their site has strong measures against Ad-blockers.**  
 
 **[GOG Games](https://gog-games.com) (DDL)**
 
@@ -108,7 +108,7 @@ Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games.
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs. Goldberg is more beginner friendly and easier to use but lacks some features SSE has, such as; Bypassing SteamStub DRM, tracking and unlocking Achievements, a pre-packaged Game Launcher that makes it easier to manage games and configure them, a more advanced Steam Overlay and support for Plugins.  
-**NOTE:** SSE is abandoned. If you're having issues with it, use [SSE Reborn Client [v1.46.1]](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).  
+**NOTE: SSE is abandoned. If you're having issues with it, use [SSE Reborn Client [v1.46.1]](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
