@@ -69,8 +69,7 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 
 **[Online-Fix](https://online-fix.me) (DDL / Torrent)**
 
-Any Cracked Game that has Multiplayer unlocked (usually on Steam) you will most likely find it here done by their own internal Cracker, 0xdeadc0de. **_Requires Sign-up_**.  
-**NOTE: Their site has strong measures against Ad-blockers.**  
+Any Cracked Game that has Multiplayer unlocked (usually on Steam) you will most likely find it here done by their own internal Cracker, 0xdeadc0de. **_Requires Sign-up_**.
 
 **[GOG Games](https://gog-games.com) (DDL)**
 
