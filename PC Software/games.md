@@ -91,7 +91,7 @@ Both are good sources for Visual Novels and Japanese Games while the latter is e
 
 **[Lewd Patcher](https://lewdpatcher.com) (DDL)**
 
-Has many different **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
+Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
 [**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) - Preservation project for Adobe Flash Games. With it, you can play your childhood's Games, again. Use Flashpoint Infinity for general use and messing around.  
 
