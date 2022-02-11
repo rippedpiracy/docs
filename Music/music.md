@@ -30,6 +30,7 @@ description: List of sources for getting all genres of Music.
 
 [**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music Downloader for Qobuz, Tidal, SoundCloud, and Deezer. **_Requires a paid Qobuz/Tidal/Deezer account._**    
 [**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloading client.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/uhwot/orpheusdl-deezer) - Deezer downloader plugin. **_Requires a paid Deezer account._**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal downloader plugin. **_Requires a paid Tidal account._**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz downloader plugin. **_Requires a paid Qobuz account._**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud downloader plugin. **_Requires a paid SoundCloud account to download high quality._**  
