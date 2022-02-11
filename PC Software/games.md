@@ -97,7 +97,8 @@ Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied
 Preservation project for Adobe Flash Games. Has over 90k Games (Search the [Collection](https://nul.sh/misc/flashpoint/)) in it's library which are all playable as a Web Game.   
 
 # Tools
-<sub>Most of these DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the game topic in [CS.RIN.RU](https://cs.rin.ru/forum), check the first post for links to the DLC files, if there are none, then use the searchbar to search for the DLC files within the thread.</sub>
+**All the tools listed here are Windows only unless stated otherwise.**  
+<sub>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs.</sub>
 
 [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tool that can unlock all DLCs on legitimately owned Steam Games. [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
