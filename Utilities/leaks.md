@@ -4,7 +4,7 @@ description: Sources for Leaks, Account Generators and more.
 ---
 
 <sub>*Use the tools in the [misc](https://ripped.guide/Utilities/misc/) page to bypass shorteners and wait times.*</sub>
-<sub>*Use [this](https://cdn.discordapp.com/attachments/763343313797120010/769505288545763328/NordVPNSetup.exe) version of NordVPN when trying out accounts.*</sub>
+<sub>*Use [this](https://cdn.discordapp.com/attachments/763343313797120010/769505288545763328/NordVPNSetup.exe) version of NordVPN when trying out Accounts, don't update it.*</sub>
 # Accounts  
 
 [**H-Gen**](https://h-gen.to) - Account Dispenser with varying categories of Accounts, mostly reliable. 
