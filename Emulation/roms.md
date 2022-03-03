@@ -63,4 +63,4 @@ Site comparable to [Ziperto](https://ziperto.com) which offers more ROMs, for di
 
 **[Scene CrackHub](http://scene.crackhub.site/) (DDL)**
 
-Auto Scene Uploading Bot that uploads Nintendo Switch titles.
+Auto Scene Uploading Bot that uploads Nintendo Switch titles among others.
