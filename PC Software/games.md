@@ -8,7 +8,7 @@ description: List of safe and trusted sites for Games.
 
 **[1337x.to](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
 
-A very popular Torrenting site which has an incredible amount of content, but also has major downsides including a bad moderation team in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
+A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
 **NOTE: Do not get Software Releases from this site.  
 Stay away from Torrents by [IGGGAMES](https://1337x.to/user/IGGGAMESCOM/), [xGIROx](https://1337x.to/user/xGIROx/), Seyter, Qoob, nosTEAM and CorePack.**  
 
@@ -38,7 +38,7 @@ A known Repacker that focuses more on Indie titles. Mostly uses Google Drive as 
 
 **[XATAB](https://xatab-repack.com) (Torrent)**
 
-One of the oldest and most respected Repacker that passed away recently. His site is currently reposting from other sources but his old Releases can still be found there.  
+One of the oldest and most respected Repacker that passed away recently. His site is currently being used by different Repackers but his old Releases can still be found there.  
 **RIP 196X - 2021.**
 
 ## General DDL
