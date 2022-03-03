@@ -51,4 +51,4 @@ description: List of sources for getting all genres of Music.
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.
 
-[**dzunlock**](https://git.freezerapp.xyz/uhwot/dzunlock) - A browser userscript that allows Hi-Fi streaming on deeezer.com.
+[**dzunlock**](https://git.freezerapp.xyz/uhwot/dzunlock) - A browser userscript that allows Hi-Fi streaming on deezer.com.
