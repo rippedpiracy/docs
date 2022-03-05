@@ -41,7 +41,7 @@ TV Shows & Movie Torrents, each with a list with different Quality Releases.
 # IRC
 <sub>_No Middle-Man between you, and Downloading the Content from the IRC bots. **Requires an IRC Client.**_</sub>
 
-[**MovieGods**](irc://irc.abjects.net/MOVIEGODS) (XDCC)  
+**[MovieGods](irc://irc.abjects.net/MOVIEGODS) (XDCC)**  
 File sharing network with vast resources, mainly for movies and shows. Head to #mg-chat to Download Content.
 
 
