@@ -2,7 +2,6 @@
 title: Private Trackers
 description: Private Tracker info
 no_show_title: true
-no_show_footer: true
 ---
 # FAQ
 
