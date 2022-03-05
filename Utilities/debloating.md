@@ -16,14 +16,11 @@ description: Make your OS lighter, faster and more secure.
 
 **[Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows)** - The largest PowerShell module for Windows 10 & 11 tuning.
 
-**[WPD](https://wpd.app)** - A Privacy dashboard for Windows 10 & 11.
+**[WPD](https://wpd.app)** | **[WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)** -Tools created to intercept your Network Traffic and block Tracking requests even before they get to Microsoft.
 
 **[Optimizer](https://github.com/hellzerg/optimizer/releases)** - Portable utility that helps you restore your Security and increase your Privacy.
 
-**[WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)** - Created to intercept your Network Traffic and block Tracking requests even before they get to Microsoft.
-
 **[Fix-Windows-Privacy](https://modzero.github.io/fix-windows-privacy/)** - Deletes Telemetry Registry keys that may have been left over by other Programs.
- 
  
 # Honorable Mentions 
 
