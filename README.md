@@ -8,7 +8,7 @@ Everything in the Ripped Website, mirrored here for Suggestions and Improvements
 
 Simply make an Issue with a brief description of your Suggestion  
   
-_or_
+_or_ h
 
 Make a Pull Request with the modified/added Content.
 
