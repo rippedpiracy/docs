@@ -1,6 +1,6 @@
 # Ripped Piracy Docs
 
-Everything in the Ripped Website, mirrored here for Suggestions and Improvements.
+Everything in the [**Ripped Guide**](https://ripped.guide), mirrored here for Suggestions and Improvements.
 
 **Be sure to check in the repo if anything you're about to suggest is already inside.**
 
