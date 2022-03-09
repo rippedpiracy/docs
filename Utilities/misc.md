@@ -8,7 +8,7 @@ description: Tools and Apps to make your life easier.
 <sub>*We recommend coupling these Extensions & UserScripts with [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).*</sub>  
 &nbsp;  
   
-[**FastForward**](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
+[**FastForward**](https://fastforward.team/) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
 <sub>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</sub>  
 
 [**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
@@ -18,32 +18,34 @@ description: Tools and Apps to make your life easier.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.</sub>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **@LukeThighStalker**.</sub> 
 
-[**Dark Reader**](https://github.com/darkreader/darkreader) - Dark/Light mode for all websites. **_May slow down page load times._**
+[**Dark Reader**](https://darkreader.org/) - Dark/Light mode for all websites. **_May slow down page load times._**
 
-[**ClearURLs**](https://github.com/ClearURLs/Addon) - Remove Tracking elements from URLs.
+[**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
-[**NoScript**](https://github.com/hackademix/noscript) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. Can be difficult to setup for the Average User.  
-[**HTTPS Everywhere**](https://github.com/EFForg/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.  
-[**Decentraleyes**](https://git.synz.io/Synzvato/decentraleyes) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.  
-[**Disconnect**](https://github.com/disconnectme/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
+[**NoScript**](https://noscript.net/) () - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. Can be difficult to setup for the Average User.  
+[**HTTPS Everywhere**](https://www.eff.org/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.  
+[**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.  
+[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
 
-[**SponsorBlock**](https://github.com/ajayyy/SponsorBlock) - Skip YouTube Sponsorships & Shoutouts.
+[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User Agent switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
 
 [**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually or Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
-[**Download All Images**](https://github.com/belaviyo/save-images) - Download all Images from any web page you're on.
+[**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
 
 [**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
+
+[**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.
 
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through it's database [here](https://tosdr.org/).
 
 [**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**ViolentMonkey**](https://github.com/violentmonkey/violentmonkey) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
+[**ViolentMonkey**](https://violentmonkey.github.io/) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
 
 # Browser UserScripts
 <sub>**_Requires a Browser UserScript Manager._**</sub>
@@ -73,43 +75,41 @@ description: Tools and Apps to make your life easier.
 
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
 [**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.  
-[**Process Hacker**](https://github.com/processhacker/processhacker) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).  
+[**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.</sub>  
 
-[**ALVR**](https://github.com/alvr-org/ALVR) - Free and Open Source alternative to Virtual Desktop, works really well.  
+[**ALVR**](https://alvr-org.github.io/) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
 [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) | [**WinDirStat**](https://windirstat.net/) - See exactly what's taking up space on your drives.  
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
-[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
+[**OpenHashTab**](https://github.com/namazso/OpenHashTab) | [**HashCheck**](https://github.com/idrassi/HashCheck) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
 
-[**hashcat**](https://github.com/hashcat/hashcat) - An advanced Password recovery and Cracking utility.
+[**hashcat**](https://hashcat.net/hashcat/) - An advanced Password recovery and Cracking utility.
 
-[**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
+[**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
-[**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://github.com/subhra74/xdm) | [**Motrix**](https://github.com/agalwood/Motrix) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
+[**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://xtremedownloadmanager.com/) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
 
 [**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
-[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://github.com/ytdl-org/youtube-dl) with more functionality. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
-[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://github.com/ytdl-org/youtube-dl).
+[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
+[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).
 
-[**Streamlink**](https://github.com/streamlink/streamlink) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
-<sub>Actively maintained fork of the now inactive [Livestreamer](https://github.com/chrippa/livestreamer).</sub>  
+[**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
+<sub>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</sub>  
 
 [**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
 
-[**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://github.com/zerotier/ZeroTierOne) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
+[**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
-[**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
+[**Text-Grab**](https://www.microsoft.com/en-us/p/text-grab/9mznkqj7sl0b) - Use OCR to grab and read text from images. 
 
 [**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
 <sub>This is very outdated and vulnerable. Do **NOT** use this as main Browser!</sub>  
-
-[**1337x Discord Bot**](https://github.com/brandongallagher1999/1337x-Bot) - 1337x Discord Bot. Deployed on Azure, and used by over 15,000 people daily.
 
 # Useful Websites
 
