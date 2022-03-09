@@ -22,7 +22,7 @@ description: Tools and Apps to make your life easier.
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
-[**NoScript**](https://noscript.net/) () - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. Can be difficult to setup for the Average User.  
+[**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. Can be difficult to setup for the Average User.  
 [**HTTPS Everywhere**](https://www.eff.org/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.  
 [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.  
 [**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
