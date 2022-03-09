@@ -38,7 +38,7 @@ description: Tools and Apps to make your life easier.
 
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
 
-[**ToS;DR**](https://github.com/tosdr/browser-extensions) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements.
+[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through it's database [here](https://tosdr.org/).
 
 [**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
