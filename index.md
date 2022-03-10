@@ -4,6 +4,7 @@ description: Welcome to Ripped!
 no_show_title: true
 no_show_footer: true
 ---
+![](/img/rippedtransparentproper.svg)
 
 ![](/img/ripped_banner.png)
 
