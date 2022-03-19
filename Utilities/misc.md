@@ -83,7 +83,7 @@ description: Tools and Apps to make your life easier.
 [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) | [**WinDirStat**](https://windirstat.net/) - See exactly what's taking up space on your drives.  
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
-[**OpenHashTab**](https://github.com/namazso/OpenHashTab) | [**HashCheck**](https://github.com/idrassi/HashCheck) - Convenient and Efficient File Hash verifiers, it also integrates into Windows Shell.
+[**OpenHashTab**](https://github.com/namazso/OpenHashTab) | [**HashCheck**](https://github.com/idrassi/HashCheck) - Convenient and Efficient File Hash checkers and verifiers, it also integrates into Windows Shell.
 
 [**hashcat**](https://hashcat.net/hashcat/) - An advanced Password recovery and Cracking utility.
 
@@ -94,7 +94,7 @@ description: Tools and Apps to make your life easier.
 [**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
-[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
+[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality. It can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
