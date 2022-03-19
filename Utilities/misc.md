@@ -25,9 +25,9 @@ description: Tools and Apps to make your life easier.
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. Can be difficult to setup for the Average User.  
 [**HTTPS Everywhere**](https://www.eff.org/https-everywhere) - Encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.  
 [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.  
-[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.
+[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.  
 [**DuckDuckGo Privacy Essentials**](https://duckduckgo.com/app) - Removes trackers & 3rd party cookies, reduces Browser fingerprintability, shows a "Privacy Grade" for all sites you visit and more.  
-[**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block trackers.
+[**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block trackers.  
 
 [**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User Agent switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
 
