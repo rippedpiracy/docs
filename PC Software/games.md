@@ -79,9 +79,9 @@ Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is u
 
 Offers Downloads for old titles and hard to find Abandonware Games, including everything they came with.
 
-**[F95zone](https://f95zone.to/sam/latest_alpha/) & [U18-Chan](https://u18chan.com/a/) (DDL)**
+**[F95zone](https://f95zone.to/) & [U18-Chan](https://u18chan.com/a/) (DDL)**
 
-Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels (and [more](https://f95zone.to/)) which also has many English **_Porn Games_** and other English translated foreign Games (Japanese Eroges). U18-Chan instead has exclusively **_Yiff Games_**. **_They both require you to Sign-up_**.
+Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels and many English **_Porn [Games](https://f95zone.to/sam/latest_alpha/)_** and other English translated foreign Games (Japanese Eroges). U18-Chan instead has exclusively **_Yiff Games_**. **_They both require you to Sign-up_**.
 
 **[Nyaa](https://nyaa.si/?c=6_0) & [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
 
