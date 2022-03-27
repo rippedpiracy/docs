@@ -2,6 +2,9 @@
 title: Useful Links
 description: Useful links related to Bemani. All of this info was taken directly from https://bemani.guide as the site is currently offline, when https://bemani.guide comes back online this will be removed.
 ---
+**Disclaimer**
+All of this info was taken **directly** from the [Bemani Guide](https://bemani.guide) as the site is currently offline, when the site comes back online this will be removed.
+
 
 ## General  
 - [Remywiki](https://remywiki.com/Main_Page)  - Generalized BEMANI content wiki
