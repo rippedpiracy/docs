@@ -1,6 +1,6 @@
 ---
 title: ROMs
-description: List of sites that host ROMs.
+description: List of sites that host ROM Downloads.
 ---
 
 *Tip: Use an AdBlocker while browsing all of these sites!*  
