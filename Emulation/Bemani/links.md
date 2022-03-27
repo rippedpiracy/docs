@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-description: Useful links related to Bemani. All of this info was taken **directly** from [bemani.guide](https://bemani.guide) as the site is currently offline, when [bemani.guide](https://bemani.guide) comes back online this will be removed.
+description: Useful links related to Bemani. All of this info was taken directly from https://bemani.guide as the site is currently offline, when https://bemani.guide comes back online this will be removed.
 ---
 
 ## General  
