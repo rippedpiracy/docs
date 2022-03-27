@@ -12,7 +12,8 @@ Nice place to get a large list of ROMs from every type of system.
 
 **[RomUlation](https://www.romulation.org/) (DDL)**  
 
-Offering ROM Downloads since 2004. **Ignore any Pop-ups/Banners about faster Downloads/Premium.**
+Offering ROM Downloads since 2004.  
+<sub>**Ignore any Pop-ups/Banners about faster Downloads/Premium. Try another ROM site if the Download is for Premium Users.**</sub>  
 
 **[RomsGet](https://romsget.io/) (DDL)**  
 
@@ -36,8 +37,8 @@ Mr. AlvRo has organized all of his ROM's Download links via 1fichier in a Google
 
 **[PortalRoms Archive](https://krakenfiles.com/view/ti6w9uifUv/file.html) (Torrent)**
 
-Before PortalRoms shut down, one of Ripped's Staff Members made a Backup of all its ROM Downloads.
-*If you Download one of these Torrents **please** seed them as long as possible.*
+Before PortalRoms shut down, one of Ripped's Staff Members made a Backup of all its ROM Downloads.  
+<sub>**If you Download one of these Torrents *please* seed them as long as possible.**</sub>  
 
 **[Ziperto](https://www.ziperto.com) (DDL)**
 
@@ -51,16 +52,16 @@ This site is a pretty nice source for 3DS CIA Games, if you're a bit rusty in Sp
 
 You can easily Download 3DS Games by scanning a QR code with the [FBI](https://gbatemp.net/threads/release-fbi-open-source-cia-installer.386433/) app.
 
-<sub>Installing via QR code on the 3DS may be quite slow as the device does not have a great network chip.</sub>
+<sub>Installing via QR code on the 3DS may be quite slow as the device does not have a good NIC chip.</sub>
 
 **[nsw2u](https://nsw2u.xyz/) (DDL)**
 
-Changes domains frequently, offering NSP / XCI files for Switch Games, with Updates included.
+Changes domains frequently, offers NSP / XCI files for Switch Games, with Updates included.
 
 **[CDRomance](https://cdromance.com/) (DDL)**
 
-Site comparable to [Ziperto](https://ziperto.com) which offers more ROMs, for different consoles, uploaded directly to the site.
+A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for different consoles, uploaded directly to the site.
 
 **[Scene CrackHub](http://scene.crackhub.site/) (DDL)**
 
-Auto Scene Uploading Bot that uploads Nintendo Switch titles among others.
+An Auto Scene Release Uploader Bot that uploads Nintendo Switch titles among other ROMs.
