@@ -16,7 +16,7 @@ Offering ROM Downloads since 2004. **Ignore any Pop-ups/Banners about faster Dow
 
 **[RomsGet](https://romsget.io/) (DDL)**  
 
-Straight forward UI to Download many ROMs directly.
+Straightforward UI to Download many ROMs directly.
 
 **[r/ROMs Megathread](https://r-roms.github.io/) (DDL)**
 
