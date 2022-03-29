@@ -82,10 +82,10 @@ description: Tools and Apps to make your life easier.
 
 [**ALVR**](https://alvr-org.github.io/) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
-[**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) | [**WinDirStat**](https://windirstat.net/) - See exactly what's taking up space on your drives.  
+[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
-[**OpenHashTab**](https://github.com/namazso/OpenHashTab) | [**HashCheck**](https://github.com/idrassi/HashCheck) - Convenient and Efficient File Hash checkers and verifiers, it also integrates into Windows Shell.
+[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, it also integrates into Windows Shell.
 
 [**hashcat**](https://hashcat.net/hashcat/) - An advanced Password recovery and Cracking utility.
 
