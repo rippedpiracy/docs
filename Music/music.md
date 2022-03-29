@@ -3,6 +3,7 @@ title: Music
 description: List of sources for getting all genres of Music.
 ---
 # Websites
+
 [**Free MP3 Download**](https://free-mp3-download.net/) - Deezer downloader.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
@@ -10,8 +11,6 @@ description: List of sources for getting all genres of Music.
 [**RuTracker**](https://rutracker.org) - **_Requires Sign-up._**  
 
 [**SoftArchive**](https://sanet.st/music/) - SoftArchive's Music Section, has many different Albums you might not find elsewhere.
-
-[**Doujin Café Discord**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online.
 
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses torrents instead.
 
@@ -41,13 +40,21 @@ description: List of sources for getting all genres of Music.
 
 # Misc
 
-[**r/FreeDeezerARL**](https://freedeezerarl.reddit.com) - Subreddit that publishes Deezer ARLs with paid plans to use with apps like [Deemix](https://deemix.app) to rip music from Deezer. Their Discord server is currently Public but may go Private soon.
+[**Morris Motel**](https://morrismotel.com/generate-a-deezer-arl) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc. previously known as [r/FreeDeezerARL](https://freedeezerarl.reddit.com)
+
+[**r/xTrill**](https://xTrill.reddit.com) - Subreddit for requesting and sharing Music.
+
+[**r/RipRequestsNew**](https://discord.gg/SH7DUfVz46) - The Discord Server of the now banned r/RipRequestsNew, the successor of r/RipRequests after it got closed down. They allow requesting and sharing music (currently not). **_Discord Server__*
+
+[**Doujin Café**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online. **_Discord Server_**. 
+
+[**Slav Art**](https://discord.com/invite/gwxRf6ySGK) - Have many bots that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality using [this](https://github.com/crackhub-dev/music-dl-bot) bot. They also allow community requesting/sharing. **_Discord Server_**
 
 [**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX. 
 
 [**SoX**](http://sox.sourceforge.net/) - Cross-platform CLI Swiss Army knife of sound processing programs, generates clean high quality spectograms with loads of additional features like collaging multiple spectograms and even applying various effects to these sound files. First time users may be confused by the [vast features](http://sox.sourceforge.net/Docs/Features) and are hence recommended to read the documentation once.
 
-[**Doujin cafe's hbcl**](https://github.com/doujincafe/hbcl) - A GUI / CLI discord community maintained log checker, supporting drag and drop (GUI only) and has a clean simple UI. Forked from official hbcl repository. 
+[**hey-bro-check-log**](https://github.com/doujincafe/hbcl) - A CLI log checker maintained by Doujin Café Discord. Forked from the official [hbcl](https://github.com/ligh7s/hey-bro-check-log) repository. 
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.
 
