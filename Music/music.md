@@ -40,7 +40,7 @@ description: List of sources for getting all genres of Music.
 
 # Misc
 
-[**Morris Motel**](https://morrismotel.com/generate-a-deezer-arl) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc. previously known as [r/FreeDeezerARL](https://freedeezerarl.reddit.com)
+[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc. previously known as [r/FreeDeezerARL](https://freedeezerarl.reddit.com).
 
 [**r/xTrill**](https://xTrill.reddit.com) - Subreddit for requesting and sharing Music.
 
