@@ -4,7 +4,7 @@ description: List of safe and trusted sites for Games.
 ---
 
 ## General Torrent
-**Some of these sites have Fake and Mirror sites, you should only use the ones we linked.**
+**Some of these sites have Fake and Mirror sites, you should only use the ones we link to.**
 
 **[1337x.to](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
 
