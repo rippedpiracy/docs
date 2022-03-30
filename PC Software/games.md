@@ -143,4 +143,4 @@ Download Steam Workshop Items without having to own the game.
 
 > &nbsp;
 
-> **Mirrors:** An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another mirror
+> **Mirrors:** An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another mirror.
