@@ -22,8 +22,12 @@ In the Streaming section as you can Stream the Content you want to Download.
 Constantly updated site with Italian Dubbed/Subbed Content. UI similar to Netflix.
 
 [**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/)  
-Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links and have a plethora of Addons available that will make your experience much better.  
+Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links as well as from certain Sites and have a plethora of Addons available that will make your experience much better.  
 <sub>Note: Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</sub>
+
+[**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop)  
+Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like yts.mx), has an [Android Version](https://github.com/popcorn-official/popcorn-android) too. It's official site https://popcorntime.app/ is currently down and there are various phishing results. **Only use the site linked here**  
+<sub>In the settings of the app you can replace all the API fields with https://popcorn-time.ga/ to make the movies appear.</sub>
 
 # Downloading
 <sub>*Higher Quality most of the time and better watching experience overall.*</sub>
