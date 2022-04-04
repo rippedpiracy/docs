@@ -14,7 +14,7 @@ description: List of sources for getting all genres of Music.
 
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses torrents instead.
 
-[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists (**currently down**). They also have a a weekly folder found [here](https://unreleased.me/updates). Their [reddit](https://UnreleasedDisco.reddit.com)
+[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists (**currently down**). They also have a weekly folder found [here](https://unreleased.me/updates). Their [Reddit](https://UnreleasedDisco.reddit.com).
 
 # Tools
 
@@ -44,7 +44,7 @@ description: List of sources for getting all genres of Music.
 
 [**Doujin Café**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online. **_Discord Server_**. 
 
-[**r/RipRequestsNew**](https://discord.gg/SH7DUfVz46) - The Discord Server of the now banned r/RipRequestsNew, the successor of r/RipRequests after it got closed down. They allow requesting and sharing music (currently not). **_Discord Server_**
+[**RipRequestsNew**](https://discord.gg/SH7DUfVz46) - The Discord Server of the now banned r/RipRequestsNew, the successor of r/RipRequests after it got closed down. They allow requesting and sharing music (currently not). **_Discord Server_**
 
 [**r/xTrill**](https://xTrill.reddit.com) - Subreddit for requesting and sharing Music.
 
