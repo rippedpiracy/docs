@@ -113,8 +113,8 @@ Download Steam Workshop Items without having to own the game.
 
 [**EA DLC Unlocker v2**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for Mac users.  
-[**Uplay R1 Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=112169) - Ubisoft DLC unlocker, will only work for Games released before October 2020 (that have the uplay_r1*.dll file).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Uplay R2 Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111874) - Same as R1 Unlocker, but instead will only work for Games released after October 2020 (that have the upc_r2_loader*.dll file).  
+[**Uplay R1 Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=112169) - Ubisoft DLC unlocker, will only work for Games released before October 2020 (that have the uplay_r1**.dll file).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Uplay R2 Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111874) - Same as R1 Unlocker, but instead will only work for Games released after October 2020 (that have the upc_r2**.dll/uplay_r2**.dll file).  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - An easy to use Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games, this can bypass Anti-Cheat software unlike ScreamAPI.  
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
 
