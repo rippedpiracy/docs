@@ -47,10 +47,10 @@ One of the oldest and most respected Repacker that passed away recently. His sit
 
 A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. Rarely includes Torrent links. Takes requests.
 
-**[CrackHub](https://crackhub.site) (DDL)**
+**[Scene CrackHub](https://scene.crackhub.site) (DDL)**
 
-Another site that mainly focuses on re-uploading to different hosts, takes requests too.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scene CrackHub](https://scene.crackhub.site) - It also has an Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 titles directly from [TorrentSeeds](https://torrentseeds.org/) to zippyshare.
+An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 Scene Releases directly from [TorrentSeeds](https://torrentseeds.org/) to zippyshare.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CrackHub](https://crackhub.site) - Mainly focuses on re-uploading various content to different hosts, takes requests too.
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
@@ -82,7 +82,7 @@ Offers Downloads for old titles and hard to find Abandonware Games, including ev
 
 **[F95zone](https://f95zone.to/) & [U18-Chan](https://u18chan.com/a/) (DDL)**
 
-Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels and many English **_Porn [Games](https://f95zone.to/sam/latest_alpha/)_** and other English translated foreign Games (Japanese Eroges). U18-Chan instead has exclusively **_Yiff Games_**. **_They both require you to Sign-up_**.
+Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels, many English **_Porn Games_** and even English translated foreign Games such as **_Japanese Eroges_** (a searchable index can be found [here](https://f95zone.to/sam/latest_alpha/)). U18-Chan instead has exclusively **_Yiff Games_**. **_They both require you to Sign-up_**.
 
 **[Nyaa](https://nyaa.si/?c=6_0) & [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
 
