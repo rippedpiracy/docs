@@ -40,13 +40,15 @@ description: List of sources for getting all genres of Music.
 
 # Communities
 
-[**Slav Art**](https://discord.com/invite/gwxRf6ySGK) - Have many bots that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality using [this](https://github.com/crackhub-dev/music-dl-bot) bot. They also allow community requesting/sharing. **_Discord Server_**
+[**Slav Art**](https://discord.com/invite/gwxRf6ySGK) - Have many bots that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality using [this](https://github.com/crackhub-dev/music-dl-bot) bot. They also allow community requesting/sharing. **_Discord Server_**.
+
+[**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more. **__Requires Sign-up__**.
 
 [**Doujin Café**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online. **_Discord Server_**. 
 
-[**RipRequestsNew**](https://discord.gg/SH7DUfVz46) - The Discord Server of the now banned r/RipRequestsNew, the successor of r/RipRequests after it got closed down. They allow requesting and sharing music (currently not). **_Discord Server_**
-
 [**r/xTrill**](https://xTrill.reddit.com) - Subreddit for requesting and sharing Music.
+
+[**RipRequestsNew**](https://discord.gg/SH7DUfVz46) - The Discord Server of the now banned r/RipRequestsNew, the successor of r/RipRequests after it got closed down. They allow requesting and sharing music (currently not). **_Discord Server_**
 
 # Misc
 
