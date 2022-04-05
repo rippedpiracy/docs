@@ -49,7 +49,8 @@ A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG
 
 **[CrackHub](https://crackhub.site) (DDL)**
 
-Another site that mainly focuses on re-uploading to different hosts, takes requests too. It also has an Automatic Scene Uploading Bot which Uploads to Zippyshare, found [here](https://scene.crackhub.site).
+Another site that mainly focuses on re-uploading to different hosts, takes requests too.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scene CrackHub](https://scene.crackhub.site) - It also has an Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 titles directly from [TorrentSeeds](https://torrentseeds.org/) to zippyshare.
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
