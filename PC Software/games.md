@@ -110,14 +110,15 @@ Download Steam Workshop Items without having to own the game.
 
 [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tool that can unlock all DLCs on legitimately owned Steam Games, may not work well if the game has Anti-Cheat. [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Epic Games and provides a neat GUI to automatically configure and apply CreamAPI/ScreamAPI.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
 [**EA DLC Unlocker v2**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for Mac users.  
 [**Uplay R1 Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=112169) - Ubisoft DLC unlocker, will only work for Games released before October 2020 (that have the uplay_r1\*.dll file).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Uplay R2 Unlocker](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111874) - Same as R1 Unlocker, but instead will only work for Games released after October 2020 (that have the upc_r2\*.dll/uplay_r2\*.dll file).  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - An easy to use Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games, this can bypass Anti-Cheat software unlike ScreamAPI.  
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Epic Games and provides a neat GUI to automatically configure and apply CreamAPI/ScreamAPI.  
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs. Goldberg is more beginner friendly and easier to use but lacks some features SSE has, such as; Bypassing SteamStub DRM, tracking and unlocking Achievements, a pre-packaged Game Launcher that makes it easier to manage Games and configure them, a more advanced Steam Overlay and support for Plugins.  
 **NOTE: SSE is abandoned. If you're having issues with it, use [SSE Reborn Client [v1.46.1]](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
@@ -129,6 +130,8 @@ Download Steam Workshop Items without having to own the game.
 **Using this tool for Games with Anti-Cheat might get you banned**.  
 
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
+
+[**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own. [CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?t=95791) link.
 
 <sub>Check out the Release Board of [CS.RIN.RU](https://cs.rin.ru/forum/viewforum.php?f=29) and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</sub>
  
