@@ -11,21 +11,13 @@ coming sooonᵀᴹ
 ## Sources
 
 * [Getcomics.info](https://getcomics.info/ ) - Has big DC/Marvel/Indie Collections and Day 0 uploads.
-
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Tool for searching and downloading comic from Getcomics.info more easily.
-
 * [Comicextra](https://www.comicextra.com/) - Good alternative to Getcomics, Daily comic uploads. 
-
 * [Readcomiconline.li](https://readcomiconline.li/) - Use this to read comics online, **_Use Adblock_**
-
 * [Comix-load](https://comix-load.in/)
-
 * [xoxocomics](https://xoxocomics.com/comic/batman-the-long-halloween-1998)
-
 * [Libgen.gs](http://libgen.gs/comics/index.php) - Search libgen exclusively for comics. 
-
 * [Pulp magazine archive](https://archive.org/details/pulpmagazinearchive) - Huge pulp magazine archive. 
-
 * [8muses](https://8muses.xxx/) and [multporn](https://multporn.net/) - NSFW comics.
 
  
