@@ -3,12 +3,10 @@ title: Manga & Comics
 description: Collection of resources for your Comic & Manga needs
 ---
 
-# Manga
+## Manga
 coming sooonᵀᴹ
 
-# Comics
-
-## Sources
+## Comics
 
 * [GetComics](https://getcomics.info/) - Has big DC/Marvel/Indie Collections and Day 0 uploads.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Omnibus](https://github.com/fireshaper/Omnibus) - Tool for searching and downloading Comics from GetComics more easily.
@@ -18,15 +16,17 @@ coming sooonᵀᴹ
 * [XoXocomics](https://xoxocomics.com/)
 * [Libgen.gs](http://libgen.gs/comics/index.php) - Search libgen exclusively for Comics. 
 * [The Pulp Magazine Archive](https://archive.org/details/pulpmagazinearchive) - Huge pulp Magazine archive. 
-* [8muses](https://8muses.xxx/) and [multporn](https://multporn.net/) - Community uploaded **_Porn Comics_**, **_Cartoon Porn_** and **_Hentai Manga_**.
+
+## Porn
+* [8muses](https://8muses.xxx/) & [multporn](https://multporn.net/) - Community uploaded **_Porn Comics_**, **_Cartoon Porn_** and **_Hentai Manga_**.
 
 ## Readers
 * [Tachiyomi](https://tachiyomi.org/) - Free and open source Manga/Comic reader for Android. You can use Tachiyomi extensions to read Comics online.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tachiyomi Extensions](https://tachiyomi.org/extensions/) - Here's a list of all the extensions that are available. 
-* [CDisplayEx](https://www.cdisplayex.com/) - Free reader for PC and Android. _Android version contains ads._
-* [Chunky](https://apps.apple.com/app/chunky-comic-reader/id663567628) - Best free Comic reader for iOS.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extensions](https://tachiyomi.org/extensions/) - List of extensions for Tachiyomi. 
+* [CDisplay Ex](https://www.cdisplayex.com/) - Free reader for PC and Android, successor of [CDisplay](https://www.cdisplay.me/) _Android version contains ads._
 * [YACReader](https://www.yacreader.com) - Open Source Comic reader available for Windows/Mac/Linux. 
-* [Challenger viewer](https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer) - Free Comic reader for android with no ads.
+* [Chunky Comic Reader](https://apps.apple.com/app/chunky-comic-reader/id663567628) - Best free Comic reader for iOS.
+* [Challenger Comics Viewer](https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer) - Free Comic reader for Android with no ads.
 
 ## Tools
 
