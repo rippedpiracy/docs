@@ -11,24 +11,24 @@ coming sooonᵀᴹ
 ## Sources
 
 * [GetComics](https://getcomics.info/) - Has big DC/Marvel/Indie Collections and Day 0 uploads.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Omnibus](https://github.com/fireshaper/Omnibus) - Tool for searching and downloading Comics from Getcomics.info more easily.
-* [ComicExtra](https://www.comicextra.com/) - Good alternative to Getcomics, Daily Comic uploads. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Omnibus](https://github.com/fireshaper/Omnibus) - Tool for searching and downloading Comics from GetComics more easily.
+* [ComicExtra](https://www.comicextra.com/) - Good alternative to GetComics, Daily Comic uploads. 
 * [ReadComicOnline](https://readcomiconline.li/) - Online Comic reader, **Use an Ad-Blocker**.
 * [COMIX-LOAD](https://comix-load.in/)
 * [XoXocomics](https://xoxocomics.com/)
 * [Libgen.gs](http://libgen.gs/comics/index.php) - Search libgen exclusively for Comics. 
-* [The Pulp Magazine Archive](https://archive.org/details/pulpmagazinearchive) - Huge pulp magazine archive. 
-* [8muses](https://8muses.xxx/) and [multporn](https://multporn.net/) - **_NSFW Comics_**.
+* [The Pulp Magazine Archive](https://archive.org/details/pulpmagazinearchive) - Huge pulp Magazine archive. 
+* [8muses](https://8muses.xxx/) and [multporn](https://multporn.net/) - Community uploaded **_Porn Comics_**, **_Cartoon Porn_** and **_Hentai Manga_**.
 
- 
-
-## Tools and Software
-
-* [Kindle Comic Converter](https://kcc.iosphe.re/) - Tool for converting your cbr/cbz Comic files to EPUB or MOBI format.  
+## Readers
+* [Tachiyomi](https://tachiyomi.org/) - Free and open source Manga/Comic reader for Android. You can use Tachiyomi extensions to read Comics online.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tachiyomi Extensions](https://tachiyomi.org/extensions/) - Here's a list of all the extensions that are available. 
 * [CDisplayEx](https://www.cdisplayex.com/) - Free reader for PC and Android. _Android version contains ads._
 * [Chunky](https://apps.apple.com/app/chunky-comic-reader/id663567628) - Best free Comic reader for iOS.
-* [Challenger viewer](https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer) - Free Comic reader for android with no ads.
 * [YACReader](https://www.yacreader.com) - Open Source Comic reader available for Windows/Mac/Linux. 
-* [Tachiyomi](https://tachiyomi.org/) - Free and open source Manga/Comic reader for Android. You can use Tachiyomi extensions to read Comics online.
-* [Tachiyomi Extensions](https://tachiyomi.org/extensions/) - Here's a list of all the extensions that are available. 
+* [Challenger viewer](https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer) - Free Comic reader for android with no ads.
+
+## Tools
+
+* [Kindle Comic Converter](https://kcc.iosphe.re/) - Tool for converting your cbr/cbz Comic files to EPUB or MOBI format.  
 * [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Tool for backing up the Comics you own on Comixology to local cbz files.
