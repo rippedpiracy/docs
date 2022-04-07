@@ -25,7 +25,7 @@ description: List of sources for getting all genres of Music.
 
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple music playlists through Qobuz. **_Requires a paid Qobuz account._**  
 
-[**Tidal-Media-Downloader**](https://yaronzz.com/post/tidal_dl_installation) - Tidal downloader. **_Requires a paid Tidal account._** 
+[**Tidal-Media-Downloader**](https://github.com/yaronzz/Tidal-Media-Downloader) - Tidal downloader in CLI. A [GUI](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) version also exists. General [guide](https://yaronzz.com/post/tidal_dl_installation/) for installation (guide for Tidal-gui is outdated). **_Requires a paid Tidal account._** 
 
 [**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music Downloader for Qobuz, Tidal, SoundCloud, and Deezer. Supports downloads of Spotify and Apple Music playlists through last.fm. **_Requires a paid Qobuz/Tidal/Deezer account._**    
 [**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloading client.  
