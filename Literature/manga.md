@@ -1,5 +1,5 @@
 ---
-title: Manga
+title: Manga & Comics
 description: Collection of resources for your Comic & Manga needs
 ---
 
@@ -10,12 +10,12 @@ coming sooonᵀᴹ
 
 ## Sources
 
-* [Getcomics.info](https://getcomics.info/ ) - Has big DC/Marvel/Indie Collections and Day 0 uploads.  
+* [GetComics](https://getcomics.info/) - Has big DC/Marvel/Indie Collections and Day 0 uploads.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Omnibus](https://github.com/fireshaper/Omnibus) - Tool for searching and downloading Comics from Getcomics.info more easily.
-* [Comicextra](https://www.comicextra.com/) - Good alternative to Getcomics, Daily Comic uploads. 
-* [Readcomiconline.li](https://readcomiconline.li/) - Online Comic reader, **Use an Ad-Blocker**.
-* [Comix-load](https://comix-load.in/)
-* [xoxocomics](https://xoxocomics.com/comic/batman-the-long-halloween-1998)
+* [ComicExtra](https://www.comicextra.com/) - Good alternative to Getcomics, Daily Comic uploads. 
+* [ReadComicOnline](https://readcomiconline.li/) - Online Comic reader, **Use an Ad-Blocker**.
+* [COMIX-LOAD](https://comix-load.in/)
+* [XoXocomics](https://xoxocomics.com/)
 * [Libgen.gs](http://libgen.gs/comics/index.php) - Search libgen exclusively for Comics. 
 * [The Pulp Magazine Archive](https://archive.org/details/pulpmagazinearchive) - Huge pulp magazine archive. 
 * [8muses](https://8muses.xxx/) and [multporn](https://multporn.net/) - **_NSFW Comics_**.
