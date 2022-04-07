@@ -38,7 +38,5 @@ coming sooonᵀᴹ
 * [Challenger viewer](https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer) - Free comic reader for android with no ads.
 * [YACReader](https://www.yacreader.com/downloads) - Open Source comic reader available for Windows/Mac/Linux. 
 * [Tachiyomi](https://tachiyomi.org/) - Free and open source manga/comic reader for Android. You can use Tachiyomi extensions to read comics online.
-
-
 * [Tachiyomi Extensions](https://tachiyomi.org/extensions/) - Here's a list of all the extensions that are available. 
 * [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Tool for backing up the comics you own on Comixology to local cbz files.
