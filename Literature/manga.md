@@ -3,6 +3,9 @@ title: Manga
 description: Collection of resources for your Manga needs
 ---
 
+# Manga
+coming sooonᵀᴹ
+
 # Comics
 
 ## Sources
