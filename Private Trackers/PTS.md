@@ -60,3 +60,5 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 **3D Software, Graphic Design, VFX**: CGpeers
 
 **Magic**: ArtOfMisdirection, MagicTorrents
+
+<sub>credits: [https://wiki.installgentoo.com/index.php/Private_trackers](https://wiki.installgentoo.com/index.php/Private_trackers)</sub>
