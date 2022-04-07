@@ -413,3 +413,5 @@ Illegally pirated software, movies or music.
 **XDCC**
 
 Hacked computer which serves as a file server for irc so people can download from it.
+
+<sub>credits: [https://gazellegames.net/wiki.php?action=article&id=94](https://gazellegames.net/wiki.php?action=article&id=94)</sub>
