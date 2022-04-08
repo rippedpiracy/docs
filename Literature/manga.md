@@ -22,8 +22,10 @@ coming sooonᵀᴹ
 
 ## Readers
 * [Tachiyomi](https://tachiyomi.org/) - Free and open source Manga/Comic reader for Android. You can use Tachiyomi extensions to read Comics online.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extensions](https://tachiyomi.org/extensions/) - List of extensions for Tachiyomi. 
-* [CDisplay Ex](https://www.cdisplayex.com/) - Free reader for PC and Android, successor of [CDisplay](https://www.cdisplay.me/) _Android version contains ads._
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Forks](https://tachiyomi.org/forks) - Various forks of the original project.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extensions](https://tachiyomi.org/extensions/) - List of extensions for Tachiyomi.  
+* [CDisplay Ex](https://www.cdisplayex.com/) - Free reader for PC and Android, successor of [CDisplay](https://www.cdisplay.me/).  
+<sub>Android version contains ads.</sub>
 * [YACReader](https://www.yacreader.com) - Open Source Comic reader available for Windows/Mac/Linux. 
 * [Chunky Comic Reader](https://apps.apple.com/app/chunky-comic-reader/id663567628) - Best free Comic reader for iOS.
 * [Challenger Comics Viewer](https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer) - Free Comic reader for Android with no ads.
