@@ -21,7 +21,7 @@ coming sooonᵀᴹ
 * [8muses](https://8muses.xxx/) & [multporn](https://multporn.net/) - Community uploaded **_Porn Comics_**, **_Cartoon Porn_** and **_Hentai Manga_**.
 
 ## Readers
-* [Tachiyomi](https://tachiyomi.org/) - Free and open source Manga/Comic reader for Android. You can use Tachiyomi extensions to read Comics online.
+* [Tachiyomi](https://tachiyomi.org/) - Free and open source Manga/Comic reader for Android. You can also use Tachiyomi extensions to read Comics online.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Forks](https://tachiyomi.org/forks) - Various forks of the original project.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Extensions](https://tachiyomi.org/extensions/) - List of extensions for Tachiyomi.  
 * [CDisplay Ex](https://www.cdisplayex.com/) - Free reader for PC and Android, successor of [CDisplay](https://www.cdisplay.me/).  
