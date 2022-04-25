@@ -7,6 +7,8 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 We *could* add a huge list of Anime Streaming sites, but its better off to make **you** choose the one **you** need using:  
 [**The Anime Index**](https://piracy.moe), a **HUGE** list of sites, categorized in Languages, Sub/Dubs and more.
 
+[**9anime.me**](https://9anime.me/), the best website for streaming anime, both Subbed and Dubbed in **HD** (Ads may be NSFW, you can change this by scrolling down to the footer and enabling SFW ads)
+
 # Downloads
 
 **[Nyaa](https://nyaa.si/c=1_0) (Torrent)** - The Best Public Tracker to get Anime from.
