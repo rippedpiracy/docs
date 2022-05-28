@@ -12,4 +12,4 @@ no_show_footer: true
 Feel free to check the About section if you wish to help out by Contributing.
 
 *Click on the categories in the sidebar to start browsing.*  
-<sub>Check out our new AMOLED-friendly theme by clicking the icon on the top right!</sub>
+<sub><sup>Check out our new AMOLED-friendly theme by clicking the icon on the top right!</sup></sub>
