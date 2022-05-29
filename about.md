@@ -51,7 +51,7 @@ here is an ordered list:
 
 For Guides, you may include some extra metadata at the top (within the `---`):
 
-```md
+```yml
 author: (you)
 contributors: (remove this line if empty)
 ```
