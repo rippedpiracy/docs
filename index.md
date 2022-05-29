@@ -5,7 +5,7 @@ no_show_title: true
 no_show_footer: true
 ---
 ![](/img/rippedtransparent.svg)
-![](/img/ripped_banner.png)
+![](/img/ripped_banner.svg)
 
 **This is a collection of sites and tools that are trusted by the community.**
 
