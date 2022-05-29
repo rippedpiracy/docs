@@ -19,6 +19,6 @@ _or_
 
 Make a Pull Request with the modified/added Content.  
 
-**We do not recommend randomly forking the repo, just for the sake of renaming it and keeping it on your profile.   
+**We do not recommend randomly forking the repo, just for the sake of renaming it and keeping it on your profile, instead star it.   
 *Only fork when necessary and delete your repo after your Pull Request was Approved/Denied.*  
 This is to prevent any outdated info from being kept, as we may remove sites that turned malicious or went down.**
