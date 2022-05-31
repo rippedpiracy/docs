@@ -26,7 +26,7 @@ Clients for Streaming in general with an intuitive design, they both allow Strea
 <sub>Note: Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</sub>
 
 [**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop)  
-Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like yts.mx), has an [Android Version](https://github.com/popcorn-official/popcorn-android) too. Their [reddit](https://PopCornTimeApp.reddit.com/) page. It's official site https://popcorntime.app/ is currently down and there are various phishing results. **Only use the site linked here**  
+Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like yts.mx), has an [Android Version](https://github.com/popcorn-official/popcorn-android) too. Their [reddit](https://PopCornTimeApp.reddit.com/) page. It's official site https://popcorntime.app/ is currently down and there are various phishing results. **_Only use the site linked here._**  
 <sub>In the settings of the app you can replace all the API fields with https://popcorn-time.ga/ to make the movies appear.</sub>
 
 # Downloading
