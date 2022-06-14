@@ -60,7 +60,7 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 
 **[CS.RIN.RU](https://cs.rin.ru/forum) (DDL)**
 
-Arguably the best site for Steam Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for Steam Games.  
+Arguably the best site for Game Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for many Games.  
 **_Requires Sign-up_**.
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
