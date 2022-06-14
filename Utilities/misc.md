@@ -30,7 +30,7 @@ description: Tools and Apps to make your life easier.
 
 [**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User Agent switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
 
-[**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually or Automatically suspend/unsuspend Tabs to save up RAM usage.  
+[**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**MarvellousSuspender**](https://github.com/gioxx/MarvellousSuspender) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
@@ -44,9 +44,11 @@ description: Tools and Apps to make your life easier.
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through it's database [here](https://tosdr.org/).
 
 [**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
+
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
 [**ViolentMonkey**](https://violentmonkey.github.io/) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
+<sub>_We do not recommend using GreaseMonkey as there is evidence it has tracked it's users._</sub>
 
 # Browser UserScripts
 <sub>**_Requires a Browser UserScript Manager._**</sub>
