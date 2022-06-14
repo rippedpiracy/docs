@@ -95,12 +95,11 @@ Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied
 
 [**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/)
 
-Preservation project for Adobe Flash Games. Has over 90k Games (Search the [Collection](https://nul.sh/misc/flashpoint/)) in it's library which are all playable as a Web Game.   
+Preservation project for Adobe Flash Games. Has over 90k Games in it's [library](https://nul.sh/misc/flashpoint/) which are all playable, like the Good Ol' Days.   
 
-[**Steam Workshop Downloader**](https://www.steamworkshopdownloader.io/)
+[**Steam Workshop Downloader**](https://steamworkshop.download)
 
-Download Steam Workshop Items without having to own the game.  
-**_Use an AdBlocker as there can be a fair amount of pop-ups and intrusive ads._**  
+Download Steam Workshop Items without having to own the game.    
 
 # Tools
 **All the tools listed here are Windows only unless stated otherwise.**  
