@@ -20,7 +20,7 @@ A very safe site to get Games from, mostly Scene Releases which they have Auto U
 **[RuTor](http://rutor.info) (Torrent)**
 
 An old Russian tracker that has plenty of content but with generally less seeders. Some Repackers upload exclusively here.  
-**NOTE: Only get Games from R.G. Mechanics, Chovka, XATAB and FitGirl**.
+**Only get Games from R.G. Mechanics, Chovka, XATAB and FitGirl**.
 
 ## Repackers
 
@@ -39,7 +39,7 @@ A known Repacker that focuses more on Indie titles. Mostly uses Google Drive as 
 **[XATAB](https://xatab-repack.com) (Torrent)**
 
 One of the oldest and most respected Repacker that passed away recently. His site is currently being used by different Repackers but his old Releases can still be found there.  
-**RIP 196X - 2021.**
+**R.I.P 196X - 2021.**
 
 ## General DDL
 
@@ -60,17 +60,20 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 
 **[CS.RIN.RU](https://cs.rin.ru/forum) (DDL)**
 
-Arguably the best site for Steam Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for Steam Games. **_Requires Sign-up_**.
+Arguably the best site for Steam Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for Steam Games.  
+**_Requires Sign-up_**.
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
-Another well moderated Forum with active Uploaders and discussions that allow Scene Uploads (contrary of CS.RIN.RU), GOG Rips, Retro Games and even Linux Games. **_Requires Sign-up_**.
+Another well moderated Forum with active Uploaders and discussions that allow Scene Uploads (contrary of CS.RIN.RU), GOG Rips, Retro Games and even Linux Games.  
+**_Requires Sign-up_**.
 
 ## Misc
 
 **[Online-Fix](https://online-fix.me) (DDL / Torrent)**
 
-Any Cracked Game that has Multiplayer unlocked (usually on Steam) you will most likely find it here done by their own internal Crackers (0xdeadc0de and others). **_Requires Sign-up_**.
+Provides Online-Fixes (Multiplayer) for many Games available, the more complex fixes being coded by their own Crackers (0xdeadc0de and others).  
+**_Requires Sign-up_**.
 
 **[GOG Games](https://gog-games.com) (DDL)**
 
@@ -126,7 +129,7 @@ Download Steam Workshop Items without having to own the game.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
 
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?8f7d4294259c62d0#5iThxDiEs9YjQ8WM6z5PQTBXarGJX6UypGW6JVSfgcEP) if you've got questions.  
-**Using this tool for Games with Anti-Cheat might get you banned**.  
+**Using this tool for Games with Anti-Cheats might get you banned**.  
 
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
 
