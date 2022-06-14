@@ -123,7 +123,7 @@ Download Steam Workshop Items without having to own the game.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI.  
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs. Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier to use but lacks some features SSE has, such as; Bypassing SteamStub DRM, tracking and unlocking Achievements, a pre-packaged Game Launcher that makes it easier to manage Games and configure them, a more advanced Steam Overlay and support for Plugins.  
-**NOTE: SSE is abandoned. If you're having issues with it, use [SSE Reborn Client [v1.46.1]](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
+**SmartSteamEmu is abandoned. If you're having issues with it, use [SSE Reborn Client [v1.46.1]](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
