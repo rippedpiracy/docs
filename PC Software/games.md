@@ -9,8 +9,8 @@ description: List of safe and trusted sites for Games.
 **[1337x.to](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
-**NOTE: Do not get Software Releases from this site.  
-Stay away from Torrents by [IGGGAMES](https://1337x.to/user/IGGGAMESCOM/), [xGIROx](https://1337x.to/user/xGIROx/), Seyter, Qoob, nosTEAM and CorePack.**  
+**<u>Do not get Software Releases from this site.</u>  
+*Stay away from Torrents by [IGGGAMES](https://1337x.to/user/IGGGAMESCOM/), [xGIROx](https://1337x.to/user/xGIROx/), [w4rkr4f7](https://1337x.to/user/w4rkr4f7/), [Zohaib2044](https://1337x.to/user/Zohaib2044/), [emadmoner](https://1337x.to/user/emadmoner/), Seyter, Qoob, nosTEAM and CorePack!***  
 
 **[RARBG](https://rarbg.to) (Torrent)**
 
