@@ -80,13 +80,13 @@ description: Tools and Apps to make your life easier.
 [**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware (Advanced version of Task Manager).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.</sub>  
 
-[**ALVR**](https://alvr-org.github.io/) - Free and Open Source alternative to Virtual Desktop, works really well.  
+[**ALVR**](https://alvr-org.github.io/) - Free and Open Source alternative to Virtual Desktop, works really well [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection).  
 
 [**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
 
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
-[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, it also integrates into Windows Shell.
+[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
 [**hashcat**](https://hashcat.net/hashcat/) - An advanced Password recovery and Cracking utility.
 
