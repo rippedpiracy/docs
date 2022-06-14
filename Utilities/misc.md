@@ -57,7 +57,7 @@ description: Tools and Apps to make your life easier.
 [**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
 [**SiteScrubber**](https://github.com/PrimePlaya24/dl-site-scrubber) - Skip certain Timers or Ads and remove clutter that make it harder to Download from certain DDL sites.
 
-[**reCAPTCHA Solver**](https://greasyfork.org/en/scripts/430593-recaptcha-solver-automatically-solves-recaptcha-in-browser) & [**hCaptcha Solver**](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser) - Automatically solves reCAPTCHAs and hCaptchas on websites, no user interaction required.  
+[**reCAPTCHA Solver**](https://greasyfork.org/en/scripts/430593-recaptcha-solver-automatically-solves-recaptcha-in-browser) & [**hCaptcha Solver**](https://web.archive.org/web/20220317054600/https://greasyfork.org/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser/code/Hcaptcha%20Solver%20(Automatically%20solves%20Hcaptcha%20in%20browser).user.js) - Automatically solves reCAPTCHAs and hCaptchas on websites, no user interaction required.  
 [**MoreCAPTCHA**](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 
 [**Mega.nz Unlimited Import**](https://pastebin.com/raw/4AXkE1yE) - Import any file/folder to your Mega Cloud without worrying about the space it takes as long as your Storage isn't full.
