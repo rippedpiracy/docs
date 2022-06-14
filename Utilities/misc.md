@@ -149,6 +149,6 @@ description: Tools and Apps to make your life easier.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ransomware Mitigation Guide](https://rtech.support/books/safety-and-security/page/ransomware) - Helps to mitigate and prevent a Ransomware attack.  
 
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and other Media Ripping/Recording/Encoding tools.  
-A [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.  
+A [**Guides**](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.  
 
 [**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
