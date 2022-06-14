@@ -96,11 +96,11 @@ Both are good sources for Visual Novels and Japanese Games while the latter is e
 
 Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
-[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/)
+[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) **(DDL/Torrent)**
 
 Preservation project for Adobe Flash Games. Has over 90k Games in it's [library](https://nul.sh/misc/flashpoint/) which are all playable, like the Good Ol' Days.   
 
-[**Steam Workshop Downloader**](https://steamworkshop.download)
+[**Steam Workshop Downloader**](https://steamworkshop.download) **(DDL)**
 
 Download Steam Workshop Items without having to own the game.    
 
@@ -150,4 +150,4 @@ Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier 
 
 > &nbsp;
 
-> **Mirrors:** An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another mirror.
+> **Mirrors:** An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another Mirror.
