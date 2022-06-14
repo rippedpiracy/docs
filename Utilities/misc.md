@@ -83,6 +83,7 @@ description: Tools and Apps to make your life easier.
 [**ALVR**](https://alvr-org.github.io/) - Free and Open Source alternative to Virtual Desktop, works really well.  
 
 [**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
+
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, it also integrates into Windows Shell.
@@ -111,7 +112,7 @@ description: Tools and Apps to make your life easier.
 [**Text-Grab**](https://www.microsoft.com/en-us/p/text-grab/9mznkqj7sl0b) - Use OCR to grab and read text from images. 
 
 [**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
-<sub>This is very outdated and vulnerable. Do **NOT** use this as main Browser!</sub>  
+<sub>This is very outdated and vulnerable to attacks. Do **NOT** use this as main Browser!</sub>  
 
 # Useful Websites
 
@@ -131,8 +132,8 @@ description: Tools and Apps to make your life easier.
 
 # Informational
 
-[**WebOasis**](https://weboasis.app/) - An index of plenty of useful sites and apps, also has a forum [here](https://chat.weboasis.app/home)
-**RIP Webby**
+[**WebOasis**](https://weboasis.app/) - An index of plenty of useful sites and apps, also has a forum [here](https://chat.weboasis.app/home).  
+**RIP Webby.**
 
 [**Spyware Watchdog**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
 
