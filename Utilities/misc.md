@@ -46,7 +46,7 @@ description: Tools and Apps to make your life easier.
 
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**ViolentMonkey**](https://violentmonkey.github.io/) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
+[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
 <sub>_We do not recommend using GreaseMonkey as there is evidence it has tracked it's users._</sub>
 
 # Browser UserScripts
