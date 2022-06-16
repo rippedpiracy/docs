@@ -31,7 +31,7 @@ The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with m
 
 Vimm provides Torrents for larger Downloads like Wii Games, since the site's Download speed is a bit slow.
 
-**[AlvRo's Spreadsheet](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) & [Mirror on Google Drive](https://drive.google.com/drive/folders/1tnUrpX5X0dTite9_m6e0T4003T_NGhWe) (DDL)**
+**[AlvRo's Spreadsheet](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) (DDL)**
 
 Mr. AlvRo has organized all of his ROM's Download links via [1fichier](https://1fichier.com/) in a Google Spreadsheet, for ease of browsing.
 
