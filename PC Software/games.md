@@ -100,7 +100,8 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 Download Steam Workshop Items without having to own the game.    
 
-# Tools
+## Tools
+
 **All the tools listed here are Windows only unless stated otherwise.**  
 <sub>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs.</sub>
 
@@ -132,7 +133,17 @@ Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier 
 [**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own. [CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?t=95791) link.
 
 <sub>Check out the Release Board of [CS.RIN.RU](https://cs.rin.ru/forum/viewforum.php?f=29) and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</sub>
- 
+
+[**SteamDB**] - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, trading cards, Game branches, Game prices in all regions and many more.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**SteamDB - Extension**](https://steamdb.info/extension/) - SteamDB's extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.
+
+[**Augmented Steam**](https://augmentedsteam.com/) - Great extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
+<sub>If you decide to use this and the SteamDB extension at the same time make sure to configure them accordingly since some of the features may interfere.</sub>
+
+[**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats.
+
+[**CS.RIN.RU Enhanced**](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhances the UI and the functionality of cs.rin.ru.
+
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
