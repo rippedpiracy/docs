@@ -65,10 +65,6 @@ description: Tools and Apps to make your life easier.
 
 [**Mega.nz Unlimited Import**](https://pastebin.com/raw/4AXkE1yE) - Import any file/folder to your Mega Cloud without worrying about the space it takes as long as your Storage isn't full.
 
-[**CS.RIN.RU Enhanced**](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhances the UI and the functionality of cs.rin.ru.
-
-[**Get Data from Steam / SteamDB / EpicDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB/) - Extracts all the information of the DLCs/Games from Steam/SteamDB/EpicDB and exports in various formats.
-
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
 # Useful Apps
