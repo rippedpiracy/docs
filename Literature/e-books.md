@@ -42,7 +42,7 @@ description: Reliable sources to obtain e-Books.
 - [**r/Scholar**](https://scholar.reddit.com/) - If you cant find an article anywhere, you can request it in this subreddit.
 &nbsp;  
 &nbsp;
-# Miscellaneous
+# Other
 
 - [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
 - [**CALISHOT**](https://eng.calishot.xyz/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://noneng.calishot.xyz/index-not-eng/summary).  
