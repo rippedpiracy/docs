@@ -85,7 +85,7 @@ Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Transla
 
 **[Nyaa](https://nyaa.si/?c=6_0) & [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
 
-Both are good sources for Visual Novels and Japanese Games while the latter is exclusively for **_NSFW titles_**. It's recommended that you use an Anti-Malware scanner.
+Both are good sources for Visual Novels and Japanese Games while the latter is exclusively for **_NSFW titles_**. It's recommended that you use an Anti-Malware scanner.  
 <sub>Most Japanese Games require a [Locale Emulator](https://pooi.moe/Locale-Emulator/) to work.</sub>
 
 **[Lewd Patcher](https://lewdpatcher.com) (DDL)**
