@@ -48,7 +48,7 @@ description: List of sources for getting all genres of Music.
 
 [**r/xTrill**](https://xTrill.reddit.com) - Subreddit for requesting and sharing Music.
 
-[**RipRequestsNew**](https://discord.gg/SH7DUfVz46) - The Discord Server of the now banned r/RipRequestsNew, the successor of r/RipRequests after it got closed down. They allow requesting and sharing music (currently not). **_Discord Server_**
+[**RipRequestsNew**](https://yayeet.org) - The forum of r/RipRequestsNew, the successor of r/RipRequests after it got shut down. They allow requesting and sharing music.
 
 # Misc
 
