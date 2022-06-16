@@ -111,7 +111,7 @@ description: Tools and Apps to make your life easier.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
-[**Text-Grab**](https://www.microsoft.com/en-us/p/text-grab/9mznkqj7sl0b) - Use OCR to grab and read text from images. 
+[**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
 
 [**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
 <sub>This is very outdated and vulnerable to attacks. Do **NOT** use this as main Browser!</sub>  
