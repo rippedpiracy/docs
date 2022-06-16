@@ -4,51 +4,56 @@ description: List of sources for getting all genres of Music.
 ---
 # Websites
 
-[**Free MP3 Download**](https://free-mp3-download.net/) - Deezer downloader.
+[**Free MP3 Download**](https://free-mp3-download.net/) - Fetches tracks from Deezer, letting you download themin the highest quality without needing a subscription.  
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
-[**RuTracker**](https://rutracker.org) - **_Requires Sign-up._**  
+[**RuTracker**](https://rutracker.org) - Russian Forum which has a lot of Unknown or Foreign Music.  
+**_Requires Sign-up._**  
 
 [**SoftArchive**](https://sanet.st/music/) - SoftArchive's Music Section, has many different Albums you might not find elsewhere.
 
-[**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses torrents instead.
+[**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.
 
-[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists (**currently down**). They also have a weekly folder found [here](https://unreleased.me/updates). Their [Reddit](https://UnreleasedDisco.reddit.com).
+[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists (**currently down**). They also have a Weekly folder found [here](https://unreleased.me/updates). Their [Subreddit](https://UnreleasedDisco.reddit.com).
 
 # Tools
 
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find music.     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek.
 
-[**Deemix**](https://deemix.app) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download them while d-fi has Tidal support on top of that. They can download up to 128 kb/s quality with a free acount. To go higher, it **_requires a paid Deezer account._**
+[**Deemix**](https://deemix.app) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download them while d-fi has Tidal support on top of that. They can download up to 128 kb/s quality with a free acount.  
+**_For a higher quality a paid Deezer account is required._**
 
-[**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple music playlists through Qobuz. **_Requires a paid Qobuz account._**  
+[**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple music playlists through Qobuz.   **_Requires a paid Qobuz account._**  
 
-[**Tidal-Media-Downloader**](https://github.com/yaronzz/Tidal-Media-Downloader) - Tidal downloader in CLI. A [GUI](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) version also exists. General [guide](https://yaronzz.com/post/tidal_dl_installation/) for installation (guide for Tidal-gui is outdated). **_Requires a paid Tidal account._** 
+[**Tidal-Media-Downloader**](https://github.com/yaronzz/Tidal-Media-Downloader) - Tidal downloader in CLI. A [GUI](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) version also exists. General [guide](https://yaronzz.com/post/tidal_dl_installation/) for installation (guide for Tidal-gui is outdated).   **_Requires a paid Tidal account._** 
 
 [**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music Downloader for Qobuz, Tidal, SoundCloud, and Deezer. Supports downloads of Spotify and Apple Music playlists through last.fm. **_Requires a paid Qobuz/Tidal/Deezer account._**    
 [**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloading client.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal downloader plugin. **_Requires a paid Tidal account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz downloader plugin. **_Requires a paid Qobuz account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/uhwot/orpheusdl-deezer) - Deezer downloader plugin. **_Requires a paid Deezer account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud downloader plugin. **_Requires a paid SoundCloud account to download high quality._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster downloader plugin. **_Requires a paid Napster account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch lyrics downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Downloader plugin. **_Requires a paid Tidal account._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz Downloader plugin. **_Requires a paid Qobuz account._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/uhwot/orpheusdl-deezer) - Deezer Downloader plugin. **_Requires a paid Deezer account._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud Downloader plugin. **_Requires a paid SoundCloud account to download high quality._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader plugin. **_Requires a paid Napster account._**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics Downloader plugin.  
 
-[**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - A multi-purpose AdBlocker and skip-bypass for the Windows Spotify desktop application.
+[**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - A multi-purpose AdBlocker and skip-bypass for the Windows Spotify Desktop application.
 
 # Communities
 
-[**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz. Their Discord Server has many [bots](https://github.com/crackhub-dev/music-dl-bot) that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality. They also allow community music requesting/sharing. **_Discord Server_**.
+[**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz. Their Discord Server has many [bots](https://github.com/crackhub-dev/music-dl-bot) that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality. They also allow community music requesting/sharing.  
+**_A Discord Server_**.  
 
-[**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more. **__Requires Sign-up__**.
+[**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more.   **_Requires Sign-up_**.  
 
-[**Doujin Café**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online. **_Discord Server_**. 
+[**Doujin Café**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online.  
+**_A Discord Server_**.  
 
-[**r/xTrill**](https://xTrill.reddit.com) - Subreddit for requesting and sharing Music.
+[**r/xTrill**](https://xTrill.reddit.com) - A Subreddit for requesting and sharing Music.
 
-[**RipRequestsNew**](https://yayeet.org) - The forum of r/RipRequestsNew, the successor of r/RipRequests after it got shut down. They allow requesting and sharing music. Forum, **__Requires Sign-up__**.
+[**RipRequestsNew**](https://yayeet.org) - The forum of r/RipRequestsNew, the successor of r/RipRequests after it got shut down. They allow requesting and sharing music.  
+**_Requires Sign-up_**.  
 
 # Misc
 
