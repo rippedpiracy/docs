@@ -146,6 +146,8 @@ Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier 
 
 [**CS.RIN.RU Enhanced**](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - Enhances the UI and the functionality of cs.rin.ru.
 
+[**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.
+
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
