@@ -40,7 +40,7 @@ description: List of sources for getting all genres of Music.
 
 # Communities
 
-[**Slav Art**](https://discord.gg/ynxE4YVfY5) - Have many bots that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality using [this](https://github.com/crackhub-dev/music-dl-bot) bot. They also allow community requesting/sharing. **_Discord Server_**.
+[**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz. Their Discord Server has many [bots](https://github.com/crackhub-dev/music-dl-bot) that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality. They also allow community music requesting/sharing. **_Discord Server_**.
 
 [**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more. **__Requires Sign-up__**.
 
@@ -48,7 +48,7 @@ description: List of sources for getting all genres of Music.
 
 [**r/xTrill**](https://xTrill.reddit.com) - Subreddit for requesting and sharing Music.
 
-[**RipRequestsNew**](https://yayeet.org) - The forum of r/RipRequestsNew, the successor of r/RipRequests after it got shut down. They allow requesting and sharing music.
+[**RipRequestsNew**](https://yayeet.org) - The forum of r/RipRequestsNew, the successor of r/RipRequests after it got shut down. They allow requesting and sharing music. Forum, **__Requires Sign-up__**.
 
 # Misc
 
