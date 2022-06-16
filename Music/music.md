@@ -4,7 +4,7 @@ description: List of sources for getting all genres of Music.
 ---
 # Websites
 
-[**Free MP3 Download**](https://free-mp3-download.net/) - Fetches tracks from Deezer, letting you download themin the highest quality without needing a subscription.  
+[**Free MP3 Download**](https://free-mp3-download.net/) - Fetches tracks from Deezer, letting you download them in the highest quality without needing a subscription.  
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
