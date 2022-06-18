@@ -135,7 +135,7 @@ Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier 
 <sub>Check out the Release Board of [CS.RIN.RU](https://cs.rin.ru/forum/viewforum.php?f=29) and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</sub>
 
 ## Misc
-<sub>Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).</sub>
+<sub>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</sub>
 
 [**SteamDB**](https://steamdb.info) - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, trading cards, Game branches, Game prices in all regions and many more.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.
