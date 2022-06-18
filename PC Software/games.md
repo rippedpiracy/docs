@@ -146,7 +146,8 @@ Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract .sha1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
 [**PanDownload**](https://baidu.crackhub.site/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download and use [Motrix](https://motrix.app/) instead of [IDM](https://www.internetdownloadmanager.com/).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Baidu-Bypass-cs.rin.ru](https://github.com/crackhub-dev/baidu-bypass-cs.rin.ru/raw/main/baidubypass.user.js) - A Browser Userscript that automatically redirects all pan.baidu.com links found on [CS.RIN.RU](https://cs.rin.ru/forum) to baidu.crackhub.site link for ease of downloading.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Baidu-Bypass-cs.rin.ru](https://github.com/crackhub-dev/baidu-bypass-cs.rin.ru/raw/main/baidubypass.user.js) - A Browser Userscript that automatically redirects all pan.baidu.com links found on [CS.RIN.RU](https://cs.rin.ru/forum) to baidu.crackhub.site link for ease of downloading.  
+<sub>All ALI213 uploads have the password "9999".</sub>
 
 [**CS.RIN.RU Enhanced**](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.
 
