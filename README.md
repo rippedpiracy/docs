@@ -1,4 +1,3 @@
-```
              ▄▄                                     ▄▄                                        
 ▀███▀▀▀██▄   ██                                   ▀███     ▀███▀▀▀██▄                         
   ██   ▀██▄                                         ██       ██    ▀██▄                       
@@ -9,7 +8,6 @@
 ▄████▄ ▄███▄████▄ ██████▀   ██████▀   ▀█████▀ ▀████▀███▄   ▄████████▀   ▀█████▀ █████▀ ██████▀
                   ██        ██                                                                
                 ▄████▄    ▄████▄                                                                                                       
-```
 
 Everything in the [**Ripped Guide**](https://ripped.guide), mirrored here for Suggestions and Improvements.
 
