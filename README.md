@@ -1,6 +1,4 @@
-```
 ![](/img/ripped_ascii.svg)
-```
 
 Everything in the [**Ripped Guide**](https://ripped.guide), mirrored here for Suggestions and Improvements.
 
