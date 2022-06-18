@@ -1,4 +1,6 @@
-![](/img/ripped_ascii.svg)
+
+![ASCII Title](/img/ripped_ascii.svg)
+
 
 Everything in the [**Ripped Guide**](https://ripped.guide), mirrored here for Suggestions and Improvements.
 
