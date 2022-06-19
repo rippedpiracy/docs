@@ -6,7 +6,7 @@ description: List of safe and trusted sites for Games.
 ## General Torrent
 **Some of these sites have Fake and Mirror sites, you should only use the ones we link to.**
 
-**[1337x.to](https://1337x.to) | [.st](https://1337x.st/) | [.gd](https://1337x.gd/) | [.eu](https://x1337x.eu/) (Torrent)**
+**[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/)** | **[.gd](https://1337x.gd/)** | **[.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
 **<u>Do not get Software Releases from this site.</u>  
@@ -79,11 +79,11 @@ Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is u
 
 Offers Downloads for old titles and hard to find Abandonware Games, including everything they came with.
 
-**[F95zone](https://f95zone.to/) & [U18-Chan](https://u18chan.com/a/) (DDL)**
+**[F95zone](https://f95zone.to/)** & **[U18-Chan](https://u18chan.com/a/) (DDL)**
 
 Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels, many English **_Porn Games_** and even English translated foreign Games such as **_Japanese Eroges_** (a searchable index can be found [here](https://f95zone.to/sam/latest_alpha/)). U18-Chan instead has exclusively **_Yiff Games_**. **_They both require you to Sign-up_**.
 
-**[Nyaa](https://nyaa.si/?c=6_0) & [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
+**[Nyaa](https://nyaa.si/?c=6_0)** & **[Sukebei](https://sukebei.nyaa.si/?c=1_3) (Torrent)**
 
 Both are good sources for Visual Novels and Japanese Games while the latter is exclusively for **_NSFW titles_**. It's recommended that you use an Anti-Malware scanner.  
 <sub>Most Japanese Games require a [Locale Emulator](https://pooi.moe/Locale-Emulator/) to work.</sub>
@@ -92,11 +92,11 @@ Both are good sources for Visual Novels and Japanese Games while the latter is e
 
 Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
-[**Flashpoint**](https://bluemaxima.org/flashpoint/downloads/) **(DDL/Torrent)**
+**[Flashpoint](https://bluemaxima.org/flashpoint/downloads/) (DDL/Torrent)**
 
 Preservation project for Adobe Flash Games. Has over 90k Games in it's [library](https://nul.sh/misc/flashpoint/) which are all playable, like the Good Ol' Days.   
 
-[**Steam Workshop Downloader**](https://steamworkshop.download) **(DDL)**
+**[Steam Workshop Downloader](https://steamworkshop.download) (DDL)**
 
 Download Steam Workshop Items without having to own the game.    
 
