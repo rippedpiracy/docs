@@ -22,7 +22,7 @@ no_show_footer: true
     src="/img/ripped_banner.svg" 
     alt="Our logo">
 </img>
-</div>
+
 ![]()
 **<p style="text-align: center;">This is a collection of sites and tools that are trusted by the community.</p>**
 <p style="text-align: center;">Feel free to check the About section if you wish to help out by contributing.</p>
