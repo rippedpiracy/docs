@@ -8,8 +8,8 @@ no_show_footer: true
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 39%;"
-    src="img/rippedtransparent-cropped.svg" 
+           width: 42%;"
+    src="https://github.com/rippedpiracy/docs/raw/master/img/rippedtransparent-cropped.svg" 
     alt="Our logo">
 </img>
 ![]()
@@ -27,4 +27,4 @@ no_show_footer: true
 **<p style="text-align: center;">This is a collection of sites and tools that are trusted by the community.</p>**
 <p style="text-align: center;">Feel free to check the About section if you wish to help out by contributing.</p>
 *<p style="text-align: center;">Click on the categories in the sidebar to start browsing.</p>*
-<sub><sup><p style="text-align: center;">Check out the new AMOLED-friendly theme by clicking the icon on the top right!</p></sup></sub>
+<p style="text-align: center;"><sub><sup>Check out the new AMOLED-friendly theme by clicking the icon on the top right!</sup></sub></p>
