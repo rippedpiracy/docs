@@ -16,7 +16,7 @@ description: List of sources for getting all genres of Music.
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists (**currently down**). They also have a Weekly folder found [here](https://unreleased.me/updates).   
-<sub>For new big releass, check their [Subreddit](https://UnreleasedDisco.reddit.com).</sub>
+<sub>For new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</sub>
 
 # Tools
 
