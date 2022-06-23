@@ -15,8 +15,8 @@ description: List of sources for getting all genres of Music.
 
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.
 
-[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists (**currently down**). They also have a Weekly folder found [here](https://unreleased.me/updates).   
-<sub>For new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</sub>
+[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists. They also have a Weekly folder found [here](https://unreleased.me/updates).   
+<sub>Their Links may often be down, for more info and for new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</sub>
 
 # Tools
 
@@ -24,7 +24,7 @@ description: List of sources for getting all genres of Music.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek.
 
 [**Deemix**](https://deemix.app) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download them while d-fi has Tidal support on top of that. They can download up to 128 kb/s quality with a free acount.  
-**_For a higher quality a paid Deezer account is required._**
+**_For higher quality downloads, a paid Deezer account is required._**
 
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple music playlists through Qobuz.   
 **_Requires a paid Qobuz account._**  
@@ -47,13 +47,13 @@ description: List of sources for getting all genres of Music.
 # Communities
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz. Their Discord Server has many [bots](https://github.com/crackhub-dev/music-dl-bot) that can losslessly download from Qobuz, Tidal, Deezer, Soundcloud and Spotify in full Quality. They also allow community music requesting/sharing.  
-**_A Discord Server_**.  
+**_Discord Server_**.  
 
 [**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more.   
 **_Requires Sign-up_**.  
 
 [**Doujin Café**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online.  
-**_A Discord Server_**.  
+**_Discord Server_**.  
 
 [**r/xTrill**](https://xTrill.reddit.com) - A Subreddit for requesting and sharing Music.
 
