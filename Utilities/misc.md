@@ -12,11 +12,11 @@ description: Tools and Apps to make your life easier.
 <sub>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</sub>  
 
 [**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking Pop-ups and Anti-AdBlocks.</sub>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[iplogger](https://github.com/piperun/iploggerfilter) - Filters any site who's only purpose is to log your IP.</sub>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of Filter lists for Anime Streaming, Manga reading, and Downloading of other Japanese Media.</sub>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.</sub>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **@LukeThighStalker**.</sub> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking Pop-ups and Anti-AdBlocks.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[iplogger](https://github.com/piperun/iploggerfilter) - Filters any site who's only purpose is to log your IP.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of Filter lists for Anime Streaming, Manga reading, and Downloading of other Japanese Media.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **@LukeThighStalker**.  
 
 [**Dark Reader**](https://darkreader.org/) - Dark/Light mode for all websites. **_May slow down page load times._**
 
@@ -76,7 +76,7 @@ description: Tools and Apps to make your life easier.
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
 [**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.  
 [**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware, advanced version of Task Manager.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.    
 
 [**ALVR**](https://alvr-org.github.io/) - Free and Open Source alternative to Virtual Desktop, works really well [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection).  
 
@@ -91,6 +91,7 @@ description: Tools and Apps to make your life easier.
 [**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://xtremedownloadmanager.com/) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.
 
 [**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
