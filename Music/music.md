@@ -42,7 +42,7 @@ description: List of sources for getting all genres of Music.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader plugin. **_Requires a paid Napster account._**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics Downloader plugin.  
 
-[**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - A multi-purpose AdBlocker and skip-bypass for the Windows Spotify Desktop application.
+**[SpotX](https://github.com/amd64fox/SpotX)** & [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - Multi-purpose AdBlockers and skip-bypasses for the Windows Spotify Desktop application.
 
 # Communities
 
