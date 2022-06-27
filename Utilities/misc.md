@@ -142,3 +142,5 @@ description: Tools and Apps to make your life easier.
 A [**Guides**](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.  
 
 [**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
+
+[**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread
