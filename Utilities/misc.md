@@ -70,7 +70,6 @@ description: Tools and Apps to make your life easier.
 # Useful Apps
 
 [**GoodByeDPI**](https://github.com/ValdikSS/GoodbyeDPI) & [**GoodByeDPI GUI**](https://github.com/mguludag/GUI-for-GoodbyeDPI) | [**PowerTunnel**](https://github.com/krlvm/PowerTunnel) & [**PowerTunnel for Android**](https://github.com/krlvm/PowerTunnel-Android) - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
-
 <sub>_For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app._</sub>  
 
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
@@ -103,8 +102,6 @@ description: Tools and Apps to make your life easier.
 <sub>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</sub>  
 
 [**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
-
-[**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
