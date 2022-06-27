@@ -24,7 +24,10 @@ no_show_footer: true
 </img>
 
 ![]()
-**<p style="text-align: center;">This is a collection of sites and tools that are trusted by the community.</p>**
-<p style="text-align: center;">Feel free to check the About section if you wish to help out by contributing.</p>
-*<p style="text-align: center;">Click on the categories in the sidebar to start browsing.</p>*
-<p style="text-align: center;"><sub><sup>Check out the new AMOLED-friendly theme by clicking the icon on the top right!</sup></sub></p>
+**<center>This is a collection of sites and tools that are trusted by the community.**
+
+Feel free to check the About section if you wish to help out by contributing.
+
+*Click on the categories in the sidebar to start browsing.*
+
+<sub><sup>Check out the new AMOLED-friendly theme by clicking the icon on the top right!</sup></sub></center>
