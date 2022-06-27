@@ -138,7 +138,9 @@ Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier 
 ## Misc
 <sub>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</sub>
 
-[**SteamDB**](https://steamdb.info) - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, trading cards, Game branches, Game prices in all regions and many more.  
+[**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
+
+[**SteamDB**](https://steamdb.info) - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest build of any Game, trading cards, Game branches, Game prices in all regions and many more.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.
 
 [**Augmented Steam**](https://augmentedsteam.com/) - Great Browser extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
