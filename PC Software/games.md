@@ -174,6 +174,8 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.
 
+[**PGames**](https://rentry.co/pgames-mega-thread) - The [r/PiratedGames](https://PiratedGames.reddit.com) Megathread.
+
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
