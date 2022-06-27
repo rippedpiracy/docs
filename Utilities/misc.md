@@ -98,9 +98,6 @@ description: Tools and Apps to make your life easier.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
-[**ALVR**](https://alvr-org.github.io) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net), works really well.  
-<sub>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection) connection.</sub> 
-
 [**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
 <sub>**This is very outdated and vulnerable to attacks. Do <u>NOT</u> use this as a main Browser!**</sub>  
 
