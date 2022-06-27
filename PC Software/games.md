@@ -125,7 +125,7 @@ Download Steam Workshop Items without having to own the game. Due note that this
 
 ## Cracking Tools
 
-**All the tools listed here are <span style="color:red">**Windows**</span> only unless stated otherwise.**  
+**All the tools listed here are** <span style="color:red">**Windows**</span> **only unless stated otherwise.**  
 <sub>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs.</sub>
 
 [**Koalageddon**](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
