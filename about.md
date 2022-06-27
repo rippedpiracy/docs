@@ -53,6 +53,8 @@ here is <u>underlined text</u>
 here is a <sub>subheading</sub>
 
 here is <sup>superscript text</sup>
+
+here is <span style="color:red">red color text</span>
 ```
 
 ## Guides
