@@ -46,6 +46,14 @@ here is an ordered list:
 2. item 2
 
 ```
+You can also use these HTML tags,
+```html
+here is <u>underlined text</u>
+
+here is a <sub>subheading</sub>
+
+here is <sup>superscript text</sup>
+```
 
 ## Guides
 
