@@ -131,7 +131,8 @@ Download Steam Workshop Items without having to own the game. Due note that this
 [**Koalageddon**](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
 
 [**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly.  
-<sub>[FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg) for CreamAPI.</sub>  
+<sub>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg).</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
 [**EA DLC Unlocker v2**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
