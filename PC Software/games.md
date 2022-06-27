@@ -2,9 +2,10 @@
 title: Games
 description: List of safe and trusted sites for Games.
 ---
+**Some of these sites have Fake and Mirror sites, you should only use the ones we link to.  
+In the case that any of the sites are blocked, use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel).**
 
 ## General Torrent
-**Some of these sites have Fake and Mirror sites, you should only use the ones we link to.**
 
 **[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/)** | **[.gd](https://1337x.gd/)** | **[.eu](https://x1337x.eu/) (Torrent)**
 
@@ -15,7 +16,6 @@ A very popular Torrenting site which has an incredible amount of content, but al
 **[RARBG](https://rarbg.to) (Torrent)**
 
 A very safe site to get Games from, mostly Scene Releases which they have Auto Uploading Bots for. If you use a VPN get ready to solve reCAPTCHAs.  
-<sub>psst. check the [misc](https://ripped.guide/Utilities/misc/#:~:text=reCAPTCHA%20Solver%20%26%20hCaptcha%20Solver%20%2D%20Automatically%20solves%20reCAPTCHAs%20and%20hCaptchas%20on%20websites%2C%20no%20user%20interaction%20required.) page for captcha bypasses.</sub>
 
 **[RuTor](http://rutor.info) (Torrent)**
 
@@ -101,7 +101,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 Download Steam Workshop Items without having to own the game. Due note that this site is extremely unreliable.
 
-## Tools
+## Cracking Tools
 
 **All the tools listed here are Windows only unless stated otherwise.**  
 <sub>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs.</sub>
@@ -112,7 +112,7 @@ Download Steam Workshop Items without having to own the game. Due note that this
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
 [**EA DLC Unlocker v2**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for **Mac** users.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for <span style="color:red">**Mac**</span> users.  
 [**Uplay R1 Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=112169) - Ubisoft DLC unlocker, will only work for Games released before October 2020 (that have the uplay_r1\*.dll file).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Uplay R2 Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=111874) - Same as R1 Unlocker, but instead will only work for Games released after October 2020 (that have the upc_r2\*.dll/uplay_r2\*.dll file).  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - An easy to use Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games, this can bypass Anti-Cheat software unlike ScreamAPI.  
@@ -120,8 +120,8 @@ Download Steam Workshop Items without having to own the game. Due note that this
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI.  
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
-Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier to use but lacks some features SSE has, such as: Bypassing SteamStub DRM, Tracking / Unlocking Achievements, a pre-packaged Game Launcher, a more advanced Steam Overlay and support for Plugins.  
-**SmartSteamEmu is abandoned. If you're having issues with it, try the [SSE Reborn Client](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
+Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is more beginner friendly and easier to use but lacks some features SSE has, such as: Bypassing SteamStub DRM, Tracking / Unlocking Achievements, a pre-packaged Game Launcher, a more advanced Steam Overlay and support for Plugins.  
+**SmartSteamEmu is abandoned. If you're having issues with it, try the [SSE Reborn Client v1.46.1](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
@@ -135,14 +135,32 @@ Goldberg supports **Linux** unlike SSE, it is more beginner friendly and easier 
 
 <sub>Check out the Release Board of [CS.RIN.RU](https://cs.rin.ru/forum/viewforum.php?f=29) and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</sub>
 
-## Misc
-<sub>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</sub>
+## Apps
+
+[**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) - Free, Lightweight and open source Torrent Clients.  
+<sub>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners [<sup>1</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) in the past. In it's current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</sub> 
+
+[**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://xtremedownloadmanager.com/) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.
+
+[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers. HashCheck and OpenHashTab integrate into Windows Shell.
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
-[**SteamDB**](https://steamdb.info) - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest build of any Game, trading cards, Game branches, Game prices in all regions and many more.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.
+[**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
+[**ALVR**](https://alvr-org.github.io) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net), works really well.  
+<sub>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection) connection.</sub> 
+
+[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
+
+## Misc
+
+<sub>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</sub>  
+<sub>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</sub>
+
+[**SteamDB**](https://steamdb.info) - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest build of any Game, trading cards, Game branches, Game prices in all regions and many more.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
 [**Augmented Steam**](https://augmentedsteam.com/) - Great Browser extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
 <sub>If you decide to use this and the SteamDB extension at the same time make sure to configure them accordingly since some of the features may interfere.</sub>
 

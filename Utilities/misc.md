@@ -5,10 +5,9 @@ description: Tools and Apps to make your life easier.
 
 # Browser Extensions
 
-<sub>*We recommend coupling these Extensions & UserScripts with [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).*</sub>  
-&nbsp;  
+<sub>We recommend coupling these Extensions & UserScripts with [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).</sub>
   
-[**FastForward**](https://fastforward.team/) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
+[**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
 <sub>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</sub>  
 
 [**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
@@ -46,13 +45,12 @@ description: Tools and Apps to make your life easier.
 
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net/) - Browser UserScript Managers.  
-
-<sub>_We do not recommend using GreaseMonkey as there is evidence it has tracked it's users._</sub>  
-
+[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers.  
+<sub>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence it has tracked it's users, it's compatibility isn't great, and it's not very actively maintained.</sub>  
 
 # Browser UserScripts
-<sub>**_Requires a Browser UserScript Manager._**</sub>
+
+<sub>**Requires a Browser UserScript Manager, such as [ViolentMonkey](https://violentmonkey.github.io).**</sub>
 
 [**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different Browsers.
 
@@ -60,7 +58,6 @@ description: Tools and Apps to make your life easier.
 [**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
 [**SiteScrubber**](https://github.com/PrimePlaya24/dl-site-scrubber) - Skip certain Timers or Ads and remove clutter that make it harder to Download from certain DDL sites.
 
-[**reCAPTCHA Solver**](https://greasyfork.org/en/scripts/430593-recaptcha-solver-automatically-solves-recaptcha-in-browser) & [**hCaptcha Solver**](https://web.archive.org/web/20220317054600/https://greasyfork.org/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser/code/Hcaptcha%20Solver%20(Automatically%20solves%20Hcaptcha%20in%20browser).user.js) - Automatically solves reCAPTCHAs and hCaptchas on websites, no user interaction required.  
 [**MoreCAPTCHA**](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 
 [**Mega.nz Unlimited Import**](https://pastebin.com/raw/4AXkE1yE) - Import any file/folder to your Mega Cloud without worrying about the space it takes as long as your Storage isn't full.
@@ -69,37 +66,29 @@ description: Tools and Apps to make your life easier.
 
 # Useful Apps
 
-**[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** & **[GoodByeDPI GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)** | **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** & **[PowerTunnel for Android](https://github.com/krlvm/PowerTunnel-Android)** - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
-*<sub>For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app.</sub>*
+[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
 
-[**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
-[**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.  
 [**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware, advanced version of Task Manager.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.    
+[**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
+[**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.
 
-[**ALVR**](https://alvr-org.github.io/) - Free and Open Source alternative to Virtual Desktop, works really well [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection).  
-
-[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.  
-
-[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
-
-[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
-
-[**hashcat**](https://hashcat.net/hashcat/) - An advanced Password recovery and Cracking utility.
-
-[**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
-
+**[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** & **[GoodByeDPI GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)** | **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** & **[PowerTunnel for Android](https://github.com/krlvm/PowerTunnel-Android)** - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
+*<sub>For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app.</sub>* 
+	
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://xtremedownloadmanager.com/) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.
 
-[**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
-[**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
-[**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader.  
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality. It can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
-[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).
+[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
+[**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
+[**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
+[**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader. 
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
-<sub>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</sub>  
+<sub>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</sub> 
+
+[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
 
 [**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
 
@@ -107,8 +96,13 @@ description: Tools and Apps to make your life easier.
 
 [**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
 
+[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
+
+[**ALVR**](https://alvr-org.github.io) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net), works really well.  
+<sub>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection) connection.</sub> 
+
 [**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
-<sub>This is very outdated and vulnerable to attacks. Do **NOT** use this as main Browser!</sub>  
+<sub>**This is very outdated and vulnerable to attacks. Do <u>NOT</u> use this as a main Browser!**</sub>  
 
 # Useful Websites
 
