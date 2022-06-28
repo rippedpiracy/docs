@@ -58,7 +58,7 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 
 Arguably the best site for Game Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for many Games.  
 **_Requires Sign-up_**.  
-<sub>Most Games that are uploaded to this site are uncracked and require a [Steam Emulator](https://ripped.guide/PC%20Software/games/#tools) to function (especially when its mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the SCS (Steam Content Sharing) forum).</sub>
+<sub>Most Games that are uploaded to this site are uncracked and require a [Steam Emulator](https://ripped.guide/PC%20Software/games/#cracking-tools) to function (especially when its mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the SCS (Steam Content Sharing) forum).</sub>
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
