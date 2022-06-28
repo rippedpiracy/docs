@@ -50,7 +50,7 @@ You can also use these HTML tags,
 ```html
 here is <u>underlined text</u>
 
-here is a <sub>subheading</sub>
+here is <sub>subscript text</sub>
 
 here is <sup>superscript text</sup>
 
