@@ -1,6 +1,6 @@
 ---
-title: EAC Ripping
-description: EAC setup and ripping guide.
+title: EAC Ripping (CD)
+description: EAC Set-up and Ripping guide.
 ---
 
 ### EAC Setup Process
