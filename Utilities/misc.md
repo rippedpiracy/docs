@@ -21,12 +21,13 @@ description: Tools and Apps to make your life easier.
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
-[**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice. Can be difficult to setup for the Average User.   
+[**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
+***Can be difficult to setup for the Average User.***   
 [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.  
-[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and browsing history.    
-[**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block trackers.  
+[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
+[**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
 
-[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User Agent switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
+[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
 
 [**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**MarvellousSuspender**](https://github.com/gioxx/MarvellousSuspender) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
