@@ -20,7 +20,7 @@ description: Sources for Leaks, Account Generators and more.
 
 [**s1ck.pw**](https://s1ck.pw/dispenser.php) - No-Hassles Dispenser, gives out many different Accounts as soon as you visit the page.  
 
-[**The Altening**](https://thealtening.com/free/free-minecraft-alts) | [**EasyMC**](https://easymc.io/) - Minecraft Token Dispensers, they need an external app for the "Accounts" to work, not recommended. 
+[**The Altening**](https://thealtening.com/free/free-minecraft-alts) | [**EasyMC**](https://easymc.io/) - Minecraft Token Dispensers, they need an external app for the "Accounts" to work, **not recommended**. 
 
 # Paid Content Leaks
 
