@@ -71,6 +71,4 @@ Their Discord Server has many [bots](https://github.com/crackhub-dev/music-dl-bo
 
 [**hey-bro-check-log**](https://github.com/doujincafe/hbcl) - A CLI log checker maintained by Doujin Café Discord. Forked from the official [hbcl](https://github.com/ligh7s/hey-bro-check-log) repository. 
 
-[**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.
-
-[**dzunlock**](https://git.freezerapp.xyz/uhwot/dzunlock) - A browser userscript that allows Hi-Fi streaming on deezer.com.
+[**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
