@@ -47,7 +47,8 @@ description: List of sources for getting all genres of Music.
 # Communities
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz.  
-Their Discord Server has many [bots](https://github.com/crackhub-dev/music-dl-bot) that can download from Qobuz, Tidal, Deezer, Soundcloud, Spotify in full Quality and can also download from Apple Music in 256kbps AAC. They allow community music requesting/sharing.  
+Their Discord and Matrix Server have many [bots](https://github.com/crackhub-dev/music-dl-bot) that can download from Qobuz, TIDAL, Deezer, Soundcloud, Spotify, Apple Music, JioSaavn and YouTube Music. They allow community music requesting/sharing.  
+<sub>Their [Matrix Server](https://matrix.to/#/#slav-art:matrix.crackhub.site) with same functionality as their Discord Server.</sub>  
 **_Discord Server_**.  
 
 [**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more.   
@@ -72,3 +73,5 @@ Their Discord Server has many [bots](https://github.com/crackhub-dev/music-dl-bo
 [**hey-bro-check-log**](https://github.com/doujincafe/hbcl) - A CLI log checker maintained by Doujin Café Discord. Forked from the official [hbcl](https://github.com/ligh7s/hey-bro-check-log) repository. 
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
+
+[**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Support Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.
