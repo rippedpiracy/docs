@@ -32,4 +32,6 @@ no_show_footer: true
 
 <center><sub><sup>Check out the new AMOLED-friendly theme by clicking the icon on the top right!</sup></sub></center>
 
-# Our Discord (and corresponding staff accounts) was removed by Discord thanks to emili2 (false reports). Thanks to everyone for the 3+ years of run time! We do not have any plans of getting a new Discord Server, Ripped 2 (our Disboard passthrough) was also removed.
+# <center>Our Discord (and corresponding staff accounts) was removed by Discord thanks to emili2 (false reports). Thanks to everyone for the 3+ years of run time! We do not have any plans of getting a new Discord Server, Ripped 2 (our Disboard passthrough) was also removed.</center>
+
+<center>You can share your opinion or pay respects for us by making a [GitHub Issue.](https://github.com/rippedpiracy/docs/issues)</center>
