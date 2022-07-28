@@ -27,7 +27,7 @@ Content
 
 ## Subheading
 
-here is a [link]​(https://discord.gg/6qVr2aR)
+here is a [link]​(https://ripped.guide)
 
 here is *italic text*
 
@@ -65,10 +65,6 @@ For Guides, you may include some extra metadata at the top (within the `---`):
 author: (you)
 contributors: (remove this line if empty)
 ```
-
-## Discord Invite
-
-[![Discord Server](https://discordapp.com/api/guilds/702220357834244248/embed.png?style=banner2)](https://discord.gg/6qVr2aR)
 
 ## Contributors
 
