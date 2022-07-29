@@ -10,7 +10,7 @@
                   ██        ██                                                                
                 ▄████▄    ▄████▄                                                             
 ```
-> **Warning** | This project has reached it's EoL. It should not be used as a "always trustable" source for content anymore. More info can be found on the site.
+> **Warning** | Due to multiple Staff Members leaving and our Discord Server being banned, updates to this project has slowed down. It should not be used as an "always trustable" source for content anymore.
 
 Everything in the [**Ripped Guide**](https://ripped.guide), mirrored here for Suggestions and Improvements.
 
