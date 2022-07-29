@@ -32,4 +32,4 @@ no_show_footer: true
 
 # <center>Our Discord (and corresponding staff accounts) was removed by Discord thanks to emili2 (false reports). Thanks to everyone for the 3+ years of run time! We do not have any plans of getting a new Discord Server, Ripped 2 (our [Disboard](https://disboard.org/server/981894117485338645) passthrough) was also removed.</center>
 
-<center>You can share your opinion or pay respects for us by commenting on the pinned [GitHub Issue.](https://github.com/rippedpiracy/docs/issues)</center>
+<center>You can share your opinion or pay respects for us by commenting on the pinned [GitHub Issue](https://github.com/rippedpiracy/docs/issues/43).</center>
