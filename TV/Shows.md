@@ -23,7 +23,7 @@ In the Streaming section as you can Stream the Content you want to Download.
 
 [**StreamingCommunity**](https://streamingcommunity.best/)  
 
-Constantly updated site with Italian Dubbed/Subbed Content. UI similar to Netflix.
+Constantly updated site with Italian Dubbed/Subbed Content, a UI similar to Netflix.
 
 [**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/)  
 
