@@ -9,8 +9,8 @@ no_show_footer: true
            margin-left: auto;
            margin-right: auto;
            width: 42%;"
-    src="https://github.com/rippedpiracy/docs/raw/master/img/rippedtransparent-cropped.svg" 
-    alt="Our logo">
+    src="/img/rippedtransparent-cropped.svg" 
+    alt="Ripped Logo">
 </img>
 ![]()
 
@@ -20,7 +20,7 @@ no_show_footer: true
            margin-right: auto;
            width: 73%;"
     src="/img/ripped_banner.svg" 
-    alt="Our logo">
+    alt="Ripped Banner">
 </img>
 
 ![]()
