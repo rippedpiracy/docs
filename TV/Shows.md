@@ -59,6 +59,6 @@ TV Shows & Movie Torrents, each with a list which has different Quality Releases
 
 **[MovieGods](irc://irc.abjects.net/MOVIEGODS) (XDCC)**  
 
-File sharing network with vast resources, mainly for movies and shows. Head to #mg-chat to Download Content.
+A File sharing Network with a vast amount of resources, mainly for Movies & Shows. Head to #mg-chat to Download Content.
 
 
