@@ -46,7 +46,8 @@ Quality can vary from Release to another, always check file sizes and Torrent na
 
 **[RARBG](https://rarbg.to) (Torrent)**  
 
-Organized tracker with their own release group. Usually has very high quality releases. *Tip: search by IMDb tags*.
+Organized tracker with their own release group. Usually has very high quality releases.  
+<sub>*Tip: search by IMDb tags*.</sub>
 
 **[Zooqle](https://zooqle.com/) (Torrent)**  
 
