@@ -269,15 +269,18 @@ Linux|[DeSmuME](https://desmume.org/)|
 
 | Platform | Emulator |
 | --- | --- |
-|Windows|[ePSXe](http://www.epsxe.com/)|
+|Windows|[Duckstation](https://github.com/stenzek/duckstation/)|
+||[ePSXe](http://www.epsxe.com/)|
 ||[PCSXR-PGXP](http://ngemu.com/threads/pcsxr-pgxp.186369/)|
 ||[Mednafen](https://mednafen.github.io/)|
 |Mac|[PCSX-Reloaded](https://pcsxr.codeplex.com/)|
-|Linux|[ePSXe](http://www.epsxe.com/)|
+|Linux|[Duckstation](https://github.com/stenzek/duckstation/)|
+||[ePSXe](http://www.epsxe.com/)|
 ||[PCSX-Reloaded](https://pcsxr.codeplex.com/)|
 ||[Mednafen](https://mednafen.github.io/)|
 ||pSX|
-|Android|[ePSXe](https://play.google.com/store/apps/details?id=com.epsxe.ePSXe)|
+|Android|[Duckstation](https://github.com/stenzek/duckstation/)|
+||[ePSXe](https://play.google.com/store/apps/details?id=com.epsxe.ePSXe)|
 ||[FPse](https://play.google.com/store/apps/details?id=com.emulator.fpse)|
 |PlayStation 2|[PS2PSXe](http://psx-scene.com/forums/f292/ps2psxe-public-preview-feedback-discussions-64878/)|
 |PlayStation Vita|[Adrenaline](https://github.com/TheOfficialFloW/Adrenaline)|  with  [PSX2PSP](https://gazellegames.net/wiki.php?action=article&id=526)|  converts|
