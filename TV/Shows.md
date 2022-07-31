@@ -34,7 +34,7 @@ Clients for Streaming in general with an intuitive design, they both allow Strea
 
 Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like YTS) which has an [Android Version](https://github.com/popcorn-official/popcorn-android) too.  
 Their [Subreddit](https://PopCornTimeApp.reddit.com/) can be visited for more info. It's official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
-**_Only use the site linked here._**  
+**_Only use the site we linked here._**  
 <sub>*In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.*</sub>  
 
 # Downloading
