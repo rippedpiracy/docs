@@ -43,19 +43,19 @@ Their [Subreddit](https://PopCornTimeApp.reddit.com/) can be visited for more in
 **[1337x](https://1337x.to) (Torrent)**  
 
 Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
-Quality can vary from Release to another, always check file sizes and Torrent names.  
+Quality can vary from one Release to another, ALWAYS check filesizes and Torrent names.  
 
 **[RARBG](https://rarbg.to) (Torrent)**  
 
-Organized tracker with their own release group. Usually has very high quality releases.  
+Organized Tracker with their own release group, usually has very High Quality Releases.  
 <sub>*Tip: search by IMDb tags*.</sub>
 
 **[Zooqle](https://zooqle.com/) (Torrent)**  
 
-TV Shows & Movie Torrents, each with a list with different Quality Releases.
+TV Shows & Movie Torrents, each with a list which has different Quality Releases.
 
 # IRC
-<sub>_No Middle-Man between you, and Downloading the Content from the IRC bots. **Requires an IRC Client.**_</sub>
+<sub>_No Middle-Man between you, and Downloading the Content from the IRC bots. **Requires an [IRC](https://wikipedia.org/wiki/Internet_Relay_Chat) Client.**_</sub>
 
 **[MovieGods](irc://irc.abjects.net/MOVIEGODS) (XDCC)**  
 
