@@ -36,8 +36,10 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**SauceNAO**](https://saucenao.com) | [**Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engine for Anime, SauceNAO is also helpful in identifying *sauce*.
 
-[**Taiga**](https://github.com/erengy/taiga) (Windows) | [**Trackma**](https://github.com/z411/trackma/) (Linux) - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more. **A must have for Weebs.**
+[**Taiga**](https://github.com/erengy/taiga) (Windows) | [**Trackma**](https://github.com/z411/trackma/) (Linux) - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more.  
+**A must have for Weebs.**
 
 [**Senpai.moe**](https://www.senpai.moe/) | [**Monthly**](https://www.monthly.moe/) - Calender for upcoming Official Anime Releases.
 
-[**BECAUSE.MOE**](https://because.moe/) - Search engine to find streaming services that offer the Anime you search for. **Accurate up to May 27, 2020**.
+[**BECAUSE.MOE**](https://because.moe/) - Search engine to find streaming services that offer the Anime you search for.  
+**Accurate up to May 27, 2020**.
