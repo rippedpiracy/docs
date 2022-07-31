@@ -9,7 +9,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**SFlix**](https://sflix.to/home)  
 
 Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
-<sub>Note: there's some anti-popups extensions in the misc category.</sub>
+<sub>*NOTE: There's some Anti-Popup addons in the misc section.*</sub>
 
 [**SoapGate**](https://soapgate.org/)  
 
@@ -28,12 +28,13 @@ Constantly updated site with Italian Dubbed/Subbed Content. UI similar to Netfli
 [**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/)  
 
 Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links as well as from certain Sites and have a plethora of Addons available that will make your experience much better.  
-<sub>Note: Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</sub>
+<sub>*NOTE: Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.*</sub>
 
 [**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop)  
 
-Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like yts.mx), has an [Android Version](https://github.com/popcorn-official/popcorn-android) too. Their [Reddit](https://PopCornTimeApp.reddit.com/) page. It's official site https://popcorntime.app/ is currently down and there are various phishing results. **_Only use the site linked here._**  
-<sub>In the settings of the app you can replace all the API fields with https://popcorn-time.ga/ to make the movies appear.</sub>
+Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like yts.mx), has an [Android Version](https://github.com/popcorn-official/popcorn-android) too. Their [Reddit](https://PopCornTimeApp.reddit.com/) page. It's official site https://popcorntime.app/ is currently down and there are various phishing results.  
+**_Only use the site linked here._**  
+<sub>In the settings of the app you can replace all the API fields with https://popcorn-time.ga/ to make the movies appear.</sub>  
 
 # Downloading
 <sub>*Higher Quality most of the time and better watching experience overall.*</sub>
