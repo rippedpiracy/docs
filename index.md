@@ -29,5 +29,5 @@ no_show_footer: true
 <center>Feel free to check the [About](/About) section if you wish to help out by contributing.</center>  
 
 <center>*Click on the categories in the sidebar to start browsing.*</center>  
-### <span style="color:#ff3300"><center>The Server and our corresponding Staff Accounts were removed by Discord due to false reports. We do not have any plans of making a new Discord Server. Thanks to everyone for the 3+ years of run time!</center></span>
+### <span style="color:#ff3300"><center>The Server and our corresponding Staff Accounts were removed by Discord due to false reports. We do not have any plans on making a new Discord Server. Thanks to everyone for the 3+ years of run time!</center></span>
 <center>*You can share your opinion or pay respects for us by commenting on the pinned [GitHub Issue](https://github.com/rippedpiracy/docs/issues/43).*</center>
