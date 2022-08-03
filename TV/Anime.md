@@ -3,13 +3,12 @@ title: Anime
 description: Comprehensive list of sites for downloading and streaming Anime.
 ---
 
-# Streaming
-
-[**The Anime Index**](https://theindex.moe/library/anime), a **HUGE** list of sites, categorized in Languages, Sub/Dubs and more.
+[**The Anime Index**](https://theindex.moe/), a **HUGE** list of streaming/downloading sites and apps categorized in Languages, Sub/Dubs and more.
 
 # Downloads
 
-**[Nyaa](https://nyaa.si/?f=0&c=1_0) (Torrent)** - The Best Public Tracker to get Anime from.
+**[Nyaa](https://nyaa.si/?c=1_0) (Torrent)** - The Best Public Tracker to get Anime from.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sukebei](https://sukebei.nyaa.si/?c=1_1) (Torrent) - The Best Public Tracker to get Hentai from.
 
 **[The Anime Index](https://theindex.moe/library/anime) (DDL / Torrent)** - This site also has Download sites/apps for Anime/**_Hentai_**/Manga and more.
 
@@ -32,11 +31,11 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**The AnimePiracy Wiki**](https://thewiki.moe) - Comprehensive information about everything Anime Piracy. A MUST READ if you are interested.
 
-[**AnimeThemes**](https://animethemes.moe) | [**Themes.moe**](https://themes.moe) | [**Openings.moe**](https://openings.moe) - A huge collection of Ending/Opening Themes for Anime.
+[**AnimeThemes**](https://animethemes.moe) | [**Themes.moe**](https://themes.moe) - A huge collection of Ending/Opening Themes for Anime.
 
-[**SauceNAO**](https://saucenao.com) | [**Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engine for Anime, SauceNAO is also helpful in identifying *sauce*.
+[**SauceNAO**](https://saucenao.com) | [**Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engines for Anime, SauceNAO is also helpful in identifying *sauce*.
 
-[**Taiga**](https://github.com/erengy/taiga) (Windows) | [**Trackma**](https://github.com/z411/trackma/) (Linux) - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more.  
+**[Taiga (<span style="color:red">Windows</span>)](https://github.com/erengy/taiga)** | **[Trackma (<span style="color:red">Linux</span>)](https://github.com/z411/trackma/)** - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more.  
 **A must have for Weebs.**
 
 [**Senpai.moe**](https://www.senpai.moe/) | [**Monthly**](https://www.monthly.moe/) - Calender for upcoming Official Anime Releases.
