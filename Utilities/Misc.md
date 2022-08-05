@@ -49,6 +49,8 @@ description: Tools and Apps to make your life easier.
 [**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers.  
 <sub>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence it has tracked it's users, it's compatibility isn't great, and it's not very actively maintained.</sub>  
 
+[**Bypass Paywalls Clean**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Read articles from sites that implement a paywall.
+
 # Browser UserScripts
 
 <sub>**Requires a Browser UserScript Manager, such as [ViolentMonkey](https://violentmonkey.github.io).**</sub>
