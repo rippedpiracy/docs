@@ -54,7 +54,8 @@ description: Reliable sources to obtain e-Books.
 &nbsp;  
 &nbsp;
 # Tools
-- [**Bypass Paywalls**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass News Article paywalls.  
+- [**Bypass Paywalls Clean**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Bypass News Article paywalls.  
+<sup>A more actively maintained fork (with no Google analytics) of [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome).</sup>
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
 - [**Open Access Button**](https://openaccessbutton.org/) - Search engine for research articles.  
