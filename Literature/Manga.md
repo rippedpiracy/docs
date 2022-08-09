@@ -3,7 +3,7 @@ title: Manga
 description: Collection of resources for your Manga needs
 ---
 > It is generally advised to avoid aggregator websites as they consist of annoying ads, highly compressed images and no updates on best quality releases.  
-> Scans and officials' reading should suffice with the top two choices under [Web Reading](#web-reading), in case of a very niche series or series licensed only for paperback publishing, do check [Nyaa.si](https://nyaa.si/?c=3_0) - a torrent tracker.
+> Scans and officials' reading should suffice with the top two choices under <a target="_self" href="#web-reading">Web Reading</a>, in case of a very niche series or series licensed only for paperback publishing, do check [Nyaa.si](https://nyaa.si/?c=3_0) - a torrent tracker.
 
 Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorhill/uBlock).  
 
