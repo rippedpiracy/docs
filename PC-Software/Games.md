@@ -161,7 +161,7 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic.  
 <sub>Since the original Repository has been deleted, you can download the most recent version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2560026#p2560026) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</sub>
 
-[**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?8f7d4294259c62d0#5iThxDiEs9YjQ8WM6z5PQTBXarGJX6UypGW6JVSfgcEP) if you've got questions.  
+[**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
 <sub>This tool can't make you own Games you havent paid for on Steam.</sub>  
 **Using this tool for Games with Anti-Cheats might get you banned**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamACFGenerator](https://github.com/Sak32009/SteamACFGenerator/) - A CLI tool to generate .acf files for GreenLuma with ease.
