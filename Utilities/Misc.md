@@ -22,10 +22,11 @@ description: Tools and Apps to make your life easier.
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
-***Can be difficult to setup for the Average User.***   
-[**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment.  
-[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
+***Can be difficult to setup for the Average User.***  
 [**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
+[**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is the recommended extension for Firefox.  
+<sub>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox for Mobile and Chromium Browsers.</sub>  
+[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
 
 [**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
 
