@@ -128,6 +128,8 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
+[**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own. [CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?t=95791) link.
+
 ## Cracking Tools
 
 **All the tools listed here are** <span style="color:red">**Windows**</span> **only unless stated otherwise.**  
@@ -156,12 +158,18 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
 
+[**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic.  
+<sub>Since the original Repository has been deleted, you can download the most recent version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2560026#p2560026) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</sub>
+
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?8f7d4294259c62d0#5iThxDiEs9YjQ8WM6z5PQTBXarGJX6UypGW6JVSfgcEP) if you've got questions.  
+<sub>This tool can't make you own Games you havent paid for on Steam.</sub>  
 **Using this tool for Games with Anti-Cheats might get you banned**.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamACFGenerator](https://github.com/Sak32009/SteamACFGenerator/) - A CLI tool to generate .acf files for GreenLuma with ease.
 
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
 
-[**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own. [CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?t=95791) link.
+[**Steam Achievement Manager (SAM)**](https://github.com/gibbed/SteamAchievementManager) - A Steam achievements manager where you can add/delete achievements to any game you want.  
+**Using this tool might put your Steam account at risk.**  
 
 <sub>Check out the Release Board of [CS.RIN.RU](https://cs.rin.ru/forum/viewforum.php?f=29) and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</sub>
 
