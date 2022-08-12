@@ -15,7 +15,7 @@ Everything is uploaded by members with more than decades of experience with chec
 
 Software cracked by the one and only m0nkrus, the most reliable Adobe Cracker for many years.  
 You can mostly find Adobe Products and Autodesk Software.  
-<sub>_Use the UNIONDHT.ORG link if you dont't want to make an account_</sub>
+<sub>_Use the RuTracker.ru link if you dont't want to make an account for the other services._</sub>
 
 # Direct Download
 
