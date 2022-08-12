@@ -9,7 +9,7 @@ description: List of safe and trusted sites for Software.
 
 The go-to site for Software Piracy, for more than 10+ years. Requires Sign-up to search content.  
 Everything is uploaded by members with more than decades of experience with checked uploads. **_Requires Sign-up._**  
-<sub>You can also check out [RuTracker.ru](https://rutracker.ru), it's independant from RuTracker.org.</sub>
+<sub>You can also check out [RuTracker.ru](https://rutracker.ru), it's independent from RuTracker.org.</sub>
 
 **[m0nkrus](https://w14.monkrus.ws/)**
 
