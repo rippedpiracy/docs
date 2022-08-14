@@ -28,9 +28,9 @@ description: Tools and Apps to make your life easier.
 <sup>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox for Mobile and Chromium Browsers.</sup>  
 [**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
 
-[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
+[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through it's database [here](https://tosdr.org/).
 
-[**The Great Suspender**](https://github.com/aciidic/thegreatsuspender-notrack) (Chromium) | [**MarvellousSuspender**](https://github.com/gioxx/MarvellousSuspender) (Chromium) | [**Tabs Outliner**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (Chromium) - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
+**[The Marvellous Suspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) (<span style="color:red">Chromium</span>)** | **[Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) (<span style="color:red">Chromium</span>)** - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
@@ -39,16 +39,19 @@ description: Tools and Apps to make your life easier.
 
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
 
-[**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.
-
-[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through it's database [here](https://tosdr.org/).
+[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
 
 [**Temporary Containers**](https://github.com/stoically/temporary-containers) (Firefox) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
-
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers.  
+[**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.
+
+[**DownThemAll!**](https://www.downthemall.org/) | [**DownZemAll!**](https://setvisible.github.io/DownZemAll/) - DownThemAll is a mass download manager directly built inside the Browser, whereas DownZemAll is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).
+
+[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
 <sub>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence it has tracked it's users, it's compatibility isn't great, and it's not very actively maintained.</sub>  
+
+[**Stylus**](https://add0n.com/stylus.html) - Browser Userstyles Manager, used for loading CSS files for customising the appearance of webpages.
 
 # Browser UserScripts
 
