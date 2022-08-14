@@ -34,7 +34,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 *Methods to rip Manga from various sites.*
 
 - [**Manga Downloader**](https://redsquirrel87.altervista.org/doku.php/manga-downloader) - A simple yet sleep java based app to download images from raw sites with internal descrambling and stitching. Supports forcing frameworks to download from unsupported sites. Example: tonarinoyj.jp isn't supported but can be used by forcing coreview.  
-- [**HakuNeko**](https://hakuneko.download/) Cross-platform downloader for manga and anime from various websites.  
+- [**HakuNeko**](https://hakuneko.download/) - Cross-platform downloader for manga and anime from various websites.  
 - [**Zeen3 Ripsters Userscripts**](https://zeen3.gitlab.io/ripsters/) - Various raw site rippers; intended to save raw images from ja/zh/ko sites.  
 <sup>Use a Userscript Manager like [Violentmonkey](https://violentmonkey.github.io).</sup>  
 - [**Bookwalker-downloader**](https://github.com/xuzhengyi1995/Manga_downloader) - A Bookwalker manga download framework using selenium. A little complex but there's an extensive readme file.
@@ -44,13 +44,13 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 ## Reading Applications
 <ul>
 &nbsp;
-<li><a href="https://github.com/Suwayomi/Tachidesk-Server"><b>TachiDesk (<span style="color:red">PC</span>)</b></a>- A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><sup>Requires a client, read the readme file.</sup></ul>
+<li><a href="https://github.com/Suwayomi/Tachidesk-Server"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><sup>Requires a client, read the readme file.</sup></ul>
 
 - [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Free and open source manga reader with customization support, various extensions and a beautiful reader. Use this if you don't like manga site's UI. Some of the most Notable Forks are:   
  
 	- [**TachiyomiSY**](https://tachiyomi.org/forks/TachiyomiSY/) - Fork based off of [TachiyomiAZ](https://tachiyomi.org/forks/TachiyomiAZ/) adding custom unique features, also has new features from the latest Tachiyomi version as well as from other forks such as TachiyomiJ2K. Updates are very frequent, recommended to get the preview build.  
 	- [**Neko**](https://tachiyomi.org/forks/Neko/) - This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. Contains features specific to Mangadex that those versions cannot offer except for other sources, local sources, and editting manga.  
-	- [**TachiyomiJ2K**](https://tachiyomi.org/forks/TachiyomiJ2K/). - This fork takes a new approach to the design of the base app along with several other enhancements.
+	- [**TachiyomiJ2K**](https://tachiyomi.org/forks/TachiyomiJ2K/) - This fork takes a new approach to the design of the base app along with several other enhancements.
 
 - [**Paperback (<span style="color:red">iOS</span>)**](https://paperback.moe/) - An ad-free manga reader for iOS and iPadOS.  
 <sup>Contains additional migration guides if needed.</sup>  
