@@ -10,8 +10,6 @@
                   ██        ██                                                                
                 ▄████▄    ▄████▄                                                             
 ```
-> **Warning**  Due to multiple Staff Members leaving and our Discord Server being banned, updates to this project have slowed down.
-
 Everything in the [**Ripped Guide**](https://ripped.guide), mirrored here for Suggestions and Improvements.
 
 **Be sure to check in the repo if anything you're about to suggest is already inside.**
