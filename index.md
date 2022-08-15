@@ -29,7 +29,8 @@ no_show_footer: true
 <center>Feel free to check the <a target="_self" href="/About">About</a> section if you wish to help out by contributing.</center>  
 
 <center>*Click on the categories in the sidebar to start browsing.*</center><span style="color:#ff3300"><center><h3>
-Our Discord Server and corresponding Staff Accounts were removed by Discord due to false reports. We do not have any plans on making a new Discord Server. Thank you everyone for the 3+ years of run time!  
-However, this Project will continue to receive updates.
+WE HAVE BEEN UNBANNED BY DISCORD, YOU CAN JOIN OUR SERVER THROUGH <https://discord.gg/6qVr2aR>  
+<u>Our Discord Server and corresponding Staff Accounts were removed by Discord due to false reports. We do not have any plans on making a new Discord Server. Thank you everyone for the 3+ years of run time!  
+    However, this Project will continue to receive updates.</u>
 </h3></center></span>
 <center>*You can share your opinion or pay respects for us by commenting on the pinned [GitHub Issue](https://github.com/rippedpiracy/docs/issues/43).*</center>
