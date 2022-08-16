@@ -22,7 +22,7 @@ _or_
 
 Make a Pull Request with the modified/added Content.  
 
-Make sure to read our [About](https://ripped.guide/about) section before contributing.  
+Make sure to read our [About](https://ripped.guide/About) section before contributing.  
 
 
 **Do not randomly fork the repo, just for the sake of renaming it and keeping it on your profile, please star it instead.   
