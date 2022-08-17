@@ -35,7 +35,13 @@ Clients for Streaming in general with an intuitive design, they both allow Strea
 Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like YTS) which has an [Android Version](https://github.com/popcorn-official/popcorn-android) too.  
 Their [Subreddit](https://PopCornTimeApp.reddit.com/) can be visited for more info. It's official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
 **_Only use the site we linked here._**  
-<sub>*In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.*</sub>  
+<sub>*In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.*</sub>
+
+[**CloudStream**](https://github.com/rereleased/release/releases)
+
+Android app for streaming and downloading Movies, TV-Series and Anime.  
+You can find another version of CloudStream [here](https://recloudstream.github.io/). 
+By default this version doesn't provide any video sources, you have to install extensions in order to add functionality to the app. 
 
 # Downloading
 <sub>*Higher Quality most of the time and better watching experience overall.*</sub>
@@ -60,5 +66,3 @@ TV Shows & Movie Torrents, each with a list which has different Quality Releases
 **[MovieGods](irc://irc.abjects.net/MOVIEGODS) (XDCC)**  
 
 A File sharing Network with a vast amount of resources, mainly for Movies & Shows. Head to #mg-chat to Download Content.
-
-
