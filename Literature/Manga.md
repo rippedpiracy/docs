@@ -20,15 +20,15 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 <h3>Translated</h3>
 
 - **[Nyaa.si](https://nyaa.si/?c=3_1) (Torrent)** - Huge Torrent Tracker for all types of Literature.  
-<sup>Change the Category type next to the searchbar if you're looking for Non-English Translated works.</sup>
+<small>Change the Category type next to the searchbar if you're looking for Non-English Translated works.</small>
 
 <h3>Raws</h3>
 
 - **[Manga-Zip](https://manga-zip.net/) (DDL)** - Direct Download for magazines/volumes in zips.
 - **[DLraw.net](https://dlraw.net/) (DDL)** - Direct Download for manga/novels/artbooks zips. 
 - **[JPraws](https://jraws.net/) (DDL)** - NSFW warning. Direct download in zips.
-&nbsp;  
-&nbsp;
+
+<small>*Often searching for 'manga_name volume01 zip' on Google shows up random raw blogsites.*</small>
 ## Web-Ripping
 
 *Methods to rip Manga from various sites.*
@@ -36,15 +36,49 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**Manga Downloader**](https://redsquirrel87.altervista.org/doku.php/manga-downloader) - A simple yet sleep java based app to download images from raw sites with internal descrambling and stitching. Supports forcing frameworks to download from unsupported sites. Example: tonarinoyj.jp isn't supported but can be used by forcing coreview.  
 - [**HakuNeko**](https://hakuneko.download/) - Cross-platform downloader for manga and anime from various websites.  
 - [**Zeen3 Ripsters Userscripts**](https://zeen3.gitlab.io/ripsters/) - Various raw site rippers; intended to save raw images from ja/zh/ko sites.  
-<sup>Use a Userscript Manager like [Violentmonkey](https://violentmonkey.github.io).</sup>  
+<small>Use a Userscript Manager like [Violentmonkey](https://violentmonkey.github.io).</small>  
 - [**Bookwalker-downloader**](https://github.com/xuzhengyi1995/Manga_downloader) - A Bookwalker manga download framework using selenium. A little complex but there's an extensive readme file.
+&nbsp;  
+&nbsp;
+
+## Porn
+
+<h3>Manga</h3>
+- [**E-Hentai**](http://e-hentai.org/) - The source of most of the manga online with an exceptional library, most of the translators also upload here. You can create bounties, fill requests and gain rep in its own system (read more about it [here](https://ehwiki.org/wiki/Main_Page)). In addition to h-manga, you can also find cosplays, image sets, game CGs and more.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ExHentai](http://exhentai.org/) - The unfiltered version of e-Hentai which includes controversial content such as loli, shota, cub, guro. 
+<details>
+	<summary>Guide for acessing ExHentai (click this text)</summary>
+	<p>
+		<h4><span style="color:#00ff00">Step 0: VPN</span></h4>
+		<blockquote>Depending on your region (especially Asia), you may not be able to access Exhentai no matter how many accounts you make. The only region that guarantees success is North America. Any VPN services will work in theory; however, you should try to use a paid VPN service for this, free VPNs may not work.</blockquote>  
+		<h4><span style="color:#00ff00">Step 1: Clear your cookies:</span></h4>
+		<blockquote>There are many methods for this including dozens of Chrome and Firefox extensions, some browsers even have a built-in cookie editor. Just make sure to clear cookies on both <a href="https://e-hentai.org/">E-Hentai</a> and <a href="https://exhentai.org/">ExHentai</a> (Should show a blank page).</blockquote>
+		<h4><span style="color:#00ff00">Step 2: Create a new E-Hentai account</span></h4>
+		<blockquote>If you have an old account that can't access ExHentai you must create a new one.</blockquote>
+		<h4><span style="color:#00ff00">Step 3: Wait 7-10 days</span></h4>
+		<blockquote>Waiting sucks, but be patient, after this you'll have access to sadpanda for life.</blockquote>
+		<h4><span style="color:#00ff00">Step 4: Enjoy</span></h4>
+		<blockquote>In case ExHentai still shows a blank page, repeat <span style="color:#00ff00">Step 1</span>.</blockquote>
+	</p>
+</details>
+
+- [**nhentai**](https://nhentai.net) - The classic, has a big library but quality is lower than the original version. FAKKU/Irodori content doesn't get uploaded here.
+- [**Sukebei**](https://sukebei.nyaa.si/?c=1_4) - A Torrent site with a great collection of manga, a lot of the content from [ExHentai](http://exhentai.org/) also gets posted here. Content from FAKKU and Irodori gets posted here too.  
+<small>As a tip, when searching for a manga use the Japanese title.</small>
+- [**Nana ナナ**](https://nana.my.id) - Easy to navigate site that also uploads FAKKU/Irodori content.  
+<small>There is a Tachiyomi extension, guide [here](https://nana.my.id/tutorial)</small>
+- [**Koushoku**](https://koushoku.org) - Good source for FAKKU content only.  
+<small>[Important Info](https://web.archive.org/web/20220808172315/https://koushoku.org/2022.08.07.txt) regarding the future of the site.</small>
+- [**Akuma**](https://akuma.moe) - Easy to use site, but it has lower quality images than the original and doesn't upload FAKKU/Irodori content.
+- [**Hitomi.la**](https://hitomi.la/) - Has similar content types to E-Hentai/ExHentai but may have a better UI experience due to images loading quicker. Has lower quality images than the original.
+- [**HVNC**](https://t.me/joinchat/tOw0PUB_pn5mZjZl) - Telegram chat of HVNC, they post FAKKU content there.
 &nbsp;  
 &nbsp;
 
 ## Reading Applications
 <ul>
 &nbsp;
-<li><a href="https://github.com/Suwayomi/Tachidesk-Server"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><sup>Requires a client, read the readme file.</sup></ul>
+<li><a href="https://github.com/Suwayomi/Tachidesk-Server"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><small>Requires a client, read the readme file.</small></ul>
 
 - [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Free and open source manga reader with customization support, various extensions and a beautiful reader. Use this if you don't like manga site's UI. Some of the most Notable Forks are:   
  
@@ -53,5 +87,4 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 	- [**TachiyomiJ2K**](https://tachiyomi.org/forks/TachiyomiJ2K/) - This fork takes a new approach to the design of the base app along with several other enhancements.
 
 - [**Paperback (<span style="color:red">iOS</span>)**](https://paperback.moe/) - An ad-free manga reader for iOS and iPadOS.  
-<sup>Contains additional migration guides if needed.</sup>  
-
+<small>Contains additional migration guides if needed.</small>  
