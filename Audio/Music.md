@@ -16,7 +16,7 @@ description: List of sources for getting all genres of Music.
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists. They also have a Weekly folder found [here](https://unreleased.me/updates).   
-<sub>Their Links may often be down, for more info and for new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</sub>
+<small>Their Links may often be down, for more info and for new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</small>
 
 # Tools
 
@@ -48,7 +48,7 @@ description: List of sources for getting all genres of Music.
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz.  
 Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, have multiple [bots](https://github.com/crackhub-dev/music-dl-bot) that can download from Qobuz, TIDAL, Deezer, Soundcloud, Spotify, Apple Music, JioSaavn and YouTube Music. They allow community music requesting/sharing.  
-<sub>[Info](https://rentry.org/selfhosted-divolt) regarding Divolt and how it compares to [Revolt](https://revolt.chat/).</sub>  
+<small>[Info](https://rentry.org/selfhosted-divolt) regarding Divolt and how it compares to [Revolt](https://revolt.chat/).</small>  
 
 [**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more.   
 **_Requires Sign-up_**.  
@@ -64,7 +64,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, have multip
 # Misc
 
 [**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., the successor of [r/FreeDeezerARL](https://freedeezerarl.reddit.com) after it's Discord Server got shut down.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#Tools">Ripping Tools</a>) on their [Motrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).
+<small>They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) on their [Motrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).</small>
 
 [**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX. 
 
