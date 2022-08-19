@@ -63,7 +63,8 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, have multip
 
 # Misc
 
-[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc. previously known as [r/FreeDeezerARL](https://freedeezerarl.reddit.com).
+[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., the successor of [r/FreeDeezerARL](https://freedeezerarl.reddit.com) after it's Discord Server got shut down.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#Tools">Ripping Tools</a>) on their [Motrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).
 
 [**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX. 
 
@@ -74,3 +75,5 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, have multip
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
 
 [**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Support Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.
+
+[**dzunlock**](https://github.com/Helmasko/dzunlock) - A browser userscript that allows Hi-Fi streaming on deezer.com.
