@@ -30,7 +30,7 @@ description: Tools and Apps to make your life easier.
 
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through it's database [here](https://tosdr.org/).
 
-[**The Marvellous Suspender (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) | [**Tabs Outliner (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
+[**The Marvellous Suspender (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) & [**The Great Suspender (<span style="color:red">Firefox</span>)**](https://github.com/dvalter/ff-thegreatsuspender) | [**Tabs Outliner (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
