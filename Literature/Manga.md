@@ -54,7 +54,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 		<h4><span style="color:#00ff00">Step 1: Clear your cookies:</span></h4>
 		<blockquote>There are many methods for this including dozens of Chrome and Firefox extensions, some browsers even have a built-in cookie editor. Just make sure to clear cookies on both <a href="https://e-hentai.org/">E-Hentai</a> and <a href="https://exhentai.org/">ExHentai</a> (Should show a blank page).</blockquote>
 		<h4><span style="color:#00ff00">Step 2: Create a new E-Hentai account</span></h4>
-		<blockquote>If you have an old account that can't access ExHentai you must create a new one.</blockquote>
+		<blockquote>If you have an old account that can't access ExHentai, you should also create a new one [here](https://forums.e-hentai.org/index.php?act=Reg).</blockquote>
 		<h4><span style="color:#00ff00">Step 3: Wait 7-10 days</span></h4>
 		<blockquote>Waiting sucks, but be patient, after this you'll have access to sadpanda for life.</blockquote>
 		<h4><span style="color:#00ff00">Step 4: Enjoy</span></h4>
