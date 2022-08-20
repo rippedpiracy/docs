@@ -52,9 +52,9 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 		<h4><span style="color:#00ff00">Step 0: VPN</span></h4>
 		<blockquote>Depending on your region (especially Asia), you may not be able to access Exhentai no matter how many accounts you make. The only region that guarantees success is North America. Any VPN services will work in theory; however, you should try to use a paid VPN service for this, free VPNs may not work.</blockquote>  
 		<h4><span style="color:#00ff00">Step 1: Clear your cookies:</span></h4>
-		<blockquote>There are many methods for this including dozens of Chrome and Firefox extensions, some browsers even have a built-in cookie editor. Just make sure to clear cookies on both <a href="https://e-hentai.org/">E-Hentai</a> and <a href="https://exhentai.org/">ExHentai</a> (Should show a blank page).</blockquote>
+		<blockquote>There are many methods for this including dozens of Chrome and Firefox extensions, some browsers even have a built-in cookie editor. Just make sure to clear cookies on both <a href="https://e-hentai.org/" target="_blank">E-Hentai</a> and <a href="https://exhentai.org/" target="_blank">ExHentai</a> (Should show a blank page).</blockquote>
 		<h4><span style="color:#00ff00">Step 2: Create a new E-Hentai account</span></h4>
-		<blockquote>If you have an old account that can't access ExHentai, you should also create a new one <a href="https://forums.e-hentai.org/index.php?act=Reg">here</a>.</blockquote>
+		<blockquote>If you have an old account that can't access ExHentai, you should also create a new one <a href="https://forums.e-hentai.org/index.php?act=Reg" target="_blank">here</a>.</blockquote>
 		<h4><span style="color:#00ff00">Step 3: Wait 7-10 days</span></h4>
 		<blockquote>Waiting sucks, but be patient, after this you'll have access to sadpanda for life.</blockquote>
 		<h4><span style="color:#00ff00">Step 4: Enjoy</span></h4>
@@ -78,7 +78,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 ## Reading Applications
 <ul>
 &nbsp;
-<li><a href="https://github.com/Suwayomi/Tachidesk-Server"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><small>Requires a client, read the readme file.</small></ul>
+<li><a href="https://github.com/Suwayomi/Tachidesk-Server" target="_blank"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><small>Requires a client, read the readme file.</small></ul>
 
 - [**MComix**](https://sourceforge.net/p/mcomix/wiki/Home/) - User-friendly, customizable comic viewer.
 
