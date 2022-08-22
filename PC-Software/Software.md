@@ -44,3 +44,13 @@ Like AudioZ, Team V.R is more focused on Audio and Video Production, Cracking So
 
 Has compressed Downloads for Software, with silent installs. Currently only Registered Members can download from the site. **_Requires Sign-up_.**  
 *<small>_Staff Members from Ripped have Accounts on the site, so just ask in the Discord for something._</small>*
+
+# Assets
+
+[**CG Persia**](https://cgpersia.com/) | **[GFXDomain](https://gfxdomain.co/)**
+
+Big sites for loads of Educational content including: tutorials, CG assets, plugins for various apps and more. They both have their own forums and Private Trackers but sign-ups for them are currently closed. They use bad file hosters.
+
+[**Download Pirate**](https://www.downloadpirate.com/)
+
+Has plugins and addons for various Adobe apps, it is recommended you only download these from the site.
