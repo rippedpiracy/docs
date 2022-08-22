@@ -39,7 +39,7 @@ A new and emerging group of Repackers, have Torrent links on some of their relea
 
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
-One of the oldest and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers.
+Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers.
 
 **[XATAB](https://xatab-repack.com) (Torrent)**
 
@@ -186,6 +186,8 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 <small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small>  
 <small>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</small>
+
+[**ProtonDB**](https://protondb.com/) - A Community managed Database of Steam Games with their compatibilities on Linux and Steam Deck graded and ranked.
 
 [**SteamDB**](https://steamdb.info) - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest build of any Game, trading cards, Game branches, Game prices in all regions and many more.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
