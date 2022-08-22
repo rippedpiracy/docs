@@ -37,7 +37,9 @@ description: Tools and Apps to make your life easier.
 
 [**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
-[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) -  Save a full copy of an entire web page in a single HTML file.
+[**Web Archives**](https://github.com/dessant/web-archives) - Makes it easy to view archived and cached versions of web pages.
+
+[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file. SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.
 
 [**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
 
@@ -70,6 +72,8 @@ description: Tools and Apps to make your life easier.
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
 # Useful Apps
+
+[**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) - File archivers, can pack and unpack many archive types such as 7z, rar, zip.
 
 [**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
 
@@ -107,6 +111,8 @@ description: Tools and Apps to make your life easier.
 *<small><b>This is very outdated and vulnerable to attacks. Do <u>NOT</u> use this as a main Browser!</b></small>*
 
 # Useful Websites
+
+[**Internet Archive**](https://web.archive.org/) | [**Webpage archive**](https://archive.today/) - Sites that host archived versions of other sites. You can archive any site you want too.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
 [**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
