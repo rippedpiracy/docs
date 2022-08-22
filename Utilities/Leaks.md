@@ -3,7 +3,7 @@ title: Accounts & Leaks
 description: Sources for Leaks, Account Generators and more.
 ---
 
-<sub>*Use the tools in the [misc](https://ripped.guide/Utilities/misc/) page to bypass shorteners and wait times.*</sub>
+<sub>*Use the tools in the <a target="_self" href="/Utilities/Misc">Misc</a> page to bypass shorteners and wait times.*</sub>
 
 # Accounts 
 
