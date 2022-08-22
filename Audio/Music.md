@@ -45,7 +45,7 @@ description: List of sources for getting all genres of Music.
 
 **[SpotX](https://github.com/amd64fox/SpotX)** & [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - Multi-purpose AdBlockers and skip-bypasses for the Windows Spotify Desktop application.
 
-[**dzunlock**](https://github.com/Helmasko/dzunlock) - A browser userscript that allows up to Hi-Fi streaming on deezer.com.
+[**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser userscript that allows up to Hi-Fi streaming on deezer.com.
 
 # Communities
 
