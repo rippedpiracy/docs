@@ -20,7 +20,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 <h3>Translated</h3>
 
 - **[Nyaa.si](https://nyaa.si/?c=3_1) (Torrent)** - Huge Torrent Tracker for all types of Literature.  
-<small>Change the Category type next to the searchbar if you're looking for Non-English Translated works.</small>
+*<small>Change the Category type next to the searchbar if you're looking for Non-English Translated works.</small>*
 
 <h3>Raws</h3>
 
@@ -28,7 +28,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - **[DLraw.net](https://dlraw.net/) (DDL)** - Direct Download for manga/novels/artbooks zips. 
 - **[JPraws](https://jraws.net/) (DDL)** - NSFW warning. Direct download in zips.
 
-<small>*Often searching for 'manga_name volume01 zip' on Google shows up random raw blogsites.*</small>
+<small>Often searching for 'manga_name volume01 zip' on Google shows up random raw blogsites.</small>
 ## Web-Ripping
 
 *Methods to rip Manga from various sites.*
@@ -36,7 +36,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**Manga Downloader**](https://redsquirrel87.altervista.org/doku.php/manga-downloader) - A simple yet sleek Java-based app to download images from raw sites with internal descrambling and stitching. Supports forcing frameworks to download from unsupported sites. Example: tonarinoyj.jp isn't supported but can be used by forcing coreview.  
 - [**HakuNeko**](https://hakuneko.download/) - Cross-platform downloader for manga and anime from various websites.  
 - [**Zeen3 Ripsters Userscripts**](https://zeen3.gitlab.io/ripsters/) - Various raw site rippers; intended to save raw images from ja/zh/ko sites.  
-<small>Use a Userscript Manager like [Violentmonkey](https://violentmonkey.github.io).</small>  
+*<small>Use a Userscript Manager like [Violentmonkey](https://violentmonkey.github.io).</small>*  
 - [**Bookwalker-downloader**](https://github.com/xuzhengyi1995/Manga_downloader) - A Bookwalker manga download framework using selenium. A little complex but there's an extensive readme file.
 &nbsp;  
 &nbsp;
@@ -64,11 +64,11 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 
 - [**nhentai**](https://nhentai.net) - The classic, has a big library but quality is lower than the original version. FAKKU/Irodori content doesn't get uploaded here.
 - [**Sukebei**](https://sukebei.nyaa.si/?c=1_4) - A Torrent site with a great collection of manga, a lot of the content from [ExHentai](http://exhentai.org/) also gets posted here. Content from FAKKU and Irodori gets posted here too.  
-<small>As a tip, when searching for a manga use the Japanese title.</small>
+*<small>As a tip, when searching for a manga use the Japanese title.</small>*
 - [**Nana ナナ**](https://nana.my.id) - Easy to navigate site that exclusively uploads FAKKU content.  
-<small>There is a Tachiyomi extension, guide [here](https://nana.my.id/tutorial)</small>
+*<small>There is a Tachiyomi extension, guide [here](https://nana.my.id/tutorial)</small>*
 - [**Koushoku**](https://koushoku.org) - Good source for FAKKU content only.  
-<small>[Important Info](https://web.archive.org/web/20220808172315/https://koushoku.org/2022.08.07.txt) regarding the future of the site.</small>
+*<small>[Important Info](https://web.archive.org/web/20220808172315/https://koushoku.org/2022.08.07.txt) regarding the future of the site.</small>*
 - [**Akuma**](https://akuma.moe) - Easy to use site, but it has lower quality images than the original and doesn't upload FAKKU/Irodori content.
 - [**Hitomi.la**](https://hitomi.la/) - Has similar content types to E-Hentai/ExHentai but may have a better UI experience due to images loading quicker. Has lower quality images than the original.
 - [**HVNC**](https://t.me/joinchat/tOw0PUB_pn5mZjZl) - Telegram chat of HVNC, they post FAKKU content there.
@@ -78,9 +78,9 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 ## Reading Applications
 <ul>
 &nbsp;
-<li><a href="https://github.com/Suwayomi/Tachidesk-Server" target="_blank"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><small>Requires a client, read the readme file.</small></ul>
+<li><a href="https://github.com/Suwayomi/Tachidesk-Server" target="_blank"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><i><small>Requires a client, read the readme file.</small></i></ul>
 
-- [**MComix**](https://sourceforge.net/p/mcomix/wiki/Home/) - User-friendly, customizable comic viewer.
+- [**MComix (<span style="color:red">PC</span>)**](https://sourceforge.net/p/mcomix/wiki/Home/) - User-friendly, customizable comic viewer.
 
 - [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Free and open source manga reader with customization support, various extensions and a beautiful reader. Use this if you don't like manga site's UI. Some of the most Notable Forks are:   
  
@@ -89,4 +89,4 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 	- [**TachiyomiJ2K**](https://tachiyomi.org/forks/TachiyomiJ2K/) - This fork takes a new approach to the design of the base app along with several other enhancements.
 
 - [**Paperback (<span style="color:red">iOS</span>)**](https://paperback.moe/) - An ad-free manga reader for iOS and iPadOS.  
-<small>Contains additional migration guides if needed.</small>  
+*<small>Contains additional migration guides if needed.</small>*

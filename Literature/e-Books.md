@@ -46,7 +46,7 @@ description: Reliable sources to obtain e-Books.
 
 - [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
 - [**CALISHOT**](https://eng.calishot.xyz/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://noneng.calishot.xyz/index-not-eng/summary).  
-<sup>If the links stop working check [here](https://www.reddit.com/search?q=flair_name%3A%22CALISHOT%22) for updated ones.</sup>
+*<small>If the links stop working check [here](https://www.reddit.com/search?q=flair_name%3A%22CALISHOT%22) for updated ones.</small>*
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
 - [**Trantor**](https://trantor.is/) - Darkweb e-Book resource.
 - [**Flibusta**](https://flibusta.site/) - Russian e-Book site.
@@ -55,7 +55,7 @@ description: Reliable sources to obtain e-Books.
 &nbsp;
 # Tools
 - [**Bypass Paywalls Clean**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Bypass News Article paywalls.  
-<sup>A more actively maintained fork (with no Google analytics) of [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome).</sup>
+*<small>A more actively maintained fork (with no Google analytics) of [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome).</small>*
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
 - [**Open Access Button**](https://openaccessbutton.org/) - Search engine for research articles.  

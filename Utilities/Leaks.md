@@ -12,11 +12,11 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Leak.to**](https://leak.to/forum/21-premium-accounts/) | [**Cracked.to**](https://cracked.io/Forum-Accounts) | [**Nulled**](https://nulled.to/forum/43-accounts/) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) | [**CrackX**](https://crackx.to/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
 **_Requires Sign-Up._**  
-<sub>You might need to like and reply to a post to get access to some content.</sub>
+*<small>You might need to like and reply to a post to get access to some content.</small>*
 
 [**Sellthing**](https://sellthing.co/generator) - Dispenses many types of Accounts, Proxies and OpenBullet Configs with full details about them.  
 **_Requires Sign-Up._**  
-<sub>It is **reccomended** to Sign-Up with a alternate e-Mail, Username & Password as this Dispenser isn't fully trusted.</sub>  
+*<small>It is <b>recommended</b> to Sign-Up with an alternate e-Mail, Username & Password as this Dispenser isn't fully trusted.</small>*
 
 [**s1ck.pw**](https://s1ck.pw/dispenser.php) - No-Hassles Dispenser, gives out many different Accounts as soon as you visit the page.  
 

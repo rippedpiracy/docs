@@ -29,7 +29,12 @@ As listed in the [**Scene Glossary**](https://ripped.guide/Scene/scene-glossary/
 - **[c-burns.co.uk:9000/Pre](irc://irc.c-burns.co.uk:9000/Pre)**
 &nbsp;  
 &nbsp;
-## Honorable Mention
+## Honorable Mentions
+
+**[r/CrackWatch](https://crackwatch.reddit.com/)**
+
+SubReddit for new Game Release announces, also have game piracy news/discussions.
+
 **[CrackWatch](https://crackwatch.com/)**
 
 Instead of being an automatic feed, CrackWatch has user-submitted Releases with their only focus being Games. **_Currently Offline_**.

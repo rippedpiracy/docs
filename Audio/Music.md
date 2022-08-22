@@ -16,14 +16,14 @@ description: List of sources for getting all genres of Music.
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists. They also have a Weekly folder found [here](https://unreleased.me/updates).   
-<small>Their Links may often be down, for more info and for new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</small>
+*<small>Their Links may often be down, for more info and for new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</small>*
 
 # Tools
 
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find music.     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek.
 
-[**Deemix**](https://deemix.app) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download them while d-fi has Tidal support on top of that. They can download up to 128 kb/s quality with a free acount.  
+[**Deemix**](https://deemix.app) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi on top of being able to download directly from Deezer, it can also accept Spotify or Tidal song links to download them from Deezer. They can download up to 128 kb/s quality with a free acount.  
 **_For higher quality downloads, a paid Deezer account is required._**
 
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple music playlists through Qobuz.   
@@ -35,20 +35,23 @@ description: List of sources for getting all genres of Music.
 [**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music Downloader for Qobuz, Tidal, SoundCloud, and Deezer. Supports downloads of Spotify and Apple Music playlists through last.fm.  
 **_Requires a paid Qobuz/Tidal/Deezer account._**    
 [**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloading client.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Downloader plugin. **_Requires a paid Tidal account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz Downloader plugin. **_Requires a paid Qobuz account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/uhwot/orpheusdl-deezer) - Deezer Downloader plugin. **_Requires a paid Deezer account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud Downloader plugin. **_Requires a paid SoundCloud account to download high quality._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader plugin. **_Requires a paid Napster account._**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics Downloader plugin.  
+*__All plugins listed below require a paid account in their respective platforms except Musixmatch.__*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz Downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/uhwot/orpheusdl-deezer) - Deezer Downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud Downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics Downloader plugin.
 
 **[SpotX](https://github.com/amd64fox/SpotX)** & [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - Multi-purpose AdBlockers and skip-bypasses for the Windows Spotify Desktop application.
+
+[**dzunlock**](https://github.com/Helmasko/dzunlock) - A browser userscript that allows up to Hi-Fi streaming on deezer.com.
 
 # Communities
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz.  
 Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, have multiple [bots](https://github.com/crackhub-dev/music-dl-bot) that can download from Qobuz, TIDAL, Deezer, Soundcloud, Spotify, Apple Music, JioSaavn and YouTube Music. They allow community music requesting/sharing.  
-<small>[Info](https://rentry.org/selfhosted-divolt) regarding Divolt and how it compares to [Revolt](https://revolt.chat/).</small>  
+*<small>[Info](https://rentry.org/selfhosted-divolt) regarding Divolt and how it compares to [Revolt](https://revolt.chat/).</small>*
 
 [**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more.   
 **_Requires Sign-up_**.  
@@ -63,8 +66,10 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, have multip
 
 # Misc
 
+[**THE MEGA MUSIC RIPPING GUIDE**](https://ori5000.github.io/musicripping.html) - A music ripping guide for various platforms by Esoteria Avenue.
+
 [**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., the successor of [r/FreeDeezerARL](https://freedeezerarl.reddit.com) after it's Discord Server got shut down.  
-<small>They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) on their [Motrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).</small>
+*<small>They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) on their [Motrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).</small>*
 
 [**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX. 
 
@@ -75,5 +80,3 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, have multip
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
 
 [**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Support Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.
-
-[**dzunlock**](https://github.com/Helmasko/dzunlock) - A browser userscript that allows Hi-Fi streaming on deezer.com.
