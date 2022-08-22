@@ -2,6 +2,8 @@
 title: Manga
 description: Collection of resources for your Manga needs
 ---
+[**The Index**](https://theindex.moe/), a **HUGE** list of reading/downloading sites and apps categorized in Platforms, Categories and more.
+
 > It is generally advised to avoid aggregator websites as they consist of annoying ads, highly compressed images and no updates on best quality releases.  
 > Scans and officials' reading should suffice with the top two choices under <a target="_self" href="#web-reading">Web Reading</a>, in case of a very niche series or series licensed only for paperback publishing, do check [Nyaa.si](https://nyaa.si/?c=3_0) - a torrent tracker.
 
@@ -24,8 +26,9 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 
 <h3>Raws</h3>
 
-- **[Manga-Zip](https://manga-zip.is/) (DDL)** - Direct Download for magazines/volumes in zips.
-- **[DLraw.net](https://dlraw.net/) (DDL)** - Direct Download for manga/novels/artbooks zips. 
+- **[Manga-Zip](https://manga-zip.is/post) (DDL)** - Direct Download for magazines/volumes in zips.
+- **[DLraw.net](https://dlraw.net/) (DDL)** - Direct Download for manga/novels/artbooks zips.  
+*<small>Join our Discord to find out how to bypass mexa.sh download limitations.</small>*
 - **[JPraws](https://jraws.net/) (DDL)** - NSFW warning. Direct download in zips.
 - **[Nyaa.si](https://nyaa.si/?c=3_3) (Torrent)** - Huge Torrent Tracker for all types of Literature.
 
