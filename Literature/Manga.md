@@ -24,9 +24,10 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 
 <h3>Raws</h3>
 
-- **[Manga-Zip](https://manga-zip.net/) (DDL)** - Direct Download for magazines/volumes in zips.
+- **[Manga-Zip](https://manga-zip.is/) (DDL)** - Direct Download for magazines/volumes in zips.
 - **[DLraw.net](https://dlraw.net/) (DDL)** - Direct Download for manga/novels/artbooks zips. 
 - **[JPraws](https://jraws.net/) (DDL)** - NSFW warning. Direct download in zips.
+- **[Nyaa.si](https://nyaa.si/?c=3_3) (Torrent)** - Huge Torrent Tracker for all types of Literature.
 
 <small>Often searching for 'manga_name volume01 zip' on Google shows up random raw blogsites.</small>
 ## Web-Ripping
@@ -47,7 +48,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**E-Hentai**](http://e-hentai.org/) - The source of most of the manga online with an exceptional library, most of the translators also upload here. You can create bounties, fill requests and gain rep in its own system (read more about it [here](https://ehwiki.org/wiki/Main_Page)). In addition to h-manga, you can also find cosplays, image sets, game CGs and more.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ExHentai](http://exhentai.org/) - The unfiltered version of e-Hentai which includes controversial content such as loli, shota, cub, guro. 
 <details>
-	<summary>Guide for acessing ExHentai (click this text)</summary>
+	<summary><b><u>Guide for acessing ExHentai (click this text)</u></b></summary>
 	<p>
 		<h4><span style="color:#00ff00">Step 0: VPN</span></h4>
 		<blockquote>Depending on your region (especially Asia), you may not be able to access Exhentai no matter how many accounts you make. The only region that guarantees success is North America. Any VPN services will work in theory; however, you should try to use a paid VPN service for this, free VPNs may not work.</blockquote>  
@@ -78,9 +79,10 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 ## Reading Applications
 <ul>
 &nbsp;
-<li><a href="https://github.com/Suwayomi/Tachidesk-Server" target="_blank"><b>TachiDesk (<span style="color:red">PC</span>)</b></a> - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.</li><i><small>Requires a client, read the readme file.</small></i></ul>
+<li><a href="https://sourceforge.net/p/mcomix/wiki/Home/" target="_blank"><b>MComix (<span style="color:red">PC</span>)</b></a> - User-friendly, customizable comic viewer.</li></ul>
 
-- [**MComix (<span style="color:red">PC</span>)**](https://sourceforge.net/p/mcomix/wiki/Home/) - User-friendly, customizable comic viewer.
+- [**TachiDesk (<span style="color:red">PC</span>)**](https://github.com/Suwayomi/Tachidesk-Server) - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
+*<small>Requires a client, read the readme file.</small>*
 
 - [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Free and open source manga reader with customization support, various extensions and a beautiful reader. Use this if you don't like manga site's UI. Some of the most Notable Forks are:   
  
