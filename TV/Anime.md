@@ -14,7 +14,9 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 **[AnimeTosho](https://animetosho.org) (Torrent)** - Collates Releases from Public Trackers, and has DDL links for file attachments (Subtitles, Fonts, Chapters, Tags).
 
-**[AniDex](https://anidex.info/) (Torrent)** - Alternative Tracker to get Anime from, A Few Releasers post exclusively here.
+**[AniDex](https://anidex.info/?q=&id=1,2,3) (Torrent)** - Alternative Tracker to get Anime from, A Few Releasers post exclusively here.
+
+**[AniRena](https://www.anirena.com/index.php?t=2) (Torrent)** - General Tracker for everything Japanese
 
 **[Tokyo Toshokan](https://www.tokyotosho.info/?cat=1) (Torrent)** - A Library for every type of Japanese Media, shared with Torrents.  
 
@@ -25,7 +27,7 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**A Certain Smoke's Index**](https://sneedex.moe) - A big list of the best Releases for Anime (by Seadex).
 
-[**A Certain Fansubber's Index**](https://docs.google.com/spreadsheets/d/1PJYwhjzLNPXV2X1np-S4rdZE4fb7pxp-QbHY1O0jH6Q/htmlview) - Another list of the top Quality Releases for Anime.
+[**A Certain Fansubber's Index**](https://index.fansubcar.tel/) - Another list of the top Quality Releases for Anime.
 
 # Misc
 
