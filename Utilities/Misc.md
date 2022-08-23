@@ -71,7 +71,7 @@ description: Tools and Apps to make your life easier.
 
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
-[**GooglePlay DDL**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds buttons to download APKs from Google Play when browsing apps.
+[**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps, allowing the download of the APK.
 
 # Useful Apps
 
