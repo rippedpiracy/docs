@@ -47,6 +47,8 @@ description: List of sources for getting all genres of Music.
 
 [**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser userscript that allows up to Hi-Fi streaming on deezer.com.
 
+[**SpotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata
+
 # Communities
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz.  
