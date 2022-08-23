@@ -55,6 +55,8 @@ description: Tools and Apps to make your life easier.
 
 [**Stylus**](https://add0n.com/stylus.html) - Browser Userstyles Manager, used for loading CSS files for customising the appearance of webpages.
 
+[**GoogleUnlocked**](https://ibit.ws/post/google-unlocked/) - The extension scans hidden links that were censored on Google search results due to complaints. The tool scans those complaints and extracts the links from them, puts the links back into Google results, all in a matter of seconds.
+
 # Browser UserScripts
 
 <sub>**Requires a Browser UserScript Manager, such as [ViolentMonkey](https://violentmonkey.github.io).**</sub>
