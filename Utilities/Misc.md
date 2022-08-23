@@ -71,6 +71,8 @@ description: Tools and Apps to make your life easier.
 
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
+[**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps, allowing the download of the APK.
+
 # Useful Apps
 
 [**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) - File archivers, can pack and unpack many archive types such as 7z, rar, zip.
