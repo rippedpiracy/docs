@@ -16,7 +16,7 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 **[AniDex](https://anidex.info/?q=&id=1,2,3) (Torrent)** - Alternative Tracker to get Anime from, A Few Releasers post exclusively here.
 
-**[AniRena](https://www.anirena.com/index.php?t=2) (Torrent)** - General Tracker for everything Japanese
+**[AniRena](https://www.anirena.com/index.php?t=2) (Torrent)** - General Tracker for everything Japanese.
 
 **[Tokyo Toshokan](https://www.tokyotosho.info/?cat=1) (Torrent)** - A Library for every type of Japanese Media, shared with Torrents.  
 
