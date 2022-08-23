@@ -21,6 +21,8 @@ description: Tools and Apps to make your life easier.
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
+[**Bypass Paywalls Clean (<span style="color:red">Firefox</span>)**](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean#installation) [**(Chromium)**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean#installation) - Removes paywalls from various news sites and articles.
+
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
 ***Can be difficult to setup for the Average User.***  
 [**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
@@ -46,9 +48,15 @@ description: Tools and Apps to make your life easier.
 [**Temporary Containers (<span style="color:red">Firefox</span>)**](https://github.com/stoically/temporary-containers) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
+[**Allow Right Click**](https://add0n.com/allow-right-click.html) - Re-enable right clicking on sites that disable it.
+
 [**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.
 
+[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the dislike count on Youtube.
+
 [**DownThemAll!**](https://www.downthemall.org/) | [**DownZemAll!**](https://setvisible.github.io/DownZemAll/) - DownThemAll is a mass download manager directly built inside the Browser, whereas DownZemAll is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).
+
+[**Media Reaper (<span style="color:red">Firefox</span>)**](https://addons.mozilla.org/en-US/firefox/addon/media-reaper/) - Easily download videos and audio files from any site that youtube-dl supports.
 
 [**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
 *<small>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence it has tracked it's users, it's compatibility isn't great, and it's not very actively maintained.</small>*
@@ -65,6 +73,8 @@ description: Tools and Apps to make your life easier.
 [**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
 [**SiteScrubber**](https://github.com/PrimePlaya24/dl-site-scrubber) - Skip certain Timers or Ads and remove clutter that make it harder to Download from certain DDL sites.
 
+[**Direct links out**](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Skips redirection pages and removes redirect tracking from urls
+
 [**MoreCAPTCHA**](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 
 [**Mega.nz Unlimited Import**](https://pastebin.com/raw/4AXkE1yE) - Import any file/folder to your Mega Cloud without worrying about the space it takes as long as your Storage isn't full.
@@ -73,9 +83,11 @@ description: Tools and Apps to make your life easier.
 
 [**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps, allowing the download of the APK.
 
+[**Microsoft Store Direct Download**](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Adds DDL links to Microsoft store web pages.
+
 # Useful Apps
 
-[**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) - File archivers, can pack and unpack many archive types such as 7z, rar, zip.
+[**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip.
 
 [**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
 
