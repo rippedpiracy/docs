@@ -21,8 +21,6 @@ description: Tools and Apps to make your life easier.
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
-[**Bypass Paywalls Clean (<span style="color:red">Firefox</span>)**](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean#installation) [**(Chromium)**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean#installation) - Removes paywalls from various news sites and articles.
-
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
 ***Can be difficult to setup for the Average User.***  
 [**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
