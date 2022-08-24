@@ -93,5 +93,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 	- [**Neko**](https://tachiyomi.org/forks/Neko/) - This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. Contains features specific to Mangadex that those versions cannot offer except for other sources, local sources, and editting manga.  
 	- [**TachiyomiJ2K**](https://tachiyomi.org/forks/TachiyomiJ2K/) - This fork takes a new approach to the design of the base app along with several other enhancements.
 
+- [**Kuro Reader (<span style="color:red">Android</span>)**](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga&hl=en&gl=US) - Make your own library, with quick access to all your books. Include as many folders as you want, and see all your comics and manga organized by author, series and year.
+
 - [**Paperback (<span style="color:red">iOS</span>)**](https://paperback.moe/) - An ad-free manga reader for iOS and iPadOS.  
 *<small>Contains additional migration guides if needed.</small>*
