@@ -1,9 +1,7 @@
 ---
-title: Mobile 
-description: List of useful mobile apps.
+title: Android 
+description: List of useful Android mobile apps.
 ---
-
-# Android Apps
 
 [**PowerTunnel-Android**](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android.
 
