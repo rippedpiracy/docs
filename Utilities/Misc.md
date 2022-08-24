@@ -54,7 +54,7 @@ description: Tools and Apps to make your life easier.
 
 [**DownThemAll!**](https://www.downthemall.org/) | [**DownZemAll!**](https://setvisible.github.io/DownZemAll/) - DownThemAll is a mass download manager directly built inside the Browser, whereas DownZemAll is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).
 
-[**Media Reaper (<span style="color:red">Firefox</span>)**](https://addons.mozilla.org/en-US/firefox/addon/media-reaper/) - Easily download videos and audio files from any site that youtube-dl supports.
+[**Media Reaper**](https://sasrip.sas41.com/Home/MediaReaper) - Easily download videos and audio files from any site that youtube-dl supports.
 
 [**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
 *<small>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence it has tracked it's users, it's compatibility isn't great, and it's not very actively maintained.</small>*
