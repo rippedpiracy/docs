@@ -81,8 +81,6 @@ description: Tools and Apps to make your life easier.
 
 [**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps, allowing the download of the APK.
 
-[**Microsoft Store Direct Download**](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Adds DDL links to Microsoft store web pages.
-
 # Useful Apps
 
 [**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip.
