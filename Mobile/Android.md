@@ -21,7 +21,7 @@ description: List of useful Android mobile apps.
 
 [**Seeker**](https://github.com/jackBonadies/SeekerAndroid) - Unofficial Soulseek client for Android.
 
-[**Meoko**](https://play.google.com/store/apps/details?id=com.app.meoko) - A [Nyaa.si](Nyaa.si) torrent search app.
+[**Meoko**](https://play.google.com/store/apps/details?id=com.app.meoko) - A [Nyaa.si](https://nyaa.si) torrent search app.
 
 [**Seal**](https://github.com/JunkFood02/Seal) - Video/Audio downloader for yt-dlp [supported video platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
