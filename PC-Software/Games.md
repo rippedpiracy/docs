@@ -52,6 +52,10 @@ One of the oldest and most respected Repacker that passed away recently. His sit
 
 A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. Rarely includes Torrent links. Takes requests.
 
+**[GLOAD](https://gload.to/) (DDL)**
+
+Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
+
 **[Scene CrackHub](https://scene.crackhub.site) (DDL)**
 
 An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 Scene Releases directly from [TorrentSeeds](https://torrentseeds.org/) to zippyshare.  
@@ -176,6 +180,8 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamACFGenerator](https://github.com/Sak32009/SteamACFGenerator/) - A CLI tool to generate .acf files for GreenLuma with ease.
 
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
+
+[**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. For Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app (most mods require you to own the game to be able to download it for)!
 
 [**Steam Achievement Manager (SAM)**](https://github.com/gibbed/SteamAchievementManager) - A Steam achievements manager where you can add/delete achievements to any game you want.  
 **Using this tool might put your Steam account at risk.**  
