@@ -44,7 +44,8 @@ description: List of sources for getting all genres of Music.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader plugin.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics Downloader plugin.
 
-[**spotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata from YouTube.
+[**spotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata fetched from YouTube.  
+*<small>This tool does not download songs directly from Spotify.</small>*
 
 **[SpotX](https://github.com/amd64fox/SpotX)** & [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - Multi-purpose AdBlockers and skip-bypasses for the Windows Spotify Desktop application.
 
