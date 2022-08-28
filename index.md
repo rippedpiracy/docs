@@ -10,7 +10,8 @@ no_show_footer: true
            margin-right: auto;
            width: 40%;"
     src="/img/rippedtransparent-cropped.svg" 
-    alt="Ripped Logo">
+    alt="Ripped Logo"
+    id= "logo">
 </img>
 ![]()
 
@@ -20,7 +21,8 @@ no_show_footer: true
            margin-right: auto;
            width: 70%;"
     src="/img/ripped_banner.svg" 
-    alt="Ripped Banner">
+    alt="Ripped Banner"
+    id= "banner">
 </img>
 
 ![]()
