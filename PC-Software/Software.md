@@ -47,6 +47,8 @@ Has compressed Downloads for Software, with silent installs. Currently only Regi
 
 # Assets
 
+[**r/CrackedPlugins2**](https://www.reddit.com/r/CrackedPlugins2/wiki/megathread/) - Megathread for [r/CrackedPlugins2](https://CrackedPlugins2.reddit.com). They have trusted sites and tips for finding VSTs, plugins, and general audio software.
+
 [**CG Persia**](https://cgpersia.com/) | **[GFXDomain](https://gfxdomain.co/)**
 
 Big sites for loads of Educational content including: tutorials, CG assets, plugins for various apps and more. They both have their own forums and Private Trackers but sign-ups for them are currently closed. They use bad file hosters.
