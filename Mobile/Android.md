@@ -11,8 +11,6 @@ description: List of useful Android mobile apps.
 
 [**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based web browser that supports extensions.
 
-[**Firefox Nightly**](https://play.google.com/store/search?q=firefox+nightly&c=apps&hl=en&gl=US) - Firefox browser with the ability to install add-ons just like the desktop browser, also respects user privacy.
-
 [**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
 
 [**xManager**](https://xmanagerapp.com/) - Manage and install all versions of the Spotify app.
