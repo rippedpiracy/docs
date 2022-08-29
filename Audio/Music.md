@@ -21,7 +21,7 @@ description: List of sources for getting all genres of Music.
 # Tools
 
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find music.     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek and have added features.
 
 [**Deemix**](https://deemix.app) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi on top of being able to download directly from Deezer, it can also accept Spotify or Tidal song links to download them from Deezer. They can download up to 128 kb/s quality with a free acount.  
 **_For higher quality downloads, a paid Deezer account is required._**
@@ -67,6 +67,8 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 [**RipRequestsNew**](https://yayeet.org) - The forum of r/RipRequestsNew, the successor of r/RipRequests after it got shut down. They allow requesting and sharing music.  
 **_Requires Sign-up_**.  
+
+[**r/MusicHoarder**](https://musichoarder.reddit.com) - A SubReddit for general Music enthusiasts, they allow requesting and sharing Music. Check their [Wiki](https://reddit.com/r/musichoarder/wiki/index) for some useful information.
 
 # Misc
 
