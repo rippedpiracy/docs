@@ -27,7 +27,7 @@ description: List of useful Android mobile apps.
 
 [**Seal**](https://github.com/JunkFood02/Seal) - Video/Audio downloader for yt-dlp [supported video platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
-[**NewPipe**](https://newpipe.net/) - Video/Audio downloader for YouTube, watch videos without ads and support download from Soundcloud, also supports background playing when screen is off.
+[**NewPipe**](https://newpipe.net/) - Video/Audio downloader for YouTube, watch videos without ads and supports download from Soundcloud, also supports background playing when screen is off.
 
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.
 
