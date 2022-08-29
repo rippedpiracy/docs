@@ -11,6 +11,8 @@ description: List of useful Android mobile apps.
 
 [**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based web browser that supports extensions.
 
+[**Firefox Nightly**](https://play.google.com/store/search?q=firefox+nightly&c=apps&hl=en&gl=US) - Firefox browser with the ability to install add-ons just like the desktop browser, also respects user privacy.
+
 [**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
 
 [**xManager**](https://xmanagerapp.com/) - Manage and install all versions of the Spotify app.
@@ -24,6 +26,8 @@ description: List of useful Android mobile apps.
 [**Meoko**](https://play.google.com/store/apps/details?id=com.app.meoko) - A [Nyaa.si](https://nyaa.si) torrent search app.
 
 [**Seal**](https://github.com/JunkFood02/Seal) - Video/Audio downloader for yt-dlp [supported video platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
+
+[**NewPipe**](https://newpipe.net/) - Video/Audio downloader for YouTube, watch videos without ads and support download from Soundcloud, also supports background playing when screen is off.
 
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.
 
