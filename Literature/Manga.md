@@ -18,7 +18,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**MangaReader**](https://mangareader.to/) - Easy to use UI with high quality Manga. Features language selection and endless scrolling for chapters.
 &nbsp;  
 &nbsp;
-## Downloads
+## Downloading
 
 <h3>Translated</h3>
 
@@ -33,6 +33,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - **[JPraws](https://jraws.net/) (DDL)** - NSFW warning. Direct download in zips.
 - **[Nyaa.si](https://nyaa.si/?c=3_3) (Torrent)** - Huge Torrent Tracker for all types of Literature.
 
+<small>We recommend you use [qBittorrent](https://www.qbittorrent.org/) to Torrent.</small>  
 <small>Often searching for 'manga_name volume01 zip' on Google shows up random raw blogsites.</small>
 ## Web-Ripping
 
@@ -98,3 +99,9 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 
 - [**Paperback (<span style="color:red">iOS</span>)**](https://paperback.moe/) - An ad-free manga reader for iOS and iPadOS.  
 *<small>Contains additional migration guides if needed.</small>*
+
+> **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
+
+> &nbsp;
+  
+> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.

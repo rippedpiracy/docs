@@ -222,7 +222,7 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 > &nbsp;
   
-> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down. We recommend using [qBittorrent](https://www.qbittorrent.org/) as a BitTorrent client.   
+> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
 
 > &nbsp;
 

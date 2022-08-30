@@ -5,7 +5,7 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**The Anime Index**](https://theindex.moe/), a **HUGE** list of streaming/downloading sites and apps categorized in Languages, Sub/Dubs and more.
 
-# Downloads
+# Downloading
 
 **[Nyaa](https://nyaa.si/?c=1_0) (Torrent)** - The Best Public Tracker to get Anime from.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sukebei](https://sukebei.nyaa.si/?c=1_1) (Torrent) - The Best Public Tracker to get Hentai from.
@@ -29,6 +29,25 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**A Certain Fansubber's Index**](https://index.fansubcar.tel/) - Another list of the top Quality Releases for Anime.
 
+# Apps
+
+[**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) - Free, Lightweight and open source Torrent Clients.  
+*<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In it's current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBitorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBitorrent.
+
+[**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://xtremedownloadmanager.com/) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JDownloader 2 Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md) - A guide for setting up JDownloader 2.
+
+[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality. It can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
+[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
+[**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
+[**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
+[**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader. 
+
+**[Taiga (<span style="color:red">Windows</span>)](https://github.com/erengy/taiga)** | **[Trackma (<span style="color:red">Linux</span>)](https://github.com/z411/trackma/)** - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more.  
+**A must have for Weebs.**
+
 # Misc
 
 [**The AnimePiracy Wiki**](https://thewiki.moe) - Comprehensive information about everything Anime Piracy. A MUST READ if you are interested.
@@ -37,10 +56,17 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**SauceNAO**](https://saucenao.com) | [**Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engines for Anime, SauceNAO is also helpful in identifying *sauce*.
 
-**[Taiga (<span style="color:red">Windows</span>)](https://github.com/erengy/taiga)** | **[Trackma (<span style="color:red">Linux</span>)](https://github.com/z411/trackma/)** - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more.  
-**A must have for Weebs.**
-
 [**Senpai.moe**](https://www.senpai.moe/) | [**Monthly**](https://www.monthly.moe/) - Calender for upcoming Official Anime Releases.
 
 [**BECAUSE.MOE**](https://because.moe/) - Search engine to find streaming services that offer the Anime you search for.  
 **Accurate up to May 27, 2020**.
+
+> **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
+
+> &nbsp;
+  
+> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
+
+> &nbsp;
+
+> **XDCC:** A computer file sharing method which uses the [Internet Relay Chat](https://wikipedia.org/wiki/Internet_Relay_Chat) network as a host service. In essence, its a Direct Download.
