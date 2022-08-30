@@ -3,7 +3,8 @@ title: Games
 description: List of safe and trusted sites for Games.
 ---
 **Some of these sites have Fake and Mirror sites, you should only use the ones we link to.  
-In the case that any of the sites are blocked, use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel).**
+In the case that any of the sites are blocked, use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
+<small>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</small>
 
 ## General Torrent
 
@@ -72,8 +73,8 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 Arguably the best site for Game Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for many Games.  
 **_Requires Sign-up_**.  
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when its mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - A guide for browsing cs.rin.ru.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - A guide for browsing cs.rin.ru by **MIDNYTE**.
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
@@ -195,7 +196,6 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 ## Misc
 
 <small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small>  
-<small>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</small>
 
 [**ProtonDB**](https://protondb.com/) - A Community maintained Database of Steam Games with their compatibilities on Linux and Steam Deck graded and ranked.
 
@@ -216,7 +216,7 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.
 
-[**PGames**](https://rentry.co/pgames-mega-thread) - The [r/PiratedGames](https://PiratedGames.reddit.com) Megathread.
+[**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.
 
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
