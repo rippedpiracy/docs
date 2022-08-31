@@ -11,8 +11,8 @@ In the case that any of the sites are blocked, use [GoodByeDPI](https://github.c
 **[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/)** | **[.gd](https://1337x.gd/)** | **[.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
-**<u>Do not get Software Releases from this site.</u>  
-*Stay away from Torrents by [IGGGAMES](https://1337x.to/user/IGGGAMESCOM/), [xGIROx](https://1337x.to/user/xGIROx/), [w4rkr4f7](https://1337x.to/user/w4rkr4f7/), [Zohaib2044](https://1337x.to/user/Zohaib2044/), [emadmoner](https://1337x.to/user/emadmoner/), Seyter, Qoob, nosTEAM and CorePack!***  
+**<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/).</u></span>  
+Remember to <u>NEVER</u> get Software Releases from this site.**
 
 **[RARBG](https://rarbg.to) (Torrent)**
 
@@ -134,6 +134,8 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers. HashCheck and OpenHashTab integrate into Windows Shell.
 
+[**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD.
+
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
 [**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
@@ -216,7 +218,8 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.
 
-[**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.
+[**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
+*<small>You can also ask for Piracy Support in our [Discord Server](https://discord.ripped.guide)</small>*
 
 > **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
 
