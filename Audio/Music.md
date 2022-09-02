@@ -65,7 +65,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 [**r/xTrill**](https://xTrill.reddit.com) - A Subreddit for requesting and sharing Music.
 
-[**RipRequestsNew**](https://yayeet.org) - The forum of r/RipRequestsNew, the successor of r/RipRequests after it got shut down. They allow requesting and sharing music.  
+[**Yayeet**](https://yayeet.org) - The forum of [r/RRMusicPals](https://RRMusicPals.reddit.com/) (originally, r/RipRequestsNew), the successor of r/RipRequests after it got shut down. They allow requesting and sharing music on both their forum and their SubReddit. **Their forum is currently broken but will be fixed soon.**
 **_Requires Sign-up_**.  
 
 [**r/MusicHoarder**](https://musichoarder.reddit.com) - A SubReddit for general Music enthusiasts, they allow requesting and sharing Music. Check their [Wiki](https://reddit.com/r/musichoarder/wiki/index) for some useful information.
