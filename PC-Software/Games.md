@@ -40,7 +40,7 @@ A new and emerging group of Repackers, have Torrent links on some of their relea
 
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
-Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers.
+Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers. They upload on 1337x too.
 
 **[XATAB](https://xatab-repack.com) (Torrent)**
 
@@ -198,6 +198,8 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 ## Misc
 
 <small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small>  
+
+[**PreDBs**](PreDBs.md) - List of Release Indexes that are used to check whether a Game has been cracked or not. Just a reminder that a Game not being on any list doesnt mean it hasn't been cracked.
 
 [**ProtonDB**](https://protondb.com/) - A Community maintained Database of Steam Games with their compatibilities on Linux and Steam Deck graded and ranked.
 
