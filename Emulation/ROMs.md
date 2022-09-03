@@ -77,8 +77,8 @@ An Auto Scene Release Uploader Bot that uploads Nintendo Switch titles among oth
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JDownloader 2 Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md) - A guide for setting up JDownloader 2.
 
-> **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
+> <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
   
-> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
+> <span style="color:orange;">**Torrent:**</span> A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.

@@ -61,12 +61,12 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 [**BECAUSE.MOE**](https://because.moe/) - Search engine to find streaming services that offer the Anime you search for.  
 **Accurate up to May 27, 2020**.
 
-> **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
+> <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
   
-> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
+> <span style="color:orange">**Torrent:**</span> A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
 
 > &nbsp;
 
-> **XDCC:** A computer file sharing method which uses the [Internet Relay Chat](https://wikipedia.org/wiki/Internet_Relay_Chat) network as a host service. In essence, its a Direct Download.
+> <span style="color:orange">**XDCC:**</span> A computer file sharing method which uses the [Internet Relay Chat](https://wikipedia.org/wiki/Internet_Relay_Chat) network as a host service. In essence, its a Direct Download.

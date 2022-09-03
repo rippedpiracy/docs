@@ -100,8 +100,8 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**Paperback (<span style="color:red">iOS</span>)**](https://paperback.moe/) - An ad-free manga reader for iOS and iPadOS.  
 *<small>Contains additional migration guides if needed.</small>*
 
-> **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
+> <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
   
-> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
+> <span style="color:orange">**Torrent:**</span> A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.

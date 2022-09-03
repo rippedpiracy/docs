@@ -60,12 +60,12 @@ Quality can vary from one Release to another, ALWAYS check filesizes and Torrent
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
 [**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader. 
 
-> **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
+> <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
   
-> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
+> <span style="color:orange">**Torrent:**</span> A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
 
 > &nbsp;
 
-> **XDCC:** A computer file sharing method which uses the [Internet Relay Chat](https://wikipedia.org/wiki/Internet_Relay_Chat) network as a host service. In essence, its a Direct Download.
+> <span style="color:orange">**XDCC:**</span> A computer file sharing method which uses the [Internet Relay Chat](https://wikipedia.org/wiki/Internet_Relay_Chat) network as a host service. In essence, its a Direct Download.

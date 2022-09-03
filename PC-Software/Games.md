@@ -223,16 +223,16 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
 *<small>You can also ask for Piracy Support in our [Discord Server](https://discord.ripped.guide)</small>*
 
-> **DDL:** Direct Download, where you can download a file from a server usually done through your Browser.    
+> <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
 > &nbsp;
   
-> **Torrent:** A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
+> <span style="color:orange;">**Torrent:**</span> A decentralised Peer-to-Peer file sharing protocol that is very common when sharing Pirated Content, since the file isnt on a single server that can easily be taken down.
 
 > &nbsp;
 
-> **Repacks:** Highly Compressed Games that usually include all released DLCs, language packs, are Pre-Cracked and require minimal Piracy knowledge. Good for beginners and people that have limited Internet bandwidth.
+> <span style="color:orange">**Repacks:**</span> Highly Compressed Games that usually include all released DLCs, language packs, are Pre-Cracked and require minimal Piracy knowledge. Good for beginners and people that have limited Internet bandwidth.
 
 > &nbsp;
 
-> **Mirrors:** An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another Mirror.
+> <span style="color:orange;">**Mirrors:**</span> An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another Mirror.
