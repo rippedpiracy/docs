@@ -50,9 +50,7 @@ You can also use these HTML tags,
 ```html
 here is <u>underlined text</u>
 
-here is <sub>subscript text</sub>
-
-here is <sup>superscript text</sup>
+here is <small>small text</small>
 
 here is <span style="color:red">red color text</span>
 ```
