@@ -195,6 +195,17 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 <small>Check out the [Release Board](https://cs.rin.ru/forum/viewforum.php?f=29) of CS.RIN.RU and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</small>
 
+## Redistributables
+
+<small>Most of the time you can tell which redistributables are required for a specific Steam Game by going to it's page on <https://steamdb.info/> and clicking the "Depots" section on the sidebar. On the "EXTRE INFO" column, if it mentions "Depot from 228980" then you can be sure those files are required.  
+Some common redistributables are:</small>
+
+[**VisualCppRedist AIO**](https://github.com/abbodi1406/vcredist) - All in One repack for the latest Microsoft Visual C++ Redistributable Runtimes.  
+[**DirectX**](https://www.microsoft.com/en-us/download/details.aspx?id=35) - A Web-Downloader that installs a number of Runtime libraries for Games that use D3DX9, D3DX10, D3DX11, XAudio 2.7, XInput 1.3, XACT, and/or Managed DirectX 1.1.  
+*<small>Alternative Offline-Downloader link available [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109).</small>*  
+[**.NET**](https://dotnet.microsoft.com/en-us/download/dotnet) - Various versions of .NET, you generally need a single version only.  
+**<span style="color:#00AFF4">XNA Framework</span>** - [**3.0**](https://www.microsoft.com/en-us/download/details.aspx?id=22588) | [**3.1**](https://www.microsoft.com/en-us/download/details.aspx?id=15163) | [**4.0**](https://www.microsoft.com/en-us/download/details.aspx?id=20914) - Various versions of the Microsoft XNA Framework Redistributable.
+
 ## Misc
 
 <small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small>  
