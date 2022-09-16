@@ -209,7 +209,7 @@ Some common redistributables are:</small>
 [**.NET**](https://dotnet.microsoft.com/en-us/download/dotnet) - Various versions of .NET, you generally need a single version only.  
 **<span style="color:#00AFF4">XNA Framework</span>** - [**3.0**](https://www.microsoft.com/en-us/download/details.aspx?id=22588) | [**3.1**](https://www.microsoft.com/en-us/download/details.aspx?id=15163) | [**4.0**](https://www.microsoft.com/en-us/download/details.aspx?id=20914) - Various versions of the Microsoft XNA Framework Redistributable.
 
-<small>[Here](https://drive.google.com/file/d/1cNMra_oBoJfAK18euU5kB64skOcMK46q/view?usp=sharing) you can find an archive of all the [Steamworks Common Redistributables](https://steamdb.info/app/228980/depots/) downloaded directly from Steam using [DepotDownloader](https://github.com/SteamRE/DepotDownloader) on 16/09/2022, by me (**Helmasko**).</small>
+<small>[Here](https://drive.google.com/file/d/1cNMra_oBoJfAK18euU5kB64skOcMK46q/view?usp=sharing) you can find an archive of all the [Steamworks Common Redistributables](https://steamdb.info/app/228980/depots/) downloaded directly from Steam using [DepotDownloader](https://github.com/SteamRE/DepotDownloader) on 16/09/2022, by a Ripped Staff Member.</small>
 
 ## Misc
 
