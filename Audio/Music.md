@@ -13,7 +13,7 @@ description: List of sources for getting all genres of Music.
 
 [**SoftArchive**](https://sanet.st/music/) - SoftArchive's Music Section, has many different Albums you might not find elsewhere.
 
-[**KHInsider**](https://downloads.khinsider.com/) - Offers plenty of Video Game Soundtracks and Game audio rips.
+[**KHInsider**](https://downloads.khinsider.com/) - Offers plenty of Video Game Soundtracks and Game audio rips. But audio quality tends to be extremely low.
 
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.
 
