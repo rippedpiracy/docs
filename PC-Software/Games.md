@@ -190,6 +190,9 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 [**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app!
 
+[**DepotDownloader**](https://github.com/SteamRE/DepotDownloader) - CLI Steam Depot Downloader, can individually download DLCs and other Depots of Games (if the DLCs have their own Depots) that you own.  
+*<small>To find the Depot IDs of various Depots, you can visit <https://steamdb.info/>, go on the page of the game and select "Depots" on the sidebar. There, you'll find the Depot IDs of various packages you can download.</small>*
+
 [**Steam Achievement Manager (SAM)**](https://github.com/gibbed/SteamAchievementManager) - A Steam achievements manager where you can add/delete achievements to any game you want.  
 **Using this tool might put your Steam account at risk.**  
 
@@ -205,6 +208,8 @@ Some common redistributables are:</small>
 *<small>Alternative Offline-Downloader link available [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109).</small>*  
 [**.NET**](https://dotnet.microsoft.com/en-us/download/dotnet) - Various versions of .NET, you generally need a single version only.  
 **<span style="color:#00AFF4">XNA Framework</span>** - [**3.0**](https://www.microsoft.com/en-us/download/details.aspx?id=22588) | [**3.1**](https://www.microsoft.com/en-us/download/details.aspx?id=15163) | [**4.0**](https://www.microsoft.com/en-us/download/details.aspx?id=20914) - Various versions of the Microsoft XNA Framework Redistributable.
+
+<small>[Here](https://drive.google.com/file/d/1_T4uip7y77MyitIwx5VIwKNGSpBNoY8k/view?usp=sharing) you can find an archive of all the [Steamworks Common Redistributables](https://steamdb.info/app/228980/depots/) downloaded directly from Steam using [DepotDownloader](https://github.com/SteamRE/DepotDownloader), by me (@Helmasko).
 
 ## Misc
 
