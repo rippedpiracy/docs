@@ -188,8 +188,8 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
 
-[**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app!
-
+[**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app!  
+[**Tulip Steam Game Packer**](https://cs.rin.ru/forum/viewtopic.php?t=114211) - CLI Steam Games Downloader, has wide range of features such as: automatically archiving, downloading platform specific (Windows, Mac, Linux) content, option to pick different branches and more.  
 [**DepotDownloader**](https://github.com/SteamRE/DepotDownloader) - CLI Steam Depot Downloader, can individually download DLCs and other Depots of Games (if the DLCs have their own Depots) that you own.  
 *<small>To find the Depot IDs of various Depots, you can visit <https://steamdb.info/>, go on the page of the game and select "Depots" on the sidebar. There, you'll find the Depot IDs of various packages you can download.</small>*
 
