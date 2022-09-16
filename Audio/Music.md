@@ -33,21 +33,27 @@ description: List of sources for getting all genres of Music.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - GUI version.  
 **_Both require a paid Tidal account._**  
 
-[**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music Downloader for Qobuz, Tidal, SoundCloud, and Deezer. Supports downloads of Spotify and Apple Music playlists through last.fm.  
+[**SCDL**](https://github.com/flyingrub/scdl) - SoundCloud Music downloader, can set id3tags to downloaded music too.
+
+[**streamrip**](https://github.com/nathom/streamrip) - A Scriptable Music downloader for Qobuz, Tidal, SoundCloud, and Deezer. Supports downloads of Spotify and Apple Music playlists through last.fm.  
 **_Requires a paid Qobuz/Tidal/Deezer account._**    
 [**OrpheusDL**](https://github.com/yarrm80s/orpheusdl) - Music downloading client.  
 *__All plugins listed below require a paid account in their respective platforms except Musixmatch.__*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Downloader plugin.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz Downloader plugin.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/uhwot/orpheusdl-deezer) - Deezer Downloader plugin.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud Downloader plugin.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader plugin.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics Downloader plugin.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) - Qobuz downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Deezer](https://github.com/uhwot/orpheusdl-deezer) - Deezer downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-SoundCloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - SoundCloud downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics downloader plugin.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-KKBox](https://github.com/uhwot/orpheusdl-kkbox) - KKBox downloader plugin.
 
 [**spotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata fetched from YouTube.  
 *<small>This tool does not download songs directly from Spotify.</small>*
 
 **[SpotX](https://github.com/amd64fox/SpotX)** & [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - Multi-purpose AdBlockers and skip-bypasses for the Windows Spotify Desktop application.
+
+[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
+<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>
 
 [**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser userscript that allows up to Hi-Fi streaming on deezer.com.
 
