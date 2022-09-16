@@ -13,6 +13,8 @@ description: List of sources for getting all genres of Music.
 
 [**SoftArchive**](https://sanet.st/music/) - SoftArchive's Music Section, has many different Albums you might not find elsewhere.
 
+[**KHInsider**](https://downloads.khinsider.com/) - Offers plenty of Video Game Soundtracks and Game audio rips.
+
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists. They also have a Weekly folder found [here](https://unreleased.me/updates).   
@@ -53,7 +55,7 @@ description: List of sources for getting all genres of Music.
 **[SpotX](https://github.com/amd64fox/SpotX)** & [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot) - Multi-purpose AdBlockers and skip-bypasses for the Windows Spotify Desktop application.
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
-<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>
+*<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*
 
 [**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser userscript that allows up to Hi-Fi streaming on deezer.com.
 
