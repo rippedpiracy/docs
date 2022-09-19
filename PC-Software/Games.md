@@ -57,6 +57,10 @@ A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG
 
 Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 
+**[GOG Games](https://gog-games.com) (DDL)**
+
+Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.
+
 **[Scene CrackHub](https://scene.crackhub.site) (DDL)**
 
 An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 Scene Releases directly from [TorrentSeeds](https://torrentseeds.org/) to zippyshare.  
@@ -74,7 +78,8 @@ Arguably the best site for Game Piracy. It's a well moderated Forum with active 
 **_Requires Sign-up_**.  
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when its mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - A guide for browsing cs.rin.ru by **MIDNYTE**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - A guide for browsing cs.rin.ru by **MIDNYTE**.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Baidu-Bypass-cs.rin.ru](https://github.com/crackhub-dev/baidu-bypass-cs.rin.ru/raw/main/baidubypass.user.js) - A Browser Userscript that automatically redirects all pan.baidu.com links found on [CS.RIN.RU](https://cs.rin.ru/forum) to baidu.crackhub.site link for ease of downloading.
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
@@ -87,10 +92,6 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 
 Provides Online-Fixes (Multiplayer) for many Games available, the more complex fixes being coded by their own Crackers (0xdeadc0de and others).  
 **_Requires Sign-up_**.
-
-**[GOG Games](https://gog-games.com) (DDL)**
-
-Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.
 
 **[My Abandonware](https://myabandonware.com) (DDL)**
 
@@ -108,11 +109,6 @@ Sukebei is an outstanding source for *__Japanese Eroges__*, while Nyaa is an alr
 **[Lewd Patcher](https://lewdpatcher.com) (DDL)**
 
 Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
-
-**[ModPiracy](https://modpiracy4.reddit.com/) (DDL)**
-
-A SubReddit for Requesting and Sharing Mods for Games.  
-*<small>Don't use ModPiracyX as it's malware.</small>*
 
 **[Steam Workshop Downloader](https://steamworkshop.download) (DDL)**
 
@@ -132,11 +128,16 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JDownloader 2 Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md) - A guide for setting up JDownloader 2.
 
+[**WinCDEmu**](https://wincdemu.sysprogs.org/) - Allows you to mount optical disc images, supports ISO, CUE, NRG, MDS/MDF, CCD, IMG.
+
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers. HashCheck and OpenHashTab integrate into Windows Shell.
 
-[**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD.
+[**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wine AppDB](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
+
+[**Parsec**](https://parsec.app/) - Remote desktop application that works for playing Games together.
 
 [**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
@@ -217,12 +218,15 @@ Some common redistributables are:</small>
 
 [**PreDBs**](PreDBs.md) - List of Release Indexes that are used to check whether a Game has been cracked or not. Just a reminder that a Game not being on any list doesnt mean it hasn't been cracked.
 
-[**ProtonDB**](https://protondb.com/) - A Community maintained Database of Steam Games with their compatibilities on Linux and Steam Deck graded and ranked.
+[**ProtonDB**](https://protondb.com/) - A Community maintained Database of Steam Games with their compatibilities on Linux and Steam Deck graded and ranked.  
+[**Wine AppDB**](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.
 
-[**SteamDB**](https://steamdb.info) - A Steam DataBase site that has a vast amount of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest build of any Game, trading cards, Game branches, Game prices in all regions and many more.  
+[**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amount of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
 [**Augmented Steam**](https://augmentedsteam.com/) - Great Browser extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
 *<small>If you decide to use Augmented Steam and the SteamDB extension simultaneously, make sure to configure them accordingly since some of the features may interfere.</small>*
+
+[**VNDB**](https://vndb.org/) - The largest, most accurate and most up-to-date Visual Novel DataBase on the web.
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract .sha1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
@@ -230,12 +234,14 @@ Some common redistributables are:</small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Baidu-Bypass-cs.rin.ru](https://github.com/crackhub-dev/baidu-bypass-cs.rin.ru/raw/main/baidubypass.user.js) - A Browser Userscript that automatically redirects all pan.baidu.com links found on [CS.RIN.RU](https://cs.rin.ru/forum) to baidu.crackhub.site link for ease of downloading.  
 *<small>All ALI213 uploads have the password "9999".</small>*
 
-[**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.
+[**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
+**Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
 
-[**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.
+[**r/ModPiracy 4**](https://modpiracy4.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games.  
+*<small>Don't use ModPiracyX as it's malware.</small>*
 
-[**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.
-
+[**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
+[**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
 *<small>You can also ask for Piracy Support in our [Discord Server](https://discord.ripped.guide)</small>*
 
