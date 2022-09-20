@@ -110,10 +110,6 @@ Sukebei is an outstanding source for *__Japanese Eroges__*, while Nyaa is an alr
 
 Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
 
-**[Steam Workshop Downloader](https://steamworkshop.download) (DDL)**
-
-Download Steam Workshop Items without having to own the Game. Due note that this site is extremely unreliable.
-
 **[Flashpoint](https://bluemaxima.org/flashpoint/downloads/) (DDL/Torrent)**
 
 Preservation project for Adobe Flash Games. Has over 90k Games in it's [library](https://nul.sh/misc/flashpoint/) which are all playable, like the Good Ol' Days.   
@@ -190,7 +186,9 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
 
-[**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app!  
+[**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
+[**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
+
 [**Tulip Steam Game Packer**](https://cs.rin.ru/forum/viewtopic.php?t=114211) - CLI Steam Games Downloader, has wide range of features such as: automatically archiving, downloading platform specific (Windows, Mac, Linux) content, option to pick different branches and more.  
 [**DepotDownloader**](https://github.com/SteamRE/DepotDownloader) - CLI Steam Depot Downloader, can individually download DLCs and other Depots of Games (if the DLCs have their own Depots) that you own.  
 *<small>To find the Depot IDs of various Depots, you can visit <https://steamdb.info/>, go on the page of the game and select "Depots" on the sidebar. There, you'll find the Depot IDs of various packages you can download.</small>*
@@ -237,6 +235,10 @@ Some common redistributables are:</small>
 
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
+
+[**GGNETWORK**](https://ggntw.com/steam) - Online Steam Workshop Downloader, has support for many Games. Only ever use this site to download Workshop mods.  
+[**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
+[**SteamWorkshop.Download**](https://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
 
 [**r/ModPiracy 4**](https://modpiracy4.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games. It's recommended that you use an Anti-Malware scanner on the files you download.  
 *<small>Don't use ModPiracyX as it's malware.</small>*
