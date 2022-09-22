@@ -203,13 +203,13 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 <small>Most of the time you can tell which redistributables are required for a specific Steam Game by going to it's page on <https://steamdb.info/> and clicking the "Depots" section on the sidebar. On the "EXTRE INFO" column, if it mentions "Depot from 228980" then you can be sure those files are required.  
 Some common redistributables are:</small>
 
-[**VisualCppRedist AIO**](https://github.com/abbodi1406/vcredist) - All in One repack for the latest Microsoft Visual C++ Redistributable Runtimes.  
-[**DirectX**](https://www.microsoft.com/en-us/download/details.aspx?id=35) - A Web-Downloader that installs a number of Runtime libraries for Games that use D3DX9, D3DX10, D3DX11, XAudio 2.7, XInput 1.3, XACT, and/or Managed DirectX 1.1.  
+[**VisualCppRedist AIO**](https://github.com/abbodi1406/vcredist) - All in One repack for the latest Microsoft Visual C++ Redistributable Runtimes (VC 20XX Redist).  
+[**DirectX**](https://www.microsoft.com/en-us/download/details.aspx?id=35) - A Web-Downloader that installs a number of Runtime libraries for Games that use D3DX9, D3DX10, D3DX11, XAudio 2.7, XInput 1.3, XACT, and/or Managed DirectX 1.1 (DirectX Jun 2010 Redist).  
 *<small>Alternative Offline-Downloader link available [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109).</small>*  
-[**.NET**](https://dotnet.microsoft.com/en-us/download/dotnet) - Various versions of .NET, you generally need a single version only.  
-**<span style="color:#00AFF4">XNA Framework</span>** - [**3.0**](https://www.microsoft.com/en-us/download/details.aspx?id=22588) | [**3.1**](https://www.microsoft.com/en-us/download/details.aspx?id=15163) | [**4.0**](https://www.microsoft.com/en-us/download/details.aspx?id=20914) - Various versions of the Microsoft XNA Framework Redistributable.
+[**.NET**](https://dotnet.microsoft.com/en-us/download/dotnet) - Various versions of .NET, you generally need a single version only (.NET X.X Redist).  
+**<span style="color:#00AFF4">XNA Framework</span>** - [**3.0**](https://www.microsoft.com/en-us/download/details.aspx?id=22588) | [**3.1**](https://www.microsoft.com/en-us/download/details.aspx?id=15163) | [**4.0**](https://www.microsoft.com/en-us/download/details.aspx?id=20914) - Various versions of the Microsoft XNA Framework Redistributable (XNA X.X Redist).
 
-<small>[Here](https://drive.google.com/file/d/1cNMra_oBoJfAK18euU5kB64skOcMK46q/view?usp=sharing) you can find an archive of all the [Steamworks Common Redistributables](https://steamdb.info/app/228980/depots/) downloaded directly from Steam using [DepotDownloader](https://github.com/SteamRE/DepotDownloader) on 16/09/2022, by a Ripped Staff Member.</small>
+<small>[Here](https://krakenfiles.com/view/p7fe1MSkKm/file.html) you can find an archive of all the [Steamworks Common Redistributables](https://steamdb.info/app/228980/depots/) downloaded directly from Steam using [DepotDownloader](https://github.com/SteamRE/DepotDownloader) on 16/09/2022, by a Ripped Staff Member.</small>
 
 ## Misc
 
