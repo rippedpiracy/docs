@@ -13,7 +13,7 @@ This website is generated using [mkdocs](https://www.mkdocs.org) & Markdown, you
 
 In brief, here's how Markdown works:
 
-```md
+```yml
 ---
 title: (title here)
 description: (a short description that will appear in embeds)
