@@ -34,4 +34,4 @@ description: List of useful Android mobile apps.
 [**nzb360 [Paid]**](https://www.nzb360.com/) | [**LunaSea**](https://www.lunasea.app/)- A usenet/torrent manager. Useful for those who utilize seedboxes.
 
 ## Miscellaneous
-[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.
+[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software. 
