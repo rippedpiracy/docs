@@ -18,10 +18,6 @@ jobs:
         shell: bash
 
     steps:
-    - name: Config env
-      run: |
-        eval `ssh-agent -s`
-        ssh-add - <<< '${{ secrets.PRIVATE_SSH_KEY }}'
     - name: Checkout remote
       uses: actions/checkout@v2
       with:
@@ -39,9 +35,11 @@ jobs:
       env:
         REMOTE_REPO: ${{ secrets.REMOTE_REPO }}
       run: |
+        eval `ssh-agent -s`
+        ssh-add - <<< '${{ secrets.PRIVATE_SSH_KEY }}'
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git pull --recurse-submodules
         git submodule update --recursive --remote
         git remote set-url origin "git@github.com:$REMOTE_REPO"
-        git commit -am "Updated documents submodule rippedpiracy/docs@$(git -C ../local rev-parse --short HEAD)" && git push || echo "No changes to commit"
+        git commit -am "Updated documents submodule rippedpiracy/docs@$(git -C ../local rev-parse --short HEAD)" && git push 
