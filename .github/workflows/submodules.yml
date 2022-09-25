@@ -18,14 +18,16 @@ jobs:
         shell: bash
 
     steps:
-    # Checkout the repository to the GitHub Actions runner
+    - name: Config env
+      run: |
+        eval `ssh-agent -s`
+        ssh-add - <<< '${{ secrets.PRIVATE_SSH_KEY }}'
     - name: Checkout remote
       uses: actions/checkout@v2
       with:
         repository: ${{ secrets.REMOTE_REPO }}
         path: './remote'
         submodules: true
-        token: ${{ secrets.REMOTE_TOKEN }}
     - name: Checkout local
       uses: actions/checkout@v2
       with:
@@ -36,11 +38,10 @@ jobs:
       shell: bash
       env:
         REMOTE_REPO: ${{ secrets.REMOTE_REPO }}
-        REMOTE_TOKEN: ${{ secrets.REMOTE_TOKEN }}
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git pull --recurse-submodules
         git submodule update --recursive --remote
-        git remote set-url origin "https://git:$REMOTE_TOKEN@github.com/$REMOTE_REPO"
+        git remote set-url origin "https://git@github.com/$REMOTE_REPO"
         git commit -am "Updated documents submodule rippedpiracy/docs@$(git -C ../local rev-parse --short HEAD)" && git push || echo "No changes to commit"
