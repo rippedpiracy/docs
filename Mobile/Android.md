@@ -2,20 +2,23 @@
 title: Android 
 description: List of useful Android mobile apps.
 ---
-
-[**PowerTunnel**](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android.
-
-[**MPV-Android**](https://github.com/mpv-android/mpv-android) - A free media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
-
-[**MiXplorer**](https://mixplorer.com/) - Fully-featured Android file manager that supports multiple cloud storages and server protocols.
+## Browsers
+[**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Developmental and current version of Firefox that allows the ability to use more add-ons other than just the curated list. [**Guide**](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/)
 
 [**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based web browser that supports extensions.
 
-[**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
-
-[**xManager**](https://xmanagerapp.com/) - Manage and install all versions of the Spotify app.
+## Privacy
+[**PowerTunnel**](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android.
 
 [**Blokada**](https://blokada.org/) - Open source mobile ad-blocker with a focus on privacy.
+
+## File Managers
+[**MiXplorer**](https://mixplorer.com/) - Fully-featured Android file manager that supports multiple cloud storages and server protocols.
+
+[**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
+
+## Video/Music
+[**xManager**](https://xmanagerapp.com/) - Manage and install all versions of the Spotify app.
 
 [**Dentex YouTube Downloader**](https://dentex.github.io/) - Allows users to download YouTube videos and extract/convert audio.
 
@@ -25,6 +28,10 @@ description: List of useful Android mobile apps.
 
 [**Seal**](https://github.com/JunkFood02/Seal) - Video/Audio downloader for yt-dlp [supported video platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
-[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.
+[**MPV-Android**](https://github.com/mpv-android/mpv-android) - A free media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
 
+## Torrenting
 [**nzb360 [Paid]**](https://www.nzb360.com/) | [**LunaSea**](https://www.lunasea.app/)- A usenet/torrent manager. Useful for those who utilize seedboxes.
+
+## Miscellaneous
+[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.
