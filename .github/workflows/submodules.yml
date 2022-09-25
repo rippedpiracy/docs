@@ -43,5 +43,5 @@ jobs:
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git pull --recurse-submodules
         git submodule update --recursive --remote
-        git remote set-url origin "https://git@github.com/$REMOTE_REPO"
+        git remote set-url origin "git@github.com:$REMOTE_REPO"
         git commit -am "Updated documents submodule rippedpiracy/docs@$(git -C ../local rev-parse --short HEAD)" && git push || echo "No changes to commit"
