@@ -3,7 +3,7 @@ title: Android
 description: List of useful Android mobile apps.
 ---
 ## Browsers
-[**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Developmental and current version of Firefox that allows the ability to use more add-ons other than just the curated list. [**Guide**](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/)
+[**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Developmental and current version of Firefox that allows the ability to use more add-ons other than just the curated list. [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) for adding extensions to Firefox Nightly.
 
 [**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based web browser that supports extensions.
 
