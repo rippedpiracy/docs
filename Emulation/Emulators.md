@@ -203,7 +203,7 @@ Linux|[DeSmuME](https://desmume.org/)|
 ||[SuperGCube](https://sourceforge.net/projects/supergcube/)|
 |Mac|[Dolphin](https://dolphin-emu.org/)|
 |Linux|[Dolphin](https://dolphin-emu.org/)|
-|Android|[Dolphin](https://dolphin-emulator.en.uptodown.com/android)|
+|Android|[Dolphin](https://dolphin-emu.org/)|
 
 &nbsp;
 **Nintendo Virtual Boy**
@@ -222,6 +222,9 @@ Linux|[DeSmuME](https://desmume.org/)|
 | Platform | Emulator |
 | --- | --- |
 |Windows|[Dolphin](https://dolphin-emu.org/)|
+|Mac|[Dolphin](https://dolphin-emu.org/)|
+|Linux|[Dolphin](https://dolphin-emu.org/)|
+|Android|[Dolphin](https://dolphin-emu.org/)|
 
 &nbsp;
 **Nintendo Wii U**
