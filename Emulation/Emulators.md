@@ -222,6 +222,9 @@ Linux|[DeSmuME](https://desmume.org/)|
 | Platform | Emulator |
 | --- | --- |
 |Windows|[Dolphin](https://dolphin-emu.org/)|
+|Mac|[Dolphin](https://dolphin-emu.org/)|
+|Linux|[Dolphin](https://dolphin-emu.org/)|
+|Android|[Dolphin](https://dolphin-emulator.en.uptodown.com/android)|
 
 &nbsp;
 **Nintendo Wii U**
