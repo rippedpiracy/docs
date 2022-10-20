@@ -238,7 +238,7 @@ Some common redistributables are:</small>
 
 [**GGNETWORK**](https://ggntw.com/steam) - Online Steam Workshop Downloader, has support for many Games. Only ever use this site to download Workshop mods.  
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
-[**SteamWorkshop.Download**](https://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
+[**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
 
 [**r/ModPiracy 4**](https://modpiracy4.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games. It's recommended that you use an Anti-Malware scanner on the files you download.  
 *<small>Don't use ModPiracyX as it's malware.</small>*
