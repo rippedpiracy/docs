@@ -158,4 +158,5 @@ description: Tools and Apps to make your life easier.
 [**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
 [**r/FREEMEDIAHECKYEAH**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/) - A Wiki by the FMHY community, they also have a [guides](https://fmhy.tk/guides) section.  
 [**WebOasis**](https://weboasis.app/) - An index of plenty of useful sites and apps, also has a forum [here](https://chat.weboasis.app/home). **R.I.P Webby.**  
+[**Illegal Services**](https://illegal-services.github.io/Illegal_Services/Bookmarks%20Toolbar/Illegal%20Services/index.html) - The largest index of piracy sites. It support all languages and is actively maintained up-to-date. Also has a web browser bookmarks version [IS.bookmarks.html](https://raw.githubusercontent.com/Illegal-Services/Illegal_Services/downloads/IS.bookmarks.html).   
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**
