@@ -158,16 +158,17 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 [**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly.  
 *<small>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg).</small>*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply [Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395)/SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
 [**EA DLC Unlocker v2**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for <span style="color:red">**Mac**</span> users.  
 [**Uplay R1 Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=112169) - Ubisoft DLC unlocker, will only work for Games released before October 2020 (that have the uplay_r1\*.dll file).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Uplay R2 Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=111874) - Same as R1 Unlocker, but instead will only work for Games released after October 2020 (that have the upc_r2\*.dll/uplay_r2\*.dll file).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply [Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395)/SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker.  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - An easy to use Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games, this can bypass Anti-Cheat software unlike ScreamAPI.  
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply [Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395)/SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker. 
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
 Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is more beginner friendly and easier to use but lacks some features SSE has, such as: Bypassing SteamStub DRM, Tracking / Unlocking Achievements, a pre-packaged Game Launcher, a more advanced Steam Overlay and support for Plugins.  
@@ -177,7 +178,7 @@ Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is mor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
 
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic.  
-*<small>Since the original Repository has been deleted, you can download the most recent version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2560026#p2560026) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
+*<small>Since the original Repository has been deleted, you can download the most recent version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2706671#p2706671) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
 
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
 **Using this tool for Games with Anti-Cheats might get you banned**.  
