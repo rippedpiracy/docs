@@ -7,7 +7,6 @@ description: Reliable sources to obtain e-Books.
 
 # General E-Books
 
-- [**Z-Library**](http://www.z-lib.org/)
 - [**Library Genesis (.rs)**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/)
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, **_Requires Sign-up_**.
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Forum, **_Requires Sign-up_**.
