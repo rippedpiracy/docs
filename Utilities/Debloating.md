@@ -8,7 +8,7 @@ description: Make your OS lighter, faster and more secure.
 **[TronScript](https://bmrf.org/repos/tron/)** - Most efficient and quick way to clean, De-bloat, optimize and disinfect your PC, recommended.  
 **_BE SURE TO READ THE INSTRUCTIONS!_**
 
-**[AtlasOS](https://atlasos.net)** - An alternative Windows version to make your PC as snappy as possible for Gaming and Performance.  
+**[AtlasOS](https://atlasos.net)** | **[ReviOS](https://revi.cc)** - Modified Windows versions to make your PC as snappy as possible for Gaming and Performance.  
 **Full Re-install required.**
 
 **[privacy.sexy](https://privacy.sexy/)** - Easily create a custom Debloating script made for your specific needs.
