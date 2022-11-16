@@ -35,9 +35,9 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 |  | Music | Movies (mainstream) | TV | HD | Movies (obscure) | Games | Books | E-learning | Porn | Anime | Scene | General |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tier 1 | [RED](https://redacted.ch) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [HDB](https://hdbits.org/) | [KG](https://karagarga.in/) | [GGN](https://gazellegames.net/) | [BIB](https://bibliotik.me/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.me) | [AB](https://animebytes.tv/) | [TL](https://torrentleech.org/) | [IPT](https://iptorrents.com/) |
+| Tier 1 | [RED](https://redacted.ch) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [HDB](https://hdbits.org/) | [KG](https://karagarga.in/) | [GGN](https://gazellegames.net/) | [BIB](https://bibliotik.me/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [AB](https://animebytes.tv/) | [TL](https://torrentleech.org/) | [IPT](https://iptorrents.com/) |
 | Tier 2 | [OPS](https://orpheus.network/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [BHD](https://beyond-hd.me/) | [TIK](https://cinematik.net) | [PxC](https://pixelcove.me/) | [MAM](https://myanonamouse.net/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [BBT](https://bakabt.me/) | [RTT](https://revolutiontt.me/) | [FL](https://filelist.io) |
-| Tier 3 | [DIC](https://dicmusic.club/) | None | [MTV](https://morethan.tv/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | None | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [Nyaa](https://nyaa.si/) | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) |
+| Tier 3 | [DIC](https://dicmusic.club/) | None | [MTV](https://morethantv.me/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | None | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [Nyaa](https://nyaa.si/) | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) |
 
 **Audiobooks**: MyAnonamouse (note that the best GENERAL source of audiobooks is audiobookbay and occasionally rutracker)
 
