@@ -16,12 +16,12 @@ Remember to <u>NEVER</u> get Software Releases from this site.**
 
 **[RARBG](https://rarbg.to) (Torrent)**
 
-A very safe site to get Games from, mostly Scene Releases which they have Auto Uploading Bots for. If you use a VPN get ready to solve reCAPTCHAs.  
+A very safe site to get Games from, mostly Scene Releases which they have Auto Uploading Bots for. If you use a VPN get ready to solve CAPTCHAs.  
 
 **[RuTor](http://rutor.info) (Torrent)**
 
 An old Russian tracker that has plenty of content but with generally less seeders. Some Repackers upload exclusively here.  
-**Only get Games from R.G. Mechanics, Chovka, XATAB and FitGirl**.
+**Only get Games from [Chovka](http://rutor.info/browse/0/0/1642915/0) and [FitGirl](http://rutor.info/browse/0/0/1224038/0)**.
 
 ## Repackers
 
@@ -33,10 +33,9 @@ One of the most well known and reputable Repacker out there, very active and pro
 
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.
 
-**[ScOOt3r](https://scooter-repacks.site/) (Torrent / DDL)**
+**[ScOOt3r](https://scooter-repacks.site/) (DDL)**
 
-A new and emerging group of Repackers, have Torrent links on some of their releases albeit very low seeders. Updates on their Releases may be quicker than other Repackers.  
-*<small>Replace any instance of <https://scoot3r191.github.io/gcrypt/> with <https://drive.scooter-repacks.site/> when trying to visit the decryption link and when using the encrytped link.</small>*
+A new and emerging group of Repackers, updates on their Releases may be quicker than other Repackers. Have Torrent links on some of their releases albeit very low seeders
 
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
@@ -78,7 +77,7 @@ Arguably the best site for Game Piracy. It's a well moderated Forum with active 
 **_Requires Sign-up_**.  
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when its mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - A guide for browsing cs.rin.ru by **MIDNYTE**.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - An okay guide for browsing cs.rin.ru by **MIDNYTE**. If you need further support, drop in our [Discord Server](https://discord.ripped.guide).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Baidu-Bypass-cs.rin.ru](https://github.com/crackhub-dev/baidu-bypass-cs.rin.ru/raw/main/baidubypass.user.js) - A Browser Userscript that automatically redirects all pan.baidu.com links found on [CS.RIN.RU](https://cs.rin.ru/forum) to baidu.crackhub.site link for ease of downloading.
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
@@ -169,8 +168,9 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 [**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply [Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395)/SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker. 
 
-[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
-Goldberg supports <span style="color:red">**Linux**</span> unlike SSE, it is more beginner friendly and easier to use but lacks some features SSE has, such as: Bypassing SteamStub DRM, Tracking / Unlocking Achievements, a pre-packaged Game Launcher, a more advanced Steam Overlay and support for Plugins.  
+[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**ALI213**](https://cs.rin.ru/forum/search.php?sk=t&sr=posts&keywords=+ALI213+SteamEmu&author_id=452292) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
+Goldberg supports <span style="color:red">**Linux**</span>, it is very beginner friendly, easy to use and actively maintained but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but development has stopped since April 11, 2017. ALI213 is also beginner friendly, generally works better for VR titles and has support for bypassing SteamStub DRM too.  
+<small>Make sure to sign in on [CS.RIN.RU](https://cs.rin.ru/forum) to be able to access the ALI213 download link. You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>  
 **SmartSteamEmu is abandoned. If you're having issues with it, try the [SSE Reborn Client v1.46.1](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
