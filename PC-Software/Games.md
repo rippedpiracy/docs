@@ -150,6 +150,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 ## Cracking Tools
 
 **All the tools listed here are** <span style="color:red">**Windows**</span> **only unless stated otherwise.**  
+**Most links here require sign-up on [CS.RIN.RU](https://cs.rin.ru/forum).**
 <small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs.</small>
 
 [**Koalageddon**](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
@@ -168,16 +169,18 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 [**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply [Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395)/SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker. 
 
-[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**ALI213**](https://cs.rin.ru/forum/search.php?sk=t&sr=posts&keywords=+ALI213+SteamEmu&author_id=452292) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
-Goldberg supports <span style="color:red">**Linux**</span>, it is very beginner friendly, easy to use and actively maintained but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but development has stopped since April 11, 2017. ALI213 is also beginner friendly, generally works better for VR titles and has support for bypassing SteamStub DRM too.  
-<small>Make sure to sign in on [CS.RIN.RU](https://cs.rin.ru/forum) to be able to access the ALI213 download link. You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>  
+[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. Goldberg and SSE also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
+Goldberg supports <span style="color:red">**Linux**</span>, it is very beginner friendly, easy to use and actively maintained but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but development has stopped since April 11, 2017.  
+<small>Make sure to sign in on [CS.RIN.RU](https://cs.rin.ru/forum) to be able to access the download links.</small>  
 **SmartSteamEmu is abandoned. If you're having issues with it, try the [SSE Reborn Client v1.46.1](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.  
+[**ALI213**](https://cs.rin.ru/forum/search.php?sk=t&sr=posts&keywords=+ALI213+SteamEmu&author_id=452292) & [**ACTIVATED**](https://cs.rin.ru/forum/viewtopic.php?p=2558360#p2558360) - ALI213 is an easy to use Steam Emulator which generally works better for VR titles compared to Goldberg and SSE, and has support for bypassing SteamStub DRM too (may not always work). ACTIVATED on the other hand is a Steam Emulator for <span style="color:red">**Mac**</span>.  
+<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>
 
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic.  
-*<small>Since the original Repository has been deleted, you can download the most recent version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2706671#p2706671) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
+*<small>Since the original Repository has been deleted, you can download the publicly latest version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2706671#p2706671) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
 
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
 **Using this tool for Games with Anti-Cheats might get you banned**.  
