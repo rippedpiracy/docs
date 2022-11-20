@@ -123,6 +123,8 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JDownloader 2 Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md) - A guide for setting up JDownloader 2.
 
+[**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip. NanaZip is a fork of 7-Zip with added functionality and better support for Windows 11.
+
 [**WinCDEmu**](https://wincdemu.sysprogs.org/) - Allows you to mount optical disc images, supports ISO, CUE, NRG, MDS/MDF, CCD, IMG.  
 [**Virtual CloneDrive**](https://www.elby.ch/en/products/vcd.html) - Mounts images, supports all the common formats.
 
