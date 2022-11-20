@@ -77,7 +77,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 *<small>[Important Info](https://web.archive.org/web/20220808172315/https://koushoku.org/2022.08.07.txt) regarding the future of the site.</small>*
 - [**Akuma**](https://akuma.moe) - Easy to use site, but it has lower quality images than the original and doesn't upload FAKKU/Irodori content.
 - [**Hitomi.la**](https://hitomi.la/) - Has similar content types to E-Hentai/ExHentai but may have a better UI experience due to images loading quicker. Has lower quality images than the original.
-- [**HVNC**](https://t.me/joinchat/tOw0PUB_pn5mZjZl) - Telegram chat of HVNC, they post FAKKU content there.
+- [**HVNC**](https://t.me/FakkuFREE) - Telegram chat of HVNC, they post FAKKU content there.
 &nbsp;  
 &nbsp;
 
