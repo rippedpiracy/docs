@@ -32,8 +32,8 @@ description: Reliable sources to obtain e-Books.
 &nbsp;
 # Scientific Journals/Technical Manuals
 
-- [**Sci-Hub (.se)**](https://sci-hub.se/) | [**.st**](https://sci-hub.st/) | [**.ru**](https://sci-hub.ru/)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sci-Hub X Now!](https://chrome.google.com/webstore/detail/sci-hub-x-now/gmmnidkpkgiohfdoenhpghbilmeeagjj) (Chromium) - Opens the sci-hub page for the article you want to read.  
+- [**Sci-Hub (.se)**](https://sci-hub.se/) | [**.st**](https://sci-hub.st/) | [**.ru**](https://sci-hub.ru/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sci-Hub X Now!](https://github.com/gchenfc/sci-hub-now) - Opens the Sci-Hub page for the article you want to read.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Addon for [Zotero](https://www.zotero.org/) and [Juris-M](https://juris-m.github.io/) to automatically download PDFs from Sci-Hub.
 - [**SciMag**](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
 - [**Free Full PDF**](https://freefullpdf.com/)
