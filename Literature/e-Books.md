@@ -7,6 +7,7 @@ description: Reliable sources to obtain e-Books.
 
 # General E-Books
 
+- [**Z-Library**](https://singlelogin.me/) - The Library is only accessible through [Tor](https://www.torproject.org/) and [I2P](https://geti2p.net/en/), **_Requires Sign-up_**.
 - [**Library Genesis (.fun)**](https://libgen.fun/) & [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - The .fun domain is currently being run by the original owner of libgen whereas the others are independant.
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, **_Requires Sign-up_**.
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Forum, **_Requires Sign-up_**.
