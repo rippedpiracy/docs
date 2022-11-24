@@ -16,7 +16,6 @@ description: Reliable sources to obtain e-Books.
 - [**Ebookee**](https://ebookee.com/) 
 - [**OceanofPDF**](https://oceanofpdf.com/)
 - [**PDF Drive**](https://www.pdfdrive.com/)
-- [**Ikindleebooks**](https://ikindlebooks.com/) - MOBIs and ePUBs for Kindle.
 - [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche e-Books and audiobooks. Friendly community and mods. Pretty easy to get into.
 - [**Project Gutenberg**](http://www.gutenberg.org/) - Legally free e-Books.
 &nbsp;  
@@ -44,13 +43,13 @@ description: Reliable sources to obtain e-Books.
 &nbsp;
 # Other
 
+- [**Anna’s Archive**](https://annas-archive.org/) - Search Engine that indexes a few big libraries including libgen and Z-Lib.
 - [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
 - [**CALISHOT**](https://eng.calishot.xyz/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://noneng.calishot.xyz/index-not-eng/summary).  
 *<small>If the links stop working check [here](https://www.reddit.com/search?q=flair_name%3A%22CALISHOT%22) for updated ones.</small>*
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
 - [**Trantor**](https://trantor.is/) - Darkweb e-Book resource.
 - [**Flibusta**](https://flibusta.site/) - Russian e-Book site.
-- [**Yudhacookbook**](https://www.yudhacookbook.my.id/) - Contains many recipes and cookbooks.
 &nbsp;  
 &nbsp;
 # Tools
