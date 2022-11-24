@@ -11,7 +11,7 @@ In the case that any of the sites are blocked, use [GoodByeDPI](https://github.c
 **[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/)** | **[.gd](https://1337x.gd/)** | **[.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
-**<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/).</u></span>  
+**<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u></span>  
 Remember to <u>NEVER</u> get Software Releases from this site.**
 
 **[RARBG](https://rarbg.to) (Torrent)**
@@ -180,8 +180,11 @@ Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use an
 [**ALI213**](https://cs.rin.ru/forum/search.php?sk=t&sr=posts&keywords=+ALI213+SteamEmu&author_id=452292) & [**ACTIVATED**](https://cs.rin.ru/forum/viewtopic.php?p=2558360#p2558360) - ALI213 is an easy to use Steam Emulator which generally works better for VR titles compared to Goldberg and SSE, and has support for bypassing SteamStub DRM too (may not always work). ACTIVATED on the other hand is a Steam Emulator for <span style="color:red">**Mac**</span>.  
 *<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>*
 
-[**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic.  
-*<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2706671#p2706671) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
+[**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic and provide support for Achievements and more.  
+*<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2719238#p2719238) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
+
+[**Nemirtingas Galaxy Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=114295) - Emulator for the GoG Galaxy Launcher, allows LAN play on GoG games that require authentication.  
+*<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2712110#p2712110) and can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
 
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
 **Using this tool for Games with Anti-Cheats might get you banned**.  
