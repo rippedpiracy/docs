@@ -17,7 +17,7 @@ description: Reliable sources to obtain e-Books.
 - [**OceanofPDF**](https://oceanofpdf.com/)
 - [**PDF Drive**](https://www.pdfdrive.com/)
 - [**My Anonamouse**](https://www.myanonamouse.net/) - Has a lot of content, including niche e-Books and audiobooks. Friendly community and mods. An easy to get into Private Tracker, **_Requires Sign-up_**.  
-*<small>Be sure to check our [PT](Scene/PTs/) page for more info regarding Private Trackers.</small>*
+*<small>Be sure to check our [PT](PTs) page for more info regarding Private Trackers.</small>*
 - [**Project Gutenberg**](http://www.gutenberg.org/) - Legally free e-Books.
 &nbsp;  
 &nbsp;
