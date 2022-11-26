@@ -181,7 +181,7 @@ Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use an
 *<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>*
 
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic and provide support for Achievements and more.  
-*<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2719238#p2719238) and can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
+*<small>Since the original Repository has been deleted, you can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
 
 [**Nemirtingas Galaxy Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=114295) - Emulator for the GoG Galaxy Launcher, allows LAN play on GoG games that require authentication.  
 *<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2712110#p2712110) and can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
