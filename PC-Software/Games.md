@@ -4,6 +4,7 @@ description: List of safe and trusted sites for Games.
 ---
 **Some of these sites have Fake and Mirror sites, you should only use the ones we link to.  
 In the case that any of the sites are blocked, use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
+**We <u>Strongly</u> recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team/) installed.**  
 <small>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</small>
 
 ## General Torrent
@@ -90,6 +91,7 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 **[Online-Fix](https://online-fix.me) (DDL / Torrent)**
 
 Provides Online-Fixes (Multiplayer) for many Games available, the more complex fixes being coded by their own Crackers (0xdeadc0de and others).  
+**Be <u>SURE</u> to use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock), and use [FastForward](https://fastforward.team/) as there are malicious ads.**  
 **_Requires Sign-up_**.
 
 **[My Abandonware](https://myabandonware.com) (DDL)**
