@@ -14,7 +14,7 @@ All of this info was taken **directly** from the [Bemani Guide](https://bemani.g
     
 -   [**Cons&Stuff**](https://consandstuff.github.io/)  - Community resource for DIY controllers.
     
--   [**BemaniPatcher**](https://mon.im/bemanipatcher/)  - Drag and drop hex edit solution for a most Bemani games.
+-   [**BemaniPatcher**](https://mon.im/bemanipatcher/)  - Drag and drop hex edit solution for most Bemani games.
 
 ## IIDX
 -   [**sp12**](https://web.archive.org/web/20210913062207/https://sp12.iidx.app/)  - IIDX SP☆12 reference site/difficulty tier list.
