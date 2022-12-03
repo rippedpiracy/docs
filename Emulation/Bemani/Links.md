@@ -1,5 +1,5 @@
 ---
-title: Bemani Resources
+title: Useful Resources
 description: Useful links related to Bemani. All of this info was taken directly from https://bemani.guide as the site is currently offline, when the site comes back online this will be removed.
 ---
 **Disclaimer**
