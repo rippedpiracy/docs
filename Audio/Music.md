@@ -79,8 +79,10 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 [**THE MEGA MUSIC RIPPING GUIDE**](https://ori5000.github.io/musicripping.html) - A music ripping guide for various platforms by Esoteria Avenue.
 
-[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., launched after the initial shutdown of [r/FreeDeezerARL](https://freedeezerarl.reddit.com). **Site currently shows offline but will come back**.    
+[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., launched after the initial shutdown of [r/FreeDeezerARL](https://freedeezerarl.reddit.com).  
 *<small>They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) on their [Matrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).</small>*  
+**Site currently shows offline but will come back**.  
+
 [**r/FreeDeezerARL**](https://freedeezerarl.reddit.com) - They share Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) they also have a Discord Server. Used to be dead until the owner decided to return.
 
 [**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX. 
@@ -91,4 +93,4 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
 
-[**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Support Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.
+[**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.
