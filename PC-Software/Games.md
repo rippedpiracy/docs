@@ -79,7 +79,6 @@ Arguably the best site for Game Piracy. It's a well moderated Forum with active 
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when its mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - An okay guide for browsing cs.rin.ru by **MIDNYTE**. If you need further support, drop in our [Discord Server](https://discord.ripped.guide).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Baidu-Bypass-cs.rin.ru](https://github.com/crackhub-dev/baidu-bypass-cs.rin.ru/raw/main/baidubypass.user.js) - A Browser Userscript that automatically redirects all pan.baidu.com links found on [CS.RIN.RU](https://cs.rin.ru/forum) to baidu.crackhub.site link for ease of downloading.
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
@@ -237,10 +236,6 @@ Some common redistributables are:</small>
 [**VNDB**](https://vndb.org/) - The largest, most accurate and most up-to-date Visual Novel DataBase on the web.
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract .sha1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
-
-[**PanDownload**](https://baidu.crackhub.site/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download and use [Motrix](https://motrix.app/) instead of [IDM](https://www.internetdownloadmanager.com/).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Baidu-Bypass-cs.rin.ru](https://github.com/crackhub-dev/baidu-bypass-cs.rin.ru/raw/main/baidubypass.user.js) - A Browser Userscript that automatically redirects all pan.baidu.com links found on [CS.RIN.RU](https://cs.rin.ru/forum) to baidu.crackhub.site link for ease of downloading.  
-*<small>All ALI213 uploads have the password "9999".</small>*
 
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
