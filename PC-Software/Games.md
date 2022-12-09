@@ -154,7 +154,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in it's [library]
 
 **All the tools listed here are** <span style="color:red">**Windows**</span> **only unless stated otherwise.**  
 **Most links here require sign-up on [CS.RIN.RU](https://cs.rin.ru/forum).**  
-<small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs.</small>
+<small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs. Note that rarely, DLC files will come preinstalled with the base Game.</small>
 
 [**Koalageddon**](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.
@@ -179,7 +179,8 @@ Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use an
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.  
 [**ALI213**](https://cs.rin.ru/forum/search.php?sk=t&sr=posts&keywords=+ALI213+SteamEmu&author_id=452292) & [**ACTIVATED**](https://cs.rin.ru/forum/viewtopic.php?p=2558360#p2558360) - ALI213 is an easy to use Steam Emulator which generally works better for VR titles compared to Goldberg and SSE, and has support for bypassing SteamStub DRM too (may not always work). ACTIVATED on the other hand is a Steam Emulator for <span style="color:red">**Mac**</span>.  
-*<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>*
+*<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>*  
+[**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover, required if the game has SteamStub DRM.  
 
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic and provide support for Achievements and more.  
 *<small>Since the original Repository has been deleted, you can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
@@ -191,8 +192,6 @@ Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use an
 **Using this tool for Games with Anti-Cheats might get you banned**.  
 *<small>This tool can't make you own Games you havent paid for on Steam.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamACFGenerator](https://github.com/Sak32009/SteamACFGenerator/) - A CLI tool to generate .acf files for GreenLuma with ease.
-
-[**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover.
 
 [**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
 [**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
