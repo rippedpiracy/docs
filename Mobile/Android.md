@@ -3,14 +3,16 @@ title: Android
 description: List of useful Android mobile apps.
 ---
 ## Browsers
-[**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Developmental and current version of Firefox that allows the ability to use more add-ons other than just the curated list. [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) for adding extensions to Firefox Nightly.
+[**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Developmental and current version of Firefox that allows the ability to use more add-ons other than just the curated list.  
+[Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) for adding extensions to Firefox.
 
-[**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based web browser that supports extensions.
+[**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based Web Browser that supports extensions.
 
 ## Privacy
 [**PowerTunnel**](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android.
 
-[**Blokada**](https://blokada.org/) - Open source mobile ad-blocker with a focus on privacy.
+[**AdAway**](https://adaway.org/) - Open source mobile ad-blocker with a focus on privacy.
+**Benefits from having Root access.**  
 
 ## File Managers
 [**MiXplorer**](https://mixplorer.com/) - Fully-featured Android file manager that supports multiple cloud storages and server protocols.
@@ -31,7 +33,7 @@ description: List of useful Android mobile apps.
 [**MPV-Android**](https://github.com/mpv-android/mpv-android) - A free media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
 
 ## Torrenting
-[**nzb360 [Paid]**](https://www.nzb360.com/) | [**LunaSea**](https://www.lunasea.app/)- A usenet/torrent manager. Useful for those who utilize seedboxes.
+[**nzb360**](https://www.nzb360.com/) (Paid) | [**LunaSea**](https://www.lunasea.app/) - Usenet/Torrent managers. Useful for those who utilize seedboxes.
 
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software. 
