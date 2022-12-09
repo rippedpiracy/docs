@@ -97,9 +97,9 @@ description: Tools and Apps to make your life easier.
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
-[**TubeDigger**](https://www.tubedigger.com/index.html) | [**Vdigger**](https://www.getflv.net/) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
+[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloaders, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
-[**FlixiCam**](https://www.flixicam.com/) - Netflix Downloader. 
+[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader. 
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 *<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
