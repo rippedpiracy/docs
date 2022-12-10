@@ -76,7 +76,7 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 
 Arguably the best site for Game Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for many Games.  
 **_Requires Sign-up_**.  
-*<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when its mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
+*<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when it's mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - An okay guide for browsing cs.rin.ru by **MIDNYTE**. If you need further support, drop in our [Discord Server](https://discord.ripped.guide).  
 
@@ -104,7 +104,7 @@ Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Transla
 **[Sukebei](https://sukebei.nyaa.si/?c=1_3)** & **[Nyaa](https://nyaa.si/?c=6_0) (Torrent)**
 
 Sukebei is an outstanding source for *__Japanese Eroges__*, while Nyaa is an alright source for some Japanese Games and ROMs. It's recommended that you use an Anti-Malware scanner on the files you download and only ever download Japanese Games from these sites.  
-*<small>Most Japanese Games require a [Locale Emulator](https://pooi.moe/Locale-Emulator/) to work.</small>*
+*<small>Most Japanese Games require a [Locale Emulator](https://pooi.moe/Locale-Emulator/) to work. You also might get better results if you search the Game by its Japanese title.</small>*
 
 **[Lewd Patcher](https://lewdpatcher.com) (DDL)**
 
@@ -112,12 +112,12 @@ Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied
 
 **[Flashpoint](https://bluemaxima.org/flashpoint/downloads/) (DDL/Torrent)**
 
-Preservation project for Adobe Flash Games. Has over 90k Games in it's [library](https://nul.sh/misc/flashpoint/) which are all playable, like the Good Ol' Days.   
+Preservation project for Adobe Flash Games. Has over 90k Games in its [library](https://nul.sh/misc/flashpoint/) which are all playable, like the Good Ol' Days.   
 
 ## Apps
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) - Free, Lightweight and open source Torrent Clients.  
-*<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In it's current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
+*<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBitorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBitorrent.
 
 [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://xtremedownloadmanager.com/) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
@@ -207,7 +207,7 @@ Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use an
 
 ## Redistributables
 
-<small>Most of the time you can tell which redistributables are required for a specific Steam Game by going to it's page on <https://steamdb.info/> and clicking the "Depots" section on the sidebar. On the "EXTRE INFO" column, if it mentions "Depot from 228980" then you can be sure those files are required.  
+<small>Most of the time you can tell which redistributables are required for a specific Steam Game by going on its page at <https://steamdb.info/> and clicking the "Depots" section on the sidebar. On the "EXTRE INFO" column, if it mentions "Depot from 228980" then you can be sure those files are required.  
 Some common redistributables are:</small>
 
 [**VisualCppRedist AIO**](https://github.com/abbodi1406/vcredist) - All in One repack for the latest Microsoft Visual C++ Redistributable Runtimes (VC 20XX Redist).  
@@ -227,14 +227,14 @@ Some common redistributables are:</small>
 [**ProtonDB**](https://protondb.com/) - A Community maintained Database of Steam Games with their compatibilities on Linux and Steam Deck graded and ranked.  
 [**Wine AppDB**](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.
 
-[**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amount of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
+[**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amounts of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
 [**Augmented Steam**](https://augmentedsteam.com/) - Great Browser extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
 *<small>If you decide to use Augmented Steam and the SteamDB extension simultaneously, make sure to configure them accordingly since some of the features may interfere.</small>*
 
 [**VNDB**](https://vndb.org/) - The largest, most accurate and most up-to-date Visual Novel DataBase on the web.
 
-[**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract .sha1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
+[**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
@@ -249,7 +249,7 @@ Some common redistributables are:</small>
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
-*<small>You can also ask for Piracy Support in our [Discord Server](https://discord.ripped.guide)</small>*
+*<small>You can also ask for Piracy Support on our [Discord Server](https://discord.ripped.guide)</small>*
 
 > <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 

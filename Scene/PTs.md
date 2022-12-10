@@ -61,9 +61,9 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 **3D Software, Graphic Design, VFX**: CGpeers, GFXpeers
 
+<sub>credits: [https://wiki.installgentoo.com/index.php/Private_trackers](https://wiki.installgentoo.com/index.php/Private_trackers)</sub>
+
 # External Links
 [**Private Tracker List**](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - A helpful list that has updated stats of most of the Private Trackers.  
 [**r/Trackers Wiki**](https://www.reddit.com/r/trackers/wiki/index/) - Has some helpful guides for people new to Private Trackers, including guides on how to get in them.  
 [**r/OpenSignups**](https://OpenSignups.reddit.com/) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones.
-
-<sub>credits: [https://wiki.installgentoo.com/index.php/Private_trackers](https://wiki.installgentoo.com/index.php/Private_trackers)</sub>
