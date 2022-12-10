@@ -148,7 +148,8 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
-[**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own. [CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?t=95791) link.
+[**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=95791
+) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own. [CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?t=95791) link.
 
 ## Cracking Tools
 
@@ -157,20 +158,19 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 <small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs. Note that rarely, DLC files will come preinstalled with the base Game.</small>
 
 [**Koalageddon**](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.  
+[**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker/[Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395) which unlock DLCs in their respective platforms. 
 
 [**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly.  
 *<small>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg).</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
-[**EA DLC Unlocker v2**](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for <span style="color:red">**Mac**</span> users.  
-[**Uplay R1 Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=112169) - Ubisoft DLC unlocker, will only work for Games released before October 2020 (that have the uplay_r1\*.dll file).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Uplay R2 Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=111874) - Same as R1 Unlocker, but instead will only work for Games released after October 2020 (that have the upc_r2\*.dll/uplay_r2\*.dll file).  
+[**EA DLC Unlocker v2**](https://anadius.hermietkreeft.site/dlc-unlockers) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://anadius.hermietkreeft.site/dlc-unlockers#:~:text=unlocks%205%20DLCs-,Origin%20DLC%20Unlocker,-v1) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for <span style="color:red">**Mac**</span> users.  
+[**Uplay R2 Unlocker**](https://cs.rin.ru/forum/viewtopic.php?t=111874) - Ubisoft DLC unlocker, will only work for Games released after October 2020 (that have the upc_r2\*.dll/uplay_r2\*.dll file).    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Uplay R1 Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=112169) - Same as R2 Unlocker, but instead will only work for Games released before October 2020 (that have the uplay_r1\*.dll file).  
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - An easy to use Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games, this can bypass Anti-Cheat software unlike ScreamAPI.  
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.
-
-[**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply [Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395)/SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker. 
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
 Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use and actively maintained with lots of features but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but development has stopped since April 11, 2017.  
@@ -182,16 +182,22 @@ Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use an
 *<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>*  
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover, required if the game has SteamStub DRM.  
 
+[**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can bypass the basic Steam DRM, unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
+**Using this tool for Games with Anti-Cheats might get you banned**.  
+*<small>This tool can't make you own Games you havent paid for on Steam.</small>*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamACFGenerator](https://github.com/Sak32009/SteamACFGenerator/) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=124087) - A CLI tool to generate .acf files for GreenLuma with ease.
+ 
+[**Origin Unwrapper**](https://anadius.hermietkreeft.site/origin-unwrapper) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=125589) - Unwraps the Game executable of Origin/EA Games from its Origin DRM. You will also likely need to use Origin Emulator.  
+[**Origin Emulator**](https://anadius.hermietkreeft.site/origin-emulator) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=115335) - Emulates the basic Origin/EA API. Using this tool you **can play Denuvo Protected Origin/EA Games but you have to obtain a Denuvo token**. This tool also includes a script to generate Denuvo tokens (you're generally limited to 5 a day with each token being tied to a single PC) **only if you own the Game legitimately**. The Denuvo bypass method works for Origin/EA Games on Steam too.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin Helper](https://anadius.hermietkreeft.site/origin-helper) - UserScript that adds some features to the EA/Origin website to help with setting up the Origin Emulator. Apart from allowing generating Denuvo tokens (so you can share it with other people &#129323;), it allows generating a pre-configured Origin Emulator config and more.  
+*<small>This UserScript is equivalent to origin_helper_tools.html found in Origin Emulator.</small>*
+
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic and provide support for Achievements and more.  
 *<small>Since the original Repository has been deleted, you can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
 
 [**Nemirtingas Galaxy Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=114295) - Emulator for the GoG Galaxy Launcher, allows LAN play on GoG games that require authentication.  
 *<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2712110#p2712110) and can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
 
-[**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
-**Using this tool for Games with Anti-Cheats might get you banned**.  
-*<small>This tool can't make you own Games you havent paid for on Steam.</small>*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamACFGenerator](https://github.com/Sak32009/SteamACFGenerator/) - A CLI tool to generate .acf files for GreenLuma with ease.
 
 [**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
 [**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
