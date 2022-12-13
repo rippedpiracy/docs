@@ -80,7 +80,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 [**THE MEGA MUSIC RIPPING GUIDE**](https://ori5000.github.io/musicripping.html) - A music ripping guide for various platforms by Esoteria Avenue.
 
-[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., launched after the initial shutdown of [r/FreeDeezerARL](https://freedeezerarl.reddit.com).  
+[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., launched after the initial shutdown of [r/FreeDeezerARL](https://freedeezerarl.reddit.com), but are currently not assocaited with them.   
 *<small>They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) on their [Matrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).</small>*  
 **Site currently shows offline but will come back**.  
 
