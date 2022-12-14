@@ -161,8 +161,8 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.  
 [**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker/[Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395) which unlock DLCs in their respective platforms. 
 
-[**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly.  
-*<small>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg).</small>*  
+[**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) & [**StellarKey**](https://cs.rin.ru/forum/viewtopic.php?t=120717) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly. StellarKey is for <span style="color:red">**Linux**</span> only.  
+*<small>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg). StellarKey may not work well with non-native Linux Games played through Proton.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
 [**EA DLC Unlocker v2**](https://anadius.hermietkreeft.site/dlc-unlockers) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
@@ -254,6 +254,7 @@ Some common redistributables are:</small>
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
+[**VRP Wiki**](https://wiki.vrpirates.club/) - A Wiki for VR Piracy by VRP.  
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
 *<small>You can also ask for Piracy Support on our [Discord Server](https://discord.ripped.guide)</small>*
 
