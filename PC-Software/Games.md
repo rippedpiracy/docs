@@ -32,7 +32,8 @@ One of the most well known and reputable Repacker out there, very active and pro
 
 **[DODI](https://dodi-repacks.site) (Torrent / DDL)**
 
-Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.
+Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
+*<small>They also have a forum [here](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
 
 **[ScOOt3r](https://scooter-repacks.site/) (DDL)**
 
@@ -59,7 +60,8 @@ Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 
 **[GOG Games](https://gog-games.com) (DDL)**
 
-Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.
+Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.  
+*<small>Downlading from "cdn.gog-games.com" requires a donation, use the other options.</small>*
 
 **[Scene CrackHub](https://scene.crackhub.site) (DDL)**
 
@@ -91,7 +93,8 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 
 Provides Online-Fixes (Multiplayer) for many Games available, the more complex fixes being coded by their own Crackers (0xdeadc0de and others).  
 **Be <u>SURE</u> to use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock), and use [FastForward](https://fastforward.team/) as there are malicious ads.**  
-**_Requires Sign-up_**.
+**_Requires Sign-up_**.  
+*<small>Downlading from "Online-Fix Drive" requires a donation, use the other options. Always use burner Accounts for playing Games asking for an Account, such as Microsoft Games asking for a Microsoft Account.</small>*
 
 **[My Abandonware](https://myabandonware.com) (DDL)**
 
@@ -149,7 +152,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
 [**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=95791
-) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own. [CS.RIN.RU](https://cs.rin.ru/forum/viewtopic.php?t=95791) link.
+) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own.
 
 ## Cracking Tools
 
@@ -163,7 +166,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) & [**StellarKey**](https://cs.rin.ru/forum/viewtopic.php?t=120717) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly. StellarKey is for <span style="color:red">**Linux**</span> only.  
 *<small>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg). StellarKey may not work well with non-native Linux Games played through Proton.</small>*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.herokuapp.com/) - A database site that generates CreamAPI configuration files quickly.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.publicvm.com/) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=110860) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
 [**EA DLC Unlocker v2**](https://anadius.hermietkreeft.site/dlc-unlockers) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=104412) - Tool that can unlock all DLCs on legitimately owned Origin/EA Games.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin DLC Unlocker v1](https://anadius.hermietkreeft.site/dlc-unlockers#:~:text=unlocks%205%20DLCs-,Origin%20DLC%20Unlocker,-v1) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?p=2085788#p2085788) - An older but still maintained version that has support for <span style="color:red">**Mac**</span> users.  
