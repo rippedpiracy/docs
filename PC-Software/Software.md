@@ -57,7 +57,7 @@ Has plugins and addons for various Adobe apps, it is recommended you only downlo
 
 ## Apps
 
-[**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) - Free, Lightweight and open source Torrent Clients.  
+[**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
 *<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBitorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBitorrent.
 
