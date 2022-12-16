@@ -33,7 +33,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - **[JPraws](https://jraws.net/) (DDL)** - NSFW warning. Direct download in zips.
 - **[Nyaa.si](https://nyaa.si/?c=3_3) (Torrent)** - Huge Torrent Tracker for all types of Literature.
 
-<small>We recommend you use [qBittorrent](https://www.qbittorrent.org/) to Torrent.</small>  
+<small>We recommend you use [qBittorrent](https://www.qbittorrent.org), [Deluge](https://www.deluge-torrent.org) or [Transmission](https://transmissionbt.com/) to Torrent.</small>  
 <small>Often searching for 'manga_name volume01 zip' on Google shows up random raw blogsites.</small>
 ## Web-Ripping
 
