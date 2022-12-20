@@ -20,7 +20,7 @@ description: List of useful Android mobile apps.
 [**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
 
 ## Video/Music
-[**xManager**](https://xmanagerapp.com/) - Manage and install all versions of the Spotify app.
+[**xManager**](https://xmanagerapp.com/) - Manage and install all versions of the Spotify app, unlocking Premium features such as No-Ads and skips.
 
 [**Dentex YouTube Downloader**](https://dentex.github.io/) - Allows users to download YouTube videos and extract/convert audio.
 
