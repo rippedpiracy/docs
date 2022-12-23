@@ -34,7 +34,7 @@ description: List of useful Android mobile apps.
 [**nzb360**](https://www.nzb360.com/) (Paid) | [**LunaSea**](https://www.lunasea.app/) - Usenet/Torrent managers. Useful for those who utilize seedboxes.
 
 ## Mods
-[**ReVanced**](https://github.com/revanced/revanced-manager) - Android app patcher that provides patches to popular apps such as youtube.
+[**ReVanced**](https://github.com/revanced/revanced-manager) - Android app patcher that provides patches to popular apps such as YouTube.
 
 [**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord mod for Android.
 
