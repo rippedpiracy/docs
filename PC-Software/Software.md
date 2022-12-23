@@ -55,6 +55,12 @@ Big sites for loads of Educational content including: tutorials, CG assets, plug
 
 Has plugins and addons for various Adobe apps, it is recommended you only download these from the site.
 
+# Activation
+
+[**Microsoft Activation Scripts**](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+Open source activator that includes various scripts for Windows and Office.
+
 ## Apps
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
