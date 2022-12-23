@@ -35,3 +35,5 @@ description: List of useful Android mobile apps.
 
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software. 
+
+[**ReVanced**](https://github.com/revanced/revanced-manager) - Android app patcher that provides patches to popular apps such as youtube.
