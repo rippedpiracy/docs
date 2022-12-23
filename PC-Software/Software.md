@@ -57,9 +57,9 @@ Has plugins and addons for various Adobe apps, it is recommended you only downlo
 
 # Activation
 
-[**Microsoft Activation Scripts**](https://github.com/massgravel/Microsoft-Activation-Scripts)
+[**Microsoft Activation Scripts**](https://massgrave.dev/)
 
-Open source activator that includes various scripts for Windows and Office.
+Open source activator that includes various scripts for Windows and Office using HWID / KMS38 / Online KMS activation methods with the focus on fewer antivirus detections.
 
 ## Apps
 
