@@ -4,4 +4,4 @@ description: List of useful iOS mobile apps.
 ---
 
 ## Mods
-[**Enmity**](https://github.com/revanced/revanced-manager) - Plugin-based Discord mod for iOS, simmilar to Aliucord.
+[**Enmity**](https://enmity.app/) - Plugin-based Discord mod for iOS, simmilar to Aliucord.
