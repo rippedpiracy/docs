@@ -117,11 +117,11 @@ description: Tools and Apps to make your life easier.
 [**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
 *<small><b>This is very outdated and vulnerable to attacks. Do <u>NOT</u> use this as a main Browser!</b></small>*
 
-[**KDE Connect**](https://kdeconnect.kde.org/) - Powerful application to integrate your phone with your computer and vice-versa.
-
-[**OBS (Open Broadcaster Software)**](https://obsproject.com/) - Open source application for streaming and recording.
+[**KDE Connect**](https://kdeconnect.kde.org/) - Powerful application to integrate your phone with your computer and vice-versa allowing sharing files and more.
 
 [**Kdenlive**](https://kdenlive.org/en/) - Open source free video editor.
+
+[**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
 
 # Useful Websites
 
