@@ -55,6 +55,12 @@ Big sites for loads of Educational content including: tutorials, CG assets, plug
 
 Has plugins and addons for various Adobe apps, it is recommended you only download these from the site.
 
+# Activation
+
+[**Microsoft Activation Scripts (MAS)**](https://massgrave.dev/)
+
+Open source activator that includes various scripts for Windows and Office using HWID / KMS38 / Online KMS activation methods with the focus on fewer antivirus detections.
+
 ## Apps
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  

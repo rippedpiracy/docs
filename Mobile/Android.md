@@ -33,5 +33,11 @@ description: List of useful Android mobile apps.
 ## Torrenting
 [**nzb360**](https://www.nzb360.com/) (Paid) | [**LunaSea**](https://www.lunasea.app/) - Usenet/Torrent managers. Useful for those who utilize seedboxes.
 
+## Mods
+[**ReVanced**](https://github.com/revanced/revanced-manager) - Android app patcher that provides patches to popular apps such as YouTube.
+
+[**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord mod for Android.  
+*<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21). There is a rewrite of the mod for the newer versions called [AliucordRN](https://github.com/Aliucord/AliucordRN), but it is a work in progress.</small>*
+
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software. 
