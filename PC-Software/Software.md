@@ -55,11 +55,19 @@ Big sites for loads of Educational content including: tutorials, CG assets, plug
 
 Has plugins and addons for various Adobe apps, it is recommended you only download these from the site.
 
+[**Malwarewatch.org**](https://dl.malwarewatch.org/windows/activation/)
+
+Malwarewatch.org is a software archive website provided by [Enderman](https://www.youtube.com/endermanch) that contains downloads from various softwares, including most of Windows and DOS images.
+
 # Activation
 
 [**Microsoft Activation Scripts (MAS)**](https://massgrave.dev/)
 
 Open source activator that includes various scripts for Windows and Office using HWID / KMS38 / Online KMS activation methods with the focus on fewer antivirus detections.
+
+[**Malwarewatch.org's activation keys**](https://dl.malwarewatch.org/windows/activation/)
+
+Malwarewatch.org (software archive website provided by [Enderman](https://www.youtube.com/endermanch)) provides activation keys from Windows XP and before, as well as downloads of activators for Windows Vista and after.
 
 ## Apps
 
