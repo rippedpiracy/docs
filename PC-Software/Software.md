@@ -69,7 +69,7 @@ Malwarewatch.org (software archive website provided by [Enderman](https://www.yo
 
 [**Malwarewatch.org**](https://dl.malwarewatch.org/windows/activation/)
 
-Malwarewatch.org is a software archive website provided by [Enderman](https://www.youtube.com/endermanch) that contains downloads from various softwares, including most of Windows and DOS images.
+Malwarewatch.org, [Enderman](https://www.youtube.com/endermanch)'s personal website, has a software archive that contains downloads from various softwares, including most of Windows and DOS images.
 
 ## Apps
 
