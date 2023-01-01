@@ -79,7 +79,7 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 Arguably the best site for Game Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for many Games.  
 **_Requires Sign-up_**.  
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when it's mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru. Make sure to enable SCS in the settings otherwise SCS forums are hidden by default.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - An okay guide for browsing cs.rin.ru by **MIDNYTE**. If you need further support, drop in our [Discord Server](https://discord.ripped.guide).  
 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
@@ -178,11 +178,12 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
 Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use and actively maintained with lots of features but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but development has stopped since April 11, 2017.  
 **SmartSteamEmu is abandoned. If you're having issues with it, try the [SSE Reborn Client v1.46.1](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
+There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/cde2e83836714923757cad6be93c5186/macosx64.zip) for Goldberg but it's outdated and only supports Mac x64.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.  
 [**ALI213**](https://cs.rin.ru/forum/search.php?sk=t&sr=posts&keywords=+ALI213+SteamEmu&author_id=452292) & [**ACTIVATED**](https://cs.rin.ru/forum/viewtopic.php?p=2558360#p2558360) - ALI213 is an easy to use Steam Emulator which generally works better for VR titles compared to Goldberg and SSE, and has support for bypassing SteamStub DRM too (may not always work). ACTIVATED on the other hand is a Steam Emulator for <span style="color:red">**Mac**</span>.  
-*<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213.</small>*  
+*<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213. You can generate Steam Interfaces for ACTIVATED using [this tool](https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/blob/master/Readme_generate_interfaces.txt) from the Goldberg Emu, but all in all ACTIVATED is not recommended due to its difficulty to set up.</small>*  
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover, required if the game has SteamStub DRM.  
 
 [**GreenLuma 2020**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can bypass the basic Steam DRM, unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
@@ -200,7 +201,6 @@ Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use an
 
 [**Nemirtingas Galaxy Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=114295) - Emulator for the GoG Galaxy Launcher, allows LAN play on GoG games that require authentication.  
 *<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2712110#p2712110) and can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
-
 
 [**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
 [**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
