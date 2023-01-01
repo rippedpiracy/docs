@@ -18,7 +18,7 @@ As listed in the [**Scene Glossary**](https://ripped.guide/Scene/scene-glossary/
 - **[PreDB.live](https://predb.live/)**
 - **[PreDB.org](https://www.predb.org/)**  
 - **[PreDB.de](https://predb.de/)**  
-- **[PreDB.ovh](https://predb.ovh/)**  
+- **[PreDB.ovh](https://predb.ovh/)**  ***Currently Offline***
 - **[PreDB.me](https://predb.me/)**   
 - **[Pre.Corrupt-net](https://pre.corrupt-net.org/)**
 &nbsp;  
