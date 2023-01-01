@@ -623,7 +623,7 @@ Linux|[DeSmuME](https://desmume.org/)|
 
 | Platform | Emulator |
 |---|---|
-|Windows|[higan](https://byuu.org/emulation/higan/)|
+|Windows|[higan](https://github.com/higan-emu/higan)|
 
 &nbsp;
 **MEKA**
