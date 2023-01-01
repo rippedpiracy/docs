@@ -14,6 +14,7 @@ description: Comprehensive list of Emulators.
 |Windows|[Stella](https://stella-emu.github.io/downloads.html)|
 ||[Z26](http://www.whimsey.com/z26/)|
 ||[PCAE](http://pcae.vg-network.com/)|
+||[Maria](https://sourceforge.net/projects/maria7800.berlios/)|
 |Mac|[Stella](https://stella-emu.github.io/downloads.html)|
 ||[Z26](http://www.whimsey.com/z26/)|
 |Android|[Ataroid](https://www.emuparadise.me/emulators/files/user/com.androidemu.atari-5-1.0.4-691.rar)|
@@ -35,7 +36,7 @@ description: Comprehensive list of Emulators.
 
 | Platform | Emulator |
 | --- | --- |
-|Windows|[EMU7800](http://emu7800.sourceforge.net/)|
+|Windows|[Maria](https://sourceforge.net/projects/maria7800.berlios/)|
 
 &nbsp;
 **Atari Jaguar**
