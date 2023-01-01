@@ -213,7 +213,7 @@ Linux|[DeSmuME](https://desmume.org/)|
 | Platform | Emulator |
 | --- | --- |
 |Windows|[vbjin](https://code.google.com/archive/p/vbjin/)|
-||[Red Dragon](http://www.planetvb.com/modules/tech/index.php?sec=emus&eid=rdragon)|
+||[Red Dragon](https://www.virtual-boy.com/tools/red-dragon/)|
 |3DS|[r3Ddragon](https://github.com/mrdanielps/r3Ddragon)|
 
 &nbsp;
