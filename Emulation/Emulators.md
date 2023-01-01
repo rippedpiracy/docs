@@ -565,7 +565,8 @@ Linux|[DeSmuME](https://desmume.org/)|
 
 | Platform | Emulator |
 |---|---|
-|Windows|[WinX68k](http://www.geocities.jp/winx68khighspeed/)|
+|Windows|[XM6 Pro-68k](https://mijet.eludevisibility.org/XM6%20Pro-68k/XM6%20Pro-68k.html)|
+
 
 &nbsp;
 **ZX Spectrum**
