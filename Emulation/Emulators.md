@@ -127,7 +127,6 @@ Linux|[DeSmuME](https://desmume.org/)|
 |Windows|[RockNES](http://rocknes.web.fc2.com/)|
 ||[Jnes](http://jabosoft.com/home)|
 ||[Mesen](https://www.mesen.ca/)|
-||[My NES](https://sourceforge.net/projects/mynes/)|
 ||[FCEUX](http://www.fceux.com/web/home.html)|
 ||[Nestopia](https://sourceforge.net/projects/nestopia/)|
 |Android|[Nostalgia.NES](https://play.google.com/store/apps/details?id=com.nostalgiaemulators.neslite&hl=en)|
@@ -358,9 +357,14 @@ Linux|[DeSmuME](https://desmume.org/)|
 
 | Platform | Emulator |
 | --- | --- |
-|Windows|[DreamEMU](http://www.emulator-zone.com/doc.php/dreamcast/dreamemu.html)|
+|Windows|[flycast](https://github.com/flyinghead/flycast)|
+||[redream](https://redream.io/)
+||[DreamEMU](http://www.emulator-zone.com/doc.php/dreamcast/dreamemu.html)|
 ||[nulldc](https://code.google.com/archive/p/nulldc/)|
+|MacOS|[flycast](https://github.com/flyinghead/flycast)|
+||[redream](https://redream.io/)
 |Linux|[nulldc](https://code.google.com/archive/p/nulldc/)|
+||[redream](https://redream.io/)
 |Android|[Reicast](https://play.google.com/store/apps/details?id=com.reicast.emulator)|
 
 &nbsp;
