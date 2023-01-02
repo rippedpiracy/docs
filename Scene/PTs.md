@@ -47,15 +47,13 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 **Older TV not available for purchase**: [MySpleen](https://www.myspleen.org/)
 
-**Hentai**: [AnimeBytes](https://animebytes.tv/), [Sukebei](https://sukebei.nyaa.si/?c=1_1) (Public Tracker)
+**Hentai**: [Sukebei](https://sukebei.nyaa.si/?c=1_1) (Public Tracker), [AnimeBytes](https://animebytes.tv/)
 
-**Porn**: [M-Team TP](https://kp.m-team.cc/) (JAV), [EMPornium](https://www.empornium.is/) (General), [ExoticaZ](https://exoticaz.to/) (Asian), [Sinderella](https://slitopen.me/) (korean)
+**Porn**: [M-Team TP](https://kp.m-team.cc/) (JAV), [EMPornium](https://www.empornium.is/) (General), [ExoticaZ](https://exoticaz.to/) (Asian), [Sinderella](https://slitopen.me/) (Korean)
 
-**J-Pop**: [JPopSuki](https://jpopsuki.eu/)
+**Asian Music**: [JPopSuki](https://jpopsuki.eu/)
 
 **Rhythm Games**: [Bemaniso](https://bemaniso.ws/), [OnlyOneCab](https://onlyone.cab/)
-
-**Music Software**: [AudioNews](https://audionews.org/) (Public Tracker)
 
 **3D Software, Graphic Design, VFX**: [CGpeers](https://cgpeers.to/), [GFXpeers](https://gfxpeers.net)
 
