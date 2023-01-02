@@ -85,7 +85,7 @@ Arguably the best site for Game Piracy. It's a well moderated Forum with active 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
 Another well moderated Forum with active Uploaders and discussions that allow Scene Uploads (contrary of CS.RIN.RU), GOG Rips, Retro Games and even Linux Games.  
-**_Requires Sign-up_**.
+**_Currently Offline, Requires Sign-up_**.
 
 ## Other
 
@@ -102,7 +102,8 @@ Offers Downloads for old titles and hard to find Abandonware Games, including ev
 
 **[F95zone](https://f95zone.to/)** & **[U18-Chan](https://u18chan.com/a/) (DDL)**
 
-Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels, many English **_Porn Games_** and even English translated foreign Games such as **_Japanese Eroges_** (a searchable index can be found [here](https://f95zone.to/sam/latest_alpha/)). U18-Chan instead has exclusively **_Yiff Games_**. **_They both require you to Sign-up_**.
+Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels, many English **_Porn Games_** and even English translated foreign Games such as **_Japanese Eroges_** (a searchable index can be found [here](https://f95zone.to/sam/latest_alpha/)). U18-Chan instead has exclusively **_Yiff Games_**.  
+**_They both require Sign-up_**.
 
 **[Sukebei](https://sukebei.nyaa.si/?c=1_3)** & **[Nyaa](https://nyaa.si/?c=6_0) (Torrent)**
 
