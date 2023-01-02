@@ -37,29 +37,27 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tier 1 | [RED](https://redacted.ch) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [HDB](https://hdbits.org/) | [KG](https://karagarga.in/) | [GGN](https://gazellegames.net/) | [BIB](https://bibliotik.me/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [AB](https://animebytes.tv/) | [TL](https://torrentleech.org/) | [IPT](https://iptorrents.com/) |
 | Tier 2 | [OPS](https://orpheus.network/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [BHD](https://beyond-hd.me/) | [TIK](https://cinematik.net) | [PxC](https://pixelcove.me/) | [MAM](https://myanonamouse.net/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [BBT](https://bakabt.me/) | [RTT](https://revolutiontt.me/) | [FL](https://filelist.io) |
-| Tier 3 | [DIC](https://dicmusic.club/) | None | [MTV](https://morethantv.me/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | None | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [Nyaa](https://nyaa.si/) | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) |
+| Tier 3 | [DIC](https://dicmusic.club/) | None | [MTV](https://morethantv.me/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | None | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | None | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) |
 
-**Audiobooks**: MyAnonamouse (note that the best GENERAL source of audiobooks is audiobookbay and occasionally rutracker)
+**Audiobooks**: [MyAnonaMouse](https://myanonamouse.net/) (note that the best GENERAL source of audiobooks is [AudioBookBay](https://audiobookbay.se/) and occasionally [RuTracker](https://rutracker.org/) which are not Private Trackers)
 
-**Piano sheets**: MyAnonamouse
+**Piano sheets**: [MyAnonaMouse](https://myanonamouse.net/)
 
-**E-learning:** TheOccult (esoteric), TheVault (business), TheShow (entertainment), ThePlace (seduction),
+**E-learning:** [TheOccult](https://theoccult.click/) (esoteric), [TheVault](https://thevault.click/) (business), [TheShow](https://theshow.click/) (entertainment), [ThePlace](https://theplace.click/) (seduction),
 
-**Older TV not available for purchase**: MySpleen
+**Older TV not available for purchase**: [MySpleen](https://www.myspleen.org/)
 
-**Older movies/TV**: ILoveClassics
+**Hentai**: [AnimeBytes](https://animebytes.tv/), [Sukebei](https://sukebei.nyaa.si/?c=1_1) (Public Tracker)
 
-**Hentai**: AnimeBytes
+**Porn**: [M-Team TP](https://kp.m-team.cc/) (JAV), [EMPornium](https://www.empornium.is/) (General), [ExoticaZ](https://exoticaz.to/) (Asian), [Sinderella](https://slitopen.me/) (korean)
 
-**JAV**: M-team, Empornium, yourexotic, Sinderella
+**J-Pop**: [JPopSuki](https://jpopsuki.eu/)
 
-**J-Pop**: Jpopsuki
+**Rhythm Games**: [Bemaniso](https://bemaniso.ws/), [OnlyOneCab](https://onlyone.cab/)
 
-**Rhythm Games**: Bemaniso, OnlyOneCab
+**Music Software**: [AudioNews](https://audionews.org/) (Public Tracker)
 
-**Music Software**: Audionews
-
-**3D Software, Graphic Design, VFX**: CGpeers, GFXpeers
+**3D Software, Graphic Design, VFX**: [CGpeers](https://cgpeers.to/), [GFXpeers](https://gfxpeers.net)
 
 <sub>credits: [https://wiki.installgentoo.com/index.php/Private_trackers](https://wiki.installgentoo.com/index.php/Private_trackers)</sub>
 
