@@ -18,7 +18,7 @@ As listed in the [**Scene Glossary**](https://ripped.guide/Scene/scene-glossary/
 - **[PreDB.live](https://predb.live/)**
 - **[PreDB.org](https://www.predb.org/)**  
 - **[PreDB.de](https://predb.de/)**  
-- **[PreDB.ovh](https://predb.ovh/)**  ***Currently Offline***
+- <del>**[PreDB.ovh](https://predb.ovh/)**</del> ***Currently Offline***
 - **[PreDB.me](https://predb.me/)**   
 - **[Pre.Corrupt-net](https://pre.corrupt-net.org/)**
 &nbsp;  
@@ -34,7 +34,3 @@ As listed in the [**Scene Glossary**](https://ripped.guide/Scene/scene-glossary/
 **[r/CrackWatch](https://crackwatch.reddit.com/)**
 
 SubReddit for new Game Release announces, also have game piracy news/discussions.
-
-**[CrackWatch](https://crackwatch.com/)**
-
-Instead of being an automatic feed, CrackWatch has user-submitted Releases with their only focus being Games. **_Currently Offline_**.
