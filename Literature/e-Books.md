@@ -58,7 +58,7 @@ description: Reliable sources to obtain e-Books.
 - [**Bypass Paywalls Clean**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Bypass News Article paywalls.  
 *<small>A more actively maintained fork (with no Google analytics) of [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome).</small>*
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
-- [**Outline**](https://outline.com/) - Removes clutter from News Articles.  
+- [**12ft Ladder**](https://12ft.io/) - Removes clutter from News Articles.  
 - [**Open Access Button**](https://openaccessbutton.org/) - Search engine for research articles.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Browser Extension [Chromium](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/openaccessbutton/)  
 - [**Libgen Desktop**](https://wiki.mhut.org/software:libgen_desktop) - Windows application for browsing a local copy of the LibGen catalog.

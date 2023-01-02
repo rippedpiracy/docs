@@ -14,6 +14,7 @@ description: Comprehensive list of Emulators.
 |Windows|[Stella](https://stella-emu.github.io/downloads.html)|
 ||[Z26](http://www.whimsey.com/z26/)|
 ||[PCAE](http://pcae.vg-network.com/)|
+||[Maria](https://sourceforge.net/projects/maria7800.berlios/)|
 |Mac|[Stella](https://stella-emu.github.io/downloads.html)|
 ||[Z26](http://www.whimsey.com/z26/)|
 |Android|[Ataroid](https://www.emuparadise.me/emulators/files/user/com.androidemu.atari-5-1.0.4-691.rar)|
@@ -35,7 +36,7 @@ description: Comprehensive list of Emulators.
 
 | Platform | Emulator |
 | --- | --- |
-|Windows|[EMU7800](http://emu7800.sourceforge.net/)|
+|Windows|[Maria](https://sourceforge.net/projects/maria7800.berlios/)|
 
 &nbsp;
 **Atari Jaguar**
@@ -126,7 +127,6 @@ Linux|[DeSmuME](https://desmume.org/)|
 |Windows|[RockNES](http://rocknes.web.fc2.com/)|
 ||[Jnes](http://jabosoft.com/home)|
 ||[Mesen](https://www.mesen.ca/)|
-||[My NES](https://sourceforge.net/projects/mynes/)|
 ||[FCEUX](http://www.fceux.com/web/home.html)|
 ||[Nestopia](https://sourceforge.net/projects/nestopia/)|
 |Android|[Nostalgia.NES](https://play.google.com/store/apps/details?id=com.nostalgiaemulators.neslite&hl=en)|
@@ -212,8 +212,7 @@ Linux|[DeSmuME](https://desmume.org/)|
 | Platform | Emulator |
 | --- | --- |
 |Windows|[vbjin](https://code.google.com/archive/p/vbjin/)|
-||[Red Dragon](http://www.planetvb.com/modules/tech/index.php?sec=emus&eid=rdragon)|
-|3DS|[r3Ddragon](https://github.com/mrdanielps/r3Ddragon)|
+|PSP / PS3 / Wii / 3DS / Wii U / Switch|[Mednafen](https://github.com/libretro/beetle-vb-libretro)|
 
 &nbsp;
 **Nintendo Wii**
@@ -357,9 +356,14 @@ Linux|[DeSmuME](https://desmume.org/)|
 
 | Platform | Emulator |
 | --- | --- |
-|Windows|[DreamEMU](http://www.emulator-zone.com/doc.php/dreamcast/dreamemu.html)|
+|Windows|[flycast](https://github.com/flyinghead/flycast)|
+||[redream](https://redream.io/)
+||[DreamEMU](http://www.emulator-zone.com/doc.php/dreamcast/dreamemu.html)|
 ||[nulldc](https://code.google.com/archive/p/nulldc/)|
+|MacOS|[flycast](https://github.com/flyinghead/flycast)|
+||[redream](https://redream.io/)
 |Linux|[nulldc](https://code.google.com/archive/p/nulldc/)|
+||[redream](https://redream.io/)
 |Android|[Reicast](https://play.google.com/store/apps/details?id=com.reicast.emulator)|
 
 &nbsp;
@@ -560,7 +564,8 @@ Linux|[DeSmuME](https://desmume.org/)|
 
 | Platform | Emulator |
 |---|---|
-|Windows|[WinX68k](http://www.geocities.jp/winx68khighspeed/)|
+|Windows|[XM6 Pro-68k](https://mijet.eludevisibility.org/XM6%20Pro-68k/XM6%20Pro-68k.html)|
+
 
 &nbsp;
 **ZX Spectrum**
@@ -618,7 +623,7 @@ Linux|[DeSmuME](https://desmume.org/)|
 
 | Platform | Emulator |
 |---|---|
-|Windows|[higan](https://byuu.org/emulation/higan/)|
+|Windows|[higan](https://github.com/higan-emu/higan)|
 
 &nbsp;
 **MEKA**
