@@ -212,8 +212,7 @@ Linux|[DeSmuME](https://desmume.org/)|
 | Platform | Emulator |
 | --- | --- |
 |Windows|[vbjin](https://code.google.com/archive/p/vbjin/)|
-||[Red Dragon](https://www.virtual-boy.com/tools/red-dragon/)|
-|3DS|[r3Ddragon](https://github.com/mrdanielps/r3Ddragon)|
+|PSP / PS3 / Wii / 3DS / Wii U / Switch|[Mednafen](https://github.com/libretro/beetle-vb-libretro)|
 
 &nbsp;
 **Nintendo Wii**
