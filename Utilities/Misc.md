@@ -161,7 +161,7 @@ description: Tools and Apps to make your life easier.
 
 [**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
 
-[**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  ***No longer maintained.***
+[**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread. **No longer maintained.**  
 [**r/FREEMEDIAHECKYEAH**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/) - A Wiki by the FMHY community, they also have a [guides](https://fmhy.tk/guides) section.  
 [**WebOasis**](https://weboasis.app/) - An index of plenty of useful sites and apps, also has a forum [here](https://chat.weboasis.app/home). **R.I.P Webby.**  
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**
