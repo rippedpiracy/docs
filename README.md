@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/rippedpiracy/site/master/custom_theme/pix/ripped.png)
 ```
              ▄▄                                     ▄▄                                        
 ▀███▀▀▀██▄   ██                                   ▀███     ▀███▀▀▀██▄                         
@@ -12,6 +11,7 @@
                 ▄████▄    ▄████▄                                                             
 ```
 [![Discord](https://img.shields.io/discord/702220357834244248?color=748bd9&labelColor=000000&label=&logo=discord&style=for-the-badge)](https://discord.ripped.guide "Discord")
+[![Last Commit](https://img.shields.io/github/last-commit/rippedpiracy/docs/master?label=&style=for-the-badge&display_timestamp=committer)](https://github.com/rippedpiracy/docs/commits "Commit History")
 
 Aiming to be the best source for your Piracy needs!
 
