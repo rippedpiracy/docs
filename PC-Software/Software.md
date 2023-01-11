@@ -59,7 +59,7 @@ Has plugins and addons for various Adobe apps, it is recommended you only downlo
 
 [**Microsoft Activation Scripts (MAS)**](https://massgrave.dev/)
 
-Open source activator that includes various scripts for Windows and Office using HWID / KMS38 / Online KMS activation methods with the focus on fewer antivirus detections.
+Open source activator that includes various scripts for Windows and Microsoft Office using HWID / KMS38 / Online KMS activation methods with the focus on fewer antivirus detections. Guide for activating Microsoft Office on MacOS can be found [here](https://massgrave.dev/unsupported_products_activation.html).
 
 ## Apps
 
