@@ -135,12 +135,14 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers. HashCheck and OpenHashTab integrate into Windows Shell.
 
-[**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD.  
+[**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS (non-ARM), & BSD.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wine AppDB](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
-[**Parsec**](https://parsec.app/) - Remote desktop application that works for playing Games together.
+[**Nucleus Co-op**](https://github.com/SplitScreen-Me/splitscreenme-nucleus) - Play your Games co-op on single computer split-screen that don't normally support it.  
+*<small>Part of the [SplitScreen.Me](https://www.splitscreen.me/) organisation, which has instructions on installing the app itself and individual guides for setting it up for all games listed [here](https://hub.splitscreen.me/).</small>*  
+[**Parsec**](https://parsec.app/) - Remote desktop application that works for playing Games together on single computer.
 
 [**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
@@ -159,7 +161,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 **All the tools listed here are** <span style="color:red">**Windows**</span> **only unless stated otherwise.**  
 **Most links here require sign-up on [CS.RIN.RU](https://cs.rin.ru/forum).**  
-<small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic in [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs. Note that rarely, DLC files will come preinstalled with the base Game.</small>
+<small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic on [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs. Note that rarely, DLC files will come preinstalled with the base Game.</small>
 
 [**Koalageddon**](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.  
@@ -204,7 +206,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 *<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2712110#p2712110) and can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
 
 [**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
-[**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
+[**WorkshopDL**](https://sites.google.com/view/workshopdl/home) - [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
@@ -237,7 +239,8 @@ Some common redistributables are:</small>
 [**PreDBs**](PreDBs.md) - List of Release Indexes that are used to check whether a Game has been cracked or not. Just a reminder that a Game not being on any list doesnt mean it hasn't been cracked.
 
 [**ProtonDB**](https://protondb.com/) - A Community maintained Database of Steam Games with their compatibilities on Linux and Steam Deck graded and ranked.  
-[**Wine AppDB**](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.
+[**Wine AppDB**](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games on various platforms such as Linux and Mac (non-ARM).  
+[**AppleGamingWiki**](https://www.applegamingwiki.com/wiki/Home) - Fixes and compatibility information for Games on M1 Apple silicon Macs. Games are tested on Rosetta 2, iOS/iPadOS, [Crossover](https://www.applegamingwiki.com/wiki/CrossOver) and [Parallels](https://www.applegamingwiki.com/wiki/Parallels).
 
 [**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amounts of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
