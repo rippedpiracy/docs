@@ -2,6 +2,9 @@
 title: About
 description: About this site.
 ---
+## Transparency
+
+The Ripped Guide stores no cookies on one's browser, doesn't use IndexedDB and only stores one value (the theme switch) in Local Storage.
 
 ## Contributing
 
