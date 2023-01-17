@@ -19,6 +19,10 @@ description: Guides for homebrewing consoles.
 
 [Hacks.Guide's PS Vita guide](https://vita.hacks.guide/) - Guide to homebrew the PS Vita made by the Hacks.Guide team
 
+### Other
+
+[ConsoleMods](https://consolemods.org/) - Community driven wiki dedicated for modding
+
 
 ## Playing pirated games
 This section provides information about playing pirated games listed or written by ourselves, as the listed guides are against piracy.
