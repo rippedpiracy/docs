@@ -10,4 +10,4 @@ description: Resources for Emulation.
 [**Yuzu EA**](https://pineappleea.github.io/) - Early Access version of [Yuzu](https://github.com/yuzu-emu/yuzu).
 
 # to edit
-homebrew hacking guides, include ps4/5 etc dont have emulators
+Include ps4/5 etc dont have emulators
