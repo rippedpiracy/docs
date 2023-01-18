@@ -25,10 +25,11 @@ description: Guides for homebrewing consoles.
 
 
 ## Playing pirated games
-This section provides information about playing pirated games listed or written by ourselves, as the listed guides are against piracy.
+This section provides information about playing pirated games listed or written by ourselves, as the listed homebrew guides above are against piracy, and as such does not provide any information on playing downloaded copies.
 
 ### Nintendo Wii
 **Notes:**
+- This guide was written by a contributor (abUwUser). **OUTDATED INFORMATION MAY BE PRESENTED**. Updated on Jan 17 2023
 - It is recommended to download games with the **`.wbfs` extension**, as it is the supported file extension of most USB Loaders. 
 - You can try out [Wii Backup Manager](https://wii.guide/wiibackupmanager) or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) if you do not want to do the manual steps each time.
 
