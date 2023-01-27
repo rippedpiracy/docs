@@ -50,6 +50,8 @@ description: List of sources for getting all genres of Music.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics downloader plugin.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-KKBox](https://github.com/uhwot/orpheusdl-kkbox) - KKBox downloader plugin.
 
+[**Zotify**](https://gitlab.com/team-zotify/zotify) - A highly customizable music and podcast downloader for Spotify.  
+*<small>This tool downloads songs directly from Spotify. Use a burner account.</small>*  
 [**spotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata fetched from YouTube.  
 *<small>This tool does not download songs directly from Spotify.</small>*
 
