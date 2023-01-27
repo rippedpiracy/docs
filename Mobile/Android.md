@@ -26,7 +26,7 @@ description: List of useful Android mobile apps.
 
 [**Seeker**](https://github.com/jackBonadies/SeekerAndroid) - Unofficial Soulseek client for Android.
 
-[**Seal**](https://github.com/JunkFood02/Seal) - Video/Audio downloader for yt-dlp [supported video platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
+[**Seal**](https://github.com/JunkFood02/Seal) - Video/Audio downloader for yt-dlp's [supported platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
 [**MPV-Android**](https://github.com/mpv-android/mpv-android) - A free media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
 
