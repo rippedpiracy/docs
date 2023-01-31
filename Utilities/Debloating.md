@@ -36,4 +36,4 @@ For **Sigma Wiper** to work, you need to install the [**.NET 5.0 Desktop Runtime
 
 <sub>*Disable [**hibernation**](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) to free as much space as your amount of RAM.*</sub>
 
-<sub>*Note: You can also grab an ISO from Big Pony [**here**](https://bobpony.com/downloads/) if you wish to reinstall Windows before running these apps.*</sub>
+<sub>*Note: You can also grab an ISO from Bob Pony [**here**](https://bobpony.com/downloads/) if you wish to reinstall Windows before running these apps.*</sub>
