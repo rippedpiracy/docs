@@ -7,6 +7,7 @@ description: Reliable sources to obtain e-Books.
 
 # General E-Books
 
+- [**Anna’s Archive**](https://annas-archive.org/) - Search Engine that indexes a few big libraries including libgen and Z-Lib.
 - [**Z-Library**](https://singlelogin.me/) - The Library is only accessible through [Tor](https://www.torproject.org/) and [I2P](https://geti2p.net/en/), **_Requires Sign-up_**.
 - [**Library Genesis (.fun)**](https://libgen.fun/) & [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - The .fun domain is currently being run by the original owner of libgen whereas the others are independant.
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, **_Requires Sign-up_**.
@@ -44,7 +45,6 @@ description: Reliable sources to obtain e-Books.
 &nbsp;
 # Other
 
-- [**Anna’s Archive**](https://annas-archive.org/) - Search Engine that indexes a few big libraries including libgen and Z-Lib.
 - [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
 - [**CALISHOT**](https://eng.calishot.xyz/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://noneng.calishot.xyz/index-not-eng/summary).  
 *<small>If the links stop working check [here](https://www.reddit.com/search?q=flair_name%3A%22CALISHOT%22) for updated ones.</small>*
