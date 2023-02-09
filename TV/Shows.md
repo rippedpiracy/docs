@@ -26,6 +26,8 @@ Their [Subreddit](https://PopCornTimeApp.reddit.com/) can be visited for more in
 **_Only use the site we linked here._**  
 *<small>In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.</small>*
 
+[**Seez**](https://seez.su) - A streaming webpage with a pretty UI. Constantly updated with Indian content. Has additional hosts and subtitles.
+
 # Downloading
 
 <small>Higher Quality most of the time and better watching experience overall compared to Streaming.</small>
