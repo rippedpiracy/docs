@@ -18,6 +18,8 @@ In the Streaming section as you can Stream the Content you want to Download.
 
 [**StreamingCommunity**](https://streamingcommunity.city) - Constantly updated site with Italian Dubbed/Subbed Content, a UI similar to Netflix.
 
+[**Seez**](https://seez.su) - A streaming webpage with a modern UI. Constantly updated with Indian content. Has additional hosts and subtitles.
+
 [**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/) - Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links as well as from certain Sites and have a plethora of Addons available that will make your experience much better.  
 *<small>Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</small>*
 
@@ -25,8 +27,6 @@ In the Streaming section as you can Stream the Content you want to Download.
 Their [Subreddit](https://PopCornTimeApp.reddit.com/) can be visited for more info. Its official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
 **_Only use the site we linked here._**  
 *<small>In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.</small>*
-
-[**Seez**](https://seez.su) - A streaming webpage with a pretty UI. Constantly updated with Indian content. Has additional hosts and subtitles.
 
 # Downloading
 
