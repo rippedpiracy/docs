@@ -8,6 +8,8 @@ description: List of sources for getting all genres of Music.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
+[**DoubleDouble**](https://doubledouble.top/) - Universal Audio Streaming service Downloader with some extra unrelated features.
+
 [**RuTracker**](https://rutracker.org) - Russian tracker with a lot of Unknown or Foreign Music.  
 **_Requires Sign-up._**  
 
@@ -60,7 +62,7 @@ description: List of sources for getting all genres of Music.
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*
 
-[**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser userscript that allows up to Hi-Fi streaming on deezer.com.
+[**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser UserScript that allows up to Hi-Fi streaming on Deezer.
 
 # Communities
 
