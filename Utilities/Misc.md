@@ -124,6 +124,8 @@ description: Tools and Apps to make your life easier.
 
 [**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
 
+[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
+
 # Useful Websites
 
 [**Internet Archive**](https://web.archive.org/) | [**Webpage archive**](https://archive.today/) - Sites that host archived versions of other sites. You can archive any site you want too.
