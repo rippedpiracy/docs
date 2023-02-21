@@ -136,8 +136,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers. HashCheck and OpenHashTab integrate into Windows Shell.
 
 [**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS (non-ARM), & BSD.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wine AppDB](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.
-[**Lutris**](https://lutris.net/) - An easy to use game manager for Linux.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wine AppDB](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.  
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
@@ -151,7 +150,8 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 *<small>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection) connection.</small>*
 
 [**Playnite**](https://playnite.link) - A Video-Game library manager with the goal to provide a unified interface for all Games, including but not limited to: Steam, GOG, Origin, Battle.net and Uplay. Also has Game emulation support.  
-*<small>Make sure to check out the [Add-ons](https://playnite.link/addons.html).</small>*
+*<small>Make sure to check out the [Add-ons](https://playnite.link/addons.html).</small>*  
+[**Lutris**](https://lutris.net/) - An easy to use game manager for Linux.
 
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
