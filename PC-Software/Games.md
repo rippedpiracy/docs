@@ -137,6 +137,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS (non-ARM), & BSD.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wine AppDB](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.
+[**Lutris**](https://lutris.net/) - An easy to use game manager for Linux.
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
