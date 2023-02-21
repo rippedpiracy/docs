@@ -138,6 +138,8 @@ description: Tools and Apps to make your life easier.
 
 [**Just Delete Me**](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 
+[**AlternativeTo**](https://alternativeto.net/) - A good website to find alternatives to software you use.
+
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
