@@ -134,6 +134,8 @@ description: Tools and Apps to make your life easier.
 
 [**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your email or phone number is in a data breach.
 
+[**Just Delete Me**](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
+
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
@@ -163,6 +165,8 @@ description: Tools and Apps to make your life easier.
 *<small>A [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.</small>*
 
 [**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
+
+[**Are We Anti-Cheat Yet?**](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
 
 [**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread. **No longer maintained.**  
 [**r/FREEMEDIAHECKYEAH**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/) - A Wiki by the FMHY community, they also have a [guides](https://fmhy.tk/guides) section.  
