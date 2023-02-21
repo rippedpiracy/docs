@@ -30,7 +30,7 @@ An old Russian tracker that has plenty of content but with generally less seeder
 
 One of the most well known and reputable Repacker out there, very active and provides Torrent links with DDL mirrors. Only downside being the Repacks can take a long time to install depending on your hardware. Mostly Uploads on 1337x, RuTor, Tapocheck and some DDL mirrors that are linked on her site.
 
-**[DODI](https://dodi-repacks.site) (Torrent / DDL)**
+**[DODI](https://dodi-repacks.site) | [.download](https://dodi-repacks.download) (Torrent / DDL)**
 
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
 *<small>They also have a forum [here](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
