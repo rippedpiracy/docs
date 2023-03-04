@@ -35,18 +35,13 @@ One of the most well known and reputable Repacker out there, very active and pro
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
 *<small>They also have a forum [here](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
 
-**[ScOOt3r](https://scooter-repacks.site/) (DDL)**
-
-A new and emerging group of Repackers, updates on their Releases may be quicker than other Repackers. Have Torrent links on some of their releases albeit very low seeders
-
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
 Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers. They upload on 1337x too.
 
-**[XATAB](https://xatab-repack.com) (Torrent)**
+**[ScOOt3r](https://scooter-repacks.site/) (DDL)**
 
-One of the oldest and most respected Repacker that passed away recently. His site is currently being used by different Repackers but his old Releases can still be found there.  
-**R.I.P 196X - 2021.**
+Small time Repackers that recently quit, most of their older Repacks are inaccessible.
 
 ## General DDL
 
@@ -96,7 +91,7 @@ Provides Online-Fixes (Multiplayer) for many Games available, the more complex f
 **_Requires Sign-up_**.  
 *<small>Downlading from "Online-Fix Drive" requires a donation, use the other options. Always use burner Accounts for playing Games asking for an Account, such as Microsoft Games asking for a Microsoft Account.</small>*
 
-**[My Abandonware](https://myabandonware.com) (DDL)**
+**[My Abandonware](https://www.myabandonware.com) (DDL)**
 
 Offers Downloads for old titles and hard to find Abandonware Games, including everything they came with.
 
@@ -140,6 +135,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
+[**Moonlight**](https://moonlight-stream.org/) - Self-host your Games and stream them to play on a plethora of devices ranging from iOS devices to consoles such as Wii U and Vita.  
 [**Nucleus Co-op**](https://github.com/SplitScreen-Me/splitscreenme-nucleus) - Play your Games co-op on single computer split-screen that don't normally support it.  
 *<small>Part of the [SplitScreen.Me](https://www.splitscreen.me/) organisation, which has instructions on installing the app itself and individual guides for setting it up for all games listed [here](https://hub.splitscreen.me/).</small>*  
 [**Parsec**](https://parsec.app/) - Remote desktop application that works for playing Games together on single computer.
@@ -198,6 +194,8 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 [**Origin Emulator**](https://anadius.hermietkreeft.site/origin-emulator) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=115335) - Emulates the basic Origin/EA API. Using this tool you **can play Denuvo Protected Origin/EA Games but you have to obtain a Denuvo token**. This tool also includes a script to generate Denuvo tokens (you're generally limited to 5 a day with each token being tied to a single PC) **only if you own the Game legitimately**. The Denuvo bypass method works for Origin/EA Games on Steam too.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin Helper](https://anadius.hermietkreeft.site/origin-helper) - UserScript that adds some features to the EA/Origin website to help with setting up the Origin Emulator. Apart from allowing generating Denuvo tokens (so you can share it with other people &#129323;), it allows generating a pre-configured Origin Emulator config and more.  
 *<small>This UserScript is equivalent to origin_helper_tools.html found in Origin Emulator.</small>*
+
+[**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?t=67197) - Emulator for Ubisoft Connect (UPlay), emulates the API so you can run legitimately owned Games without the need for the client. Only works for Games released before October 2020 (that have the uplay_r1\*.dll file).
 
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic and provide support for Achievements and more.  
 *<small>Since the original Repository has been deleted, you can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
