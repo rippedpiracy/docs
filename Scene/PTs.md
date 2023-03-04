@@ -36,8 +36,8 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 |  | Music | Movies (mainstream) | TV | HD | Movies (obscure) | Games | Books | E-learning | Porn | Anime | Scene | General |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tier 1 | [RED](https://redacted.ch) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [HDB](https://hdbits.org/) | [KG](https://karagarga.in/) | [GGN](https://gazellegames.net/) | [BIB](https://bibliotik.me/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [AB](https://animebytes.tv/) | [TL](https://torrentleech.org/) | [IPT](https://iptorrents.com/) |
-| Tier 2 | [OPS](https://orpheus.network/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [BHD](https://beyond-hd.me/) | [TIK](https://cinematik.net) | [PxC](https://pixelcove.me/) | [MAM](https://myanonamouse.net/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [BBT](https://bakabt.me/) | [RTT](https://revolutiontt.me/) | [FL](https://filelist.io) |
-| Tier 3 | [DIC](https://dicmusic.club/) | None | [MTV](https://morethantv.me/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | None | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | None | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) |
+| Tier 2 | [OPS](https://orpheus.network/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [BHD](https://beyond-hd.me/) | [TIK](https://cinematik.net) | [PxC](https://pixelcove.me/) | [MAM](https://myanonamouse.net/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [BBT](https://bakabt.me/) | [RTT](https://revolutiontt.me/) | [TL](https://torrentleech.org/) |
+| Tier 3 | [DIC](https://dicmusic.club/) | None | [MTV](https://morethantv.me/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | None | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) | [FL](https://filelist.io) |
 
 **Audiobooks**: [MyAnonaMouse](https://myanonamouse.net/) (note that the best GENERAL source of audiobooks is [AudioBookBay](https://audiobookbay.se/) and occasionally [RuTracker](https://rutracker.org/) which are not Private Trackers)
 
@@ -49,7 +49,7 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 **Hentai**: [Sukebei](https://sukebei.nyaa.si/?c=1_1) (Public Tracker), [AnimeBytes](https://animebytes.tv/)
 
-**Porn**: [M-Team TP](https://kp.m-team.cc/) (JAV), [EMPornium](https://www.empornium.is/) (General), [ExoticaZ](https://exoticaz.to/) (Asian), [Sinderella](https://slitopen.me/) (Korean)
+**Porn**: [M-Team TP](https://kp.m-team.cc/) (JAV), [EMPornium](https://www.empornium.is/) (General), [ExoticaZ](https://exoticaz.to/) (Asian), [Sinderella](https://slitopen.me/) (Korean), [Sukebei](https://sukebei.nyaa.si/?c=2_0) (Public Tracker, JAV)
 
 **Asian Music**: [JPopSuki](https://jpopsuki.eu/)
 
