@@ -17,6 +17,8 @@ description: List of useful Android mobile apps.
 ## File Managers
 [**MiXplorer**](https://mixplorer.com/) - Fully-featured Android file manager that supports multiple cloud storages and server protocols.
 
+[**Material Files**](https://github.com/zhanghai/MaterialFiles) - Great Android file manager with the Material You color scheme and also can be used as a ftp server or an smb/sftp client
+
 [**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
 
 ## Video/Music
