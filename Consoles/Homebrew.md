@@ -47,4 +47,4 @@ This small guide will assume that you have; a **[cIOS](https://wii.guide/cios) i
     - On WiiFlow, you may need to reload the cache. You can do that by pressing the HOME button and choosing "Reload Cache".
 
 ### Steam deck
-Check out [Piracy Guides](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/linux/2-steam-deck.md)' Steam Deck guide
+[r/LinuxCrackSupport Wiki](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) - A very comprehensive guide for the Steam Deck.
