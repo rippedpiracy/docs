@@ -74,8 +74,9 @@ An Auto Scene Release Uploader Bot that uploads Nintendo Switch titles among oth
 
 [**Yuzu EA**](https://pineappleea.github.io/) - Early Access version of [Yuzu](https://github.com/yuzu-emu/yuzu).
 
-### to edit
-Include ps4/5 etc dont have emulators
+Note: As of writing this text, stable PS4/5 or Xbox one / Series emulators do not exist. If you find an app that claims to do that, either it is very unstable or it doesn't do what it says.
+<!-- ### to edit
+Include ps4/5 etc dont have emulators -->
 
 ## Apps
 
