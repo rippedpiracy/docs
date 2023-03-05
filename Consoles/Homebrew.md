@@ -45,3 +45,6 @@ This small guide will assume that you have; a **[cIOS](https://wii.guide/cios) i
     - You may try inserting it in the other USB port if it does not work.
 6. Open the USB Loader application of your choice and the Game will be added.
     - On WiiFlow, you may need to reload the cache. You can do that by pressing the HOME button and choosing "Reload Cache".
+
+### Steam deck
+Check out [Piracy Guides](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/linux/2-steam-deck.md)' Steam Deck guide
