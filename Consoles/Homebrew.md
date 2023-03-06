@@ -20,6 +20,16 @@ description: Guides for Homebrewing various Consoles.
 ### Steam deck
 [r/LinuxCrackSupport Wiki](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) - A very comprehensive guide for the Steam Deck.
 
+### Communities
+
+**[r/WiiHacks/](https://www.reddit.com/r/WiiHacks/)** - Reddit Community for Hacking the Nintendo Wii.
+**[r/VitaHacks/](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.
+**[r/PS3Homebrew/](https://www.reddit.com/r/ps3homebrew/)** - News, updates, apps, and answers regarding PS3 Homebrew.
+**[r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/)** - Subreddit for discussing Xbox One/Series Retail Mode Homebrew! From RetroArch to DurangoFTP.
+**[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.
+**[r/XboxModding](https://www.reddit.com/r/XboxModding/)** - Dedicated community to modding any and all Xbox consoles.
+**[r/360hacks](https://www.reddit.com/r/360hacks/)** - Anything related to Xbox 360 hacks, mods, Homebrew, or Scene news.
+
 ## Loading Games
 This section provides information about playing Games on Consoles listed or written by ourselves, as the listed Homebrew guides above are against piracy, and as such does not provide any information on playing downloaded copies.
 
