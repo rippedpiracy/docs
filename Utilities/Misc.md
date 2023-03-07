@@ -110,7 +110,7 @@ description: Tools and Apps to make your life easier.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
-[**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
+[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab) | [**Frog (<span style="color:red">Linux</span>)**](https://getfrog.app/) - Use OCR to grab and read text from images or unselectable text. 
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
