@@ -201,10 +201,10 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 *<small>Since the original Repository has been deleted, you can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
 
 [**Nemirtingas Galaxy Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=114295) - Emulator for the GoG Galaxy Launcher, allows LAN play on GoG games that require authentication.  
-*<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2712110#p2712110) and can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
+*<small>You can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
 
-[**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
-[**WorkshopDL**](https://sites.google.com/view/workshopdl/home) - [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
+[**WorkshopDL**](https://github.com/VovoloGames/WorkshopDL) - [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/), in SteamWebAPI, in [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games) or in [GGNetwork](https://ggntw.com/steam) you can download the mods for free using the app!  
+[**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
@@ -241,7 +241,7 @@ Some common redistributables are:</small>
 [**AppleGamingWiki**](https://www.applegamingwiki.com/wiki/Home) - Fixes and compatibility information for Games on M1 Apple silicon Macs. Games are tested on Rosetta 2, iOS/iPadOS, [Crossover](https://www.applegamingwiki.com/wiki/CrossOver) and [Parallels](https://www.applegamingwiki.com/wiki/Parallels).
 
 [**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amounts of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
 [**Augmented Steam**](https://augmentedsteam.com/) - Great Browser extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
 *<small>If you decide to use Augmented Steam and the SteamDB extension simultaneously, make sure to configure them accordingly since some of the features may interfere.</small>*
 
@@ -250,6 +250,7 @@ Some common redistributables are:</small>
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
 
+[**Skymods**](https://catalogue.smods.ru/) - Community driven Steam Workshop library. Use an Anti-Virus to scan the files you download.  
 [**GGNETWORK**](https://ggntw.com/steam) - Online Steam Workshop Downloader, has support for many Games. Only ever use this site to download Workshop mods, and not Games.  
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
 [**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
