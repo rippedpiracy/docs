@@ -276,4 +276,8 @@ Some common redistributables are:</small>
 
 > &nbsp;
 
+> <span style="color:orange">**Scene:**</span> The Warez Scene, mostly referred to as The Scene, is an underground community of people that specialize in the distribution of copyrighted material. They are an extremely private collection of groups. But most of their Releases get leaked to the public. Check our [Scene Glossary](/Scene-Glossary) for other Scene definitions.
+
+> &nbsp;
+
 > <span style="color:orange;">**Mirrors:**</span> An alternate download link for the same file, similar to a DDL, but hosted in different places. If one mirror goes down, you can download the file from another Mirror.
