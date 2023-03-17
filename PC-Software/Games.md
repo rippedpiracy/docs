@@ -277,7 +277,7 @@ Some common redistributables are:</small>
 
 > &nbsp;
 
-> <span style="color:orange">**Scene:**</span> The Warez Scene, mostly referred to as The Scene, is an underground community of people that specialize in the distribution of copyrighted material. They are an extremely private collection of groups. But most of their Releases get leaked to the public. Check our [Scene Glossary](https://ripped.guide/PC-Software/Scene-Glossary) for other Scene definitions.
+> <span style="color:orange">**Scene:**</span> The Warez Scene, mostly referred to as The Scene, is an underground community of people that specialize in the distribution of copyrighted material. They are an extremely private collection of groups. But most of their Releases get leaked to the public. Check our [Scene Glossary](https://ripped.guide/Scene/Scene-Glossary/) for other Scene definitions.
 
 > &nbsp;
 
