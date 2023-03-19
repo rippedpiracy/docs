@@ -161,7 +161,9 @@ description: Tools and Apps to make your life easier.
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and other Media Ripping/Recording/Encoding tools.  
 *<small>A [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.</small>*
 
-[**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
+[**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.  
+
+[**CD[R]M-Tools**](https://cdm-project.com/cdm-tools) - A collection of tools and guides about WEB-DL and tools (for every streaming platform). They regularly produce a FOSS streamfab crack in C and they also have a very active discord community [here](https://cdm-project.com/CDM-Tools/Discord/src/branch/main/README.md).  
 
 [**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
 [**r/FREEMEDIAHECKYEAH**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/) - A Wiki by the FMHY community, they also have a [guides](https://fmhy.tk/guides) section.  
