@@ -5,7 +5,7 @@ description: Guides for Homebrewing various Consoles.
 
 <h2>Guides</h2>
 
-[**ConsoleMods**](https://consolemods.org/) - Community driven Wiki dedicated for modding.
+[**ConsoleMods**](https://consolemods.org/) - Community driven Wiki dedicated for modding. However it doesn't include guides for latest gen Consoles.
 
 ### Nintendo
 
@@ -17,14 +17,17 @@ description: Guides for Homebrewing various Consoles.
 
 [**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, tool that is not recommended by some members, but other than that this guide is fine.
 
-### Steam deck
+### Steam Deck
 [**r/LinuxCrackSupport Wiki**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) - A very comprehensive guide for the Steam Deck.
 
 ### Communities
 
+**[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.
 **[r/WiiHacks/](https://www.reddit.com/r/WiiHacks/)** - Reddit Community for Hacking the Nintendo Wii.  
 **[r/VitaHacks/](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.  
 **[r/PS3Homebrew/](https://www.reddit.com/r/ps3homebrew/)** - News, updates, apps, and answers regarding PS3 Homebrew.  
+**[r/PS4Homebrew/](https://www.reddit.com/r/ps3homebrew/)** - News, updates, apps, and answers regarding PS4 Homebrew.  
+**[r/PS5Homebrew/](https://www.reddit.com/r/ps3homebrew/)** - News, updates, apps, and answers regarding PS5 Homebrew.  
 **[r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/)** - Subreddit for discussing Xbox One/Series Retail Mode Homebrew! From RetroArch to DurangoFTP.  
 **[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.  
 **[r/XboxModding](https://www.reddit.com/r/XboxModding/)** - Dedicated community to modding any and all Xbox consoles.  
