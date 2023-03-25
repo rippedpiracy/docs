@@ -5,20 +5,20 @@ description: Guides for Homebrewing various Consoles.
 
 <h2>Guides</h2>
 
-[ConsoleMods](https://consolemods.org/) - Community driven Wiki dedicated for modding.
+[**ConsoleMods**](https://consolemods.org/) - Community driven Wiki dedicated for modding.
 
 ### Nintendo
 
-[Wii Guide](https://wii.guide) - Guide made by the RiiConnect team to Homebrew the Wii.
+[**Wii Guide**](https://wii.guide) - Guide made by the RiiConnect team to Homebrew the Wii.
 
-[WiiU Guide](https://wiiu.hacks.guide/) - Guide made by the RiiConnect team to Homebrew the Wii U.
+[**WiiU Guide**](https://wiiu.hacks.guide/) - Guide made by the RiiConnect team to Homebrew the Wii U.
 
-[NH Switch Guide](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.
+[**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.
 
-[Switch Homebrew Guide](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, tool that is not recommended by some members, but other than that this guide is fine.
+[**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, tool that is not recommended by some members, but other than that this guide is fine.
 
 ### Steam deck
-[r/LinuxCrackSupport Wiki](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) - A very comprehensive guide for the Steam Deck.
+[**r/LinuxCrackSupport Wiki**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) - A very comprehensive guide for the Steam Deck.
 
 ### Communities
 
