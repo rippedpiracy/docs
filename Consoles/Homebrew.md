@@ -34,7 +34,7 @@ description: Guides for Homebrewing various Consoles.
 This section provides information about playing Games on Consoles listed or written by ourselves, as the listed Homebrew guides above are against piracy, and as such does not provide any information on playing downloaded copies.
 
 <h3>Nintendo Wii</h3>
-**Notes:**
+**Notes:**  
 - This guide was written by **@abUwUser**. **OUTDATED INFORMATION MAY BE PRESENTED**. Last Updated on January 17 2023.
 - It is recommended to download Games with the **`.wbfs` extension**, as it is the supported file extension of most USB Loaders (check /ROMs for downloads!). 
 - You can try out [Wii Backup Manager](https://wii.guide/wiibackupmanager) or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) if you don't want to do the manual steps each time.
