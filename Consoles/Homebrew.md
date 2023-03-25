@@ -17,6 +17,9 @@ description: Guides for Homebrewing various Consoles.
 
 [**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, tool that is not recommended by some members, but other than that this guide is fine.
 
+### Sony
+[**VitaDB**](https://vitadb.rinnegatamante.it/#/) - Place to download many Vita Games that were ported from other Consoles/PC to Vita.
+
 ### Steam Deck
 [**r/LinuxCrackSupport Wiki**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) - A very comprehensive guide for the Steam Deck.
 
