@@ -55,7 +55,8 @@ Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 
 **[GOG Games](https://gog-games.com) (DDL)**
 
-Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.  
+Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-256 key from GOG.  
+**This site is only accessible through the [Tor Browser](https://www.torproject.org/).**  
 *<small>Downlading from "cdn.gog-games.com" requires a donation, use the other options.</small>*
 
 **[Scene CrackHub](https://scene.crackhub.site) (DDL)**
