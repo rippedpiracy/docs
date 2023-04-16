@@ -80,7 +80,7 @@ Arguably the best site for Game Piracy. It's a well moderated Forum with active 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
 Another well moderated Forum with active Uploaders and discussions that allow Scene Uploads (contrary of CS.RIN.RU), GOG Rips, Retro Games and even Linux Games.  
-**_Currently Offline, Requires Sign-up_**.
+**_Requires Sign-up_**.
 
 ## Other
 
