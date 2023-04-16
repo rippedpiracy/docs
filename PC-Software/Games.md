@@ -39,10 +39,6 @@ Another active Repacker that provides Torrent links with DDL mirrors. Usually ta
 
 Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers. They upload on 1337x too.
 
-**[ScOOt3r](https://scooter-repacks.site/) (DDL)**
-
-Small time Repackers that recently quit, most of their older Repacks are inaccessible.
-
 ## General DDL
 
 **[Ova Games](https://ovagames.com) (DDL)**
