@@ -252,7 +252,7 @@ Some common redistributables are:</small>
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
 [**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
 
-[**r/ModPiracy 4**](https://modpiracy4.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games. It's recommended that you use an Anti-Malware scanner on the files you download.  
+[**r/ModPiracy V5**](https://modpiracyv5.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games. It's recommended that you use an Anti-Malware scanner on the files you download.  
 *<small>Don't use ModPiracyX as it's malware.</small>*
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
