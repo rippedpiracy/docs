@@ -33,11 +33,11 @@ Within a tracker, there is usually an extensive set of rules covering how much o
 
 There are two kinds of trackers, content-wise: **specialised** and **general**. General trackers will often serve the majority of your needs, bigger general trackers will usually have plenty of niche content. Many popular public trackers are general trackers, RARBG, rutracker and 1337x for example. Due to their broad scope they will still never match the niche trackers in their particular area of specialty. The following is a global consensus on what is considered the best tracker in their fields, namely: Music, Movies (mainstream and obscure), TV, HD, Games, Books, E-learning, Porn, Anime, Scene and General.
 
-|  | Music | Movies (mainstream) | TV | HD | Movies (obscure) | Games | Books | E-learning | Porn | Anime | Scene | General |
+|  | General | HD | Movies | TV | Games | Anime | Music | Books | E-learning | Porn | Scene |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tier 1 | [RED](https://redacted.ch) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [HDB](https://hdbits.org/) | [KG](https://karagarga.in/) | [GGN](https://gazellegames.net/) | [BIB](https://bibliotik.me/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [AB](https://animebytes.tv/) | [TL](https://torrentleech.org/) | [IPT](https://iptorrents.com/) |
-| Tier 2 | [OPS](https://orpheus.network/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [BHD](https://beyond-hd.me/) | [TIK](https://cinematik.net) | [PxC](https://pixelcove.me/) | [MAM](https://myanonamouse.net/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [BBT](https://bakabt.me/) | [RTT](https://revolutiontt.me/) | [TL](https://torrentleech.org/) |
-| Tier 3 | [DIC](https://dicmusic.club/) | None | [MTV](https://morethantv.me/) | [BLU](https://blutopia.xyz//) | [SC](https://secret-cinema.pw/) | None | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [AR](https://alpharatio.cc/) | [TD](https://torrentday.com/) | [FL](https://filelist.io) |
+| Tier 1 | [IPT](https://iptorrents.com/) | [HDB](https://hdbits.org/) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [GGN](https://gazellegames.net/) | [AB](https://animebytes.tv/) | [RED](https://redacted.ch) | [BIB](https://bibliotik.me/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [TL](https://torrentleech.org/) |
+| Tier 2 | [TL](https://torrentleech.org/) | [BHD](https://beyond-hd.me/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [PxC](https://pixelcove.me/) | [BBT](https://bakabt.me/) | [OPS](https://orpheus.network/) | [MAM](https://myanonamouse.net/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [RTT](https://revolutiontt.me/) |
+| Tier 3 | [FL](https://filelist.io) | [BLU](https://blutopia.xyz/) | None | [MTV](https://morethantv.me/) | None | [AR](https://alpharatio.cc/) | [DIC](https://dicmusic.club/) | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [TD](https://torrentday.com/) |
 
 **Audiobooks**: [MyAnonaMouse](https://myanonamouse.net/) (note that the best GENERAL source of audiobooks is [AudioBookBay](https://audiobookbay.se/) and occasionally [RuTracker](https://rutracker.org/) which are not Private Trackers)
 
@@ -45,7 +45,7 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 **E-learning:** [TheOccult](https://theoccult.click/) (esoteric), [TheVault](https://thevault.click/) (business), [TheShow](https://theshow.click/) (entertainment), [ThePlace](https://theplace.click/) (seduction),
 
-**Older TV not available for purchase**: [MySpleen](https://www.myspleen.org/), [TV-Vault](https://tv-vault.me/)
+**Obscure/Older TV**: [KaraGarga](https://karagarga.in/), [cinemaTIK](https://cinematik.net), [SecretCinema](https://secret-cinema.pw/), [MySpleen](https://www.myspleen.org/), [TV-Vault](https://tv-vault.me/)
 
 **Hentai**: [Sukebei](https://sukebei.nyaa.si/?c=1_1) (Public Tracker), [AnimeBytes](https://animebytes.tv/)
 
@@ -62,4 +62,6 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 # External Links
 [**Private Tracker List**](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - A helpful list that has updated stats of most of the Private Trackers.  
 [**r/Trackers Wiki**](https://www.reddit.com/r/trackers/wiki/index/) - Has some helpful guides for people new to Private Trackers, including guides on how to get in them.  
-[**r/OpenSignups**](https://OpenSignups.reddit.com/) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones.
+[**InviteRoute**](https://inviteroute.github.io/sheet/) - Shows which Private Trackers you can enter from a list of Private Trackers.  
+[**r/OpenSignups**](https://OpenSignups.reddit.com/) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones.  
+[**Private Trackers Guide**](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers/) - Some info about Private Trackers by r/Piracy.
