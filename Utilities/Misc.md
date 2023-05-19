@@ -80,6 +80,7 @@ description: Tools and Apps to make your life easier.
 
 [**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip. NanaZip is a fork of 7-Zip with added functionality and better support for Windows 11.
 
+[**Everything**](https://www.voidtools.com/) - Easily find files on your drives. \
 [**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
 
 [**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware, advanced version of Task Manager.  
@@ -123,6 +124,8 @@ description: Tools and Apps to make your life easier.
 
 [**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
 
+[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
+
 # Useful Websites
 
 [**Internet Archive**](https://web.archive.org/) | [**Webpage archive**](https://archive.today/) - Sites that host archived versions of other sites. You can archive any site you want too.
@@ -132,6 +135,10 @@ description: Tools and Apps to make your life easier.
 **_Some may require Sign-Up._**  
 
 [**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your email or phone number is in a data breach.
+
+[**Just Delete Me**](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
+
+[**AlternativeTo**](https://alternativeto.net/) - A good website to find alternatives to software you use.
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
@@ -163,7 +170,11 @@ description: Tools and Apps to make your life easier.
 
 [**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
 
+
+[**Are We Anti-Cheat Yet?**](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
+
 [**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
+
 [**r/FREEMEDIAHECKYEAH**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/) - A Wiki by the FMHY community, they also have a [guides](https://fmhy.tk/guides) section.  
 [**WebOasis**](https://weboasis.app/) - An index of plenty of useful sites and apps, also has a forum [here](https://chat.weboasis.app/home). **R.I.P Webby.**  
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**
