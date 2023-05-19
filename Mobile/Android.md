@@ -40,7 +40,7 @@ description: List of useful Android mobile apps.
 [**ReVanced**](https://github.com/revanced/revanced-manager) - Android App patcher that provides patches to popular apps such as YouTube, Twitter and Reddit.
 
 [**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord client mod for Android.  
-*<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21). There is a rewrite of the mod for the newer versions called [AliucordRN](https://github.com/Aliucord/AliucordRN), but it is a work in progress.</small>*
+*<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21). There is a mod for the newer versions called [Vendetta](https://github.com/vendetta-mod).</small>*
 
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.  
