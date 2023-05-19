@@ -4,11 +4,11 @@ description: List of sources for getting all genres of Music.
 ---
 # Websites
 
-[**Free MP3 Download**](https://free-mp3-download.net/) - Fetches tracks from Deezer, letting you download them in the highest quality without needing a subscription.  
+[**Free MP3 Download**](https://free-mp3-download.net/) - Fetches tracks from Deezer, letting you download them in the highest quality without needing a subscription. 
+
+[**DoubleDouble**](https://doubledouble.top/) - Music Downloader for Spotify, Soundcloud, Qobuz, Deezer, Tidal, and YouTube Music. Downloads for Spotify will be auto transcoded to MP3.
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
-
-[**DoubleDouble**](https://doubledouble.top/) - Universal Audio Streaming service Downloader with some extra unrelated features.
 
 [**RuTracker**](https://rutracker.org) - Russian tracker with a lot of Unknown or Foreign Music.  
 **_Requires Sign-up._**  
@@ -20,15 +20,16 @@ description: List of sources for getting all genres of Music.
 [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. They use friendly file hosters except Nyaa, it uses Torrents instead.  
 [**AnimeThemes**](https://animethemes.moe) | [**Themes.moe**](https://themes.moe) - A huge collection of Ending/Opening Themes for Anime. Right click to download the Audio/Video.
 
-[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists. They also have a Weekly folder found [here](https://unreleased.me/updates).   
-*<small>Their Links may often be down, for more info and for new big releases, check their [Subreddit](https://UnreleasedDisco.reddit.com).</small>*
+[**Unreleased Disco**](https://unreleased.top/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists.
 
 # Tools
 
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find music.     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek and has added features.
 
-[**Deemix**](https://deemix.app) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi on top of being able to download directly from Deezer, it can also accept Spotify or Tidal song links to download them from Deezer. They can download up to 128 kb/s quality with a free acount.  
+[**Deemix**](https://web.archive.org/web/20230410035236/https://deemix.app/) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi on top of being able to download directly from Deezer, it can also accept Spotify or Tidal song links to download them from Deezer. They can download up to 128 kb/s quality with a free acount.  
+*<small>[Here](https://krakenfiles.com/view/9lJSjqCKan/file.html) you can find an archive of the most recent Deemix binaries for all the platforms downloaded before the site went down, on 14/12/2022, by a Ripped Staff Member.</small>*  
+**Deemix is abandoned, if you're having issues use d-fi or streamrip instead.**  
 **_For higher quality downloads, a paid Deezer account is required._**
 
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple music playlists through Qobuz.   
@@ -84,11 +85,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 [**THE MEGA MUSIC RIPPING GUIDE**](https://ori5000.github.io/musicripping.html) - A music ripping guide for various platforms by Esoteria Avenue.
 
-[**Morris Motel**](https://morrismotel.com/tag/music-piracy/) - Have some guides relating to ripping from Deezer such as generating Hi-Fi ARLs etc., launched after the initial shutdown of [r/FreeDeezerARL](https://freedeezerarl.reddit.com), but are currently not assocaited with them.   
-*<small>They share premium Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) on their [Matrix Chat](https://matrix.to/#/#morrismotel:morrismotel.com).</small>*  
-**Site currently shows offline but will come back**.  
-
-[**r/FreeDeezerARL**](https://freedeezerarl.reddit.com) - They share Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>) they also have a Discord Server. Used to be dead until the owner decided to return.
+[**StillFreeDeezerARL**](https://www.reddit.com/r/stillfreedeezerarl/) - They share Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>).
 
 [**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX. 
 
@@ -97,5 +94,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 [**hey-bro-check-log**](https://github.com/doujincafe/hbcl) - A CLI log checker maintained by Doujin Café Discord. Forked from the official [hbcl](https://github.com/ligh7s/hey-bro-check-log) repository. 
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
+
+[**Deezer ARL Checker**](https://dz.doubledouble.top/) - Deezer ARL checker, useful for verifying ARLs.
 
 [**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.

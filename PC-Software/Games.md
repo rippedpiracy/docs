@@ -35,18 +35,9 @@ One of the most well known and reputable Repacker out there, very active and pro
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
 *<small>They also have a forum [here](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
 
-**[ScOOt3r](https://scooter-repacks.site/) (DDL)**
-
-A new and emerging group of Repackers, updates on their Releases may be quicker than other Repackers. Have Torrent links on some of their releases albeit very low seeders
-
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
 Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers. They upload on 1337x too.
-
-**[XATAB](https://xatab-repack.com) (Torrent)**
-
-One of the oldest and most respected Repacker that passed away recently. His site is currently being used by different Repackers but his old Releases can still be found there.  
-**R.I.P 196X - 2021.**
 
 ## General DDL
 
@@ -58,10 +49,10 @@ A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG
 
 Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 
-**[GOG Games](https://gog-games.com) (DDL)**
+**[GOG Games](https://gog-games.to) (DDL)**
 
-Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-265 key from GOG.  
-*<small>Downlading from "cdn.gog-games.com" requires a donation, use the other options.</small>*
+Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-256 key from GOG.  
+*<small>This site is also accessible through the [Tor Browser](https://www.torproject.org/) through [here](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion).</small>*
 
 **[Scene CrackHub](https://scene.crackhub.site) (DDL)**
 
@@ -85,7 +76,7 @@ Arguably the best site for Game Piracy. It's a well moderated Forum with active 
 **[Torrminatorr](https://forum.torrminatorr.com) (DDL)**
 
 Another well moderated Forum with active Uploaders and discussions that allow Scene Uploads (contrary of CS.RIN.RU), GOG Rips, Retro Games and even Linux Games.  
-**_Currently Offline, Requires Sign-up_**.
+**_Requires Sign-up_**.
 
 ## Other
 
@@ -96,7 +87,7 @@ Provides Online-Fixes (Multiplayer) for many Games available, the more complex f
 **_Requires Sign-up_**.  
 *<small>Downlading from "Online-Fix Drive" requires a donation, use the other options. Always use burner Accounts for playing Games asking for an Account, such as Microsoft Games asking for a Microsoft Account.</small>*
 
-**[My Abandonware](https://myabandonware.com) (DDL)**
+**[My Abandonware](https://www.myabandonware.com) (DDL)**
 
 Offers Downloads for old titles and hard to find Abandonware Games, including everything they came with.
 
@@ -140,6 +131,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**Radmin VPN**](https://www.radmin-vpn.com/) | [**Hamachi**](https://www.vpn.net/) | [**ZeroTier**](https://www.zerotier.com/) - LAN Emulators, Useful when playing a LAN supported game with a friend that is not in your local area. ZeroTier can be difficult to setup.
 
+[**Moonlight**](https://moonlight-stream.org/) - Self-host your Games and stream them to play on a plethora of devices ranging from iOS devices to consoles such as Wii U and Vita.  
 [**Nucleus Co-op**](https://github.com/SplitScreen-Me/splitscreenme-nucleus) - Play your Games co-op on single computer split-screen that don't normally support it.  
 *<small>Part of the [SplitScreen.Me](https://www.splitscreen.me/) organisation, which has instructions on installing the app itself and individual guides for setting it up for all games listed [here](https://hub.splitscreen.me/).</small>*  
 [**Parsec**](https://parsec.app/) - Remote desktop application that works for playing Games together on single computer.
@@ -164,11 +156,12 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 **Most links here require sign-up on [CS.RIN.RU](https://cs.rin.ru/forum).**  
 <small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic on [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs. Note that rarely, DLC files will come preinstalled with the base Game.</small>
 
-[**Koalageddon**](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
+[**Koalageddon**](https://github.com/acidicoala/Koalageddon) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=110860) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Koalageddon v2](https://github.com/acidicoala/Koalageddon2) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?p=2758149#p2758149) - A second iteration of the project, some changes include completely dropping EA/Origin Support, being more reliable with hooking. But it's still in early development and currently only supports Steam, expect bugs.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.  
 [**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker/[Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395) which unlock DLCs in their respective platforms. 
 
-[**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) & [**StellarKey**](https://cs.rin.ru/forum/viewtopic.php?t=120717) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly. StellarKey is for <span style="color:red">**Linux**</span> only.  
+[**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) & [**StellarKey**](https://cs.rin.ru/forum/viewtopic.php?t=120717) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly, it also supports unlocking Steam inventory items. StellarKey is for <span style="color:red">**Linux**</span> only.  
 *<small>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg). StellarKey may not work well with non-native Linux Games played through Proton.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[creamapi-db](https://creamapidb.publicvm.com/) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=110860) - A database site that generates CreamAPI configuration files quickly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Auto-CreamAPI 2](https://cs.rin.ru/forum/viewtopic.php?t=102173) - A tool that makes it quicker to setup CreamAPI by automating some processes.  
@@ -187,7 +180,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?t=91948) - An easy to use SSE launcher.  
 [**ALI213**](https://cs.rin.ru/forum/search.php?sk=t&sr=posts&keywords=+ALI213+SteamEmu&author_id=452292) & [**ACTIVATED**](https://cs.rin.ru/forum/viewtopic.php?p=2558360#p2558360) - ALI213 is an easy to use Steam Emulator which generally works better for VR titles compared to Goldberg and SSE, and has support for bypassing SteamStub DRM too (may not always work). ACTIVATED on the other hand is a Steam Emulator for <span style="color:red">**Mac**</span>.  
-*<small>You can also use this small handful [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213. You can generate Steam Interfaces for ACTIVATED using [this tool](https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/blob/master/Readme_generate_interfaces.txt) from the Goldberg Emu, but all in all ACTIVATED is not recommended due to its difficulty to set up.</small>*  
+*<small>You can also use this small handy [guide](https://cs.rin.ru/forum/viewtopic.php?p=1842767#p1842767) on setting up ALI213. You can generate Steam Interfaces for ACTIVATED using [this tool](https://gitlab.com/Mr_Goldberg/goldberg_emulator/-/blob/master/Readme_generate_interfaces.txt) from the Goldberg Emu, but all in all ACTIVATED is not recommended due to its difficulty to set up.</small>*  
 [**Steamless**](https://cs.rin.ru/forum/viewtopic.php?t=88528) - A GUI SteamStub DRM Remover, required if the game has SteamStub DRM.  
 
 [**GreenLuma 2023**](https://cs.rin.ru/forum/viewtopic.php?t=103709) - A tool that can bypass the basic Steam DRM, unlock DLCs for legitimately owned Steam Games, bypass Steam region locks, bypass Family Sharing restrictions, unlock Steam achievements for unowned Games, use Steam Cloud for Game saves and more. Here's a slightly edited and outdated [FAQ](https://privatebin.rinuploads.org/?7de767d3a4aa0f3d#HDAH1mLZJBQEMPKLf3mbo9b2QgyLLs296spAFSBFTEYo) if you've got questions.  
@@ -200,14 +193,16 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Origin Helper](https://anadius.hermietkreeft.site/origin-helper) - UserScript that adds some features to the EA/Origin website to help with setting up the Origin Emulator. Apart from allowing generating Denuvo tokens (so you can share it with other people &#129323;), it allows generating a pre-configured Origin Emulator config and more.  
 *<small>This UserScript is equivalent to origin_helper_tools.html found in Origin Emulator.</small>*
 
+[**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?t=67197) - Emulator for Ubisoft Connect (UPlay), emulates the API so you can run legitimately owned Games without the need for the client. Only works for Games released before October 2020 (that have the uplay_r1\*.dll file).
+
 [**Nemirtingas Epic Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=105551) - An Emulator which can bypass Epic Online Services for Games on Epic and provide support for Achievements and more.  
 *<small>Since the original Repository has been deleted, you can have a look at the example config files [here](https://github.com/Helmasko/nemirtingas_epic_emu/tree/main/examples).</small>*
 
 [**Nemirtingas Galaxy Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=114295) - Emulator for the GoG Galaxy Launcher, allows LAN play on GoG games that require authentication.  
-*<small>Since the original Repository has been deleted, you can download the latest public version from [here](https://cs.rin.ru/forum/viewtopic.php?p=2712110#p2712110) and can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
+*<small>You can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
 
-[**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
-[**WorkshopDL**](https://sites.google.com/view/workshopdl/home) - [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/) you can download the mods for free using the app! 
+[**WorkshopDL**](https://github.com/VovoloGames/WorkshopDL) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/), in SteamWebAPI, in [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games) or in [GGNetwork](https://ggntw.com/steam) you can download the mods for free using the app!  
+[**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
@@ -244,7 +239,7 @@ Some common redistributables are:</small>
 [**AppleGamingWiki**](https://www.applegamingwiki.com/wiki/Home) - Fixes and compatibility information for Games on M1 Apple silicon Macs. Games are tested on Rosetta 2, iOS/iPadOS, [Crossover](https://www.applegamingwiki.com/wiki/CrossOver) and [Parallels](https://www.applegamingwiki.com/wiki/Parallels).
 
 [**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amounts of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB - Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
 [**Augmented Steam**](https://augmentedsteam.com/) - Great Browser extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
 *<small>If you decide to use Augmented Steam and the SteamDB extension simultaneously, make sure to configure them accordingly since some of the features may interfere.</small>*
 
@@ -253,11 +248,12 @@ Some common redistributables are:</small>
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
 
+[**Skymods**](https://catalogue.smods.ru/) - Community driven Steam Workshop library. Use an Anti-Virus to scan the files you download.  
 [**GGNETWORK**](https://ggntw.com/steam) - Online Steam Workshop Downloader, has support for many Games. Only ever use this site to download Workshop mods, and not Games.  
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
 [**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
 
-[**r/ModPiracy 4**](https://modpiracy4.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games. It's recommended that you use an Anti-Malware scanner on the files you download.  
+[**r/ModPiracy V5**](https://modpiracyv5.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games. It's recommended that you use an Anti-Malware scanner on the files you download.  
 *<small>Don't use ModPiracyX as it's malware.</small>*
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
@@ -275,6 +271,10 @@ Some common redistributables are:</small>
 > &nbsp;
 
 > <span style="color:orange">**Repacks:**</span> Highly Compressed Games that usually include all released DLCs, language packs, are Pre-Cracked and require minimal Piracy knowledge. Good for beginners and people that have limited Internet bandwidth.
+
+> &nbsp;
+
+> <span style="color:orange">**Scene:**</span> The Warez Scene, mostly referred to as The Scene, is an underground community of people that specialize in the distribution of copyrighted material. They are an extremely private collection of groups. But most of their Releases get leaked to the public. Check our [Scene Glossary](https://ripped.guide/Scene/Scene-Glossary/) for other Scene definitions.
 
 > &nbsp;
 

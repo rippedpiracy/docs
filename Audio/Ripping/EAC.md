@@ -222,3 +222,5 @@ So you're done! You may wish to use a logchecker to check and make sure your rip
 Note: if any of the tracks do not get ripped accurately (or if you get read errors / sync errors), you can try to clean/repair the disc and re-rip those failed tracks again. In this case, EAC will append the *existing* log file, so you do not have to re-do the entire album every time!  
 
 Other than that, it never hurts to make sure your files are tagged and named properly (though they should be). Any extra stuff you want to include should be added now as well... Additional artwork, an md5 fingerprint, an info.txt file, that sort of thing.
+
+<small>Credits: https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg by **Sharky**</small>

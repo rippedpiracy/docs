@@ -38,8 +38,6 @@ Quality can vary from one Release to another, ALWAYS check filesizes and Torrent
 **[RARBG](https://rarbg.to) (Torrent)** - Organized Tracker with their own release group, usually has very High Quality Releases.  
 *<small>Tip: Search by IMDb tags.</small>*
 
-**[Zooqle](https://zooqle.com/) (Torrent)** - TV Shows & Movie Torrents, each with a list which has different Quality Releases.
-
 # IRC
 
 <small>No Middle-Man between you, and Downloading the Content from the IRC bots. <b>Requires an [IRC](https://wikipedia.org/wiki/Internet_Relay_Chat) Client such as [HexChat](https://hexchat.github.io/).</b></small>

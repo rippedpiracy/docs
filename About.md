@@ -4,7 +4,10 @@ description: About this site.
 ---
 ## Transparency
 
-The Ripped Guide stores no cookies on one's browser, doesn't use IndexedDB and only stores one value (the theme switch) in Local Storage.
+The Ripped Guide stores **0 Cookies** in your Browser, doesn't use **IndexedDB** and only uses a <kbd>dark</kbd> or <kbd>light</kbd> value in **Local Storage** for the Theme.  
+
+The Ripped Guide uses [**self-hosted Plausible Analytics**](https://plausible.io/self-hosted-web-analytics) to measure site activity.  
+<small>This does __not__ log any personal information apart from Country of the request, Resolution, User-Agent and Referrer.</small>
 
 ## Contributing
 

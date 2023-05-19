@@ -111,7 +111,7 @@ description: Tools and Apps to make your life easier.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
-[**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images. 
+[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab) | [**Frog (<span style="color:red">Linux</span>)**](https://getfrog.app/) - Use OCR to grab and read text from images or unselectable text. 
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
@@ -170,9 +170,11 @@ description: Tools and Apps to make your life easier.
 
 [**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
 
+
 [**Are We Anti-Cheat Yet?**](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
 
-[**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread. **No longer maintained.**  
+[**r/Piracy**](https://www.reddit.com/r/Piracy/wiki/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
+
 [**r/FREEMEDIAHECKYEAH**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/) - A Wiki by the FMHY community, they also have a [guides](https://fmhy.tk/guides) section.  
 [**WebOasis**](https://weboasis.app/) - An index of plenty of useful sites and apps, also has a forum [here](https://chat.weboasis.app/home). **R.I.P Webby.**  
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**

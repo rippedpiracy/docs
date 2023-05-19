@@ -5,7 +5,7 @@ description: Scene Release Databases.
 
 ## Wait, what is a PreDB?
 
-As listed in the [**Scene Glossary**](https://ripped.guide/Scene/scene-glossary/),
+As listed in the [**Scene Glossary**](/Scene-Glossary),
 
 > A database with all release titles. These release titles are not for download, they are just records.
 
@@ -18,7 +18,6 @@ As listed in the [**Scene Glossary**](https://ripped.guide/Scene/scene-glossary/
 - **[PreDB.live](https://predb.live/)**
 - **[PreDB.org](https://www.predb.org/)**  
 - **[PreDB.de](https://predb.de/)**  
-- <del>**[PreDB.ovh](https://predb.ovh/)**</del> ***Currently Offline***
 - **[PreDB.me](https://predb.me/)**   
 - **[Pre.Corrupt-net](https://pre.corrupt-net.org/)**
 &nbsp;  
