@@ -7,7 +7,7 @@ You can help via contributing on [**GitHub**](https://github.com/rippedpiracy/do
 
 <h2>Guides</h2>
 
-[**ConsoleMods**](https://consolemods.org/) - Community driven Wiki dedicated for modding. However it doesn't include guides for latest gen Consoles.
+[**ConsoleMods**](https://consolemods.org/) - Community driven Wiki dedicated for modding. However, it doesn't include guides for the latest Consoles.
 
 ### Nintendo
 
@@ -27,7 +27,7 @@ You can help via contributing on [**GitHub**](https://github.com/rippedpiracy/do
 
 ### Communities
 
-**[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.
+**[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.  
 **[r/WiiHacks/](https://www.reddit.com/r/WiiHacks/)** - Reddit Community for Hacking the Nintendo Wii.  
 **[r/VitaHacks/](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.  
 **[r/PS3Homebrew/](https://www.reddit.com/r/ps3homebrew/)** - News, updates, apps, and answers regarding PS3 Homebrew.  
