@@ -2,7 +2,8 @@
 title: Homebrew
 description: Guides for Homebrewing various Consoles.
 ---
-<h1 style="text-color: red;">THIS IS A WORK IN PROGRESS!</h1>
+<h1 style="color: red; font-size: 30px">THIS IS A WORK IN PROGRESS!</h1>  
+You can help via contributing on [**GitHub**](https://github.com/rippedpiracy/docs/pull/69).  
 
 <h2>Guides</h2>
 
