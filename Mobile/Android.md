@@ -41,8 +41,9 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 ## Mods
 [**ReVanced**](https://github.com/revanced/revanced-manager) - Android App patcher that provides patches to popular apps such as YouTube, Twitter and Reddit.
 
-[**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord(Kotlin) client mod for Android.  
-*<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21). There is a mod for the newer versions called [Vendetta](https://github.com/vendetta-mod).</small>*
+[**Vendetta**](https://github.com/Aliucord/Aliucord) - Cross-platform plugin-based Discord (React Native - above version 126.21) client mod.
+[**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.
+*<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21)</small>*
 
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.  
