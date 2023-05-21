@@ -52,6 +52,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 ## Mods
 [**ReVanced**](https://github.com/revanced/revanced-manager) - Android App patcher that provides patches to popular apps such as YouTube, Twitter and Reddit.
+*<small>Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced according to the community is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG), but it may be replaced in the future.</small>*
 
 [**Vendetta**](https://github.com/Aliucord/Aliucord) - Cross-platform plugin-based Discord (React Native - above version 126.21) client mod.
 [**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.
