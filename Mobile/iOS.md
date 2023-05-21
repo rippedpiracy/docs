@@ -3,9 +3,9 @@ title: iOS
 description: List of useful iOS mobile apps.
 ---
 
-## AltStore
-<small>TO-DO: get a better name for this section.</small>
-[**AltStore**](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. Requires a weekly access to an computer
+## Stores
+[**AltStore**](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. Requires a computer that is avaiable weekly due to the expiration limit.
+[**TrollStore**](https://github.com/opa334/TrollStore) - Permasigned jailed app that can permanently install any IPA you open in it.
 
 ## Mods
 [**Vendetta**](https://github.com/Aliucord/Aliucord) - Cross-platform plugin-based Discord client mod.
