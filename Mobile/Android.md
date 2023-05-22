@@ -2,6 +2,15 @@
 title: Android 
 description: List of useful Android mobile apps.
 ---
+
+## Application stores
+[**APKMirror**](https://www.apkmirror.com/) - Trusted APK downloading website.
+
+[**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) - Open-source alternative to Google Play Store focused on providing privacy and modern design.
+
+[**F-Droid**](https://f-droid.org/) - Decentralized store for downloading applications.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Neo Store**](https://github.com/NeoApplications/Neo-Store)  | [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) - Alternative stores to the official application with Material You design
+
 ## Browsers
 [**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Nightly and Stable versions of Firefox.  
 Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) to add more extensions to Firefox Nightly.
@@ -23,6 +32,9 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 [**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
 
+[**SD Maid SE**](https://github.com/d4rken-org/sdmaid-se) - Powerful file management tool for Android that specialises in freeing up space and removing unwanted data.
+*<small>Note: SD Maid SE isn't feature complete as it is an in-progress reimagination of [SD Maid](https://github.com/d4rken-org/sdmaid) to work better with newer phones.</small>*
+
 ## Video/Music
 [**xManager**](https://xmanagerapp.com/) - Manage and install all versions of the Spotify app, unlocking features such as Ad-block and skipping tracks.
 
@@ -40,9 +52,11 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 ## Mods
 [**ReVanced**](https://github.com/revanced/revanced-manager) - Android App patcher that provides patches to popular apps such as YouTube, Twitter and Reddit.
+*<small>Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced according to the community is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG), but it may be replaced in the future.</small>*
 
-[**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord(Kotlin) client mod for Android.  
-*<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21). There is a mod for the newer versions called [Vendetta](https://github.com/vendetta-mod).</small>*
+[**Vendetta**](https://github.com/Aliucord/Aliucord) - Cross-platform plugin-based Discord (React Native - above version 126.21) client mod.
+[**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.
+*<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21)</small>*
 
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.  
