@@ -32,7 +32,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 [**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
 
-[**SD Maid SE**](https://github.com/d4rken-org/sdmaid-se) - Powerful file management tool for Android that specialises in freeing up space and removing unwanted data.
+[**SD Maid SE**](https://github.com/d4rken-org/sdmaid-se) - Powerful file management tool for Android that specialises in freeing up space and removing unwanted data.  
 *<small>Note: SD Maid SE isn't feature complete as it is an in-progress reimagination of [SD Maid](https://github.com/d4rken-org/sdmaid) to work better with newer phones.</small>*
 
 ## Video/Music
