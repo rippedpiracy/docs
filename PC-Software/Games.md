@@ -15,10 +15,6 @@ A very popular Torrenting site which has an incredible amount of content, but al
 **<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u></span>  
 Remember to <u>NEVER</u> get Software Releases from this site.**
 
-**[RARBG](https://rarbg.to) (Torrent)**
-
-A very safe site to get Games from, mostly Scene Releases which they have Auto Uploading Bots for. If you use a VPN get ready to solve CAPTCHAs.  
-
 **[RuTor](http://rutor.info) (Torrent)**
 
 An old Russian tracker that has plenty of content but with generally less seeders. Some Repackers upload exclusively here.  
