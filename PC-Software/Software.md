@@ -42,7 +42,7 @@ Like AudioZ, Team V.R is more focused on Audio and Video Production, Cracking So
 
 **[G-MEH](https://g-meh.com/)**
 
-Like Audioz, G-MEH has Plugins and VSTs, but also includes a couple of DAWs. _Requires Sign-up for samples_.
+Like AudioZ, G-MEH has Plugins and VSTs, but also includes a couple of DAWs. _Requires Sign-up for samples_.
 
 **[repack.me](https://repack.me)**
 
