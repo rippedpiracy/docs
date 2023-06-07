@@ -59,6 +59,10 @@ An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Swi
 
 Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various hosts. They also take requests.
 
+**[SteamRip](https://steamrip.com) (DDL)**
+
+A site that provides links to pre-installed Steam games which are checked by the community.
+
 ## Forums
 
 **[CS.RIN.RU](https://cs.rin.ru/forum) (DDL)**
@@ -207,7 +211,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 *<small>To find the Depot IDs of various Depots, you can visit <https://steamdb.info/>, go on the page of the game and select "Depots" on the sidebar. There, you'll find the Depot IDs of various packages you can download.</small>*
 
 [**Steam Achievement Manager (SAM)**](https://github.com/gibbed/SteamAchievementManager) - A Steam achievements manager where you can add/delete achievements to any game you want.  
-**Using this tool might put your Steam account at risk.**  
+> **Using this tool might put your Steam account at risk.**  
 
 <small>Check out the [Release Board](https://cs.rin.ru/forum/viewforum.php?f=29) of CS.RIN.RU and the [RIN SteamInternals](https://cs.rin.ru/forum/viewtopic.php?t=65887) for more useful Game Piracy Tools.</small>
 
