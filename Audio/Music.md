@@ -6,7 +6,7 @@ description: List of sources for getting all genres of Music.
 
 [**Free MP3 Download**](https://free-mp3-download.net/) - Fetches tracks from Deezer, letting you download them in the highest quality without needing a subscription. 
 
-[**DoubleDouble**](https://doubledouble.top/) - Music Downloader for Spotify, Soundcloud, Qobuz, Deezer, Tidal, and YouTube Music. Downloads for Spotify will be auto transcoded to MP3.
+[**DoubleDouble**](https://doubledouble.top/) - Music Downloader for Spotify, Soundcloud, Qobuz, Deezer, Tidal, and YouTube Music.  
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
@@ -35,7 +35,7 @@ description: List of sources for getting all genres of Music.
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple music playlists through Qobuz.   
 **_Requires a paid Qobuz account._**  
 
-[**Tidal-Media-Downloader**](https://github.com/yaronzz/Tidal-Media-Downloader) - Tidal downloader in CLI. General [guide](https://yaronzz.com/post/tidal_dl_installation/) for installation (guide for Tidal-gui is outdated).  
+[**Tidal-Media-Downloader**](https://github.com/yaronzz/Tidal-Media-Downloader) - Tidal downloader in CLI. General [guide](https://doc.yaronzz.com/post/tidal_dl_installation/) for installation (guide for Tidal-gui may be outdated).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - GUI version.  
 **_Both require a paid Tidal account._**  
 
@@ -58,6 +58,7 @@ description: List of sources for getting all genres of Music.
 [**spotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata fetched from YouTube.  
 *<small>This tool does not download songs directly from Spotify.</small>*
 
+**[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - Video, audio & banner adblock/skip for Spotify.  
 **[SpotX](https://github.com/orgs/SpotX-CLI/repositories)** - Block video, audio and banner ads on Spotify, also unlocks some Premium and Experimental features.
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
@@ -83,6 +84,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 # Misc
 
+**[Firehawk52 Guide](https://rentry.org/firehawk52)** - A Mega-Guide for tools and ARLs to rip music from popular streaming services. 
 [**THE MEGA MUSIC RIPPING GUIDE**](https://ori5000.github.io/musicripping.html) - A music ripping guide for various platforms by Esoteria Avenue.
 
 [**StillFreeDeezerARL**](https://www.reddit.com/r/stillfreedeezerarl/) - They share Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>).
