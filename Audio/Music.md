@@ -84,7 +84,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 
 # Misc
 
-**[Firehawk52 Guide](https://rentry.org/firehawk52)** - A Mega-Guide for tools and ARLs to rip music from popular streaming services. 
+**[Firehawk52 Guide](https://rentry.org/firehawk52)** - A Mega-Guide for tools and ARLs to rip music from popular streaming services.  
 [**THE MEGA MUSIC RIPPING GUIDE**](https://ori5000.github.io/musicripping.html) - A music ripping guide for various platforms by Esoteria Avenue.
 
 [**StillFreeDeezerARL**](https://www.reddit.com/r/stillfreedeezerarl/) - They share Deezer ARLs (used for ripping music with <a target="_self" href="#tools">Ripping Tools</a>).
