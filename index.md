@@ -30,4 +30,7 @@ no_show_footer: true
 
 <center>Feel free to check the <a target="_self" href="/About">About</a> section if you wish to help out by contributing.</center>  
 
-<center>*Click on the categories in the sidebar to start browsing.*</center>
+<center>*Click on the categories in the sidebar to start browsing.*</center>  
+
+<center style="color: pink">
+**The pink page you might have saw was a result of domain hijacking performed by a staff member of ours. This issue couldn't have been solved without the help and dedication of our community. __Thank you all.__**</center>
