@@ -10,8 +10,8 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**SFlix**](https://sflix.to/home) - Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup addons in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
-[**SoapGate**](https://soapgate.org/) - Page where you can choose which mirror of Soap2Day to use.  
-Soap2Day offers Streaming Content, while trying to minimize the amount of Porn Ads & Pop-ups that might slip through.
+
+
 
 [**rinzry**](https://rinzry.stream/) - Huge Index with many Movies & TV Shows, using Google Drive.  
 In the Streaming section as you can Stream the Content you want to Download.
