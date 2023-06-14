@@ -32,5 +32,7 @@ no_show_footer: true
 
 <center>*Click on the categories in the sidebar to start browsing.*</center>  
 
-<center style="color: pink">
-**The pink page you might have saw was a result of domain hijacking performed by a staff member of ours. This issue couldn't have been solved without the help and dedication of our community. __Thank you all.__**</center>
+<center style="color: #AD72BD; font-size: 20px">
+**The pink page you might have saw was a result of domain hijacking performed by a staff member of ours.  
+This issue couldn't have been solved without the help and dedication of our community.  
+__Thank you all.__**</center>
