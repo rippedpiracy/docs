@@ -59,9 +59,12 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 <sub>credits: [https://wiki.installgentoo.com/index.php/Private_trackers](https://wiki.installgentoo.com/index.php/Private_trackers)</sub>
 
-# External Links
-[**Private Tracker List**](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - A helpful list that has updated stats of most of the Private Trackers.  
+# Resources
+
 [**r/Trackers Wiki**](https://www.reddit.com/r/trackers/wiki/index/) - Has some helpful guides for people new to Private Trackers, including guides on how to get in them.  
-[**InviteRoute**](https://inviteroute.github.io/sheet/) - Shows which Private Trackers you can enter from a list of Private Trackers.  
-[**r/OpenSignups**](https://OpenSignups.reddit.com/) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones.  
 [**Private Trackers Guide**](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers/) - Some info about Private Trackers by r/Piracy.
+[**Private Tracker List**](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - A helpful list that has updated stats of most of the Private Trackers.  
+[**InviteRoute**](https://inviteroute.github.io/sheet/) - Shows which Private Trackers you can enter from which other ones.  
+[**r/OpenSignups**](https://OpenSignups.reddit.com/) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones. 
+
+<small>[Here](https://pastebin.pl/view/raw/f19e4e48) is a list of the homes of various Internal Groups in Private Trackers.</smal>
