@@ -197,7 +197,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 [**Nemirtingas Galaxy Emulator**](https://cs.rin.ru/forum/viewtopic.php?t=114295) - Emulator for the GoG Galaxy Launcher, allows LAN play on GoG games that require authentication.  
 *<small>You can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
 
-[**WorkshopDL**](https://github.com/VovoloGames/WorkshopDL) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/), in SteamWebAPI, in [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games) or in [GGNetwork](https://ggntw.com/steam) you can download the mods for free using the app!  
+[**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/), in SteamWebAPI, in [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games) or in [GGNetwork](https://ggntw.com/steam) you can download the mods for free using the app!  
 [**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
@@ -249,8 +249,7 @@ Some common redistributables are:</small>
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
 [**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
 
-[**r/ModPiracy V5**](https://modpiracyv5.reddit.com/) - A SubReddit for Requesting and Sharing Mods for Games. It's recommended that you use an Anti-Malware scanner on the files you download.  
-*<small>Don't use ModPiracyX as it's malware.</small>*
+[**Kemono**](https://kemono.party/) - They host leaks of Patreon creators (among other platforms), useful if a Mod is locked behind Patreon. NSFW Warning.
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
