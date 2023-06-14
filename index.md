@@ -33,7 +33,7 @@ no_show_footer: true
 <center>*Click on the categories in the sidebar to start browsing.*</center>  
 
 <center style="color: #AD72BD; font-size: 20px">
-**The purple page you might have seen was a result of domain hijacking performed by a prior staff member of ours.  
+**The purple page you might have seen was a result of domain hijacking performed by a prior staff member.
 The accusations written in the hijack are utterly __false__ and have been disproved with concrete evidence, available on our Discord server.  
-This issue couldn't have been solved without the help and dedication of our community.  
+This issue couldn't have been resolved without the help and dedication of our community.  
 __Thank you all.__**</center>
