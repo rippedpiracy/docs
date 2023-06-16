@@ -204,6 +204,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 
 [**Tulip Steam Game Packer**](https://cs.rin.ru/forum/viewtopic.php?t=114211) - CLI Steam Games Downloader, has wide range of features such as: automatically archiving, downloading platform specific (Windows, Mac, Linux) content, option to pick different branches and more.  
 [**DepotDownloader**](https://github.com/SteamRE/DepotDownloader) - CLI Steam Depot Downloader, can individually download DLCs and other Depots of Games (if the DLCs have their own Depots) that you own.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDepotDownloaderGUI](https://github.com/SteamRE/DepotDownloader/) - GUI version.  
 *<small>To find the Depot IDs of various Depots, you can visit <https://steamdb.info/>, go on the page of the game and select "Depots" on the sidebar. There, you'll find the Depot IDs of various packages you can download.</small>*
 
 [**Steam Achievement Manager (SAM)**](https://github.com/gibbed/SteamAchievementManager) - A Steam achievements manager where you can add/delete achievements to any game you want.  
