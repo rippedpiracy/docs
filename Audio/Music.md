@@ -58,9 +58,8 @@ description: List of sources for getting all genres of Music.
 [**spotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata fetched from YouTube.  
 *<small>This tool does not download songs directly from Spotify.</small>*
 
-**[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - Video, audio & banner adblock/skip for Spotify.  
-**[SpotX](https://github.com/orgs/SpotX-CLI/repositories)** - Block video, audio and banner ads on Spotify, also unlocks some Premium and Experimental features.  
-*<small>[SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) has ceased updating and now recommends using [BlockTheSpot](https://github.com/mrpond/BlockTheSpot). The Linux and Mac versions are still available.</small>*
+**[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - Video, audio & banner adblock/skip for Spotify. Recommended choice for Windows.  
+**[SpotX](https://github.com/orgs/SpotX-CLI/repositories)** - Block video, audio and banner ads on Spotify, also unlocks some Premium and Experimental features. Recommended choice for Linux/Mac.  
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*
