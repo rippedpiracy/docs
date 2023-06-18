@@ -255,7 +255,6 @@ Some common redistributables are:</small>
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
 [**VRP Wiki**](https://wiki.vrpirates.club/) - A Wiki for VR Piracy by VRP. Don't use this site for PCVR titles, use [CS.RIN.RU](https://cs.rin.ru/forum) or other sites instead.  
-[**r/128bitbay**](https://www.reddit.com/r/128bitbay/) - SubReddit for Switch Emulation Piracy and Support.  
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
 *<small>You can also ask for Piracy Support on our [Discord Server](https://discord.ripped.guide)</small>*
 
