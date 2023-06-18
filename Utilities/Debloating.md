@@ -8,8 +8,8 @@ description: Make your OS lighter, faster and more secure.
 **[TronScript](https://bmrf.org/repos/tron/)** - Most efficient and quick way to clean, De-bloat, optimize and disinfect your PC, recommended.  
 **_BE SURE TO READ THE INSTRUCTIONS!_**
 
-**[AtlasOS](https://atlasos.net)** - A modified Windows ISO to make your PC as snappy as possible for Gaming and Performance. \
-**[ReviOS](https://revi.cc)** - A modified Windows ISO which removes bloat but doesn't strip as much to retain compatibility. \
+**[AtlasOS](https://atlasos.net)** - A modification of Windows designed to maximize your system's performance and optimize latency.  
+**[ReviOS](https://revi.cc)** - A modified Windows ISO with improved performance, stability, and compatibility.  
 **Full Re-install required.**
 
 **[privacy.sexy](https://privacy.sexy/)** - Easily create a custom Debloating script made for your specific needs.
@@ -24,7 +24,7 @@ description: Make your OS lighter, faster and more secure.
 
 **[Fix-Windows-Privacy](https://modzero.github.io/fix-windows-privacy/)** - Deletes Telemetry Registry keys that may have been skipped by other Utilities.
 
-**[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** - Tools to customize your Windows ISO.
+**[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** | **[AME Wizard](https://ameliorated.io/)** - Tools to customize your Windows ISO.
  
 # Honorable Mentions 
 
@@ -37,7 +37,8 @@ For **Sigma Wiper** to work, you need to install the [**.NET 5.0 Desktop Runtime
 
 [**BleachBit**](https://github.com/bleachbit/bleachbit) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
 
-[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
+[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.  
+[**InstallWindowsWithoutUSB**](https://github.com/iidanL/InstallWindowsWithoutUSB) - A batch script to install Windows to a partition without a USB stick.
 
 <sub>*Disable [**hibernation**](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) to free as much space as your amount of RAM.*</sub>
 
