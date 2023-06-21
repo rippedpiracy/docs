@@ -5,7 +5,7 @@ description: Guides for Homebrewing various Consoles.
 
 <h2>Guides</h2>
 
-[**ConsoleMods**](https://consolemods.org/) - Community-driven Wiki dedicated for mMdding. However, it doesn't include guides for the latest Consoles.
+[**ConsoleMods**](https://consolemods.org/) - Community-driven Wiki dedicated for Modding. However, it doesn't include guides for the latest Consoles.
 
 ### Nintendo
 
@@ -13,12 +13,14 @@ description: Guides for Homebrewing various Consoles.
 
 [**Wii U Guide**](https://wiiu.hacks.guide/) - Guide made by the Hacks.guide team to Homebrew the Wii U.
 
-[**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.
+[**3DS Guide**](https://3ds.hacks.guide/) A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
 
+[**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.  
 [**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, a tool which oversimplifies the process.
 
 ### Sony
 
+[**Vita Guide**](https://vita.hacks.guide/) - Guide to Homebrew the PS Vita made by the Hacks.Guide team.  
 [**VitaDB**](https://vitadb.rinnegatamante.it/#/) - Place to download many Vita Games that were ported from other Consoles/PC to Vita.
 
 ### Steam Deck
@@ -37,7 +39,7 @@ description: Guides for Homebrewing various Consoles.
 **[r/PS3Homebrew/](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew/](https://www.reddit.com/r/ps5homebrew/)** | **[r/PS5Homebrew/](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
 **[r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/)** - Subreddit for discussing Xbox One/Series Retail Mode Homebrew! From RetroArch to DurangoFTP.  
 **[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.  
-**[r/XboxModding](https://www.reddit.com/r/XboxModding/)** - Dedicated community to modding any and all Xbox consoles.  
+**[r/XboxModding](https://www.reddit.com/r/XboxModding/)** - Dedicated community for Modding any and all Xbox consoles.  
 **[r/360hacks](https://www.reddit.com/r/360hacks/)** - Anything related to Xbox 360 Hacks, Mods, Homebrew, or Scene news.  
 
 ## Loading Games
