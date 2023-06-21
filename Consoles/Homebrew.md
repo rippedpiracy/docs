@@ -18,10 +18,16 @@ description: Guides for Homebrewing various Consoles.
 [**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, a tool which oversimplifies the process.
 
 ### Sony
+
 [**VitaDB**](https://vitadb.rinnegatamante.it/#/) - Place to download many Vita Games that were ported from other Consoles/PC to Vita.
 
 ### Steam Deck
-[**r/LinuxCrackSupport Wiki**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index/steamdeck/) - A very comprehensive guide for the Steam Deck.
+
+[**r/LinuxCrackSupport Wiki**](https://gitlab.com/dataprolet/linux-crack-tips/-/wikis/Home/Steamdeck) - A very comprehensive guide for the Steam Deck.  
+[**Decky Loader**](https://decky.xyz/) - Allows homebrew and installation of plugins onto the Steam Deck.  
+*<small>You can browse the plugins [here](https://plugins.deckbrew.xyz/).</small>*  
+[**CryoUtilities**](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.  
+[**EmuDeck**](https://www.emudeck.com/) - The all-in-one emulation manager on the Steam Deck.  
 
 ### Community
 
