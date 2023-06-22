@@ -8,11 +8,12 @@ description: List of useful Android mobile apps.
 
 [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) - Open-source alternative to Google Play Store focused on providing privacy and modern design.
 
-[**F-Droid**](https://f-droid.org/) - Decentralized store for downloading applications.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Neo Store](https://github.com/NeoApplications/Neo-Store)  | [Droid-ify](https://github.com/Iamlooker/Droid-ify) - Alternative stores to the official application with Material You design
+[**F-Droid**](https://f-droid.org/) - Decentralized store for downloading applications.
+
+[**Neo Store**](https://github.com/NeoApplications/Neo-Store) | [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) - Alternative stores to the F-Droid application with a Material You design.
 
 ## Browsers
-[**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Nightly and Stable versions of Firefox.  
+[**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Nightly and Stable versions of Firefox.
 Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) to add more extensions to Firefox Nightly.
 
 [**IceRaven**](https://github.com/fork-maintainers/iceraven-browser#iceraven-browser--) - Fork of Firefox which provides additional features, removes Mozilla Telemetry and adds more extensions to the current list, allowing you to make your own too.
@@ -47,7 +48,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**MPV-Android**](https://github.com/mpv-android/mpv-android) - A free media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
 
 ## Torrenting
-[**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) - Open Source Torrent client for Android.  
+[**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) - Open Source Torrent client for Android.
 [**LunaSea**](https://www.lunasea.app/) - Usenet/Torrent manager. Useful for those who utilize seedboxes.
 
 ## Mods
@@ -55,10 +56,12 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 *<small>Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced according to the community is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG), but it may be replaced in the future.</small>*
 
 [**Vendetta**](https://github.com/vendetta-mod/Vendetta) - Cross-platform plugin-based Discord (React Native - above version 126.21) client mod.  
+
 [**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.
 *<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21)</small>*
 
 ## Miscellaneous
-[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.  
+[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.
 *<small>This app isn't open source so giving it root access to use some of it's features is your responsibility!</small>*
 
+[**GameGuardian**](https://gameguardian.net/forum/) - A game/cheating app for Android. Similar to Cheat Engine on PC.
