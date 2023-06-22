@@ -4,6 +4,8 @@ description: List of useful Android mobile apps.
 ---
 
 ## Application stores
+[**Mobilism**](https://forum.mobilism.me/) - Great & trusted forum for downloading hacked APK's
+
 [**APKMirror**](https://www.apkmirror.com/) - Trusted APK downloading website.
 
 [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) - Open-source alternative to Google Play Store focused on providing privacy and modern design.
@@ -23,8 +25,8 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 ## Privacy
 [**PowerTunnel**](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible DNS server with anti-censorship functionalities for Android.
 
-[**AdAway**](https://adaway.org/) - Open source mobile ad-blocker with a focus on privacy.  
-**Benefits from having Root access.**  
+[**AdAway**](https://adaway.org/) - Open source mobile ad-blocker with a focus on privacy.          
+*<small>Note: This app benefits from having root access.</small>*
 
 ## File Managers
 [**MiXplorer**](https://mixplorer.com/) - Fully-featured Android file manager that supports multiple cloud storages and server protocols.
@@ -33,7 +35,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 [**RCX**](https://x0b.github.io/docs/) - Android port of [Rclone](https://rclone.org/) that can connect to supported cloud providers.
 
-[**SD Maid SE**](https://github.com/d4rken-org/sdmaid-se) - Powerful file management tool for Android that specialises in freeing up space and removing unwanted data.  
+[**SD Maid SE**](https://github.com/d4rken-org/sdmaid-se) - Powerful file management tool for Android that specialises in freeing up space and removing unwanted data.   
 *<small>Note: SD Maid SE isn't feature complete as it is an in-progress reimagination of [SD Maid](https://github.com/d4rken-org/sdmaid) to work better with newer phones.</small>*
 
 ## Video/Music
@@ -52,7 +54,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**LunaSea**](https://www.lunasea.app/) - Usenet/Torrent manager. Useful for those who utilize seedboxes.
 
 ## Mods
-[**ReVanced**](https://github.com/revanced/revanced-manager) - Android App patcher that provides patches to popular apps such as YouTube, Twitter and Reddit.  
+[**ReVanced**](https://github.com/revanced/revanced-manager) - Android App patcher that provides patches to popular apps such as YouTube, Twitter and Reddit.    
 *<small>Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced according to the community is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG), but it may be replaced in the future.</small>*
 
 [**Vendetta**](https://github.com/vendetta-mod/Vendetta) - Cross-platform plugin-based Discord (React Native - above version 126.21) client mod.  
@@ -61,7 +63,8 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 *<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21)</small>*
 
 ## Miscellaneous
-[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.
-*<small>This app isn't open source so giving it root access to use some of it's features is your responsibility!</small>*
+[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier, can be used to cheat, hack or crack Software.   
+*<small>Note: This app isn't open source so giving it root access to use some of it's features is your responsibility!</small>*
 
-[**GameGuardian**](https://gameguardian.net/forum/) - A game/cheating app for Android. Similar to Cheat Engine on PC.
+[**GameGuardian**](https://gameguardian.net/forum/) - A game/cheating app for Android. Similar to Cheat Engine on PC.  
+*<small>Note: This app isn't open source so giving it root access to use some of it's features is your responsibility!</small>*
