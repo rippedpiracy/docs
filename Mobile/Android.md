@@ -4,10 +4,10 @@ description: List of useful Android mobile apps.
 ---
 
 ## Application stores
-[**Mobilism**](https://forum.mobilism.me/) - Great & trusted forum for downloading hacked APK's    
+[**Mobilism**](https://forum.mobilism.me/) - Trusted Forum for downloading Modded APKs.   
 **_Requires Sign-up._**
 
-[**APKMirror**](https://www.apkmirror.com/) - Trusted APK downloading website.
+[**APKMirror**](https://www.apkmirror.com/) - Website to download APKs dumped from the Play Store.
 
 [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) - Open-source alternative to Google Play Store focused on providing privacy and modern design.
 
