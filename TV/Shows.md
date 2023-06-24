@@ -16,7 +16,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**rinzry**](https://rinzry.stream/) - Huge Index with many Movies & TV Shows, using Google Drive.  
 In the Streaming section as you can Stream the Content you want to Download.
 
-[**StreamingCommunity**](https://streamingcommunity.city) - Constantly updated site with Italian Dubbed/Subbed Content, a UI similar to Netflix.
+[**StreamingCommunity**](https://streamingcommunity.codes/) - Constantly updated site with Italian Dubbed/Subbed Content, a UI similar to Netflix.
 
 [**Seez**](https://seez.su) - A streaming webpage with a modern UI. Constantly updated with Indian content. Has additional hosts and subtitles.
 
