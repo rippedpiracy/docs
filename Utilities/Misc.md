@@ -116,10 +116,6 @@ description: Tools and Apps to make your life easier.
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and other Media Ripping/Recording/Encoding tools.  
 *<small>A [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.</small>*
 
-[**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
-
-[**Are We Anti-Cheat Yet?**](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
-
 [**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
 [**FREEMEDIAHECKYEAH**](https://fmhy.pages.dev/) - A Wiki by the FMHY community, they also have a [guides](https://www.fmhy.ml/guides) section.  
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**
