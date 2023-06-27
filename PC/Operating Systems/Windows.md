@@ -13,7 +13,7 @@ description: Make your OS lighter, faster and more secure.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A full re-install is not required however it is _heavily recommended_!**
 
 **[Chris Titus Tech de-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater. 
-**Recommended for people who _don't_ want to reinstall**
+**Recommended for people who _don't_ want to reinstall.**
 
 **[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** - Tools to customize your Windows ISO.  
 
