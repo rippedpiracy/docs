@@ -6,25 +6,24 @@ description: Tools and Apps to make your life easier.
 # Browser Extensions
 
 <sub>We recommend coupling these Extensions & UserScripts with [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).</sub>
-  
-[**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
-*<small>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
 
 [**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **LukeThighStalker**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking Pop-ups and Anti-AdBlocks.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[iplogger](https://github.com/piperun/iploggerfilter) - Filters any site who's only purpose is to log your IP.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of Filter lists for Anime Streaming, Manga reading, and Downloading of other Japanese Media.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.  
+
+[**FastForward**](https://fastforward.team) - FastForward circumvents link shorteners.   
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
-[**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
-***Can be difficult to setup for the Average User.***  
 [**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
 [**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is the recommended extension for Firefox but it may break some sites.  
 *<small>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox for Mobile and Chromium Browsers.</small>*  
 [**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
+
+[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through its database [here](https://tosdr.org/).
 
@@ -32,8 +31,6 @@ description: Tools and Apps to make your life easier.
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
-
-[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
 
 [**Web Archives**](https://github.com/dessant/web-archives) - Makes it easy to view archived and cached versions of web pages.
 
@@ -49,8 +46,6 @@ description: Tools and Apps to make your life easier.
 [**DownThemAll!**](https://www.downthemall.org/) | [**DownZemAll!**](https://setvisible.github.io/DownZemAll/) - DownThemAll is a mass download manager directly built inside the Browser, whereas DownZemAll is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).  
 [**Media Reaper**](https://sasrip.sas41.com/Home/MediaReaper) - Easily download videos and audio files from any site that youtube-dl supports, found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
 
-[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
-*<small>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence that it has tracked its users, its compatibility isn't great, and it's not very actively maintained.</small>*  
 [**Stylus**](https://add0n.com/stylus.html) - Browser UserStyles Manager, used for loading CSS files for customising the appearance of webpages.
 
 [**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.  
@@ -59,6 +54,9 @@ description: Tools and Apps to make your life easier.
 # Browser UserScripts
 
 <sub>**Requires a Browser UserScript Manager, such as [ViolentMonkey](https://violentmonkey.github.io).**</sub>
+
+[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
+*<small>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence that it has tracked its users, its compatibility isn't great, and it's not very actively maintained.</small>*  
 
 [**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different Browsers.
 
@@ -75,61 +73,6 @@ description: Tools and Apps to make your life easier.
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
 [**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps, allowing the download of the APK.
-
-# Useful Apps
-
-[**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip. NanaZip is a fork of 7-Zip with added functionality and better support for Windows 11.
-
-[**Everything**](https://www.voidtools.com/) - Easily find files on your drives.  
-[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
-
-[**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware, advanced version of Task Manager.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.    
-[**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
-[**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.
-
-**[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** & **[GoodByeDPI GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)** | **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** & **[PowerTunnel for Android](https://github.com/krlvm/PowerTunnel-Android)** - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
-*<small>For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app.</small>*
-
-[**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
-*<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/blob/-/README.md) - A qBittorrent fork with enhanced privacy (IP filtering, auto-ban bots and copyright trolls, auto-update public trackers).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBittorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBittorrent.  
-
-[**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**XDM**](https://xtremedownloadmanager.com/) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, XDM is best for capturing downloads from your Browser, and JD2 is best for downloading multiple files simultaneously.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JDownloader 2 Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md) - A guide for setting up JDownloader 2.
-
-[**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
-*<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
-[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
-[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, have wider support for capturing and downloading media.  
-[**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
-[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader. 
-
-[**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
-*<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
-
-[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
-
-[**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
-
-[**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
-
-[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab) | [**Frog (<span style="color:red">Linux</span>)**](https://getfrog.app/) - Use OCR to grab and read text from images or unselectable text. 
-
-[**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
-
-[**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
-*<small><b>This is very outdated and vulnerable to attacks. Do <u>NOT</u> use this as a main Browser!</b></small>*
-
-[**KDE Connect**](https://kdeconnect.kde.org/) - Powerful application to integrate your phone with your computer and vice-versa allowing sharing files and more.
-
-[**Kdenlive**](https://kdenlive.org/en/) - Open source free video editor.
-
-[**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
-
-[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
 
 # Useful Websites
 
