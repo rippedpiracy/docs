@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Make your OS lighter, faster and more secure.
+description: Software and tools to make your OS lighter, faster and more secure.
 ---
 
 <sub>*Pro Tip: Make a Restore Point before running these apps!*</sub>
