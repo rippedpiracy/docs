@@ -14,23 +14,25 @@ description: Make your OS lighter, faster and more secure.
 
 **[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** - Tools to customize your Windows ISO.  
 
-**[Rufus](https://rufus.ie/)** | **[Ventoy](https://www.ventoy.net/)** - A tool to create bootable USB drives.  
+**[Rufus](https://rufus.ie/)** | **[Ventoy](https://www.ventoy.net/)** - Tools to create bootable USB drives.  
 **[InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB)** - A batch script to install Windows to a partition without a USB stick.
 
-**[Chris Titus Tech De-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater, recommended.
+**[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** | **[RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer)** - Tools to install de-bloated drivers removing telemetry and unnecessary components.
+
+**[Chris Titus Tech de-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater.
 
 **[TronScript](https://bmrf.org/repos/tron/)** - Efficient way to clean, de-bloat, optimize and disinfect your PC.  
 **_BE SURE TO READ THE INSTRUCTIONS!_**
 
 **[privacy.sexy](https://privacy.sexy/)** - Easily create a custom Debloating script made for your specific needs.
 
-**[PrivateZilla](https://github.com/builtbybel/privatezilla)** & [**ThisIsWin11**](https://github.com/builtbybel/ThisIsWin11) - The simplest ways to perform a quick Privacy and Security check of your Windows 10 & 11 OS.
+**[PrivateZilla](https://github.com/builtbybel/privatezilla)** & **[ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)** - The simplest ways to perform a quick Privacy and Security check of your Windows 10 & 11 OS.
 
 **[Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows)** - The largest PowerShell module for Windows 10 & 11 tuning.
 
-**[WPD](https://wpd.app)** | **[WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)** - Tools created to intercept your Network Traffic and block Tracking requests even before they get to Microsoft.
-
 **[Optimizer](https://github.com/hellzerg/optimizer/releases)** - Portable Utility that helps you restore your Security and increase your Privacy.
+
+**[WPD](https://wpd.app)** | **[WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)** - Tools created to intercept your Network Traffic and block Tracking requests even before they get to Microsoft.
 
 **[Fix-Windows-Privacy](https://modzero.github.io/fix-windows-privacy/)** - Deletes Telemetry Registry keys that may have been skipped by other Utilities.
 
