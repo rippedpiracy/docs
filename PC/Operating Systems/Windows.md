@@ -10,7 +10,10 @@ description: Make your OS lighter, faster and more secure.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AtlasOS](https://atlasos.net) - A modification of Windows designed to maximize your system's performance and optimize latency.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ReviOS](https://revi.cc) - A modification of Windows with improved performance, stability, and compatibility.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AME](https://ameliorated.io) - A modification of Windows focused on improving privacy and stability.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A full Re-install is not required however it is heavily recommended.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A full re-install is not required however it is _heavily recommended_!**
+
+**[Chris Titus Tech de-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater. 
+**Recommended for people who _don't_ want to reinstall**
 
 **[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** - Tools to customize your Windows ISO.  
 
@@ -18,8 +21,6 @@ description: Make your OS lighter, faster and more secure.
 **[InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB)** - A batch script to install Windows to a partition without a USB stick.
 
 **[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** | **[RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer)** - Tools to install de-bloated drivers removing telemetry and unnecessary components.
-
-**[Chris Titus Tech de-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater.
 
 **[TronScript](https://bmrf.org/repos/tron/)** - Efficient way to clean, de-bloat, optimize and disinfect your PC.  
 **_BE SURE TO READ THE INSTRUCTIONS!_**
