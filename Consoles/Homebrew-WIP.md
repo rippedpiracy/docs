@@ -30,7 +30,7 @@ You can help via contributing on [**GitHub**](https://github.com/rippedpiracy/do
 **[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.  
 **[r/WiiHacks/](https://www.reddit.com/r/WiiHacks/)** - A Subreddit made for Hacking the Nintendo Wii.  
 **[r/VitaHacks/](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.  
-**[r/PS3Homebrew/](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew/](https://www.reddit.com/r/ps5homebrew/)** | **[r/PS5Homebrew/](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
+**[r/PS3Homebrew/](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew/](https://www.reddit.com/r/ps4homebrew/)** | **[r/PS5Homebrew/](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
 **[r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/)** - Subreddit for discussing Xbox One/Series Retail Mode Homebrew! From RetroArch to DurangoFTP.  
 **[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.  
 **[r/XboxModding](https://www.reddit.com/r/XboxModding/)** - Dedicated community to modding any and all Xbox consoles.  
