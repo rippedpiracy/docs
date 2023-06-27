@@ -7,15 +7,17 @@ description: Make your OS lighter, faster and more secure.
 # Debloating & Privacy
 
 **[AME Wizard](https://ameliorated.io/)** - A program to modify an existing install of Windows.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[AtlasOS](https://atlasos.net)** - A modification of Windows designed to maximize your system's performance and optimize latency.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ReviOS](https://revi.cc)** - A modification of Windows with improved performance, stability, and compatibility.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[AME](https://ameliorated.io)** - A modification of Windows focused on improving privacy and stability.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AtlasOS](https://atlasos.net) - A modification of Windows designed to maximize your system's performance and optimize latency.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ReviOS](https://revi.cc) - A modification of Windows with improved performance, stability, and compatibility.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AME](https://ameliorated.io) - A modification of Windows focused on improving privacy and stability.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A full Re-install is not required however it is heavily recommended.**
 
 **[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** - Tools to customize your Windows ISO.  
 
 **[Rufus](https://rufus.ie/)** | **[Ventoy](https://www.ventoy.net/)** - A tool to create bootable USB drives.  
 **[InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB)** - A batch script to install Windows to a partition without a USB stick.
+
+**[Chris Titus Tech De-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater, recommended.
 
 **[TronScript](https://bmrf.org/repos/tron/)** - Efficient way to clean, de-bloat, optimize and disinfect your PC.  
 **_BE SURE TO READ THE INSTRUCTIONS!_**
@@ -81,7 +83,7 @@ description: Make your OS lighter, faster and more secure.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
-[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab)
+[**Text-Grab**](https://github.com/TheJoeFin/Text-Grab) - Use OCR to grab and read text from images or unselectable text.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
