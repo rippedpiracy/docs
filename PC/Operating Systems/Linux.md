@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: placeholder
+description: Software & tutorials for Linux
 ---
 # Gaming 
 
