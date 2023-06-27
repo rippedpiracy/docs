@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous
+title: Web Browsing
 description: Tools and Apps to make your life easier.
 ---
 
