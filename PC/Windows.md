@@ -5,13 +5,20 @@ description: Make your OS lighter, faster and more secure.
 
 <sub>*Pro Tip: Make a Restore Point before running these apps!*</sub>
 # Debloating & Privacy
-**[TronScript](https://bmrf.org/repos/tron/)** - Most efficient and quick way to clean, De-bloat, optimize and disinfect your PC, recommended.  
-**_BE SURE TO READ THE INSTRUCTIONS!_**
 
-**[AtlasOS](https://atlasos.net)** - A modification of Windows designed to maximize your system's performance and optimize latency.  
-**[ReviOS](https://revi.cc)** - A modified Windows ISO with improved performance, stability, and compatibility.  
-**[AME](https://ameliorated.io)** - A modification of Windows focused on improving privacy and stability.  
-**Full Re-install required.**
+**[AME Wizard](https://ameliorated.io/)** - A program to modify an existing install of Windows.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[AtlasOS](https://atlasos.net)** - A modification of Windows designed to maximize your system's performance and optimize latency.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ReviOS](https://revi.cc)** - A modification of Windows with improved performance, stability, and compatibility.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[AME](https://ameliorated.io)** - A modification of Windows focused on improving privacy and stability.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A full Re-install is not required however it is heavily recommended.**
+
+**[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** - Tools to customize your Windows ISO.  
+
+**[Rufus](https://rufus.ie/)** | **[Ventoy](https://www.ventoy.net/)** - A tool to create bootable USB drives.  
+**[InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB)** - A batch script to install Windows to a partition without a USB stick.
+
+**[TronScript](https://bmrf.org/repos/tron/)** - Efficient way to clean, de-bloat, optimize and disinfect your PC.  
+**_BE SURE TO READ THE INSTRUCTIONS!_**
 
 **[privacy.sexy](https://privacy.sexy/)** - Easily create a custom Debloating script made for your specific needs.
 
@@ -25,21 +32,28 @@ description: Make your OS lighter, faster and more secure.
 
 **[Fix-Windows-Privacy](https://modzero.github.io/fix-windows-privacy/)** - Deletes Telemetry Registry keys that may have been skipped by other Utilities.
 
-**[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** | **[AME Wizard](https://ameliorated.io/)** - Tools to customize your Windows ISO.
+**[AutoRuns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)** - See what programs are configured to startup automatically when your system boots.
+
+<sub>*Disable [**hibernation**](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) to free as much space as your amount of RAM.*</sub>
+
+<sub>*Note: You can also grab an ISO from Bob Pony [**here**](https://bobpony.com/downloads/) if you wish to reinstall Windows before running these apps.*</sub>
 
 # Software
 
 [**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip. NanaZip is a fork of 7-Zip with added functionality and better support for Windows 11.
 
+[**BCUninstaller**](https://www.bcuninstaller.com/) - A better Uninstaller than Windows's default one, really good for Bulk Uninstalling multiple apps at once.  
+[**BleachBit**](https://github.com/bleachbit/bleachbit) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
+
 [**Everything**](https://www.voidtools.com/) - Easily find files on your drives.  
-[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
+[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.
 
 [**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware, advanced version of Task Manager.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.    
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
 [**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.
 
-**[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** & **[GoodByeDPI GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)** | **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** & **[PowerTunnel for Android](https://github.com/krlvm/PowerTunnel-Android)** - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
+**[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** & **[GoodByeDPI GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)** | **[PowerTunnel](https://github.com/krlvm/PowerTunnel)**  
 *<small>For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app.</small>*
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
@@ -67,29 +81,15 @@ description: Make your OS lighter, faster and more secure.
 
 [**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
 
-[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab) | [**Frog (<span style="color:red">Linux</span>)**](https://getfrog.app/) - Use OCR to grab and read text from images or unselectable text. 
+[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab)
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
 [**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
 *<small><b>This is very outdated and vulnerable to attacks. Do <u>NOT</u> use this as a main Browser!</b></small>*
-
-[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
  
-# Honorable Mentions 
-
-[**AutoRuns**](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - See what programs are configured to startup automatically when your system boots.   
+# Miscellaneous   
 
 [**Sigma Wiper**](https://github.com/owersite/sigma-wiper) | [**Sigma-Deleter**](https://github.com/XatzClient/Sigma-Deleter) - Deletes every trace of the Miner placed by the Sigma5 Minecraft Hack Client.  
 For **Sigma Wiper** to work, you need to install the [**.NET 5.0 Desktop Runtime**](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.11-windows-x64-installer).
 
-[**BCUninstaller**](https://www.bcuninstaller.com/) - A better Uninstaller than Windows's default one, really good for Bulk Uninstalling multiple apps at once.
-
-[**BleachBit**](https://github.com/bleachbit/bleachbit) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
-
-[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.  
-[**InstallWindowsWithoutUSB**](https://github.com/iidanL/InstallWindowsWithoutUSB) - A batch script to install Windows to a partition without a USB stick.
-
-<sub>*Disable [**hibernation**](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) to free as much space as your amount of RAM.*</sub>
-
-<sub>*Note: You can also grab an ISO from Bob Pony [**here**](https://bobpony.com/downloads/) if you wish to reinstall Windows before running these apps.*</sub>
