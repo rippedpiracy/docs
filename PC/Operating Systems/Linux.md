@@ -13,6 +13,9 @@ description: Software & tutorials for Linux
 
 # Software 
 
+[**Wine**](https://www.winehq.org/) - A compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS (non-ARM), & BSD.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Wine AppDB](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games.  
+
 [**Bottles**](https://usebottles.com/) - An open-source application for managing Windows programs on Linux.
 
 [**KDE Connect**](https://kdeconnect.kde.org/) - Powerful application to integrate your phone with your computer and vice-versa allowing sharing files and more.
