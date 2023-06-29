@@ -3,8 +3,9 @@ title: Linux
 description: Software & tutorials for Linux
 ---
 # Gaming 
+[**linux-tkg**](https://github.com/Frogging-Family/linux-tkg) - A custom Linux Kernel with a selection of patches aiming for better desktop/gaming experience.
 
-[**1337x.to | johncena141's linux releases**](https://1337x.to/user/johncena141/) - A trusted uploader who posts Windows games that are ready to play natively/using WINE.
+[**gamemode**](https://github.com/FeralInteractive/gamemode) - A tool that allows games to request a set of optimisations be temporarily applied to the host OS and/or a game process.
 
 [**ProtonUp-Qt**](https://davidotek.github.io/protonup-qt/) - An application which easily lets you install custom versions of Steam Proton. Makes it significantly easier to use applications such as Wine or Bottles which require custom versions of Proton.
 
