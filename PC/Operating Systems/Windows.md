@@ -11,9 +11,8 @@ description: Software and tools to make your OS lighter, faster and more secure.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ReviOS](https://revi.cc) - A modification of Windows with improved performance, stability, and compatibility.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[AME](https://ameliorated.io) - A modification of Windows focused on improving privacy and stability.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A full Re-install is not required however it is heavily recommended.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*You can grab an ISO from Bob Pony [**here**](https://bobpony.com/downloads/) if you wish to reinstall Windows before applying these changes.*
 
-**[Chris Titus Tech de-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater. 
+**[Chris Titus Tech de-bloater](https://christitus.com/windows-tool/)** - A simple to use reversible de-bloater.  
 **Recommended for people who _don't_ want to reinstall.**
 
 **[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** - Tools to customize your Windows ISO.  
@@ -41,6 +40,8 @@ description: Software and tools to make your OS lighter, faster and more secure.
 **[AutoRuns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)** - See what programs are configured to startup automatically when your system boots.
 
 <sub>*Disable [**hibernation**](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) to free as much space as your amount of RAM.*</sub>
+
+<sub>*You can grab an ISO from Bob Pony [**here**](https://bobpony.com/downloads/) if you wish to reinstall Windows before applying these changes.*</sub>
 
 # Software
 
