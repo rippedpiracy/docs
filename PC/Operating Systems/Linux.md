@@ -33,9 +33,6 @@ description: Software & tutorials for Linux
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 *<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
 
-[**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.  
-*<small>Read their [Github](https://github.com/Freaky/Compactor#compatibility-with-other-operating-systems) for more information on Linux Support</small>*
-
 [**NTFS-3G**](https://github.com/tuxera/ntfs-3g) - Open-source cross-platform implementation of the Microsoft Windows NTFS file system with read/write support.  
 
 [**Bottles**](https://usebottles.com/) - An open-source application for managing Windows programs on Linux.
