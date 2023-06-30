@@ -247,6 +247,8 @@ Linux|[DeSmuME](https://desmume.org/)|
 ||[Ryujinx](https://ryujinx.org/)|
 |Mac|[Ryujinx](https://ryujinx.org/)|
 |Android|[Skyline](https://github.com/skyline-emu/skyline)|
+||[Yuzu EA](https://yuzu-emu.org/)|
+||[Yuzu](https://yuzu-emu.org/)|
 
 &nbsp;
 

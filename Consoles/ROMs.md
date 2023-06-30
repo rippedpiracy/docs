@@ -25,9 +25,9 @@ Straightforward UI to Download many ROMs directly.
 
 The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with mkdocs.
 
-**[NoPayStation](https://nopaystation.com/) | [PSNDL](https://psndl.net/) (DDL)**
+**[NoPayStation](https://nopaystation.com/) (DDL)**
 
- The best places to get VITA, PS3, PSP, PSX Games / DLCs and more, directly from Sony's servers with no Middle-Man.
+ The best place to get VITA, PS3, PSP, PSX Games / DLCs and more, directly from Sony's servers with no Middle-Man.
 
 **[Vimm's Lair: Vault](https://vimm.net/vault/) (DDL / Torrent)**
 
