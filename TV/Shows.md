@@ -35,6 +35,7 @@ Their [Subreddit](https://PopCornTimeApp.reddit.com/) can be visited for more in
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
 Quality can vary from one Release to another, ALWAYS check filesizes and Torrent names.  
 
+**[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows
 
 # IRC
 
