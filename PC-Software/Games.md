@@ -12,8 +12,9 @@ In the case that any of the sites are blocked, use [GoodByeDPI](https://github.c
 **[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/)** | **[.gd](https://1337x.gd/)** | **[.eu](https://x1337x.eu/) (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
-**<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u></span>  
-Remember to <u>NEVER</u> get Software Releases from this site.**
+**<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u></span>  
+Remember to <u>NEVER</u> get Software Releases from this site.**  
+*<small>Empress's new releases can be found [here](https://telegra.ph/empress-biography-07-15).</small>*
 
 **[RuTor](http://rutor.info) (Torrent)**
 
@@ -30,6 +31,10 @@ One of the most well known and reputable Repacker out there, very active and pro
 
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
 *<small>They also have a forum [here](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
+
+**[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
+
+Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers. They upload on 1337x too.
 
 ## General DDL
 
