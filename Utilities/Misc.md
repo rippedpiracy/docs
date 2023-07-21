@@ -22,11 +22,11 @@ description: Tools and Apps to make your life easier.
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
 ***Can be difficult to setup for the Average User.***  
 [**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
-[**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is the recommended extension for Firefox but it may break some sites.  
-*<small>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox for Mobile and Chromium Browsers.</small>*  
+[**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is recommended for Firefox but it may break some sites.  
+*<small>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>*  
 [**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
 
-[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through its database [here](https://tosdr.org/).
+[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
 [**The Marvellous Suspender (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) & [**The Great Suspender (<span style="color:red">Firefox</span>)**](https://github.com/dvalter/ff-thegreatsuspender) | [**Tabs Outliner (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
 
