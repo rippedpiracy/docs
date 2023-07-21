@@ -8,7 +8,8 @@ no_show_footer: true
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 40%;"
+           width: 40%;
+           height: auto;"
     src="/img/rippedtransparent-cropped.svg" 
     alt="Ripped Logo"
     id= "logo">
@@ -19,7 +20,8 @@ no_show_footer: true
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 70%;"
+           width: 70%;
+           height: auto;"
     src="/img/ripped_banner.svg" 
     alt="Ripped Banner"
     id= "banner">
