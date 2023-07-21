@@ -30,7 +30,7 @@ description: Tools and Apps to make your life easier.
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
 [**The Great Suspender (<span style="color:red">Firefox</span>)**](https://github.com/dvalter/ff-thegreatsuspender) - Manually / Automatically suspend Tabs to save up RAM usage.  
-*<small>Chromium now has this functionality [built-in](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother).</small>*
+*<small>Chromium now has this functionality [built-in](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother).</small>*  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
@@ -39,7 +39,8 @@ description: Tools and Apps to make your life easier.
 
 [**Web Archives**](https://github.com/dessant/web-archives) - Makes it easy to view archived and cached versions of web pages.
 
-[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file. SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.
+[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file.  
+*<small>SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.</small>*
 
 [**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, window, container (Firefox only), or randomly from an array.
 
@@ -76,7 +77,7 @@ description: Tools and Apps to make your life easier.
 
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
-[**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps, allowing the download of the APK.
+[**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to the Play Store when browsing apps.
 
 # Useful Apps
 
