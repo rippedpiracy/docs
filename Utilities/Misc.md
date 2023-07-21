@@ -25,7 +25,7 @@ description: Tools and Apps to make your life easier.
 [**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
 [**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is recommended for Firefox but it may break some sites.  
 *<small>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>*  
-[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
+[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible domains that track your Search and Browsing History.    
 
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
