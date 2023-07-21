@@ -10,7 +10,7 @@ description: Tools and Apps to make your life easier.
 [**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
 *<small>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
 
-[**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
+[**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient Ad & Content Blocker for Chromium and Firefox, fast and lean.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **LukeThighStalker**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking Pop-ups and Anti-AdBlocks.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[iplogger](https://github.com/piperun/iploggerfilter) - Filters any site who's only purpose is to log your IP.  
