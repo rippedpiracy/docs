@@ -27,7 +27,7 @@ description: List of sources for getting all genres of Music.
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find music.     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek and has added features.
 
-[**Deemix**](https://web.archive.org/web/20230410035236/https://deemix.app/) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi on top of being able to download directly from Deezer, it can also accept Spotify or Tidal song links to download them from Deezer. They can download up to 128 kb/s quality with a free acount.  
+[**Deemix**](https://web.archive.org/web/20230410035236/https://deemix.app/) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi can also accept Spotify or Tidal song links and download them from Deezer. They can download up to 128Kbps quality with a free account.  
 *<small>[Here](https://krakenfiles.com/view/9lJSjqCKan/file.html) you can find an archive of the most recent Deemix binaries for all the platforms downloaded before the site went down, on 14/12/2022, by a Ripped Staff Member.</small>*  
 **Deemix is abandoned, if you're having issues use d-fi or streamrip instead.**  
 **_For higher quality downloads, a paid Deezer account is required._**
