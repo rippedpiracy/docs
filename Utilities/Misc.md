@@ -114,9 +114,6 @@ description: Tools and Apps to make your life easier.
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
 [**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.   
-[**Spytify**](https://jwallet.github.io/spy-spotify/overview.html) - Records Spotify to mp3 without ads while it plays and includes media tags to the recorded files. 
-
-[**ImgBurn**](https://www.imgburn.com/) - lightweight **CD** / **DVD** / **HD DVD** / **Blu-ray** burning application.
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 *<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
@@ -139,8 +136,6 @@ description: Tools and Apps to make your life easier.
 [**Kdenlive**](https://kdenlive.org/en/) - Open source free video editor.
 
 [**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
-
-[**Noisy**](https://github.com/1tayH/noisy) - Random DNS, HTTP/S internet traffic noise generator
 
 [**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
 
@@ -197,22 +192,3 @@ description: Tools and Apps to make your life easier.
 [**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
 [**FREEMEDIAHECKYEAH**](https://fmhy.pages.dev/) - A Wiki by the FMHY community, they also have a [guides](https://www.fmhy.ml/guides) section.  
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**
-
-# Alternative Frontends
-
-List of alternative open source frontends
-
-Service | Alternative Frontends
---- | ---
-YouTube | [**Piped**](https://piped.video/), [**Invidious**](https://invidious.io/)
-YouTube Music | [**Hyperpipe**](https://hyperpipe.surge.sh/)
-Reddit | [**Teddit**](https://teddit.net/), [**Libreddit**](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [**Troddit**](https://troddit.com/)
-TikTok | [**ProxiTok**](https://proxitok.pabloferreiro.es/)
-Instagram | [**Imgsed**](https://imgsed.com/)
-Google Search | [**StartPage**](https://www.startpage.com/), [**Whoogle**](https://github.com/benbusby/whoogle-search) (Self-hosted)
-Google Translate | [**Lingva**](https://github.com/TheDavidDelta/lingva-translate#instances)
-Quora | [**Quetre**](https://github.com/zyachel/quetre#instances)
-StackOverflow | [**AnonymousOverflow**](https://code.whatever.social/)
-IMDb | [**Libremdb**](https://libremdb.iket.me/find)
-Fandom | [**BreezeWiki**](https://breezewiki.com/)
-Wikipedia | [**Wikiless**](https://wikiless.org/)
