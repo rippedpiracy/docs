@@ -42,6 +42,8 @@ description: Tools and Apps to make your life easier.
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file.  
 *<small>SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.</small>*
 
+[**Chameleon**](https://sereneblue.github.io/chameleon/) - Spoof your browser profile.
+
 [**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, window, container (Firefox only), or randomly from an array.
 
 [**Temporary Containers (<span style="color:red">Firefox</span>)**](https://github.com/stoically/temporary-containers) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
@@ -57,7 +59,8 @@ description: Tools and Apps to make your life easier.
 [**Stylus**](https://add0n.com/stylus.html) - Browser UserStyles Manager, used for loading CSS files for customising the appearance of webpages.
 
 [**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.  
-[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the dislike count on Youtube.
+[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the dislike count on Youtube.  
+[**Minimal YouTube**](https://github.com/dephraiim/minimal-youtube) - Replaces the YouTube UI with a minimal design.
 
 # Browser UserScripts
 
@@ -76,6 +79,8 @@ description: Tools and Apps to make your life easier.
 [**Mega.nz Unlimited Import**](https://pastebin.com/raw/4AXkE1yE) - Import any file/folder to your Mega Cloud without worrying about the space it takes as long as your Storage isn't full.
 
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
+
+[**Google Unlocked**](https://github.com/Ibit-to/google-unlocked) - Uncensor google search results.
 
 [**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to the Play Store when browsing apps.
 
@@ -108,7 +113,10 @@ description: Tools and Apps to make your life easier.
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
-[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader. 
+[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.   
+[**Spytify**](https://jwallet.github.io/spy-spotify/overview.html) - Records Spotify to mp3 without ads while it plays and includes media tags to the recorded files. 
+
+[**ImgBurn**](https://www.imgburn.com/) - lightweight **CD** / **DVD** / **HD DVD** / **Blu-ray** burning application.
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 *<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
@@ -132,6 +140,8 @@ description: Tools and Apps to make your life easier.
 
 [**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
 
+[**Noisy**](https://github.com/1tayH/noisy) - Random DNS, HTTP/S internet traffic noise generator
+
 [**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
 
 # Useful Websites
@@ -146,7 +156,7 @@ description: Tools and Apps to make your life easier.
 
 [**Just Delete Me**](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 
-[**AlternativeTo**](https://alternativeto.net/) - A good website to find alternatives to software you use.
+[**AlternativeTo**](https://alternativeto.net/), [**OpenSourceAlternativeTo**](https://www.opensourcealternative.to/) - A good websites to find alternatives to software you use.
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
@@ -169,6 +179,8 @@ description: Tools and Apps to make your life easier.
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various Security and Privacy Tools.  
 [**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://privacy.reddit.com).
 
+[**Awesome Privacy**](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy.  
+
 [**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s Wiki that has some useful Tech Guides.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide) - Guide that may help you remove Malware.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ransomware Mitigation Guide](https://rtech.support/books/safety-and-security/page/ransomware) - Helps to mitigate and prevent a Ransomware attack.  
@@ -180,6 +192,27 @@ description: Tools and Apps to make your life easier.
 
 [**Are We Anti-Cheat Yet?**](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
 
+[**EFF's blog**](https://www.eff.org/updates?type=All) - The EFF blog is a reliable and informative platform that provides up-to-date news, analysis, and commentary on important issues regarding digital rights, privacy, and online freedom.
+
 [**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
 [**FREEMEDIAHECKYEAH**](https://fmhy.pages.dev/) - A Wiki by the FMHY community, they also have a [guides](https://www.fmhy.ml/guides) section.  
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**
+
+# Alternative Frontends
+
+List of alternative open source frontends
+
+Service | Alternative Frontends
+--- | ---
+YouTube | [**Piped**](https://piped.video/), [**Invidious**](https://invidious.io/)
+YouTube Music | [**Hyperpipe**](https://hyperpipe.surge.sh/)
+Reddit | [**Teddit**](https://teddit.net/), [**Libreddit**](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [**Troddit**](https://troddit.com/)
+TikTok | [**ProxiTok**](https://proxitok.pabloferreiro.es/)
+Instagram | [**Imgsed**](https://imgsed.com/)
+Google Search | [**StartPage**](https://www.startpage.com/), [**Whoogle**](https://github.com/benbusby/whoogle-search) (Self-hosted)
+Google Translate | [**Lingva**](https://github.com/TheDavidDelta/lingva-translate#instances)
+Quora | [**Quetre**](https://github.com/zyachel/quetre#instances)
+StackOverflow | [**AnonymousOverflow**](https://code.whatever.social/)
+IMDb | [**Libremdb**](https://libremdb.iket.me/find)
+Fandom | [**BreezeWiki**](https://breezewiki.com/)
+Wikipedia | [**Wikiless**](https://wikiless.org/)
