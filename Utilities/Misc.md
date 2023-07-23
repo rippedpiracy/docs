@@ -113,7 +113,7 @@ description: Tools and Apps to make your life easier.
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
-[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.   
+[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 *<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
