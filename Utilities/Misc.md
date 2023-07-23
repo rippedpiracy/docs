@@ -47,7 +47,7 @@ description: Tools and Apps to make your life easier.
 [**Temporary Containers (<span style="color:red">Firefox</span>)**](https://github.com/stoically/temporary-containers) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**Allow Right Click**](https://add0n.com/allow-right-click.html) - Re-enable right clicking on sites that disable it.
+[**Allow Right Click**](https://add0n.com/allow-right-click.html) - Re-enables right clicking on sites that disable it.
 
 [**DownThemAll!**](https://www.downthemall.org/) | [**DownZemAll!**](https://setvisible.github.io/DownZemAll/) - DownThemAll is a mass download manager directly built inside the Browser, whereas DownZemAll is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).  
 [**Media Reaper**](https://sasrip.sas41.com/Home/MediaReaper) - Easily download videos and audio files from any site that youtube-dl supports, found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
@@ -109,7 +109,7 @@ description: Tools and Apps to make your life easier.
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
-[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, have wider support for capturing and downloading media.  
+[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
 [**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.  
 
@@ -135,25 +135,25 @@ description: Tools and Apps to make your life easier.
 
 [**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
 
-[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
+[**Ventoy**](https://www.ventoy.net/) | [**Rufus**](https://rufus.ie/) - Tools to create bootable USB drives.
 
 # Useful Websites
 
-[**Internet Archive**](https://web.archive.org/) | [**archive.today**](https://archive.today/) - Sites that host archived versions of other sites. You can archive any site you want too.
+[**Internet Archive**](https://web.archive.org/) | [**archive.today**](https://archive.today/) - Sites that host archived versions of other pages. You can archive any site you want.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
 [**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
 **_Some may require Sign-Up._**  
 
-[**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your email or phone number is in a data breach.
+[**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your e-mail or Phone number is in a data breach.
 
 [**Just Delete Me**](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 
-[**AlternativeTo**](https://alternativeto.net/), [**OpenSourceAlternativeTo**](https://www.opensourcealternative.to/) - A good websites to find alternatives to software you use.
+[**AlternativeTo**](https://alternativeto.net/), [**OpenSourceAlternativeTo**](https://www.opensourcealternative.to/) - Find open source alternatives to any software you use.
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
-[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
+[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images.
 
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
 
