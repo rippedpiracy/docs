@@ -42,9 +42,7 @@ description: Tools and Apps to make your life easier.
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file.  
 *<small>SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.</small>*
 
-[**Chameleon**](https://sereneblue.github.io/chameleon/) - Spoof your browser profile.
-
-[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, window, container (Firefox only), or randomly from an array.
+[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) | [**Chameleon**](https://sereneblue.github.io/chameleon/) - Highly configurable User-Agent Switchers.
 
 [**Temporary Containers (<span style="color:red">Firefox</span>)**](https://github.com/stoically/temporary-containers) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
@@ -80,7 +78,7 @@ description: Tools and Apps to make your life easier.
 
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
-[**Google Unlocked**](https://github.com/Ibit-to/google-unlocked) - Uncensor google search results.
+[**Google Unlocked**](https://github.com/Ibit-to/google-unlocked) - Uncensor Google Search results.
 
 [**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to the Play Store when browsing apps.
 
@@ -113,7 +111,7 @@ description: Tools and Apps to make your life easier.
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, have wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
-[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.
+[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.  
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 *<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
@@ -141,7 +139,7 @@ description: Tools and Apps to make your life easier.
 
 # Useful Websites
 
-[**Internet Archive**](https://web.archive.org/) | [**Webpage archive**](https://archive.today/) - Sites that host archived versions of other sites. You can archive any site you want too.
+[**Internet Archive**](https://web.archive.org/) | [**archive.today**](https://archive.today/) - Sites that host archived versions of other sites. You can archive any site you want too.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
 [**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
