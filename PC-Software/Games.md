@@ -77,6 +77,11 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 
 ## Other
 
+**[Rezi](https://rezi.one) (DDL)**
+
+Game search engine which allows you to find games from multiple trusted sources simply by searching.
+**Uses outside sources**
+
 **[Online-Fix](https://online-fix.me) (DDL / Torrent)**
 
 Provides Online-Fixes (Multiplayer) for many Games available, the more complex fixes being coded by their own Crackers (0xdeadc0de and others).  
