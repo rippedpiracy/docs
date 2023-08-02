@@ -172,7 +172,7 @@ description: Tools and Apps to make your life easier.
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various Security and Privacy Tools.  
 [**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://privacy.reddit.com).
 
-[**Awesome Privacy**](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy.  
+[**Awesome Privacy**](https://pluja.github.io/awesome-privacy/) - A curated list of services and alternatives that respect your privacy.  
 
 [**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s Wiki that has some useful Tech Guides.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide) - Guide that may help you remove Malware.  
