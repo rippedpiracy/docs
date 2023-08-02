@@ -42,7 +42,7 @@ description: Tools and Apps to make your life easier.
 [**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file.  
 *<small>SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.</small>*
 
-[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) | [**Chameleon**](https://sereneblue.github.io/chameleon/) - Highly configurable User-Agent Switchers.
+[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) | [**Chameleon (<span style="color:red">Firefox</span>)**](https://sereneblue.github.io/chameleon/) - Highly configurable User-Agent Switchers.
 
 [**Temporary Containers (<span style="color:red">Firefox</span>)**](https://github.com/stoically/temporary-containers) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
