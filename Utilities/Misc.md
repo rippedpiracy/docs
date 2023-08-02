@@ -58,7 +58,6 @@ description: Tools and Apps to make your life easier.
 
 [**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.  
 [**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the dislike count on Youtube.  
-[**Minimal YouTube**](https://github.com/dephraiim/minimal-youtube) - Replaces the YouTube UI with a minimal design.
 
 # Browser UserScripts
 
