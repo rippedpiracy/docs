@@ -244,6 +244,9 @@ Some common redistributables are:</small>
 
 [**VNDB**](https://vndb.org/) - The largest, most accurate and most up-to-date Visual Novel DataBase on the web.
 
+[**PanDownload**](https://baidu.gamesdrive.net/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download.  
+*<small>All ALI213 uploads have the password "9999".</small>*
+
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
 
