@@ -3,7 +3,8 @@ title: Anime
 description: Comprehensive list of sites for downloading and streaming Anime.
 ---
 
-[**The Anime Index**](https://theindex.moe/), a **HUGE** list of Streaming/Downloading sites and apps categorized in Languages, Sub/Dubs and more.
+[**The Anime Index**](https://theindex.moe/), a **HUGE** list of Streaming/Downloading sites and apps categorized in Languages, Sub/Dubs and more.  
+[**Wotaku**](https://wotaku.pages.dev/), a list of Tools, Apps and Sites for your Anime needs.
 
 # Downloading
 
