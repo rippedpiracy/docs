@@ -19,11 +19,6 @@ You can mostly find Adobe Products and Autodesk Software.
 
 # Direct Download
 
-**[FileCR](https://filecr.com)**
-
-Has different Categories for Windows, Mac and Android Software Piracy. Offers Torrents too but DDLs prevail.  
-**Do not download the FileCR Assistant/WebCRX extension if it prompts you to, get the Software you want from somewhere else.**
-
 **[Nsane Forums](https://nsaneforums.com/)**
 
 Forum focused on News for everything Piracy, with downloads for Software and Utilites. Forum, **_Requires Sign-up._**  
