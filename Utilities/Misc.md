@@ -166,8 +166,6 @@ description: Tools and Apps to make your life easier.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
-[**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://reddit.com/r/vpn)'s Google Spreadsheet that compares various popular VPNs, ranking the best ones for your needs.  
-
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://reddit.com/r/PrivacyGuides)'s Website, has good information about various Security and Privacy Tools.  
 [**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://reddit.com/r/privacy).
 
