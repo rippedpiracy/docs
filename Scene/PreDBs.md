@@ -28,6 +28,6 @@ As listed in the [**Scene Glossary**](/Scene-Glossary),
 &nbsp;
 ## Honorable Mentions
 
-**[r/CrackWatch](https://crackwatch.reddit.com/)**
+**[r/CrackWatch](https://reddit.com/r/crackwatch)**
 
 SubReddit for new Game Release announces, also have game piracy news/discussions.

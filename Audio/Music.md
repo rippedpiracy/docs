@@ -78,9 +78,9 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 [**Doujin Café**](https://discord.gg/doujincafe) - The source of nearly all doujin rips online.  
 **_Discord Server_**.  
 
-[**r/xTrill**](https://xTrill.reddit.com) - A Subreddit for requesting and sharing Music.
+[**r/xTrill**](https://reddit.com/r/xTrill) - A Subreddit for requesting and sharing Music.
 
-[**r/MusicHoarder**](https://musichoarder.reddit.com) - A SubReddit for general Music enthusiasts, they allow requesting and sharing Music. Check their [Wiki](https://reddit.com/r/musichoarder/wiki/index) for some useful information.
+[**r/MusicHoarder**](https://reddit.com/r/musichoarder) - A SubReddit for general Music enthusiasts, they allow requesting and sharing Music. Check their [Wiki](https://reddit.com/r/musichoarder/wiki/index) for some useful information.
 
 # Misc
 

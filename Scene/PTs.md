@@ -65,6 +65,6 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 [**Private Trackers Guide**](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers/) - Some info about Private Trackers by r/Piracy.  
 [**Private Tracker List**](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - A helpful list that has updated stats of most of the Private Trackers.  
 [**InviteRoute**](https://inviteroute.github.io/sheet/) - Shows which Private Trackers you can enter from which other ones.  
-[**r/OpenSignups**](https://OpenSignups.reddit.com/) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones. 
+[**r/OpenSignups**](https://reddit.com/r/OpenSignups) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones. 
 
 <small>[Here](https://pastebin.pl/view/raw/f19e4e48) is a list of the homes of various Internal Groups in Private Trackers.</smal>
