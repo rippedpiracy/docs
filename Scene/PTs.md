@@ -35,15 +35,15 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 |  | General | HD | Movies | TV | Games | Anime | Music | Books | E-learning | Porn | Scene |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tier 1 | [IPT](https://iptorrents.com/) | [HDB](https://hdbits.org/) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [GGN](https://gazellegames.net/) | [AB](https://animebytes.tv/) | [RED](https://redacted.ch) | [BIB](https://bibliotik.me/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [TL](https://torrentleech.org/) |
-| Tier 2 | [TL](https://torrentleech.org/) | [BHD](https://beyond-hd.me/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [PxC](https://pixelcove.me/) | [BBT](https://bakabt.me/) | [OPS](https://orpheus.network/) | [MAM](https://myanonamouse.net/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [RTT](https://revolutiontt.me/) |
+| Tier 1 | [IPT](https://iptorrents.com/) | [HDB](https://hdbits.org/) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [GGN](https://gazellegames.net/) | [AB](https://animebytes.tv/) | [RED](https://redacted.ch) | [MAM](https://myanonamouse.net/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [TL](https://torrentleech.org/) |
+| Tier 2 | [TL](https://torrentleech.org/) | [BHD](https://beyond-hd.me/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [PxC](https://pixelcove.me/) | [BBT](https://bakabt.me/) | [OPS](https://orpheus.network/) | [BIB](https://bibliotik.me/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [RTT](https://revolutiontt.me/) |
 | Tier 3 | [FL](https://filelist.io) | [BLU](https://blutopia.xyz/) | None | [MTV](https://morethantv.me/) | None | [AR](https://alpharatio.cc/) | [DIC](https://dicmusic.club/) | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [TD](https://torrentday.com/) |
 
 **Audiobooks**: [MyAnonaMouse](https://myanonamouse.net/) (note that the best GENERAL source of audiobooks is [AudioBookBay](https://audiobookbay.se/) and occasionally [RuTracker](https://rutracker.org/) which are not Private Trackers)
 
 **Piano sheets**: [MyAnonaMouse](https://myanonamouse.net/)
 
-**E-learning:** [TheOccult](https://theoccult.click/) (esoteric), [TheVault](https://thevault.click/) (business), [TheShow](https://theshow.click/) (entertainment), [ThePlace](https://theplace.click/) (seduction),
+**E-learning:** [TheOccult](https://theoccult.click/) (esoteric), [TheVault](https://thevault.click/) (business), [TheShow](https://theshow.click/) (entertainment), [ThePlace](https://theplace.click/) (seduction)
 
 **Obscure/Older TV**: [KaraGarga](https://karagarga.in/), [cinemaTIK](https://cinematik.net), [SecretCinema](https://secret-cinema.pw/), [MySpleen](https://www.myspleen.org/), [TV-Vault](https://tv-vault.me/)
 
