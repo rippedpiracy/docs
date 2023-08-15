@@ -40,7 +40,7 @@ description: Reliable sources to obtain e-Books.
 - [**SciMag**](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
 - [**Free Full PDF**](https://freefullpdf.com/)
 - [**Freetechbooks**](https://www.freetechbooks.com/)
-- [**r/Scholar**](https://scholar.reddit.com/) - If you cant find an article anywhere, you can request it in this subreddit.
+- [**r/Scholar**](https://reddit.com/r/scholar) - If you cant find an article anywhere, you can request it in this subreddit.
 &nbsp;  
 &nbsp;
 # Other

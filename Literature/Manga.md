@@ -2,7 +2,8 @@
 title: Manga
 description: Collection of resources for your Manga needs
 ---
-[**The Index**](https://theindex.moe/), a **HUGE** list of reading/downloading sites and apps categorized in Platforms, Categories and more.
+[**The Index**](https://theindex.moe/), a **HUGE** list of reading/downloading sites and apps categorized in Platforms, Categories and more.  
+[**Wotaku**](https://wotaku.pages.dev/), a list of Tools, Apps and Sites for your Manga needs.
 
 > It is generally advised to avoid aggregator websites as they consist of annoying ads, highly compressed images and no updates on best quality releases.  
 > Scans and officials' reading should suffice with the top two choices under <a target="_self" href="#web-reading">Web Reading</a>, in case of a very niche series or series licensed only for paperback publishing, do check [Nyaa.si](https://nyaa.si/?c=3_0) - a torrent tracker.

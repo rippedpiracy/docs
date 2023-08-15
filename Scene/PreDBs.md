@@ -15,11 +15,9 @@ As listed in the [**Scene Glossary**](/Scene-Glossary),
 
 ## PreDB Sites
 - **[xREL](https://www.xrel.to/releases.html#)** 
-- **[PreDB.live](https://predb.live/)**
 - **[PreDB.org](https://www.predb.org/)**  
-- **[PreDB.de](https://predb.de/)**  
+- **[PreDB.net](https://predb.net/)**  
 - **[PreDB.me](https://predb.me/)**   
-- **[Pre.Corrupt-net](https://pre.corrupt-net.org/)**
 &nbsp;  
 &nbsp;
 ## Pre IRC Channels  
@@ -30,6 +28,6 @@ As listed in the [**Scene Glossary**](/Scene-Glossary),
 &nbsp;
 ## Honorable Mentions
 
-**[r/CrackWatch](https://crackwatch.reddit.com/)**
+**[r/CrackWatch](https://reddit.com/r/crackwatch)**
 
 SubReddit for new Game Release announces, also have game piracy news/discussions.

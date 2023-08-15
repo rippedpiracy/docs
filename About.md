@@ -15,7 +15,7 @@ Feel free to contribute by making a Pull Request or an issue with your contribut
 
 ## Formatting
 
-This website is generated using [mkdocs](https://www.mkdocs.org) & Markdown, you can learn more about the latter [**here**](https://www.markdowntutorial.com/).
+This website is generated using [mkdocs](https://www.mkdocs.org) & Markdown, you can learn more about the latter using the [**Markdown Tutorial**](https://www.markdowntutorial.com/).
 
 In brief, here's how Markdown works:
 

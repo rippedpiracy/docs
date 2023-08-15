@@ -6,47 +6,50 @@ description: Tools and Apps to make your life easier.
 # Browser Extensions
 
 <sub>We recommend coupling these Extensions & UserScripts with [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).</sub>
-  
-[**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
-*<small>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
 
-[**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient AdBlocker for Chromium and Firefox, fast and lean.  
+[**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient Ad & Content Blocker for Chromium and Firefox, fast and lean.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **LukeThighStalker**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking Pop-ups and Anti-AdBlocks.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[iplogger](https://github.com/piperun/iploggerfilter) - Filters any site who's only purpose is to log your IP.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of Filter lists for Anime Streaming, Manga reading, and Downloading of other Japanese Media.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.
 
+
+[**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
+*<small>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
+
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
 ***Can be difficult to setup for the Average User.***  
 [**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
-[**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is the recommended extension for Firefox but it may break some sites.  
-*<small>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox for Mobile and Chromium Browsers.</small>*  
-[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible websites that track your Search and Browsing History.    
+[**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is recommended for Firefox but it may break some sites.  
+*<small>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>*  
+[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible domains that track your Search and Browsing History.    
 
-[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a website too that allows searching through its database [here](https://tosdr.org/).
+[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
 [**JustDeleteMe**](https://justdeleteme.xyz/) - Provides links and info on how to delete accounts based on the current active tab.
 
-[**The Marvellous Suspender (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) & [**The Great Suspender (<span style="color:red">Firefox</span>)**](https://github.com/dvalter/ff-thegreatsuspender) | [**Tabs Outliner (<span style="color:red">Chromium</span>)**](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Manually / Automatically suspend/unsuspend Tabs to save up RAM usage.  
+[**The Great Suspender (<span style="color:red">Firefox</span>)**](https://github.com/dvalter/ff-thegreatsuspender) - Manually / Automatically suspend Tabs to save up RAM usage.  
+*<small>Chromium now has this functionality [built-in](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother).</small>*  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
 
-[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension for Humans.  
+[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension.  
 
 [**Web Archives**](https://github.com/dessant/web-archives) - Makes it easy to view archived and cached versions of web pages.
 
-[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file. SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.
+[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file.  
+*<small>SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.</small>*
 
-[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) - A highly configurable User-Agent Switcher that can spoof per hostname, per window, per container (Firefox only), or randomly from an array.
+[**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) | [**Chameleon (<span style="color:red">Firefox</span>)**](https://sereneblue.github.io/chameleon/) - Highly configurable User-Agent Switchers.
 
 [**Temporary Containers (<span style="color:red">Firefox</span>)**](https://github.com/stoically/temporary-containers) - Allows you to open tabs, websites, and links in automatically managed disposable containers. Containers isolate data websites store (cookies, storage, and more) from each other.  
 [**Cookie AutoDelete**](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deletes cookies and other browsing site data as soon as a Browser Tab closes, domain changes or browser restarts.
 
-[**Allow Right Click**](https://add0n.com/allow-right-click.html) - Re-enable right clicking on sites that disable it.
+[**Allow Right Click**](https://add0n.com/allow-right-click.html) - Re-enables right clicking on sites that disable it.
 
 [**DownThemAll!**](https://www.downthemall.org/) | [**DownZemAll!**](https://setvisible.github.io/DownZemAll/) - DownThemAll is a mass download manager directly built inside the Browser, whereas DownZemAll is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).  
 [**Media Reaper**](https://sasrip.sas41.com/Home/MediaReaper) - Easily download videos and audio files from any site that youtube-dl supports, found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
@@ -56,7 +59,7 @@ description: Tools and Apps to make your life easier.
 [**Stylus**](https://add0n.com/stylus.html) - Browser UserStyles Manager, used for loading CSS files for customising the appearance of webpages.
 
 [**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.  
-[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the dislike count on Youtube.
+[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the dislike count on Youtube.  
 
 # Browser UserScripts
 
@@ -76,7 +79,9 @@ description: Tools and Apps to make your life easier.
 
 [**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
 
-[**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to Google Play Store when browsing apps, allowing the download of the APK.
+[**Google Unlocked**](https://github.com/Ibit-to/google-unlocked) - Uncensor Google Search results.
+
+[**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to the Play Store when browsing apps.
 
 # Useful Apps
 
@@ -105,9 +110,9 @@ description: Tools and Apps to make your life easier.
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
-[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, have wider support for capturing and downloading media.  
+[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
-[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader. 
+[**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.  
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
 *<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
@@ -131,25 +136,25 @@ description: Tools and Apps to make your life easier.
 
 [**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
 
-[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.
+[**Ventoy**](https://www.ventoy.net/) | [**Rufus**](https://rufus.ie/) - Tools to create bootable USB drives.
 
 # Useful Websites
 
-[**Internet Archive**](https://web.archive.org/) | [**Webpage archive**](https://archive.today/) - Sites that host archived versions of other sites. You can archive any site you want too.
+[**Internet Archive**](https://web.archive.org/) | [**Webpage Archive**](https://archive.today/) - Sites that host archived versions of other pages. You can archive any site you want.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
 [**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
 **_Some may require Sign-Up._**  
 
-[**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your email or phone number is in a data breach.
+[**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your e-mail or Phone number is in a data breach.
 
 [**Just Delete Me**](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 
-[**AlternativeTo**](https://alternativeto.net/) - A good website to find alternatives to software you use.
+[**AlternativeTo**](https://alternativeto.net/), [**OpenSourceAlternativeTo**](https://www.opensourcealternative.to/) - Find open source alternatives to any software you use.
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
-[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images for reasons.
+[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images.
 
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
 
@@ -163,12 +168,12 @@ description: Tools and Apps to make your life easier.
 
 [**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
 
-[**VPN Comparison Table**](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit?usp=sharing) - [r/VPN](https://vpn.reddit.com)'s Google Spreadsheet that compares various popular VPNs, ranking the best ones for your needs.  
+[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://reddit.com/r/PrivacyGuides)'s Website, has good information about various Security and Privacy Tools.  
+[**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://reddit.com/r/privacy).
 
-[**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://PrivacyGuides.reddit.com)'s Website, has good information about various Security and Privacy Tools.  
-[**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://privacy.reddit.com).
+[**Awesome Privacy**](https://pluja.github.io/awesome-privacy/) - A curated list of services and alternatives that respect your privacy.  
 
-[**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://techsupport.reddit.com)'s Wiki that has some useful Tech Guides.  
+[**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://reddit.com/r/techsupport)'s Wiki that has some useful Tech Guides.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide) - Guide that may help you remove Malware.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ransomware Mitigation Guide](https://rtech.support/books/safety-and-security/page/ransomware) - Helps to mitigate and prevent a Ransomware attack.  
 
@@ -179,6 +184,8 @@ description: Tools and Apps to make your life easier.
 
 [**Are We Anti-Cheat Yet?**](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
 
-[**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://piracy.reddit.com) Megathread.  
+[**EFF's blog**](https://www.eff.org/updates?type=All) - The EFF blog is a reliable and informative platform that provides up-to-date news, analysis, and commentary on important issues regarding digital rights, privacy, and online freedom.
+
+[**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://reddit.com/r/piracy) Megathread.  
 [**FREEMEDIAHECKYEAH**](https://fmhy.pages.dev/) - A Wiki by the FMHY community, they also have a [guides](https://www.fmhy.ml/guides) section.  
 **Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**

@@ -21,7 +21,7 @@ In the Streaming section as you can Stream the Content you want to Download.
 *<small>Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</small>*
 
 [**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop) - Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like YTS) which has an [Android Version](https://github.com/popcorn-official/popcorn-android) too.  
-Their [Subreddit](https://PopCornTimeApp.reddit.com/) can be visited for more info. Its official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
+Their [Subreddit](https://reddit.com/r/PopCornTimeApp) can be visited for more info. Its official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
 **_Only use the site we linked here._**  
 *<small>In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.</small>*
 

@@ -13,7 +13,8 @@ In the case that any of the sites are blocked, use [GoodByeDPI](https://github.c
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
 **<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u></span>  
-Remember to <u>NEVER</u> get Software Releases from this site.**
+Remember to <u>NEVER</u> get Software Releases from this site.**  
+*<small>Empress's new releases can be found [here](https://telegra.ph/empress-biography-07-15).</small>*
 
 **[RuTor](http://rutor.info) (Torrent)**
 
@@ -243,13 +244,16 @@ Some common redistributables are:</small>
 
 [**VNDB**](https://vndb.org/) - The largest, most accurate and most up-to-date Visual Novel DataBase on the web.
 
+[**PanDownload**](https://baidu.gamesdrive.net/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download.  
+*<small>All ALI213 uploads have the password "9999".</small>*
+
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
 
 [**Skymods**](https://catalogue.smods.ru/) - Community driven Steam Workshop library. Use an Anti-Virus to scan the files you download.  
 [**GGNETWORK**](https://ggntw.com/steam) - Online Steam Workshop Downloader, has support for many Games. Only ever use this site to download Workshop mods, and not Games.  
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
-[**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Due note that this site is extremely unreliable.
+[**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Do note that this site is extremely unreliable.
 
 [**Kemono**](https://kemono.party/) - They host leaks of Patreon creators (among other platforms), useful if a Mod is locked behind Patreon. NSFW Warning.
 
