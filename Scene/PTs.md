@@ -53,6 +53,8 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 **Asian Music**: [JPopSuki](https://jpopsuki.eu/)
 
+**Visual Novels**: [Sukebei](https://sukebei.nyaa.si/?c=1_3) (Public Tracker), [GazelleGames](https://gazellegames.net/), [AnimeBytes](https://animebytes.tv/)
+
 **Rhythm Games**: [Bemaniso](https://bemaniso.ws/), [OnlyOneCab](https://onlyone.cab/)
 
 **3D Software, Graphic Design, VFX**: [CGpeers](https://cgpeers.to/), [GFXpeers](https://gfxpeers.net)
