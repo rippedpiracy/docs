@@ -10,20 +10,11 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**SFlix**](https://sflix.to/home) - Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup addons in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
-[**rinzry**](https://rinzry.stream/) - Huge Index with many Movies & TV Shows, using Google Drive.  
-In the Streaming section as you can Stream the Content you want to Download.
-
-[**StreamingCommunity**](https://streamingcommunity.codes/) - Constantly updated site with Italian Dubbed/Subbed Content, a UI similar to Netflix.
+[**WatchCartoonsOnline**](https://watchcartoononline.com) - Site for Cartoons and subbed/dubbed Anime.
 
 [**Seez**](https://seez.su) - A streaming webpage with a modern UI. Constantly updated with Indian content. Has additional hosts and subtitles.
 
-[**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/) - Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links as well as from certain Sites and have a plethora of Addons available that will make your experience much better.  
-*<small>Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</small>*
-
-[**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop) - Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like YTS) which has an [Android Version](https://github.com/popcorn-official/popcorn-android) too.  
-Their [Subreddit](https://reddit.com/r/PopCornTimeApp) can be visited for more info. Its official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
-**_Only use the site we linked here._**  
-*<small>In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.</small>*
+[**StreamingCommunity**](https://streamingcommunity.codes/) - Constantly updated site with Italian Dubbed/Subbed Content, a UI similar to Netflix.
 
 # Downloading
 
@@ -34,6 +25,9 @@ Quality can vary from one Release to another, ALWAYS check filesizes and Torrent
 
 **[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
+**[Pahe](https://pahe.li/) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
+*<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links</small>*
+
 # IRC
 
 <small>No Middle-Man between you, and Downloading the Content from the IRC bots. <b>Requires an [IRC](https://wikipedia.org/wiki/Internet_Relay_Chat) Client such as [HexChat](https://hexchat.github.io/).</b></small>
@@ -41,6 +35,14 @@ Quality can vary from one Release to another, ALWAYS check filesizes and Torrent
 **[MovieGods](irc://irc.abjects.net/MOVIEGODS) (XDCC)** - A File sharing Network with a vast amount of resources, mainly for Movies & Shows. Head to #mg-chat to Download Content.
 
 # Apps
+
+[**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/) - Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links as well as from certain Sites and have a plethora of Addons available that will make your experience much better.  
+*<small>Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</small>*
+
+[**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop) - Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like YTS) which has an [Android Version](https://github.com/popcorn-official/popcorn-android) too.  
+Their [Subreddit](https://reddit.com/r/PopCornTimeApp) can be visited for more info. Its official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
+**_Only use the site we linked here._**  
+*<small>In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.</small>*
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
 *<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
