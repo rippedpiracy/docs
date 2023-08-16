@@ -35,12 +35,12 @@ description: Guides for Homebrewing various Consoles.
 
 **[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.  
 **[r/PS3Homebrew](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew](https://www.reddit.com/r/ps5homebrew/)** | **[r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
-**[r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/)** - Subreddit for Steam Deck Piracy. 
-**[r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/)** - Nintendo Switch Piracy discussions. 
+**[r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/)** - Subreddit for Steam Deck Piracy.  
+**[r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/)** - Nintendo Switch Piracy discussions.  
 **[r/VitaHacks](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.  
 **[r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/)** - Place to discuss Vita Piracy.  
-**[r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/)** - A Subreddit made for Hacking the Nintendo Wii U.  
 **[r/3DSHacks](https://www.reddit.com/r/3dshacks/)** - Place to discuss 3DS hacking and Homebrew.  
+**[r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/)** - A Subreddit made for Hacking the Nintendo Wii U.  
 **[r/WiiHacks](https://www.reddit.com/r/WiiHacks/)** - A Subreddit made for Hacking the Nintendo Wii.  
 **[r/XboxModding](https://www.reddit.com/r/XboxModding/)** - Dedicated community for Modding any and all Xbox consoles.  
 **[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.  
