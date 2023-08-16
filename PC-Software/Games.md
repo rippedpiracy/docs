@@ -36,6 +36,10 @@ Another active Repacker that provides Torrent links with DDL mirrors. Usually ta
 
 Old and still ongoing Repackers, recently merged with Masquerade. Their Torrents may have lower seeders compared to other Repackers. They upload on 1337x too.
 
+**[GNARLY](https://www.gnarly-repacks.site/) (DDL)**
+
+Repacks contain optional lossily compressed assets to reduce Game size further if needed. There are quite a few Console Game Repacks (alongside required emulators).
+
 ## General DDL
 
 **[Ova Games](https://ovagames.com) (DDL)**
