@@ -34,17 +34,18 @@ description: Guides for Homebrewing various Consoles.
 ### Community
 
 **[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.  
-**[r/yuzupiracy1](https://www.reddit.com/r/yuzupiracy1/)** - Nintendo Switch Piracy discussions.  
-**[r/WiiUHacks/](https://www.reddit.com/r/WiiUHacks/)** - A Subreddit made for Hacking the Nintendo Wii U.  
-**[r/3DSHacks/](https://www.reddit.com/r/3dshacks/)** - Place to discuss 3DS hacking and Homebrew.  
-**[r/WiiHacks/](https://www.reddit.com/r/WiiHacks/)** - A Subreddit made for Hacking the Nintendo Wii.  
-**[r/VitaHacks/](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.  
-**[r/VitaPiracy/](https://www.reddit.com/r/VitaPiracy/)** - Place to discuss Vita Piracy.  
-**[r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/)** - Subreddit for discussing Xbox One/Series Retail Mode Homebrew! From RetroArch to DurangoFTP.  
-**[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.  
+**[r/PS3Homebrew](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew](https://www.reddit.com/r/ps5homebrew/)** | **[r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
+**[r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/)** - Subreddit for Steam Deck Piracy. 
+**[r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/)** - Nintendo Switch Piracy discussions. 
+**[r/VitaHacks](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.  
+**[r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/)** - Place to discuss Vita Piracy.  
+**[r/WiiUHacks](https://www.reddit.com/r/WiiUHacks/)** - A Subreddit made for Hacking the Nintendo Wii U.  
+**[r/3DSHacks](https://www.reddit.com/r/3dshacks/)** - Place to discuss 3DS hacking and Homebrew.  
+**[r/WiiHacks](https://www.reddit.com/r/WiiHacks/)** - A Subreddit made for Hacking the Nintendo Wii.  
 **[r/XboxModding](https://www.reddit.com/r/XboxModding/)** - Dedicated community for Modding any and all Xbox consoles.  
+**[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.  
+**[r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/)** - Subreddit for discussing Xbox One/Series Retail Mode Homebrew! From RetroArch to DurangoFTP.  
 **[r/360hacks](https://www.reddit.com/r/360hacks/)** - Anything related to Xbox 360 Hacks, Mods, Homebrew, or Scene news.  
-**[r/PS3Homebrew/](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew/](https://www.reddit.com/r/ps5homebrew/)** | **[r/PS5Homebrew/](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
 
 ## Loading Games
 This section provides information about playing Games on Consoles listed or written by ourselves, as the listed Homebrew guides above are against piracy, and as such does not provide any information on playing downloaded copies.
