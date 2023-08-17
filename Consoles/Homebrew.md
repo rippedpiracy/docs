@@ -9,6 +9,9 @@ description: Guides for Homebrewing various Consoles.
 
 ### Nintendo
 
+[**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.  
+[**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, a tool which oversimplifies the process.
+
 [**WiiBrew**](https://wiibrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
 [**Wii Guide**](https://wii.guide) - Guide made by the RiiConnect team to Homebrew the Wii.
 
@@ -22,13 +25,12 @@ description: Guides for Homebrewing various Consoles.
 
 [**N64brew**](https://n64brew.dev/wiki/Main_Page) - Wiki dedicated to Homebrewing the Nintendo 64.
 
-[**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.  
-[**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, a tool which oversimplifies the process.
-
 ### Sony
 
 [**Vita Guide**](https://vita.hacks.guide/) - Guide to Homebrew the PS Vita made by the Hacks.Guide team.  
 [**VitaDB**](https://vitadb.rinnegatamante.it/#/) - Place to download many Vita Games that were ported from other Consoles/PC to Vita.
+
+[**PlayStation Guide**](https://hackinformer.com/PlayStationGuide/index.html) - Guides for homebrewing and various other hacks for the PSP, Vita, PS2 and the PS4. Note that this guide will be outdated in some areas.
 
 ### Steam Deck
 
