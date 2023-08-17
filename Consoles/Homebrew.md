@@ -17,7 +17,7 @@ description: Guides for Homebrewing various Consoles.
 [**WiiBrew**](https://wiibrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
 [**Wii Guide**](https://wii.guide) - Guide made by the RiiConnect team to Homebrew the Wii.
 
-[**WiiUBrew**](https://wiiubrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U. 
+[**WiiUBrew**](https://wiiubrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
 [**Wii U Guide**](https://wiiu.hacks.guide/) - Guide made by the Hacks.guide team to Homebrew the Wii U.
 
 [**3DS Guide**](https://3ds.hacks.guide/) A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
