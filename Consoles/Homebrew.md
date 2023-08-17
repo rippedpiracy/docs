@@ -9,11 +9,18 @@ description: Guides for Homebrewing various Consoles.
 
 ### Nintendo
 
+[**WiiBrew**](https://wiibrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
 [**Wii Guide**](https://wii.guide) - Guide made by the RiiConnect team to Homebrew the Wii.
 
+[**WiiUBrew**](https://wiiubrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U. 
 [**Wii U Guide**](https://wiiu.hacks.guide/) - Guide made by the Hacks.guide team to Homebrew the Wii U.
 
 [**3DS Guide**](https://3ds.hacks.guide/) A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
+
+[**GC-Forever**](https://www.gc-forever.com/wiki/index.php?title=Main_Page) - A Wiki for the Nintendo GameCube.  
+*<small>They also have a forum <https://www.gc-forever.com/forums/index.php> with discussions for other consoles alongside GameCube.</small>*
+
+[**N64brew**](https://n64brew.dev/wiki/Main_Page) - Wiki dedicated to Homebrewing the Nintendo 64.
 
 [**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.  
 [**Switch Homebrew Guide**](https://switch.homebrew.guide/) - Another Nintendo Switch Homebrew guide. This guide uses SDSetup, a tool which oversimplifies the process.
