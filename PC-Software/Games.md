@@ -71,6 +71,8 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 Arguably the best site for Game Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for many Games.  
 **_Requires Sign-up_**.  
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when it's mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PanDownload](https://baidu.gamesdrive.net/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download.  
+*<small>All ALI213 uploads have the password "9999".</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru. Make sure to enable SCS in the settings otherwise SCS forums are hidden by default.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - An okay guide for browsing cs.rin.ru by **MIDNYTE**. If you need further support, drop in our [Discord Server](https://discord.ripped.guide).  
 
@@ -206,7 +208,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 [**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/), in SteamWebAPI, in [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games) or in [GGNetwork](https://ggntw.com/steam) you can download the mods for free using the app!  
 [**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.
 
-[**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also extract SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
+[**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also be used to verify SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
 [**Tulip Steam Game Packer**](https://cs.rin.ru/forum/viewtopic.php?t=114211) - CLI Steam Games Downloader, has wide range of features such as: automatically archiving, downloading platform specific (Windows, Mac, Linux) content, option to pick different branches and more.  
 [**DepotDownloader**](https://github.com/SteamRE/DepotDownloader) - CLI Steam Depot Downloader, can individually download DLCs and other Depots of Games (if the DLCs have their own Depots) that you own. It can also download individual manifest files, meaning you can download older versions of Depots/Games/DLCs.    
@@ -241,15 +243,12 @@ Some common redistributables are:</small>
 [**Wine AppDB**](https://appdb.winehq.org/) - Database containing information on the compatibility of various apps and Games on various platforms such as Linux and Mac (non-ARM).  
 [**AppleGamingWiki**](https://www.applegamingwiki.com/wiki/Home) - Fixes and compatibility information for Games on M1 Apple silicon Macs. Games are tested on Rosetta 2, iOS/iPadOS, [Crossover](https://www.applegamingwiki.com/wiki/CrossOver) and [Parallels](https://www.applegamingwiki.com/wiki/Parallels).
 
-[**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amounts of information about virtually all games on Steam, helps for checking Game versions, file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
+[**SteamDB**](https://steamdb.info) - A Steam Database site that has vast amounts of information about virtually all games on Steam, helps for checking Game versions, partial file checksums of latest builds of any Game, trading cards, Game branches, Game prices in all regions and many more.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDB Extension](https://steamdb.info/extension/) - SteamDB's Browser extensions that offers new features to the Steam Web Store such as bypassing age verification, providing quick links to external sites, and more.  
 [**Augmented Steam**](https://augmentedsteam.com/) - Great Browser extension for Steam that introduces many new features, like showing prices for different countries, customising the Steam Web Store further and more.  
 *<small>If you decide to use Augmented Steam and the SteamDB extension simultaneously, make sure to configure them accordingly since some of the features may interfere.</small>*
 
 [**VNDB**](https://vndb.org/) - The largest, most accurate and most up-to-date Visual Novel DataBase on the web.
-
-[**PanDownload**](https://baidu.gamesdrive.net/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download.  
-*<small>All ALI213 uploads have the password "9999".</small>*
 
 [**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
 **Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
