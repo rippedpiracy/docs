@@ -45,7 +45,7 @@ description: Guides for Homebrewing various Consoles.
 ### Community
 
 **[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.  
-**[r/PS3Homebrew](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew](https://www.reddit.com/r/ps5homebrew/)** | **[r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
+**[r/PS3Homebrew](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/)** | **[r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
 **[r/SteamDeckPirates](https://www.reddit.com/r/SteamDeckPirates/)** - Subreddit for Steam Deck Piracy.  
 **[r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/)** - Nintendo Switch Piracy discussions.  
 **[r/VitaHacks](https://www.reddit.com/r/vitahacks/)** - Place to discuss Vita hacking and Homebrew.  
