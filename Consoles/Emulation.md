@@ -1,12 +1,12 @@
 ---
-title: ROMs
-description: List of sites that offer ROM Downloads.
+title: Emulation
+description: Resources for Emulation and sites that offer ROM Downloads.
 ---
 
 Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) while browsing all of these sites!  
 <small>Note: Many of the tools on the <a target="_self" href="/Utilities/Misc">Misc</a> page can be used to improve your downloading experience.</small>
 
-## Downloading
+## ROMs
 
 **[ROMSPURE](https://romspure.cc/roms) (DDL)**
 
@@ -66,6 +66,15 @@ A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for diff
 **[Scene CrackHub](http://scene.crackhub.site/) (DDL)**
 
 An Auto Scene Release Uploader Bot that uploads Nintendo Switch titles among other ROMs.
+
+## Emulators
+
+[/emugen/ Wiki](https://emulation.gametechwiki.com/) - The **ULTIMATE** guide for all Emulators on all Platforms.  
+*<small>Make sure to check with your Emulator [here](https://emulation.gametechwiki.com/index.php/Emulator_files) in case it requires some sort of BIOS or special file to function.</small>*
+
+[**Yuzu EA**](https://pineappleea.github.io/) - Early Access version of [Yuzu](https://github.com/yuzu-emu/yuzu).
+
+<small>**Stable PS4/PS5 or Xbox One/Xbox Series Emulators do not exist. If you find an app that claims to be that, it's a scam or it's highly unstable. Some examples for scam apps are: PCSX4, PCSX5, PSemuX.**</small>
 
 ## Apps
 
