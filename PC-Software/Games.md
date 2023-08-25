@@ -72,7 +72,7 @@ Arguably the best site for Game Piracy. It's a well moderated Forum with active 
 **_Requires Sign-up_**.  
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when it's mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PanDownload](https://baidu.gamesdrive.net/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download.  
-*<small>All ALI213 uploads have the password "9999".</small>*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<small>All ALI213 uploads have the password "9999".</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru. Make sure to enable SCS in the settings otherwise SCS forums are hidden by default.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - An okay guide for browsing cs.rin.ru by **MIDNYTE**. If you need further support, drop in our [Discord Server](https://discord.ripped.guide).  
 
