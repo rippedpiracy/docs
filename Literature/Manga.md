@@ -72,8 +72,6 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**nhentai**](https://nhentai.net) - The classic, has a big library but quality is lower than the original version. FAKKU/Irodori content doesn't get uploaded here.
 - [**Sukebei**](https://sukebei.nyaa.si/?c=1_4) - A Torrent site with a great collection of manga, a lot of the content from [ExHentai](http://exhentai.org/) also gets posted here. Content from FAKKU and Irodori gets posted here too.  
 *<small>As a tip, when searching for a manga use the Japanese title.</small>*
-- [**Koushoku**](https://koushoku.org) - Good source for FAKKU content only.  
-*<small>[Important Info](https://web.archive.org/web/20220808172315/https://koushoku.org/2022.08.07.txt) regarding the future of the site.</small>*
 - [**Akuma**](https://akuma.moe) - Easy to use site, but it has lower quality images than the original and doesn't upload FAKKU/Irodori content.
 - [**Hitomi.la**](https://hitomi.la/) - Has similar content types to E-Hentai/ExHentai but may have a better UI experience due to images loading quicker. Has lower quality images than the original.
 - [**HVNC**](https://t.me/FakkuFREE) - Telegram chat of HVNC, they post FAKKU content there.
