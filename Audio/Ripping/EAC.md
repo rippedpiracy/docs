@@ -224,3 +224,5 @@ Note: if any of the tracks do not get ripped accurately (or if you get read erro
 Other than that, it never hurts to make sure your files are tagged and named properly (though they should be). Any extra stuff you want to include should be added now as well... Additional artwork, an md5 fingerprint, an info.txt file, that sort of thing.
 
 <small>Credits: https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg by **Sharky**</small>
+
+<small><span style="color:red">Note: The document above uses screenshots and information from [redacted.ch's EAC setup guide](https://redacted.ch/wiki.php?action=article&name=eacsetupguide), although this source is not mentioned anywhere in the document.</span></small>
