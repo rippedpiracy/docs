@@ -223,4 +223,4 @@ Note: if any of the tracks do not get ripped accurately (or if you get read erro
 
 Other than that, it never hurts to make sure your files are tagged and named properly (though they should be). Any extra stuff you want to include should be added now as well... Additional artwork, an md5 fingerprint, an info.txt file, that sort of thing.
 
-<small>Credits: https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg by **Sharky**</small>
+<small>Credits to **caaok** for the original what.cd guides</small>
