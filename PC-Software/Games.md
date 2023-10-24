@@ -235,7 +235,9 @@ Some common redistributables are:</small>
 
 ## Misc
 
-<small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small>  
+<small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small> 
+
+[**Prismlauncher**](https://rentry.co/freemc) - Best/safest way to Minecraft for free. Guide to bypass check allowing offline accounts in this FOSS minecraft launcher. (Use this instead of Tlauncher, which is proprietary malware).
 
 [**PreDBs**](PreDBs.md) - List of Release Indexes that are used to check whether a Game has been cracked or not. Just a reminder that a Game not being on any list doesnt mean it hasn't been cracked.
 
