@@ -237,7 +237,8 @@ Some common redistributables are:</small>
 
 <small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small> 
 
-[**Prismlauncher**](https://rentry.co/freemc) - Best/safest way to use Minecraft for free. Guide to bypass check allowing offline accounts in this FOSS minecraft launcher. (Use this instead of Tlauncher, which is proprietary malware).
+[**PrismLauncher**](https://rentry.co/freemc) - The best way to Play and manage Minecraft. Linked here is a guide to a bypass that allows offline accounts.  
+<span style="color: red">**We do not recommend TLauncher as there's been proof they distribute malicious payloads.**</span>  
 
 [**PreDBs**](PreDBs.md) - List of Release Indexes that are used to check whether a Game has been cracked or not. Just a reminder that a Game not being on any list doesnt mean it hasn't been cracked.
 
