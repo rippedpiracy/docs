@@ -5,11 +5,10 @@ description: Make your OS lighter, faster and more secure.
 
 <sub>*Pro Tip: Make a Restore Point before running these apps!*</sub>
 # Debloating & Privacy
-**[TronScript](https://bmrf.org/repos/tron/)** - Most efficient and quick way to clean, De-bloat, optimize and disinfect your PC, recommended.  
+**[TronScript](https://bmrf.org/repos/tron/)** - The most efficient and automated way to clean, De-bloat, optimize and disinfect your old PCs, recommended.  
 **_BE SURE TO READ THE INSTRUCTIONS!_**
 
-**[AtlasOS](https://atlasos.net)** - A modification of Windows designed to maximize your system's performance and optimize latency.  
-**[ReviOS](https://revi.cc)** - A modified Windows ISO with improved performance, stability, and compatibility.  
+**[AtlasOS](https://atlasos.net)** - A modification of Windows designed to maximize your system's performance and optimize latency.    
 **Full Re-install required.**
 
 **[privacy.sexy](https://privacy.sexy/)** - Easily create a custom Debloating script made for your specific needs.
