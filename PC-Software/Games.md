@@ -55,11 +55,6 @@ Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-256 key from GOG.  
 *<small>This site is also accessible through the [Tor Browser](https://www.torproject.org/) through [here](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion).</small>*
 
-**[Scene CrackHub](https://scene.crackhub.site) (DDL)**
-
-An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 Scene Releases directly from [TorrentSeeds](https://torrentseeds.org/) to zippyshare.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CrackHub](https://crackhub.site) - Mainly focuses on re-uploading various content to different hosts, takes requests too.
-
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
 Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various hosts. They also take requests.
