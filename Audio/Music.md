@@ -71,7 +71,7 @@ description: List of sources for getting all genres of Music.
 # Communities
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz.  
-Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multiple [bots](https://github.com/crackhub-dev/music-dl-bot) that can download from Qobuz, TIDAL, Deezer, Soundcloud, Spotify, Apple Music, JioSaavn and YouTube Music. They allow community Music requesting/sharing.  
+Their [Discord server](https://discord.gg/6gQzgtBG) on the other hand, has multiple [bots](https://github.com/crackhub-dev/music-dl-bot) that can download from Qobuz, TIDAL, Deezer, Soundcloud, Spotify, Apple Music, JioSaavn and YouTube Music. They allow community Music requesting/sharing.  
 *<small>[Info](https://rentry.org/selfhosted-divolt) regarding Divolt and how it compares to [Revolt](https://revolt.chat/).</small>*
 
 [**SquidBoard**](https://squid-board.org) - A forum for sharing and requesting any type of music including Game OSTs, Anime OSTs, TV music and more.   
