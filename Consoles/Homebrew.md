@@ -23,7 +23,7 @@ description: Guides for Homebrewing various Consoles.
 [**3DS Guide**](https://3ds.hacks.guide/) A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
 
 [**GC-Forever**](https://www.gc-forever.com/wiki/index.php?title=Main_Page) - A Wiki for the Nintendo GameCube.  
-*<small>They also have a forum <https://www.gc-forever.com/forums/index.php> with discussions for other consoles alongside GameCube.</small>*
+*<small>They also have a [forum](https://www.gc-forever.com/forums/index.php) with discussions for other consoles alongside the GameCube.</small>*
 
 [**N64brew**](https://n64brew.dev/wiki/Main_Page) - Wiki dedicated to Homebrewing the Nintendo 64.
 
