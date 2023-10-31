@@ -64,7 +64,7 @@ This section provides information about playing Games on Consoles listed or writ
 <h3>Nintendo Wii</h3>
 <b>Notes:</b>  
 
-- This guide was written by **@abUwUser**. **OUTDATED INFORMATION MAY BE PRESENTED**. Last Updated on January 17 2023.
+- This guide was written by **@abUwUser** on January 17, 2023. **OUTDATED INFORMATION MAY BE PRESENTED**.
 - It is recommended to download Games with the **`.wbfs` extension**, as it is the supported file extension of most USB Loaders (check /ROMs for downloads!). 
 - You can try out [Wii Backup Manager](https://wii.guide/wiibackupmanager) or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) if you don't want to do the manual steps each time.
 
