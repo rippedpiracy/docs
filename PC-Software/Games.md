@@ -255,7 +255,7 @@ Some common redistributables are:</small>
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
 [**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Do note that this site is extremely unreliable.
 
-[**Kemono**](https://kemono.party/) - They host leaks of Patreon creators (among other platforms), useful if a Mod is locked behind Patreon. NSFW Warning.
+[**Kemono**](https://kemono.su/) - They host leaks of Patreon creators (among other platforms), useful if a Mod is locked behind Patreon. NSFW Warning.
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
