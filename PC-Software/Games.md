@@ -30,7 +30,7 @@ One of the most well known and reputable Repacker out there, very active and pro
 **[DODI](https://dodi-repacks.site) | [.download](https://dodi-repacks.download) (Torrent / DDL)**
 
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
-*<small>They also have a forum [here](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
+*<small>They also have a [forum](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
 
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
