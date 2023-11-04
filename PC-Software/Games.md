@@ -53,7 +53,7 @@ Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 **[GOG Games](https://gog-games.to) (DDL)**
 
 Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-256 key from GOG.  
-*<small>This site is also accessible through the [Tor Browser](https://www.torproject.org/) through [here](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion).</small>*
+*<small>This site is also accessible through [Tor](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion).</small>*
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
