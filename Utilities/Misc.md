@@ -5,7 +5,7 @@ description: Tools and Apps to make your life easier.
 
 # Browser Extensions
 
-<sub>We recommend coupling these Extensions & UserScripts with [**Firefox Developer Edition**](https://www.mozilla.org/en-US/firefox/developer/) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).</sub>
+<sub>We recommend coupling these Extensions & UserScripts with [**LibreWolf**](https://librewolf.net) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).</sub>
 
 [**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient Ad & Content Blocker for Chromium and Firefox, fast and lean.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **LukeThighStalker**.  
