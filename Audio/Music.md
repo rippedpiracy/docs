@@ -68,6 +68,8 @@ description: List of sources for getting all genres of Music.
 
 [**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser UserScript that allows up to Hi-Fi streaming on Deezer.
 
+[**Sortify**](https://sortify.it) - A simple way to organize your Spotify playlists as desired.
+
 # Communities
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz.  
