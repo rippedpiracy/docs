@@ -5,6 +5,10 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**Wotaku**](https://wotaku.moe/), a **HUGE** list of Streaming/Downloading sites and apps categorized in Languages, Sub/Dubs and more.  
 [**The Anime Index**](https://theindex.moe/), a list of Tools, Apps and Sites for your Anime needs.
+[**EverythingMoe**](https://everythingmoe.com/), an index of best Anime/Mange sites.
+
+# Streaming
+[**AnimeWave**](https://aniwave.to/home) - Streaming site with plenty of content. It has many mirrors like [**Anix.to**](https://anix.to).
 
 # Downloading
 
