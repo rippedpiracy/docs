@@ -134,7 +134,7 @@ description: Tools and Apps to make your life easier.
 
 [**Kdenlive**](https://kdenlive.org/en/) - Open source free video editor.
 
-[**Open Broadcaster Software (OBS)**](https://obsproject.com/) - Open source application for streaming and recording.
+[**OBS Studio**](https://obsproject.com/) - Open source application for streaming and recording.
 
 [**Ventoy**](https://www.ventoy.net/) | [**Rufus**](https://rufus.ie/) - Tools to create bootable USB drives.
 
