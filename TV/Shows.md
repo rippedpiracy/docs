@@ -8,13 +8,13 @@ description: List of sites to Stream and Download TV Shows and Movies.
 <small>Useful for watching Content easily, but mostly with a loss of Quality.</small>
 
 [**SFlix**](https://sflix.to/home) - Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
-*<small>There are some Anti-Popup addons in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
+*<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
 [**WatchCartoonsOnline**](https://watchcartoononline.com) - Site for Cartoons and subbed/dubbed Anime.
 
 [**Seez**](https://seez.su) - A streaming webpage with a modern UI. Constantly updated with Indian content. Has additional hosts and subtitles.
 
-[**StreamingCommunity**](https://streamingcommunity.codes/) - Constantly updated site with Italian Dubbed/Subbed Content, a UI similar to Netflix.
+[**StreamingCommunity**](https://streamingcommunity.codes/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
 
 # Downloading
 
