@@ -51,7 +51,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**MPV-Android**](https://github.com/mpv-android/mpv-android) - A free media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
 
 ## Torrenting
-[**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) - Open Source Torrent client for Android.
+[**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) - Open Source Torrent client for Android.  
 [**LunaSea**](https://www.lunasea.app/) - Usenet/Torrent manager. Useful for those who utilize seedboxes.
 
 ## Mods
