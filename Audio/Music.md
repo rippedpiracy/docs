@@ -21,7 +21,7 @@ description: List of sources for getting all genres of Music.
 [**AnimeThemes**](https://animethemes.moe) | [**Themes.moe**](https://themes.moe) - A huge collection of Ending/Opening Themes for Anime. Right click to download the Audio/Video.
 
 [**Squidify**](https://www.squidify.org/) - A Web Player for Game OSTs/Anisons/Japanese Music.  
-*<small>You can also stream locally, more info at <https://wotaku.its.moe/guides/squidify/></small>*
+*<small>You can also stream locally, more info at <https://wotaku.moe/guides/squidify/></small>*
 
 [**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists.
 
