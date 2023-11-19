@@ -93,7 +93,7 @@ description: Tools and Apps to make your life easier.
 [**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware, advanced version of Task Manager.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.    
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
-[**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.
+[**Cuckoo Sandbox**](https://cuckoosandbox.org/) | [**Sandboxie**](https://sandboxie-plus.com/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis systems.
 
 **[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** & **[GoodByeDPI GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)** | **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** & **[PowerTunnel for Android](https://github.com/krlvm/PowerTunnel-Android)** - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
 *<small>For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app.</small>*
@@ -127,9 +127,6 @@ description: Tools and Apps to make your life easier.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
-[**Chrome Flash Edition**](https://github.com/chromeflashdevs/Chrome-Flash-Edition/releases) - A version of Google Chrome that doesn't update, so Flash still works with it.  
-*<small><b>This is very outdated and vulnerable to attacks. Do <u>NOT</u> use this as a main Browser!</b></small>*
-
 [**KDE Connect**](https://kdeconnect.kde.org/) - Powerful application to integrate your phone with your computer and vice-versa allowing sharing files and more.
 
 [**Kdenlive**](https://kdenlive.org/en/) - Open source free video editor.
@@ -143,7 +140,7 @@ description: Tools and Apps to make your life easier.
 [**Internet Archive**](https://web.archive.org/) | [**Webpage Archive**](https://archive.today/) - Sites that host archived versions of other pages. You can archive any site you want.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
-[**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
+[**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) | [**Triage**](https://tria.ge/) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
 **_Some may require Sign-Up._**  
 
 [**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your e-mail or Phone number is in a data breach.
