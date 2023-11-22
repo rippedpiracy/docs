@@ -20,8 +20,6 @@ description: List of useful iOS mobile apps.
 
 [**YouTubeRebornPlus**](https://github.com/arichorn/YouTubeRebornPlus) - Fork of YouTube Reborn, but for non-jailbroken devices and with even more features.
 
-[**Cercube**](https://4pda.to/forum/index.php?showtopic=965812) - iOS YouTube client with functions of saving videos up to 4K, PiP, blocking all ads, background playback and many other useful functions.
-
 ## Discord Clients
 [**Vendetta**](https://github.com/vendetta-mod/Vendetta) - Cross-platform plugin-based Discord client mod.  
 
