@@ -13,14 +13,14 @@ description: List of useful iOS mobile apps.
 
 [**TrollStore**](https://github.com/opa334/TrollStore) - Permasigned jailed app that can permanently sign any IPA, only supported up to iOS 15.6 beta 5.
 
-[**Sideloadly**](https://sideloadly.io/) - Simple installer of ipa files for non-jailbroken iOS devices. Requires a computer.
+[**Sideloadly**](https://sideloadly.io/) - Simple installer of ipa files for non-jailbroken iOS devices. Requires a computer.  
 
 # YouTube Clients
 [**uYouPlus**](https://github.com/qnblackcat/uYouPlus) - iOS YouTube client including YouPiP, iSponsorBlock, video downloading, removed ads and many more features.
 
-[**YouTubeRebornPlus**](https://github.com/arichorn/YouTubeRebornPlus) - Fork of YouTube Reborn, but for non-jailbroken devices and with even more features.
+[**YouTubeRebornPlus**](https://github.com/arichorn/YouTubeRebornPlus) - Fork of YouTube Reborn for non-jailbroken devices with even more features.  
 
 ## Discord Clients
 [**Vendetta**](https://github.com/vendetta-mod/Vendetta) - Cross-platform plugin-based Discord client mod.  
 
-[**Enmity**](https://enmity.app/) - Plugin-based Discord mod for iOS.
+[**Enmity**](https://enmity.app/) - Plugin-based Discord mod for iOS.  
