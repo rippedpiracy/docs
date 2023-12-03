@@ -60,7 +60,7 @@ here is <small>small text</small>
 
 here is <span style="color:red">red color text</span>
 ```
-
+<p></p>
 ## Guides
 
 For Guides, you may include some extra metadata at the top (within the `---`):  
@@ -69,7 +69,7 @@ For Guides, you may include some extra metadata at the top (within the `---`):
 author: (you)
 contributors: (remove this line if empty)
 ```  
-
+<p></p>
 ## Contributors
 
 {{ github.contributors }}
