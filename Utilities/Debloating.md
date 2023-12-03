@@ -29,9 +29,6 @@ description: Make your OS lighter, faster and more secure.
 
 [**AutoRuns**](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - See what programs are configured to startup automatically when your system boots.   
 
-[**Sigma Wiper**](https://github.com/owersite/sigma-wiper) | [**Sigma-Deleter**](https://github.com/XatzClient/Sigma-Deleter) - Deletes every trace of the Miner placed by the Sigma5 Minecraft Hack Client.  
-For **Sigma Wiper** to work, you need to install the [**.NET 5.0 Desktop Runtime**](https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-5.0.11-windows-x64-installer).
-
 [**BCUninstaller**](https://www.bcuninstaller.com/) - A better Uninstaller than Windows's default one, really good for Bulk Uninstalling multiple apps at once.
 
 [**BleachBit**](https://github.com/bleachbit/bleachbit) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
