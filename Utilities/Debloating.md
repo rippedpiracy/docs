@@ -31,7 +31,7 @@ description: Make your OS lighter, faster and more secure.
 
 [**BCUninstaller**](https://www.bcuninstaller.com/) - A better Uninstaller than Windows's default one, really good for Bulk Uninstalling multiple apps at once.
 
-[**BleachBit**](https://github.com/bleachbit/bleachbit) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
+[**BleachBit**](https://www.bleachbit.org/) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
 
 [**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.  
 [**InstallWindowsWithoutUSB**](https://github.com/iidanL/InstallWindowsWithoutUSB) - A batch script to install Windows to a partition without a USB stick.
