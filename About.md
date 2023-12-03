@@ -1,6 +1,6 @@
 ---
 title: About
-description: About this site.
+description: Information about the Ripped Guide.
 ---
 ## Transparency
 
