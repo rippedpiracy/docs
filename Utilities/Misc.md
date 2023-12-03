@@ -16,16 +16,16 @@ description: Tools and Apps to make your life easier.
 
 
 [**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
-*<small>Actively maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
+*<small>Maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
-***Can be difficult to setup for the Average User.***  
-[**Privacy Badger**](https://privacybadger.org/) - Automatically analyze and block Trackers.  
-[**LocalCDN**](https://www.localcdn.org/) | [**Decentraleyes**](https://decentraleyes.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs. LocalCDN is recommended for Firefox but it may break some sites.  
-*<small>[Links](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>*  
-[**Disconnect**](https://disconnect.me/disconnect) - Visualize and block the invisible domains that track your Search and Browsing History.    
+***Can be difficult to setup for the Average User.***   
+
+[**LocalCDN**](https://www.localcdn.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs.  
+It may break some sites.  
+*<small>[Guide](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>*     
 
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
@@ -59,7 +59,7 @@ description: Tools and Apps to make your life easier.
 [**Stylus**](https://add0n.com/stylus.html) - Browser UserStyles Manager, used for loading CSS files for customising the appearance of webpages.
 
 [**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.  
-[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the dislike count on Youtube.  
+[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the Dislike count on YouTube.  
 
 # Browser UserScripts
 
@@ -108,8 +108,8 @@ description: Tools and Apps to make your life easier.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JDownloader 2 Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md) - A guide for setting up JDownloader 2.
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
-*<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
-[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, also a front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
+*<small>Maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
+[**Stacher**](https://stacher.io/) - A modern YouTube Downloader, front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
 [**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.   
 [**FlixiCam**](https://www.flixicam.com/) - Netflix & Amazon Prime Downloader.  
