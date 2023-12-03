@@ -10,7 +10,7 @@ no_show_footer: true
            margin-right: auto;
            width: 40%;
            height: auto;
-           aspect-ratio: 1.3;"
+           aspect-ratio: 1;"
     src="/img/rippedtransparent-cropped.svg" 
     alt="Ripped Logo"
     id= "logo">
