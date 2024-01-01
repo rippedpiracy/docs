@@ -63,10 +63,6 @@ Changes domains frequently, offers NSP / XCI files for Switch Games, with Update
 
 A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for different consoles, uploaded directly to the site.
 
-**[Scene CrackHub](http://scene.crackhub.site/) (DDL)**
-
-An Auto Scene Release Uploader Bot that uploads Nintendo Switch titles among other ROMs.
-
 ## Emulators
 
 [/emugen/ Wiki](https://emulation.gametechwiki.com/) - The **ULTIMATE** guide for all Emulators on all Platforms.  
