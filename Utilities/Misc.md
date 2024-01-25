@@ -69,7 +69,7 @@ It may break some sites.
 
 [**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses count-downs.   
 [**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
-[**SiteScrubber**](https://github.com/PrimePlaya24/dl-site-scrubber) - Skip certain Timers or Ads and remove clutter that make it harder to Download from certain DDL sites.
+[**SiteScrubber**](https://greasyfork.org/en/scripts/426078-sitescrubber) - Skip certain Timers or Ads and remove clutter that make it harder to Download from certain DDL sites.
 
 [**Direct links out**](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Skips redirection pages and removes redirect tracking from urls
 
