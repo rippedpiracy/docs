@@ -7,13 +7,19 @@ description: List of useful Android mobile apps.
 [**Mobilism**](https://forum.mobilism.me/) - Trusted Forum for downloading Modded APKs.   
 **_Requires Sign-up._**
 
+[**4PDA**](https://4pda.to/forum/) - Russian Forum for downloading Clean & Modded APKs, as well as discussion alike.   
+**_Requires Sign-up; Captcha Guide: [#1](https://www.celsoazevedo.com/files/android/how-to-bypass-4pda-captchas/)/[#2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)_**
+
+[**SBenny**](https://forum.sbenny.com) - Another Forum for downloading Modded APKs. Has a point-based system which you can easily farm.   
+**_Requires Sign-up._**
+
 [**APKMirror**](https://www.apkmirror.com/) - Website to download APKs dumped from the Play Store.
 
-[**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) - Open-source alternative to Google Play Store focused on providing privacy and modern design.
+[**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) - Open-source Google Play Store client focused on providing privacy with a modern design.
 
-[**F-Droid**](https://f-droid.org/) - Decentralized store for downloading applications.
+[**F-Droid**](https://f-droid.org/) - Decentralized store for downloading application. [Material You](https://github.com/Iamlooker/Droid-ify) client for the same.
 
-[**Neo Store**](https://github.com/NeoApplications/Neo-Store) | [**Droid-ify**](https://github.com/Iamlooker/Droid-ify) - Alternative stores to the F-Droid application with a Material You design.
+[**Obtainium**](https://github.com/ImranR98/Obtainium) - App which allows you to install and update Apps directly from their release pages. Supports a lot of sources such as Github, Gitlab, F-Droid, Codeberg etc.
 
 ## Browsers
 [**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Nightly and Stable versions of Firefox.
@@ -21,7 +27,11 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 [**IceRaven**](https://github.com/fork-maintainers/iceraven-browser#iceraven-browser--) - Fork of Firefox which provides additional features, removes Mozilla Telemetry and adds more extensions to the current list, allowing you to make your own too.
 
+[**Mull**](https://divestos.org/pages/our_apps#mull) - Privacy oriented and deblobbed Firefox fork which enables many features upstreamed by the [Tor uplift](https://wiki.mozilla.org/Security/Tor_Uplift) project using preferences from the [arkenfox-user.js](https://github.com/arkenfox/user.js/) project.
+
 [**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based Web Browser that supports extensions.
+
+[**Mulch**](https://divestos.org/pages/our_apps#mulch) - Security oriented and hardened web browser based on Chromium, with added patches from the [Vanadium](https://github.com/GrapheneOS/Vanadium) project.
 
 ## Privacy
 [**PowerTunnel**](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible DNS server with anti-censorship functionalities for Android.
