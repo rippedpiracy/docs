@@ -9,7 +9,7 @@ description: List of useful iOS mobile apps.
 [**palera1n**](https://palera.in/) - Jailbreak for iOS devices using the A8-A11 chips (iPhone 6 to iPhone X) on iOS 15.0-16.5 using the checkm8 exploit.
 
 ## Third-Party App Stores
-[**AltStore**](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. Requires a computer that is avaiable weekly due to the expiration limit.
+[**AltStore**](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. Requires a computer that is available weekly due to the expiration limit.
 
 [**TrollStore**](https://github.com/opa334/TrollStore) - Permasigned jailed app that can permanently sign any IPA, only supported up to iOS 15.6 beta 5.
 
