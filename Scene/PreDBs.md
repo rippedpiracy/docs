@@ -17,7 +17,8 @@ As listed in the [**Scene Glossary**](/Scene-Glossary),
 - **[xREL](https://www.xrel.to/releases.html#)** 
 - **[PreDB.org](https://www.predb.org/)**  
 - **[PreDB.net](https://predb.net/)**  
-- **[PreDB.me](https://predb.me/)**   
+- **[PreDB.me](https://predb.me/)**
+- **[Predataba.se](https://predataba.se)**
 &nbsp;  
 &nbsp;
 ## Pre IRC Channels  
