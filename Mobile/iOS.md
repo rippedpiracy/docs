@@ -3,17 +3,17 @@ title: iOS
 description: List of useful iOS mobile apps.
 ---
 
-## Jailbreaks
-[**Dopamine**](https://ellekit.space/dopamine/) - Jailbreak for iOS devices running up to iOS 15.4.1, allowing users to install third-party apps outside of the App Store.
+## Jailbreak
 
-[**palera1n**](https://palera.in/) - Jailbreak for iOS devices using the A8-A11 chips (iPhone 6 to iPhone X) on iOS 15.0-16.5 using the checkm8 exploit.
+[**iOS Guide**](https://ios.cfw.guide/) - A complete iOS modding guide, from stock to jailbroken.  
 
 ## Third-Party App Stores
-[**AltStore**](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. Requires a computer that is available weekly due to the expiration limit.
+[**SideStore**](https://sidestore.io/) - Fork of AltStore which only asks for an Internet connection, no PC required.  
+[**AltStore**](https://altstore.io/) - Alternative App Store for non-jailbroken iOS devices. Requires a PC hosting AltServer due to Apple's account limits.  
 
 [**TrollStore**](https://github.com/opa334/TrollStore) - Permasigned jailed app that can permanently sign any IPA, only supported up to iOS 15.6 beta 5.
 
-[**Sideloadly**](https://sideloadly.io/) - Simple installer of ipa files for non-jailbroken iOS devices. Requires a computer.  
+[**Sideloadly**](https://sideloadly.io/) - Simple installer of ipa files for non-jailbroken iOS devices. Requires a PC.  
 
 # YouTube Clients
 [**uYouPlus**](https://github.com/qnblackcat/uYouPlus) - iOS YouTube client including YouPiP, iSponsorBlock, video downloading, removed ads and many more features.
