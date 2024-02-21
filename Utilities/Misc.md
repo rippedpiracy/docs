@@ -15,7 +15,7 @@ description: Tools and Apps to make your life easier.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.
 
 
-[**DeArrow**](https://dearrow.ajay.app/) - Aims to address YouTube problems like inaccurate titles and over-sensationalism. Users submit alternative titles and thumbnails to replace the original ones.
+[**DeArrow**](https://dearrow.ajay.app/) - Aims to address YouTube problems like inaccurate titles and over-sensationalism with thumbnails. Users may submit alternative titles and thumbnails to replace the original ones.
 *<small>A lot of thumbnails are replaced, which may use a lot of resources. This can be disabled in the extension.</small>*
 
 [**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
