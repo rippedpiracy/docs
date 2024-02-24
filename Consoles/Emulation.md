@@ -17,10 +17,6 @@ Nice place to get a large list of ROMs from every type of system.
 Offering ROM Downloads since 2004.  
 *<small><b>Ignore any Pop-ups/Banners about faster Downloads/Premium. Try another ROM site if the Download is for Premium Users.</b></small>*
 
-**[RomsGet](https://romsget.io/) (DDL)**  
-
-Straightforward UI to Download many ROMs directly.
-
 **[r/ROMs Megathread](https://r-roms.github.io/) (DDL)**
 
 The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with mkdocs.
