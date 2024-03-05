@@ -64,7 +64,7 @@ A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for diff
 [/emugen/ Wiki](https://emulation.gametechwiki.com/) - The **ULTIMATE** guide for all Emulators on all Platforms.  
 *<small>Make sure to check with your Emulator [here](https://emulation.gametechwiki.com/index.php/Emulator_files) in case it requires some sort of BIOS or special file to function.</small>*
 
-[**Yuzu EA**](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/Mainline%20Build%20-%207ffac53c9%20(2024-03-03)/yuzu-windows-msvc-20240303-7ffac53c9.zip) - The Latest build of [Yuzu](https://github.com/yuzu-mirror). It was sued by Nintendo and all development ceased, new forks will soon rise.
+[**Yuzu EA**](https://github.com/pineappleEA/pineapple-src/releases/tag/EA-4176) - The Latest build of [Yuzu](https://github.com/yuzu-mirror). It was sued by Nintendo and all development ceased, new forks will soon rise.
 
 <small>**Stable PS4/PS5 or Xbox One/Xbox Series Emulators do not exist. If you find an app that claims to be that, it's a scam or it's highly unstable. Some examples for scam apps are: PCSX4, PCSX5, PSemuX.**</small>
 
