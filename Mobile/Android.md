@@ -27,7 +27,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 [**IceRaven**](https://github.com/fork-maintainers/iceraven-browser#iceraven-browser--) - Fork of Firefox which provides additional features, removes Mozilla Telemetry and adds more extensions to the current list, allowing you to make your own too.
 
-[**Mull**](https://divestos.org/pages/our_apps#mull) - Privacy oriented and deblobbed Firefox fork which enables many features upstreamed by the [Tor uplift](https://wiki.mozilla.org/Security/Tor_Uplift) project using preferences from the [arkenfox-user.js](https://github.com/arkenfox/user.js/) project. [Automated patched builds with OLED dark mode support.](https://github.com/ArtikusHG/Mull-OLEDDark)
+[**Mull**](https://divestos.org/pages/our_apps#mull) - Privacy oriented and deblobbed Firefox fork which enables many features upstreamed by the [Tor uplift](https://wiki.mozilla.org/Security/Tor_Uplift) project using preferences from the [arkenfox-user.js](https://github.com/arkenfox/user.js/) project. Here are [Automated patched builds with OLED dark mode support.](https://github.com/ArtikusHG/Mull-OLEDDark)  
 
 [**Kiwi Browser**](https://kiwibrowser.com/) - Chromium-based Web Browser that supports extensions.
 
