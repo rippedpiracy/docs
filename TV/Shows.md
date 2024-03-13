@@ -10,12 +10,12 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**movie-web Instances**](https://movie-web.github.io/docs/instances) - Multiple instances for a well-known open-source streaming project that works by aggregating content from different providers.
 
 [**FMovies**](https://fmoviesz.to/home) - Well-built site for watching movies/shows.
-*<small>Make sure to install <a target="_self" href="/Utilities/Misc">uBO</a> beforehand.</small>*
+*<small>Make sure to install <a target="_self" href="/Utilities/Misc">uBlock Origin</a>.</small>*
 
 [**SFlix**](https://sflix.to/home) - Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
-[**KimCartoon**](https://kimcartoon.li/) - Streaming site having an extensive catalogue of cartoons.
+[**KimCartoon**](https://kimcartoon.li/) - Streaming site with an extensive catalogue of cartoons.
 
 [**WatchCartoonsOnline**](https://wcofun.net) - Site for Cartoons and subbed/dubbed Anime.
 
@@ -32,7 +32,7 @@ Quality can vary from one Release to another, ALWAYS check filesizes and Torrent
 
 **[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
-**[OlaMovies](https://olamovies.bar/) (DDL)** - Site having downloads for higher quality and relatively storage-friendly encodes.
+**[OlaMovies](https://olamovies.bar/) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes.
 *Join their [Telegram channel](https://telegram.me/olamovies_officialv5) for domain updates.*
 
 **[Pahe](https://pahe.me/) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
