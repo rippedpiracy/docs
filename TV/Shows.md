@@ -7,8 +7,15 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 <small>Useful for watching Content easily, but mostly with a loss of Quality.</small>
 
+[**movie-web Instances**](https://movie-web.github.io/docs/instances) - Multiple instances for a well-known open-source streaming project that works by aggregating content from different providers.
+
+[**FMovies**](https://fmoviesz.to/home) - Well-built site for watching movies/shows.
+*<small>Make sure to install <a target="_self" href="/Utilities/Misc">uBO</a> beforehand.</small>*
+
 [**SFlix**](https://sflix.to/home) - Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
+
+[**KimCartoon**](https://kimcartoon.li/) - Streaming site having an extensive catalogue of cartoons.
 
 [**WatchCartoonsOnline**](https://wcofun.net) - Site for Cartoons and subbed/dubbed Anime.
 
