@@ -21,22 +21,22 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 [**Seez**](https://seez.su) - A streaming webpage with a modern UI. Constantly updated with Indian content. Has additional hosts and subtitles.
 
-[**StreamingCommunity**](https://streamingcommunity.codes/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
+[**StreamingCommunity**](https://streamingcommunity.report/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
 
 # Downloading
 
 <small>Higher Quality most of the time and better watching experience overall compared to Streaming.</small>
 
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
-Quality can vary from one Release to another, ALWAYS check filesizes and Torrent names.  
+Quality can vary from one Release to another, ALWAYS check file sizes and Torrent names.  
 
 **[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
 **[OlaMovies](https://olamovies.bar/) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes.
-*Join their [Telegram channel](https://telegram.me/olamovies_officialv5) for domain updates.*
+*Join their [Telegram Channel](https://telegram.me/olamovies_officialv5) for domain updates.*
 
 **[Pahe](https://pahe.me/) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
-*<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links</small>*
+*<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links.</small>*
 
 # IRC
 
