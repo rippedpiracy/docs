@@ -7,26 +7,36 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 <small>Useful for watching Content easily, but mostly with a loss of Quality.</small>
 
+[**movie-web Instances**](https://movie-web.github.io/docs/instances) - Multiple instances for a well-known open-source streaming project that works by aggregating content from different providers.
+
+[**FMovies**](https://fmoviesz.to/home) - Well-built site for watching movies/shows.
+*<small>Make sure to install <a target="_self" href="/Utilities/Misc">uBlock Origin</a>.</small>*
+
 [**SFlix**](https://sflix.to/home) - Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
+
+[**KimCartoon**](https://kimcartoon.li/) - Streaming site with an extensive catalogue of cartoons.
 
 [**WatchCartoonsOnline**](https://wcofun.net) - Site for Cartoons and subbed/dubbed Anime.
 
 [**Seez**](https://seez.su) - A streaming webpage with a modern UI. Constantly updated with Indian content. Has additional hosts and subtitles.
 
-[**StreamingCommunity**](https://streamingcommunity.codes/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
+[**StreamingCommunity**](https://streamingcommunity.report/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
 
 # Downloading
 
 <small>Higher Quality most of the time and better watching experience overall compared to Streaming.</small>
 
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
-Quality can vary from one Release to another, ALWAYS check filesizes and Torrent names.  
+Quality can vary from one Release to another, ALWAYS check file sizes and Torrent names.  
 
 **[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
+**[OlaMovies](https://olamovies.bar/) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes.
+*Join their [Telegram Channel](https://telegram.me/olamovies_officialv5) for domain updates.*
+
 **[Pahe](https://pahe.me/) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
-*<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links</small>*
+*<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links.</small>*
 
 # IRC
 
