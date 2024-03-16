@@ -32,7 +32,7 @@ Quality can vary from one Release to another, ALWAYS check file sizes and Torren
 
 **[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
-**[OlaMovies](https://olamovies.bar/) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes.
+**[OlaMovies](https://olamovies.bar/) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes(can find bollywood movies and series here too).
 *Join their [Telegram Channel](https://telegram.me/olamovies_officialv5) for domain updates.*
 
 **[Pahe](https://pahe.me/) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
