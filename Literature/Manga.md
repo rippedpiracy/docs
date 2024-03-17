@@ -86,7 +86,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**Tachidesk (<span style="color:red">PC</span>)**](https://github.com/Suwayomi/Suwayomi-Server) - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
 *<small>Requires a client, read the readme file.</small>*
 
-- [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Was a free and open source manga reader with customization support, various extensions and a beautiful reader. It was sued by Kakao Entertainment and all development ceased. Here is [archive with latest build](https://github.com/tachiyomiarchive/tachiyomi/). You should use [Keiyoushi extension repo](https://keiyoushi.github.io/) to view/download manga from various sources. Some of the most Notable Forks are:   
+- [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Was a free and open source manga reader with customization support, various extensions and a beautiful reader. It was sued by Kakao Entertainment and all development ceased. Here is [archive with latest build](https://github.com/tachiyomiarchive/tachiyomi/). You should use [Keiyoushi repo](https://keiyoushi.github.io/) to download extensions. Some of the most Notable Forks are:   
 
  	- [**Mihon**](https://mihon.app/) - New Tachiyomi spiritual successor.  
 	- [**TachiyomiSY**](https://github.com/jobobby04/TachiyomiSY) - Fork based off of [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) adding custom unique features, also has new features from the latest Tachiyomi version as well as from other forks such as TachiyomiJ2K. Updates are very frequent, recommended to get the preview build.  
