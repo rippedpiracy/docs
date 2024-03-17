@@ -83,14 +83,15 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 &nbsp;
 <li><a href="https://sourceforge.net/p/mcomix/wiki/Home/" target="_blank"><b>MComix (<span style="color:red">PC</span>)</b></a> - User-friendly, customizable comic viewer.</li></ul>
 
-- [**Tachidesk (<span style="color:red">PC</span>)**](https://github.com/Suwayomi/Tachidesk-Server) - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
+- [**Tachidesk (<span style="color:red">PC</span>)**](https://github.com/Suwayomi/Suwayomi-Server) - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
 *<small>Requires a client, read the readme file.</small>*
 
-- [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Free and open source manga reader with customization support, various extensions and a beautiful reader. Use this if you don't like manga site's UI. Some of the most Notable Forks are:   
- 
-	- [**TachiyomiSY**](https://tachiyomi.org/forks/TachiyomiSY/) - Fork based off of [TachiyomiAZ](https://tachiyomi.org/forks/TachiyomiAZ/) adding custom unique features, also has new features from the latest Tachiyomi version as well as from other forks such as TachiyomiJ2K. Updates are very frequent, recommended to get the preview build.  
-	- [**Neko**](https://tachiyomi.org/forks/Neko/) - This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. Contains features specific to Mangadex that those versions cannot offer except for other sources, local sources, and editting manga.  
-	- [**TachiyomiJ2K**](https://tachiyomi.org/forks/TachiyomiJ2K/) - This fork takes a new approach to the design of the base app along with several other enhancements.
+- [**Tachiyomi (<span style="color:red">Android</span>)**](https://tachiyomi.org/) - Was a free and open source manga reader with customization support, various extensions and a beautiful reader. It was sued by Kakao Entertainment and all development ceased. Here is [archive with latest build](https://github.com/tachiyomiarchive/tachiyomi/). You should use [Keiyoushi repo](https://keiyoushi.github.io/) to download extensions. Some of the most Notable Forks are:   
+
+ 	- [**Mihon**](https://mihon.app/) - New Tachiyomi spiritual successor.  
+	- [**TachiyomiSY**](https://github.com/jobobby04/TachiyomiSY) - Fork based off of [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) adding custom unique features, also has new features from the latest Tachiyomi version as well as from other forks such as TachiyomiJ2K. Updates are very frequent, recommended to get the preview build.  
+	- [**Neko**](https://github.com/nekomangaorg/Neko) - This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. Contains features specific to Mangadex that those versions cannot offer except for other sources, local sources, and editting manga.  
+	- [**TachiyomiJ2K**](https://github.com/Jays2Kings/tachiyomiJ2K) - This fork takes a new approach to the design of the base app along with several other enhancements.
 
 - [**Kuro Reader (<span style="color:red">Android</span>)**](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) - An e-reader with a very intuitive design, synchronisation capabilities and a good reader.
 
