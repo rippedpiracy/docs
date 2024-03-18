@@ -4,9 +4,7 @@ description: List of sources for getting all genres of Music.
 ---
 # Websites
 
-[**Free MP3 Download**](https://free-mp3-download.net/) - Fetches tracks from Deezer, letting you download them in the highest quality without needing a subscription. 
-
-[**DoubleDouble**](https://doubledouble.top/) - Music Downloader for Spotify, Soundcloud, Qobuz, Deezer, Tidal, and YouTube Music.  
+[**DoubleDouble**](https://doubledouble.top/) - Music Downloader for Spotify, Soundcloud, Qobuz, Deezer and Tidal.  
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
