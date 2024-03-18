@@ -31,12 +31,7 @@ Vimm provides Torrents for larger Downloads like Wii Games, since the site's Dow
 
 **[AlvRo's Spreadsheet](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) (DDL)**
 
-Mr. AlvRo has organized all of his ROM's Download links via [1fichier](https://1fichier.com/) in a Google Spreadsheet, for ease of browsing.
-
-**[PortalRoms Archive](https://krakenfiles.com/view/ti6w9uifUv/file.html) (Torrent)**
-
-Before PortalRoms shut down, one of Ripped's Staff Members made a Backup of all its ROM Downloads.  
-*<small><b>If you download any of these Torrents please seed them as long as possible.</b></small>*
+Mr. AlvRo has organized all of his ROM's Download links via [1fichier](https://1fichier.com/) in a Google Spreadsheet, for ease of browsing.  
 
 **[Ziperto](https://www.ziperto.com) (DDL)**
 
