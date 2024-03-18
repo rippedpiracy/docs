@@ -26,6 +26,6 @@ description: List of useful iOS mobile apps.
 [**Vendetta**](https://github.com/vendetta-mod/Vendetta) - A mod for Discord's mobile apps.
 
 # Telegram Clients
-[**Swiftgram**](https://apps.apple.com/app/swiftgram/id6471879502) - Swiftgram includes stories stealth mode, voice-to-text, unlimited accounts, unlock blocked channels, deleted cryptowallet and more. 
+[**Swiftgram**](https://apps.apple.com/app/swiftgram/id6471879502) - Includes Stories stealth mode, Speech-To-Text, unlimited accounts, unlocking blocked channels, removed cryptowallet and more.  
 
-[**Nicegram**](https://apps.apple.com/app/apple-store/id1608870673) - Nicegram include unlimited accounts, unlock blocked channels and chats, AI features.
+[**Nicegram**](https://apps.apple.com/app/apple-store/id1608870673) - Includes unlimited accounts, unlocking blocked channels and AI features.  
