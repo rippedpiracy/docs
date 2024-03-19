@@ -84,6 +84,8 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.
 *<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21)</small>*
 
+[**Revenge**](https://github.com/revenge-mod/Revenge) - Cross-platform Plugin-based Discord (React Native - above 126.21) client mod. Fork of Vendetta.  
+
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier which can be used to remove license verification, advertisements, change permissions, unlock in-app purchases etc.
 *<small>This app isn't open source so giving it root access to use some of it's features is your responsibility!</small>*

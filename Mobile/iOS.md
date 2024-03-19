@@ -21,9 +21,9 @@ description: List of useful iOS mobile apps.
 [**YouTubeRebornPlus**](https://github.com/arichorn/YouTubeRebornPlus) - Fork of YouTube Reborn for non-jailbroken devices with even more features.  
 
 ## Discord Clients
-[**Enmity**](https://enmity.unbound.rip/) - Plugin-based Discord mod for iOS.
+[**Enmity**](https://enmity.unbound.rip/) - Plugin-based Discord mod for iOS.  
 
-[**Vendetta**](https://github.com/vendetta-mod/Vendetta) - A mod for Discord's mobile apps.
+[**Revenge**](https://github.com/revenge-mod/Revenge) - Cross-platform Plugin-based Discord mod. Fork of Vendetta.  
 
 # Telegram Clients
 [**Swiftgram**](https://apps.apple.com/app/swiftgram/id6471879502) - Includes Stories stealth mode, Speech-To-Text, unlimited accounts, unlocking blocked channels, removed cryptowallet and more.  
