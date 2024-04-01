@@ -38,6 +38,10 @@ Quality can vary from one Release to another, ALWAYS check file sizes and Torren
 **[Pahe](https://pahe.me/) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
 *<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links.</small>*
 
+**[PSA Rips](https://psa.wf/) (Torrent & DDL)** - Has all sorts of new content including but not limiting to Movies, web series & US reality shows. Best feature - high quality, lower size.
+*Join their [Discord](https://discord.gg/s29jGYrvJF) for active proxies.*
+*<small>They use link redirect and [Fast-Forward](https://fastforward.team) can be used to access the links.</small>*
+
 # IRC
 
 <small>No Middle-Man between you, and Downloading the Content from the IRC bots. <b>Requires an [IRC](https://wikipedia.org/wiki/Internet_Relay_Chat) Client such as [HexChat](https://hexchat.github.io/).</b></small>
