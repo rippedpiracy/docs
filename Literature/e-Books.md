@@ -45,7 +45,7 @@ description: Reliable sources to obtain e-Books.
 &nbsp;
 # Other
 
-- [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book, and Audiobook sites.
+- [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
 - [**CALISHOT**](https://eng.calishot.xyz/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://noneng.calishot.xyz/index-not-eng/summary).  
 *<small>If the links stop working check [here](https://www.reddit.com/search?q=flair_name%3A%22CALISHOT%22) for updated ones.</small>*
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
