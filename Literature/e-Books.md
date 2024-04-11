@@ -9,7 +9,7 @@ description: Reliable sources to obtain e-Books.
 
 - [**Anna’s Archive**](https://annas-archive.org/) - Search Engine that indexes a few big libraries including libgen and Z-Lib.
 - [**Z-Library**](https://singlelogin.re/) - The Library is also accessible through [Tor](https://www.torproject.org/) and [I2P](https://geti2p.net/en/), **_Requires Sign-up_**.
-- [**Library Genesis (.fun)**](https://libgen.fun/) & [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - The .fun domain is currently being run by the original owner of libgen whereas the others are independant.
+- [**Library Genesis (.fun)**](https://libgen.fun/) & [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - The .fun domain is currently being run by the original owner of libgen whereas the others are independent.
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, **_Requires Sign-up_**.
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Forum, **_Requires Sign-up_**.
 - [**The-eye**](https://the-eye.eu/public/Books/) - Many e-Books and calibre libraries.
@@ -40,12 +40,12 @@ description: Reliable sources to obtain e-Books.
 - [**SciMag**](https://libgen.rs/scimag/) - Scientific Articles section of LibGen.
 - [**Free Full PDF**](https://freefullpdf.com/)
 - [**Freetechbooks**](https://www.freetechbooks.com/)
-- [**r/Scholar**](https://reddit.com/r/scholar) - If you cant find an article anywhere, you can request it in this subreddit.
+- [**r/Scholar**](https://reddit.com/r/scholar) - If you can't find an article anywhere, you can request it in this subreddit.
 &nbsp;  
 &nbsp;
 # Other
 
-- [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book and Audiobook sites.
+- [**Rave Book Search Engine**](https://ravebooksearch.com/?q=%s) - A search engine that indexes many Comic, e-Book, and Audiobook sites.
 - [**CALISHOT**](https://eng.calishot.xyz/index-eng/summary) - A search engine indexing many open Calibre servers, also has a [Non English Books Section](https://noneng.calishot.xyz/index-not-eng/summary).  
 *<small>If the links stop working check [here](https://www.reddit.com/search?q=flair_name%3A%22CALISHOT%22) for updated ones.</small>*
 - [**Archive.org**](https://archive.org/details/texts) & [**Open Library**](https://openlibrary.org/) - Has a lot of niche historical content.
