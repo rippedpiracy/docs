@@ -137,7 +137,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
-[**ALVR**](https://alvr-org.github.io) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net), works really well.  
+[**ALVR**](https://github.com/alvr-org/alvr) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net), works really well.  
 *<small>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection) connection.</small>*
 
 [**Playnite**](https://playnite.link) - A Video-Game library manager with the goal to provide a unified interface for all Games, including but not limited to: Steam, GOG, Origin, Battle.net and Uplay. Also has Game emulation support.  
