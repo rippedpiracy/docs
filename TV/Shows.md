@@ -7,7 +7,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 <small>Useful for watching Content easily, but mostly with a loss of Quality.</small>
 
-[**movie-web Instances**](https://movie-web.github.io/docs/instances) - Multiple instances for a well-known open-source streaming project that works by aggregating content from different providers.
+[**movie-web Instances**](https://erynith.github.io/movie-web-instances) - Multiple instances for a well-known open-source streaming project that works by aggregating content from different providers.
 
 [**FMovies**](https://fmoviesz.to/home) - Well-built site for watching movies/shows.
 *<small>Make sure to install <a target="_self" href="/Utilities/Misc">uBlock Origin</a>.</small>*
