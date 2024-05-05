@@ -51,7 +51,7 @@ It may break some sites.
 
 [**Allow Right Click**](https://add0n.com/allow-right-click.html) - Re-enables right clicking on sites that disable it.
 
-[**DownThemAll!**](https://www.downthemall.org/) | [**DownZemAll!**](https://setvisible.github.io/DownZemAll/) - DownThemAll is a mass download manager directly built inside the Browser, whereas DownZemAll is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).  
+[**DownThemAll!**](https://www.downthemall.org/) | [**ArrowDL**](https://github.com/setvisible/ArrowDL/) - DownThemAll is a mass download manager directly built inside the Browser, whereas ArrowDL is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).  
 [**Media Reaper**](https://sasrip.sas41.com/Home/MediaReaper) - Easily download videos and audio files from any site that youtube-dl supports, found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
 
 [**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
