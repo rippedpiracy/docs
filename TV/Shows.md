@@ -12,7 +12,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**FMovies**](https://fmoviesz.to/home) - Well-built site for watching movies/shows.
 *<small>Make sure to install <a target="_self" href="/Utilities/Misc">uBlock Origin</a>.</small>*
 
-[**SFlix**](https://sflix.to/home) - Streaming site with a UI similar to Prime Video, **_beware of Pop-ups._**  
+[**SFlix**](https://sflix.to/home) | [**MovieOrca**](https://movieorca.com) - Streaming sites with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
 [**KimCartoon**](https://kimcartoon.li/) - Streaming site with an extensive catalogue of cartoons.
