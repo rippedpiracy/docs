@@ -1,39 +1,40 @@
 ---
 title: Homebrew
-description: Guides for Homebrewing various Consoles.
+description: Guides for obtaining Homebrew on various Consoles.
 ---
 
 <h2>Guides</h2>
 
 [**cfw.guide**](https://cfw.guide/) - Conglomerate of community-written guides for each console, including other devices.  
 
-[**ConsoleMods**](https://consolemods.org/) - Community-driven Wiki dedicated for Modding. However, it doesn't include guides for the latest Consoles.
+[**ConsoleMods**](https://consolemods.org/) - Community-driven Wiki dedicated for Modding. However, it doesn't include guides for the latest Consoles.  
 
-[**ROMhacking**](https://www.romhacking.net/) - Home to classic Video Game modifications, fan translations, console homebrew, utilities, and learning resources. Has a Forum and a Wiki.
+[**ROMhacking**](https://www.romhacking.net/) - Home to classic Video Game modifications, fan translations, console homebrew, utilities, and learning resources.  
 
 ### Nintendo
 
-[**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide. You may consider checking out the [GBATemp thread](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other alternatives to enter RCM without soldering, but it is recommended to buy an RCM Jig.  
+[**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide.  
+<sub>Consider checking out [GBATemp](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other ways to enter RCM without soldering, but it is recommended to buy an RCM Jig.</sub>  
 
 [**WiiBrew**](https://wiibrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
-[**Wii Guide**](https://wii.guide) - Guide made by the RiiConnect team to Homebrew the Wii.
+[**Wii Guide**](https://wii.hacks.guide) - Guide made by the NH team to Homebrew the Wii.
 
 [**WiiUBrew**](https://wiiubrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
-[**Wii U Guide**](https://wiiu.hacks.guide/) - Guide made by the Hacks.guide team to Homebrew the Wii U.
+[**Wii U Guide**](https://wiiu.hacks.guide/) - Guide made by the NH team to Homebrew the Wii U.
 
-[**3DS Guide**](https://3ds.hacks.guide/) A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
+[**3DS Guide**](https://3ds.hacks.guide/) A complete guide to 3DS (and 2DS), from stock to CFW.
 
 [**GC-Forever**](https://www.gc-forever.com/wiki/index.php?title=Main_Page) - A Wiki for the Nintendo GameCube.  
 *<small>They also have a [forum](https://www.gc-forever.com/forums/index.php) with discussions for other consoles alongside the GameCube.</small>*
 
-[**N64brew**](https://n64brew.dev/wiki/Main_Page) - Wiki dedicated to Homebrewing the Nintendo 64.
+[**N64brew**](https://n64brew.dev/wiki/Main_Page) - Wiki dedicated to getting Homebrew on the Nintendo 64.
 
 ### Sony
 
-[**Vita Guide**](https://vita.hacks.guide/) - Guide to Homebrew the PS Vita made by the Hacks.Guide team.  
-[**VitaDB**](https://vitadb.rinnegatamante.it/#/) - Place to download many Vita Games that were ported from other Consoles/PC to Vita.
+[**Vita Guide**](https://vita.hacks.guide/) - Guide to Homebrew the Vita made by the hacks.guide team.  
+[**VitaDB**](https://vitadb.rinnegatamante.it/#/) - Place to download many Vita Mini-Games and custom Homebrew.
 
-[**PlayStation Guide**](https://hackinformer.com/PlayStationGuide/index.html) - Guides for homebrewing and various other hacks for the PSP, Vita, PS2 and the PS4. Note that this guide will be outdated in some areas.
+[**PlayStation Guide**](https://hackinformer.com/PlayStationGuide/index.html) - Guides for Homebrew and various other hacks for the PSP, Vita, PS2 and the PS4. Note that this guide will be outdated in some areas.
 
 ### Steam Deck
 
