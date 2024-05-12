@@ -7,7 +7,7 @@ description: Guides for Homebrewing various Consoles.
 
 [**ConsoleMods**](https://consolemods.org/) - Community-driven Wiki dedicated for Modding. However, it doesn't include guides for the latest Consoles.
 
-[**Romhacking**](https://www.romhacking.net/) - Home to classic Video Game modifications, fan translations, console homebrew, utilities, and learning resources. Has a Forum and a Wiki.
+[**ROMhacking**](https://www.romhacking.net/) - Home to classic Video Game modifications, fan translations, console homebrew, utilities, and learning resources. Has a Forum and a Wiki.
 
 ### Nintendo
 
