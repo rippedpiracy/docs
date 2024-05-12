@@ -43,7 +43,7 @@ description: Guides for Homebrewing various Consoles.
 [**CryoUtilities**](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.  
 [**EmuDeck**](https://www.emudeck.com/) - The all-in-one emulation manager on the Steam Deck.  
 
-### Community
+### Communities
 
 **[r/Homebrew](https://www.reddit.com/r/homebrew/)** - A Subreddit for using and making Homebrew software.  
 **[r/PS3Homebrew](https://www.reddit.com/r/ps3homebrew/)** | **[r/PS4Homebrew](https://www.reddit.com/r/ps4homebrew/)** | **[r/PS5Homebrew](https://www.reddit.com/r/ps5homebrew/)**- News, updates, apps, and answers regarding PS Homebrew.  
