@@ -56,16 +56,16 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 <details>
 	<summary><b><u>Guide for acessing ExHentai (click this text)</u></b></summary>
 	<p>
-		<h4><span style="color:#00ff00">Step 0: VPN</span></h4>
+		<h4><span style="color:orange">Step 0: VPN</span></h4>
 		<blockquote>Depending on your region (especially Asia), you may not be able to access Exhentai no matter how many accounts you make. The only region that guarantees success is North America. Any VPN services will work in theory; however, you should try to use a paid VPN service for this, free VPNs may not work.</blockquote>  
-		<h4><span style="color:#00ff00">Step 1: Clear your cookies:</span></h4>
+		<h4><span style="color:orange">Step 1: Clear your cookies:</span></h4>
 		<blockquote>There are many methods for this including dozens of Chrome and Firefox extensions, some browsers even have a built-in cookie editor. Just make sure to clear cookies on both <a href="https://e-hentai.org/" target="_blank">E-Hentai</a> and <a href="https://exhentai.org/" target="_blank">ExHentai</a> (Should show a blank page).</blockquote>
-		<h4><span style="color:#00ff00">Step 2: Create a new E-Hentai account</span></h4>
+		<h4><span style="color:orange">Step 2: Create a new E-Hentai account</span></h4>
 		<blockquote>If you have an old account that can't access ExHentai, you should also create a new one <a href="https://forums.e-hentai.org/index.php?act=Reg" target="_blank">here</a>.</blockquote>
-		<h4><span style="color:#00ff00">Step 3: Wait 7-10 days</span></h4>
+		<h4><span style="color:orange">Step 3: Wait 7-10 days</span></h4>
 		<blockquote>Waiting sucks, but be patient, after this you'll have access to sadpanda for life.</blockquote>
-		<h4><span style="color:#00ff00">Step 4: Enjoy</span></h4>
-		<blockquote>In case ExHentai still shows a blank page, repeat <span style="color:#00ff00">Step 1</span>.</blockquote>
+		<h4><span style="color:orange">Step 4: Enjoy</span></h4>
+		<blockquote>In case ExHentai still shows a blank page, repeat <span style="color:orange">Step 1</span>.</blockquote>
 	</p>
 </details>
 
