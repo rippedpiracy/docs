@@ -5,6 +5,8 @@ description: Guides for Homebrewing various Consoles.
 
 <h2>Guides</h2>
 
+[**cfw.guide**](https://cfw.guide/) - Conglomerate of community-written guides for each console, including other devices.  
+
 [**ConsoleMods**](https://consolemods.org/) - Community-driven Wiki dedicated for Modding. However, it doesn't include guides for the latest Consoles.
 
 [**ROMhacking**](https://www.romhacking.net/) - Home to classic Video Game modifications, fan translations, console homebrew, utilities, and learning resources. Has a Forum and a Wiki.
