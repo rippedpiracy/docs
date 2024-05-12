@@ -57,27 +57,3 @@ description: Guides for Homebrewing various Consoles.
 **[r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/)** - Subreddit for sharing Xbox Homebrew created under Developer Mode for Xbox One/Series consoles.  
 **[r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/)** - Subreddit for discussing Xbox One/Series Retail Mode Homebrew! From RetroArch to DurangoFTP.  
 **[r/360hacks](https://www.reddit.com/r/360hacks/)** - Anything related to Xbox 360 Hacks, Mods, Homebrew, or Scene news.  
-
-## Loading Games
-This section provides information about playing Games on Consoles listed or written by ourselves, as the listed Homebrew guides above are against piracy, and as such does not provide any information on playing downloaded copies.
-
-<h3>Nintendo Wii</h3>
-<b>Notes:</b>  
-
-- This guide was written by **@abUwUser** on January 17, 2023. **OUTDATED INFORMATION MAY BE PRESENTED**.
-- It is recommended to download Games with the **`.wbfs` extension**, as it is the supported file extension of most USB Loaders (check /ROMs for downloads!). 
-- You can try out [Wii Backup Manager](https://wii.guide/wiibackupmanager) or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) if you don't want to do the manual steps each time.
-
-This small guide will assume that you have; a **[cIOS](https://wii.guide/cios) installed**, a USB Loader ([USB Loader GX](https://wii.guide/usbloadergx) or [WiiFlow](https://wii.guide/wiiflow)) in your SD Card and an external drive or a flash drive to install the Games.
-
-1. **Make sure that the drive is formatted as FAT32 or NTFS.**
-2. Create a folder named `wbfs` in the root of your directory.
-3. For each game that you add, you will have to create a folder and name as the following: "`GameNameWithoutSpaces` [`GameIDWithRegionID`]", without the quotes.
-    - You may check the Game's ID with Dolphin if you select the Game's folder, right click the list column (where you can sort by title, maker, etc.) and clicking "Game ID". This will show the Game ID with the region ID right next to the maker.
-    - Example using the American version of Super Smash Bros. Brawl: `SuperSmashBros.Brawl [RSBE01]`
-4. Rename the file as "`GameIDWithRegionID`.wbfs"
-    - Example using the American version of Super Smash Bros. Brawl: `RSBE01.wbfs`
-5. Eject the drive and insert into your Console.
-    - You may try inserting it in the other USB port if it does not work.
-6. Open the USB Loader application of your choice and the Game will be added.
-    - On WiiFlow, you may need to reload the cache. You can do that by pressing the HOME button and choosing "Reload Cache".
