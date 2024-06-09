@@ -29,7 +29,7 @@ description: List of sources for getting all genres of Music.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek and has added features.
 
 [**Deemix**](https://archive.org/details/deemix) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi can also accept Spotify or Tidal song links and download them from Deezer. They can download up to 128Kbps quality with a free account.  
-**Deemix is abandoned, if you're having issues use d-fi or streamrip instead.**  
+**Deemix and d-fi are abandoned, if you're having issues use streamrip instead.**  
 **_For higher quality downloads, a paid Deezer account is required._**
 
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple Music playlists through Qobuz.   
@@ -97,7 +97,5 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 [**hey-bro-check-log**](https://github.com/doujincafe/hbcl) - A CLI log checker maintained by Doujin Café Discord. Forked from the official [hbcl](https://github.com/ligh7s/hey-bro-check-log) repository. 
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
-
-[**Deezer ARL Checker**](https://dz.doubledouble.top/) - Deezer ARL checker, useful for verifying ARLs.
 
 [**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.
