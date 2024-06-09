@@ -259,7 +259,7 @@ Some common redistributables are:</small>
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
-[**VRP Wiki**](https://vrpirates.wiki/) - A Wiki for standalone Quest Piracy by VRP (also supplying PCVR titles).  
+[**VRP Wiki**](https://vrpirates.wiki/) - A Wiki for standalone Quest Piracy by VRP.  
 [**ARMGDDN**](https://t.me/ARMGDDNGames) - A Telegram Group for PCVR and PC Repacks.  
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
 *<small>You can also ask for Piracy Support on our [Discord Server](https://discord.ripped.guide)</small>*
