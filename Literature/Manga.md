@@ -81,9 +81,9 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 ## Reading Applications
 <ul>
 &nbsp;
-<li><a href="https://sourceforge.net/p/mcomix/wiki/Home/" target="_blank"><b>MComix</b></a> **(PC)** - User-friendly, customizable comic viewer.</li></ul>
+<li><a href="https://sourceforge.net/p/mcomix/wiki/Home/" target="_blank"><b>MComix</b></a> <b>(PC)</b> - User-friendly, customizable comic viewer.</li></ul>
 
-- [**Tachidesk**](https://github.com/Suwayomi/Suwayomi-Server) **(PC)** - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
+- [**Suwayomi**](https://github.com/Suwayomi/Suwayomi-Server) **(PC)** - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
 *<small>Requires a client, read the readme file.</small>*
 
 - [**Tachiyomi**](https://tachiyomi.org/) **(Android)** - Was a free and open source manga reader with customization support, various extensions and a beautiful reader. It was sued by Kakao Entertainment and all development ceased. Here is [archive with latest build](https://github.com/tachiyomiarchive/tachiyomi/). You should use [Keiyoushi repo](https://keiyoushi.github.io/) to download extensions. Some of the most Notable Forks are:   
