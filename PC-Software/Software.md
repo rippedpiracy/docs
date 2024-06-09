@@ -9,7 +9,7 @@ description: List of safe and trusted sites for Software.
 
 The go-to site for Software Piracy, for more than 10+ years. Requires Sign-up to search content.  
 Everything is uploaded by members with more than decades of experience with checked uploads. **_Requires Sign-up._**  
-*<small>You can also check out [RuTracker.ru](https://rutracker.ru), it's independent from RuTracker.org.</small>*
+*<small>You can also check out [RuTracker.ru](http://rutracker.ru), it's independent from RuTracker.org.</small>*
 
 **[m0nkrus](https://w14.monkrus.ws/)**
 
@@ -31,7 +31,7 @@ Good Forum for Software Piracy and other Warez with popular for its Requests sec
 
 Focused more on Plugins and VSTs than Software, good for Video/Music Production.
 
-**[Team V.R](https://codec.kiev.ua/releases.html)**
+**[Team V.R](https://codec.kyiv.ua/releases.html)**
 
 Like AudioZ, Team V.R is more focused on Audio and Video Production, Cracking Software and Plugins for it.
 
