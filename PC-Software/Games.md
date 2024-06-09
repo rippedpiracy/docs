@@ -170,9 +170,9 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 [**DreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=111520) - An easy to use Tool that can unlock all DLCs on legitimately owned Epic and Origin/EA Games, this can bypass Anti-Cheat software unlike ScreamAPI.  
 [**ScreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=106474) - Tool that can unlock all DLCs on legitimately owned Epic Games.
 
-[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE) [v1.4.3]**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
-Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use and actively maintained with lots of features but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but development has stopped since April 11, 2017.  
-**SmartSteamEmu is abandoned. If you're having issues with it, try the [SSE Reborn Client v1.46.1](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102).**  
+[**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE)**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
+Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use with lots of features but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but neither are actively maintained.  
+**If you're having issues with Goldberg, try it's fork [GBE Fork](https://github.com/otavepto/gbe_fork).**  
 There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/cde2e83836714923757cad6be93c5186/macosx64.zip) for Goldberg but it's outdated and only supports Mac x64.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
@@ -204,7 +204,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also be used to verify SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
-[**Tulip Steam Game Packer**](https://cs.rin.ru/forum/viewtopic.php?t=114211) - CLI Steam Games Downloader, has wide range of features such as: automatically archiving, downloading platform specific (Windows, Mac, Linux) content, option to pick different branches and more.  
+[**Super Steam Packer**](https://cs.rin.ru/forum/viewtopic.php?t=131328) - Steam Games Downloader, has wide range of features such as: automatically archiving, downloading platform specific (Windows, Mac, Linux) content, option to pick different branches and more.  
 [**DepotDownloader**](https://github.com/SteamRE/DepotDownloader) - CLI Steam Depot Downloader, can individually download DLCs and other Depots of Games (if the DLCs have their own Depots) that you own. It can also download individual manifest files, meaning you can download older versions of Depots/Games/DLCs.    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - GUI version.  
 *<small>To find the Depot IDs of various Depots, you can visit <https://steamdb.info/>, go on the page of the game and select "Depots" on the sidebar. There, you'll find the Depot IDs of various packages you can download.</small>*
