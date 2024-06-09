@@ -65,7 +65,7 @@ description: List of sources for getting all genres of Music.
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*
 
-[**dzunlock**](https://git.uhwot.cf/uhwot/dzunlock) - A browser UserScript that allows up to Hi-Fi streaming on Deezer.
+[**dzunlock**](https://uhwotgit.fly.dev/uhwot/dzunlock) - A browser UserScript that allows up to Hi-Fi streaming on Deezer.
 
 # Communities
 
