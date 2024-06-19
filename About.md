@@ -6,9 +6,9 @@ description: Information about the Ripped Guide.
 
 The Ripped Guide stores **0 Cookies** in your Browser, doesn't use **IndexedDB** and only uses a <kbd>dark</kbd> or <kbd>light</kbd> value in **Local Storage** for the Theme.  
 
-The Ripped Guide uses Privacy-first [**Umami Analytics**](https://umami.is) to measure site activity.  
-You're free to view **everything** we collected [here](https://eu.umami.is/share/Z8BAsivjvH6EE54o/ripped.guide).  
-<small>This does __not__ log any personal information apart from Country of Visit, Resolution, User-Agent and Referrer.</small>
+~~The Ripped Guide uses Privacy-first [**Umami Analytics**](https://umami.is) to measure site activity.  
+You're free to view **everything** we collected [here](https://eu.umami.is/share/Z8BAsivjvH6EE54o/ripped.guide).~~  
+<small>~~This does __not__ log any personal information apart from Country of Visit, Resolution, User-Agent and Referrer.~~</small>
 
 ## Contributing
 
