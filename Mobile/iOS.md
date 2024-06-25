@@ -1,6 +1,6 @@
 ---
 title: iOS 
-description: List of useful iOS mobile apps.
+description: List of useful iOS Mobile Apps and Tools.
 ---
 
 ## Jailbreak
@@ -11,19 +11,19 @@ description: List of useful iOS mobile apps.
 [**SideStore**](https://sidestore.io/) - Fork of AltStore which only asks for an Internet connection, no PC required.  
 [**AltStore**](https://altstore.io/) - Alternative App Store for non-jailbroken iOS devices. Requires a PC hosting AltServer due to Apple's account limits.  
 
-[**TrollStore**](https://github.com/opa334/TrollStore) - Permasigned jailed app that can permanently sign any IPA, only supported up to iOS 15.6 beta 5.
+[**TrollStore**](https://github.com/opa334/TrollStore) - Permasigned jailed app that can permanently sign any IPA, only supports iOS 14.0 beta 2 up to 16.6.1, 16.7 RC, 17.0.
 
 [**Sideloadly**](https://sideloadly.io/) - Simple installer of IPA files for non-Jailbroken iOS devices. Requires a PC.  
 
 # YouTube Clients
 [**uYouPlus**](https://github.com/qnblackcat/uYouPlus) - iOS YouTube client including YouPiP, iSponsorBlock, video downloading, removed ads and many more features.
 
-[**YouTubeRebornPlus**](https://github.com/arichorn/YouTubeRebornPlus) - Fork of YouTube Reborn for non-jailbroken devices with even more features.  
+[**uYouEnhanced**](https://github.com/arichornlover/uYouEnhanced) - Fork of uYouPlus for non-jailbroken devices with even more features.
+
+[**YouTubeRebornPlus**](https://github.com/arichorn/YouTubeRebornPlus) - Fork of YouTube Reborn for non-jailbroken devices with more functionality.  
 
 ## Discord Clients
 [**Enmity**](https://enmity.unbound.rip/) - Plugin-based Discord mod for iOS.
-
-[**Vendetta**](https://github.com/vendetta-mod/Vendetta) - A mod for Discord's mobile apps.
 
 # Telegram Clients
 [**Swiftgram**](https://apps.apple.com/app/swiftgram/id6471879502) - Includes Stories stealth mode, Speech-To-Text, unlimited accounts, unlocking blocked channels, removed cryptowallet and more.  
