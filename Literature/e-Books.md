@@ -55,7 +55,7 @@ description: Reliable sources to obtain e-Books.
 &nbsp;
 # Tools
 - [**DeDRM**](https://github.com/noDRM/DeDRM_tools) - Tools to be used with [Calibre](https://calibre-ebook.com/) to remove the DRM of e-Books from various retailers.
-- [**Bypass Paywalls Clean**](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Bypass News Article paywalls.  
+- [**Bypass Paywalls Clean**](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - Bypass News Article paywalls ([Firefox](https://github.com/bpc-clone/bypass-paywalls-firefox-clean)).  
 *<small>A more actively maintained fork (with no Google analytics) of [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome).</small>*
 - [**Unpaywall**](https://unpaywall.org/) Browser Extension: [Chromium](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) & [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/unpaywall/) - When you view a research article, Unpaywall automatically looks for a copy in its index. If it finds one, click the green tab to read the article.
 - [**12ft Ladder**](https://12ft.io/) - Removes clutter from News Articles.  
