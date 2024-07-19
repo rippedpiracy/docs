@@ -49,10 +49,9 @@ Quality can vary from one Release to another, ALWAYS check file sizes and Torren
 [**Stremio**](https://stremio.com/) | [**Kodi**](https://kodi.tv/) - Clients for Streaming in general with an intuitive design, they both allow Streaming from Torrents/Magnet Links as well as from certain Sites and have a plethora of Addons available that will make your experience much better.  
 *<small>Check out [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) and [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) for a list of useful Addons for both clients.</small>*
 
-[**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop) - Another Client for Streaming movies/shows/anime both from Torrent/Magnet Links and Sites (like YTS) which has an [Android Version](https://github.com/popcorn-official/popcorn-android) too.  
-Their [Subreddit](https://reddit.com/r/PopCornTimeApp) can be visited for more info. Its official site, [popcorntime.app](https://popcorntime.app) is currently down and there are various phishing results.  
-**_Only use the site we linked here._**  
-*<small>In the Settings, you can replace all the "API" fields with https://popcorn-time.ga/ to make the Movies appear.</small>*
+[**Popcorn Time**](https://github.com/popcorn-official/popcorn-desktop) - Another Client for Streaming Movies/Shows/Anime both from Torrent/Magnet Links and Sites (like YTS), they have an [Android Version](https://github.com/popcorn-official/popcorn-android) and [AUR Package](https://aur.archlinux.org/packages/popcorntime-bin) too.  
+Their [Subreddit](https://reddit.com/r/PopCornTimeApp) can be visited for more info.  
+**_Only use the site we linked here as there are many fake links out there._**  
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
 *<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
