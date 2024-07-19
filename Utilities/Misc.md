@@ -184,5 +184,5 @@ It may break some sites.
 [**EFF's blog**](https://www.eff.org/updates?type=All) - The EFF blog is a reliable and informative platform that provides up-to-date news, analysis, and commentary on important issues regarding digital rights, privacy, and online freedom.
 
 [**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://reddit.com/r/piracy) Megathread.  
-[**FREEMEDIAHECKYEAH**](https://fmhy.pages.dev/) - A Wiki by the FMHY community, they also have a [guides](https://www.fmhy.ml/guides) section.  
-**Do <u>NOT</u> use any of these Wikis for Software/Game sites. Use ours instead.**
+[**FREEMEDIAHECKYEAH**](https://fmhy.net/) - A Wiki by the FMHY community, they also have a [guides](https://rentry.co/fmhy-guides) section.  
+**Use at own risk.**
