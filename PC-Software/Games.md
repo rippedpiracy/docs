@@ -246,9 +246,6 @@ Some common redistributables are:</small>
 
 [**VNDB**](https://vndb.org/) - The largest, most accurate and most up-to-date Visual Novel DataBase on the web.
 
-[**Piracy Guides**](https://gitlab.com/ZediAlreadyTaken/guides) - A collection of guides by **Zedi**. They include Linux gaming (and SteamDeck), console gaming, setup instructions for qBittorrent and Jdownloader 2, and more.  
-**Do <u>NOT</u> use the megathread.md (Pirated Games Megathread) there. Use ours instead.**
-
 [**Skymods**](https://catalogue.smods.ru/) - Community driven Steam Workshop library. Use an Anti-Virus to scan the files you download.  
 [**GGNETWORK**](https://ggntw.com/steam) - Online Steam Workshop Downloader, has support for many Games. Only ever use this site to download Workshop mods, and not Games.  
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
