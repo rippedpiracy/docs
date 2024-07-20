@@ -185,4 +185,4 @@ It may break some sites.
 
 [**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://reddit.com/r/piracy) Megathread.  
 [**FREEMEDIAHECKYEAH**](https://fmhy.net/) - A Wiki by the FMHY community, they also have a [guides](https://rentry.co/fmhy-guides) section.  
-**Use at own risk.**
+**Use at your own risk.**
