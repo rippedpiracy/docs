@@ -169,7 +169,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**Goldberg Steam Emu**](https://cs.rin.ru/forum/viewtopic.php?t=91627) | [**SmartSteamEmu (SSE)**](https://cs.rin.ru/forum/viewtopic.php?t=62935) - Steam Emulators which can bypass the basic Steam DRM. They also allow playing some Multiplayer Games on LAN with friends and unlock DLCs.  
 Goldberg supports <span style="color:red">**Linux**</span>, it is easy to use with lots of features but lacks some features SSE has, such as: Bypassing SteamStub DRM, a pre-packaged Game Launcher and support for Plugins but neither are actively maintained.  
-**If you're having issues with Goldberg, try it's fork [GBE Fork](https://github.com/otavepto/gbe_fork).**  
+**If you're having issues with Goldberg, try this version [GBE Fork](https://cs.rin.ru/forum/viewtopic.php?p=3091700#p3091700).**  
 There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_Goldberg/goldberg_emulator/uploads/cde2e83836714923757cad6be93c5186/macosx64.zip) for Goldberg but it's outdated and only supports Mac x64.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GoldbergGUI](https://cs.rin.ru/forum/viewtopic.php?t=111152) - GUI Tool for applying Goldberg's Steam Emulator easily.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SSE's Companions](https://cs.rin.ru/forum/viewtopic.php?t=67795) - A collection of tools/apps for SmartSteamEmu.  
