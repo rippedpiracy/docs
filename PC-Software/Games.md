@@ -66,7 +66,6 @@ Another site that re-uploads Repacks, P2P Cracks and Scene Releases to various h
 Arguably the best site for Game Piracy. It's a well moderated Forum with active members. Not only good for getting Games from, but also learning about different Cracking tools and resources for many Games.  
 **_Requires Sign-up_**.  
 *<small>Most Games that are uploaded to this site are uncracked and require a <a target="_self" href="#cracking-tools">Steam Emulator</a> to function, especially when it's mentioned that the upload is "Clean (Steam) Files" or when it's uploaded to the [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) (SCS) forum.</small>*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PanDownload](https://baidu.gamesdrive.net/) - A site which allows downloading Baidu links directly without requiring a Chinese phone number, Check the Help section for information on how to download.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<small>All ALI213 uploads have the password "9999".</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CS.RIN.RU Enhanced](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) - A Browser Userscript that enhances the UI and the functionality of cs.rin.ru. Make sure to enable SCS in the settings otherwise SCS forums are hidden by default.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[RIN Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/rin-guide.md) - An okay guide for browsing cs.rin.ru by **MIDNYTE**. If you need further support, drop in our [Discord Server](https://discord.ripped.guide).  
@@ -199,7 +198,6 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 *<small>You can have a look at a short guide [here](https://cs.rin.ru/forum/viewtopic.php?p=2638778#p2638778).</small>*
 
 [**WorkshopDL**](https://cs.rin.ru/forum/viewtopic.php?t=124583) - A GUI Steam Workshop Downloader, allows you to download mods from the Steam Workshop. You need to own the Games on your Steam account to be able to download the mods for. However, for Games listed [here](https://steamdb.info/sub/17906/apps/), in SteamWebAPI, in [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader/wiki/Supported-API-games) or in [GGNetwork](https://ggntw.com/steam) you can download the mods for free using the app!  
-[**CWD**](https://github.com/CommunityWorkshop/CommunityWorkshopDownloader) - GUI Steam Workshop Downloader, can download mods from all Games listed [here](https://steamdb.info/sub/17906/apps/) and more.  
 
 [**Get Data from Steam / SteamDB**](https://github.com/Sak32009/GetDLCInfoFromSteamDB) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=71837) - Extracts all the information of the DLCs/Games from Steam/SteamDB and exports in various formats that can be used as a config file for Greenluma, CreamAPI and more. Can also be used to verify SHA1 checksums of the latest build of any Steam Game that can be used to verify Game integrity.
 
