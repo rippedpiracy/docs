@@ -133,7 +133,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 *<small>Part of the [SplitScreen.Me](https://www.splitscreen.me/) organisation, which has instructions on installing the app itself and individual guides for setting it up for all games listed [here](https://hub.splitscreen.me/).</small>*  
 [**Parsec**](https://parsec.app/) - Remote desktop application that works for playing Games together on single computer.
 
-[**DS4Windows**](https://ryochan7.github.io/ds4windows-site/) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
+[**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
 [**ALVR**](https://github.com/alvr-org/alvr) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net), works really well.  
 *<small>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection) connection.</small>*
