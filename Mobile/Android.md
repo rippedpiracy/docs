@@ -36,7 +36,7 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**FFUpdater**](https://github.com/Tobi823/ffupdater) - App for installing & updating various Firefox-based and Chromium-based browsers, with added automation capabilities.
 
 ## Privacy & Security
-[**PowerTunnel**](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible DNS server with anti-censorship functionalities for Android.
+[**ByeDPI**](https://github.com/dovecoteescapee/ByeDPIAndroid) - Powerful tool to bypass DPI (Deep Packet Inspection) and censorship. Useful to unblock websites without relying on VPNs.
 
 [**AdAway**](https://adaway.org/) - Open-source mobile ad-blocker with a focus on privacy.          
 *<small>This app benefits from having root access.</small>*
