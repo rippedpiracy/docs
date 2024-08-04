@@ -21,7 +21,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 [**Seez**](https://seez.su) - A streaming webpage with a modern UI. Constantly updated with Indian content. Has additional hosts and subtitles.
 
-[**StreamingCommunity**](https://streamingcommunity.report/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
+[**StreamingCommunity**](https://streamingcommunity.photos/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
 
 # Downloading
 
