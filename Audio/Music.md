@@ -67,6 +67,8 @@ description: List of sources for getting all genres of Music.
 
 [**dzunlock**](https://uhwotgit.fly.dev/uhwot/dzunlock) - A browser UserScript that allows up to Hi-Fi streaming on Deezer.
 
+[**Saturn**](https://github.com/SaturnMusic) - A custom client for Deezer on both [Desktop (Win/Linux/OSX)](https://github.com/SaturnMusic/PC) and [Mobile (Android)](https://github.com/SaturnMusic/Mobile).
+
 # Communities
 
 [**Slav Art**](https://slavart.gamesdrive.net) - Allows downloading tracks from Qobuz.  
