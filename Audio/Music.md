@@ -4,7 +4,7 @@ description: List of sources for getting all genres of Music.
 ---
 # Websites
 
-[**DoubleDouble**](https://doubledouble.top/) - Music Downloader for Spotify, Soundcloud, Qobuz, Deezer and Tidal.  
+[**lucida**](https://lucida.to/) - Music Downloader for Spotify, Amazon Music, Soundcloud, Qobuz, Deezer and Tidal.  
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
@@ -15,13 +15,11 @@ description: List of sources for getting all genres of Music.
 
 [**KHInsider**](https://downloads.khinsider.com/) - Offers plenty of Video Game Soundtracks and Game audio rips. But audio quality tends to be extremely low.
 
-[**Sitting on Clouds**](https://www.sittingonclouds.net/) | [**Hikarinoakariost**](https://hikarinoakari.com/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. Sitting on Clouds also has a good collection of Game OST. They use friendly file hosters except Nyaa, it uses Torrents instead.  
+[**Sitting on Clouds**](https://www.sittingonclouds.net/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. Sitting on Clouds also has a good collection of Game OST. They use friendly file hosters except Nyaa, it uses Torrents instead.  
 [**AnimeThemes**](https://animethemes.moe) | [**Themes.moe**](https://themes.moe) - A huge collection of Ending/Opening Themes for Anime. Right click to download the Audio/Video.
 
 [**Squidify**](https://www.squidify.org/) - A Web Player for Game OSTs/Anisons/Japanese Music.  
 *<small>You can also stream locally, more info at <https://wotaku.moe/guides/music/squidify></small>*
-
-[**Unreleased Disco**](https://unreleased.me/) - Huge archive of Unreleased Hip-Hop/Pop Songs from various Artists.
 
 # Tools
 
@@ -88,7 +86,7 @@ Their [Divolt Server](https://slavart.divolt.xyz) on the other hand, has multipl
 **[Firehawk52 Guide](https://rentry.org/firehawk52)** - A Mega-Guide for tools and ARLs to rip Music from popular streaming services.  
 [**THE MEGA MUSIC RIPPING GUIDE**](https://ori5000.github.io/musicripping.html) - A Music ripping guide for various platforms by Esoteria Avenue.
 
-[**StillFreeDeezerARL**](https://www.reddit.com/r/stillfreedeezerarl/) - They share Deezer ARLs (used for ripping Music with <a target="_self" href="#tools">Ripping Tools</a>).
+[**Wotaku-Music**](https://wotaku.wiki/glossary/audio) - Comprehensive information about audio files, hardware and Japanese Music.
 
 [**Spek**](http://spek.cc/) - Cross-platform GUI spectral creation program with easy drag and drop. Beginner-friendly but spectograms are not as detailed/clear as SoX. 
 
