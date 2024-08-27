@@ -3,7 +3,7 @@ title: Anime
 description: Comprehensive list of sites for downloading and streaming Anime.
 ---
 
-[**Wotaku**](https://wotaku.moe/), a **HUGE** list of Streaming/Downloading sites and apps categorized in Languages, Sub/Dubs and more.  
+[**Wotaku**](https://wotaku.wiki/), a **HUGE** list of Streaming/Downloading sites and apps categorized in Languages, Sub/Dubs and more.  
 [**The Anime Index**](https://theindex.moe/), a list of Tools, Apps and Sites for your Anime needs.
 
 # Downloading
@@ -60,7 +60,7 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 [**SauceNAO**](https://saucenao.com) | [**Anime Scene Search Engine**](https://trace.moe/) - Reverse image search engines for Anime, SauceNAO is also helpful in identifying *sauce*.
 
-[**Senpai.moe**](https://www.senpai.moe/) | [**Monthly**](https://www.monthly.moe/) - Calender for upcoming Official Anime Releases.
+[**Senpai.moe**](https://www.senpai.moe/) - Calender for upcoming Official Anime Releases.
 
 [**BECAUSE.MOE**](https://because.moe/) - Search engine to find streaming services that offer the Anime you search for.  
 **Accurate up to May 27, 2020**.
