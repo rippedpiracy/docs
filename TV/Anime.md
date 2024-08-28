@@ -46,8 +46,7 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 *<small>Maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
 [**cobalt**](https://cobalt.tools/) - Downloader that supports Instagram, Reddit, TikTok and [more](https://github.com/wukko/cobalt?tab=readme-ov-file#supported-services).  
-[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
-[**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
+[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.   
 
 **[Taiga (<span style="color:red">Windows</span>)](https://github.com/erengy/taiga)** | **[Trackma (<span style="color:red">Linux</span>)](https://github.com/z411/trackma/)** - Automatically detects the Anime Videos you watch on your PC and synchronizes your progress with AniList, Kitsu, MyAnimeList and more.  
 **A must have for Weebs.**
