@@ -62,7 +62,6 @@ Their [Subreddit](https://reddit.com/r/PopCornTimeApp) can be visited for more i
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
 [**cobalt**](https://cobalt.tools/) - Downloader that supports Instagram, Reddit, TikTok and [more](https://github.com/wukko/cobalt?tab=readme-ov-file#supported-services).  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
-[**AnyStream**](https://www.redfox.bz/anystream.html) - Netflix, Amazon Prime, Hulu, HBOmax and Disney+ Downloader, officially supports up to 1080p.  
 
 > <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
