@@ -12,8 +12,6 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**SFlix**](https://sflix.to/home) | [**MovieOrca**](https://movieorca.com) - Streaming sites with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
-[**KimCartoon**](https://kimcartoon.li/) - Streaming site with an extensive catalogue of cartoons.
-
 [**WatchCartoonsOnline**](https://wcofun.net) - Site for Cartoons and subbed/dubbed Anime.
 
 [**StreamingCommunity**](https://streamingcommunity.photos/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
