@@ -158,6 +158,8 @@ It may break some sites.
 
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.
 
+[**Test Adblock**](https://d3ward.github.io/toolz/adblock) - Check if your adblocker is blocking enough hosts. The tool tries to connect to the most common domains for different categories (ads, analytics, bug tracking, social trackers, mix and OEMs). Not a one-size-fits-all test.
+
 # Informational
 
 [**Spyware Watchdog**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
