@@ -16,6 +16,8 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 [**StreamingCommunity**](https://streamingcommunity.photos/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
 
+[**Rarefilmm**](https://rarefilmm.com/) - Streaming site for classic, lost, and forgotten cinema.
+
 # Downloading
 
 <small>Higher Quality most of the time and better watching experience overall compared to Streaming.</small>
@@ -30,6 +32,8 @@ Quality can vary from one Release to another, ALWAYS check file sizes and Torren
 
 **[Pahe](https://pahe.ink) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
 *<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links.</small>*
+
+**[Rarefilmm](https://rarefilmm.com/) (DDL)** - Site having downloads for old and lost films that are not easy to find publicly. Also has a chat room feature for requesting such type of films.
 
 # IRC
 
