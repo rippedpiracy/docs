@@ -150,13 +150,16 @@ It may break some sites.
 
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
-[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret Images.
+[**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret images.
 
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
 
 [**urlscan**](https://urlscan.io/) - Allows you to see a Image preview of a Potentially Unsafe Website without actually visiting it yourself.
 
 [**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.
+
+[**Test AdBlock**](https://d3ward.github.io/toolz/adblock) - Check if your AdBlocker is working. The tool tries to connect to the most common domains for different categories (ads, analytics, social trackers, etc).  
+***Not a one-size-fits-all test.***  
 
 # Informational
 
@@ -184,4 +187,4 @@ It may break some sites.
 
 [**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://reddit.com/r/piracy) Megathread.  
 [**FREEMEDIAHECKYEAH**](https://fmhy.net/) - A Wiki by the FMHY community, they also have a [guides](https://rentry.co/fmhy-guides) section.  
-**Use at your own risk.**
+***Use at your own risk.***
