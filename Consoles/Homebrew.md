@@ -34,7 +34,7 @@ description: Guides for obtaining Homebrew on various Consoles.
 [**Vita Guide**](https://vita.hacks.guide/) - Guide to Homebrew the Vita made by the hacks.guide team.  
 [**VitaDB**](https://vitadb.rinnegatamante.it/#/) - Place to download many Vita Mini-Games and custom Homebrew.
 
-[**PlayStation Guide**](https://hackinformer.com/PlayStationGuide/index.html) - Guides for Homebrew and various other hacks for the PSP, Vita, PS2 and the PS4. Note that this guide will be outdated in some areas.
+[**PlayStation Guide**](https://hackinformer.com/PlayStationGuide/index.html) - Guides for Homebrew and various other hacks for the PSP, Vita and the PS2. Note that this guide will be outdated in some areas.
 
 ### Steam Deck
 
