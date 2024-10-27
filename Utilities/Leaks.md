@@ -14,9 +14,9 @@ description: Sources for Leaks, Account Generators and more.
 **_Requires Sign-Up._**  
 *<small>You might need to like and reply to a post to get access to some content.</small>*
 
-[**Sellthing**](https://sellthing.co/generator) - Dispenses many types of Accounts, Proxies and OpenBullet Configs with full details about them.  
+[**Sellthing**](https://sellthing.co/generator) - Dispenses many types of Accounts and Proxies with full details about them.  
 **_Requires Sign-Up._**  
-*<small>It is <b>recommended</b> to Sign-Up with an alternate e-Mail, Username & Password as this Dispenser isn't fully trusted.</small>*
+*<small>It is <b>recommended</b> to Sign-Up with an alternate e-Mail, Username & Password as this Dispenser isn't fully safe.</small>*
 
 [**The Altening**](https://thealtening.com/free/free-minecraft-alts) - Minecraft Token Dispenser, needs an external app for the "Accounts" to work. 
 
