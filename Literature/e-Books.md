@@ -8,7 +8,7 @@ description: Reliable sources to obtain e-Books.
 # General E-Books
 
 - [**Anna’s Archive**](https://annas-archive.org/) - Search Engine that indexes a few big libraries including libgen and Z-Lib.
-- [**Z-Library**](https://singlelogin.re/) - The Library is also accessible through [Tor](https://www.torproject.org/) and [I2P](https://geti2p.net/en/), **_Requires Sign-up_**.
+- [**Z-Library**](https://z-library.sk) - The Library is also accessible through [Tor](https://www.torproject.org/) ([here](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion)) and [I2P](https://geti2p.net/en/) ([here](https://zlib24th6ptyb4ibzn3tj2cndqafs6rhm4ed4gruxztaaco35lka.b32.i2p)), **_Limited Access Without Sign-up_**.
 - [**Library Genesis (.fun)**](https://libgen.fun/) & [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - The .fun domain is currently being run by the original owner of libgen whereas the others are independent.
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, **_Requires Sign-up_**.
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Forum, **_Requires Sign-up_**.
