@@ -31,7 +31,7 @@ Good Forum for Software Piracy and other Warez with popular for its Requests sec
 
 Focused more on Plugins and VSTs than Software, good for Video/Music Production.
 
-**[Team V.R](https://codec.kyiv.ua/releases.html)**
+**[Team V.R](https://codec.kyiv.ua/releases)**
 
 Like AudioZ, Team V.R is more focused on Audio and Video Production, Cracking Software and Plugins for it.
 
