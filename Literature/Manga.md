@@ -2,7 +2,7 @@
 title: Manga
 description: Collection of resources for your Manga needs
 ---
-[**Wotaku**](https://wotaku.moe/), a **HUGE** list of reading/downloading sites and apps categorized in Platforms, Categories and more.  
+[**Wotaku**](https://wotaku.wiki/), a **HUGE** list of reading/downloading sites and apps categorized in Platforms, Categories and more.  
 [**The Anime Index**](https://theindex.moe/), a list of Tools, Apps and Sites for your Manga needs.
 
 > It is generally advised to avoid aggregator websites as they consist of annoying ads, highly compressed images and no updates on best quality releases.  
