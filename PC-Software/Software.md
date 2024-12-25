@@ -7,8 +7,8 @@ description: List of safe and trusted sites for Software.
 
 **[RuTracker.org](https://rutracker.org)** | **[.net](https://rutracker.net)** | **[.nl](https://rutracker.nl)**
 
-The go-to site for Software Piracy, for more than 10+ years. Requires Sign-up to search content.  
-Everything is uploaded by members with more than decades of experience with checked uploads. **_Requires Sign-up._**  
+The go-to site for Software Piracy, for more than 10+ years. **_Requires Sign-up to search content._**  
+Everything is uploaded by members with more than decades of experience with checked uploads.  
 *<small>You can also check out [RuTracker.ru](http://rutracker.ru), it's independent from RuTracker.org.</small>*
 
 **[m0nkrus](https://w14.monkrus.ws/)** | **[mirror](https://vk.com/monkrus)**
