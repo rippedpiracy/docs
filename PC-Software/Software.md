@@ -11,7 +11,7 @@ The go-to site for Software Piracy, for more than 10+ years. Requires Sign-up to
 Everything is uploaded by members with more than decades of experience with checked uploads. **_Requires Sign-up._**  
 *<small>You can also check out [RuTracker.ru](http://rutracker.ru), it's independent from RuTracker.org.</small>*
 
-**[m0nkrus](https://w14.monkrus.ws/)**
+**[m0nkrus](https://w14.monkrus.ws/)** | **[mirror](https://vk.com/monkrus)**
 
 Software cracked by the one and only m0nkrus, the most reliable Adobe Cracker for many years.  
 You can mostly find Adobe Products and Autodesk Software.  
