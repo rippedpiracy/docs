@@ -9,12 +9,12 @@ In the case that any of the sites are blocked, use [GoodByeDPI](https://github.c
 
 ## General Torrent
 
-**[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/)** | **[.gd](https://1337x.gd/)** | **[.eu](https://x1337x.eu/) (Torrent)**
+**[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/)** (Torrent)**
 
 A very popular Torrenting site which has an incredible amount of content, but also has major downsides including insufficient moderation in general (not banning uploaders who have uploaded Malware in the past) and an *incredibly* unsafe Software category.  
-**<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/), [0xEMPRESS](https://1337x.to/user/0xEMPRESS/), and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u></span>  
+**<span style="color:red"><u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/) and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u></span>  
 Remember to <u>NEVER</u> get Software Releases from this site.**  
-*<small>Empress's new releases can be found [here](https://telegra.ph/empress-biography-07-15).</small>*
+*<small>Empress's releases can be on <https://telegra.ph/empress-biography-07-15>.</small>*
 
 **[RuTor](http://rutor.info) (Torrent)**
 
@@ -155,7 +155,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**Koalageddon**](https://github.com/acidicoala/Koalageddon) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.  
-[**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply SmokeAPI/ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker/[Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395) which unlock DLCs in their respective platforms. 
+[**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker/[Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395) which unlock DLCs in their respective platforms. 
 
 [**SmokeAPI**](https://cs.rin.ru/forum/viewtopic.php?t=122487) | [**CreamAPI**](https://cs.rin.ru/forum/viewtopic.php?t=70576) & [**StellarKey**](https://cs.rin.ru/forum/viewtopic.php?t=120717) - Tools that can unlock all DLCs on legitimately owned Steam Games, may not work well if the Game has Anti-Cheat. SmokeAPI requires no configuration and therefore is very beginner friendly, it also supports unlocking Steam inventory items. StellarKey is for <span style="color:red">**Linux**</span> only.  
 *<small>CreamAPI [FAQ](https://docs.google.com/document/d/1RWenVCEfxhs5gvOUj5G_fefO_B6t-B33M6nbuYJsSTg). StellarKey may not work well with non-native Linux Games played through Proton.</small>*  
