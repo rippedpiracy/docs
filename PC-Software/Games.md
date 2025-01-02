@@ -3,23 +3,25 @@ title: Games
 description: List of safe and trusted sites for Games.
 ---
 **Some of these sites have Fake and Mirror sites, you should only use the ones we link to.  
-In the case that any of the sites are blocked, use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
-**We <u>Strongly</u> recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team/) installed.**  
-<small>**Browser Userscripts require a Userscript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</small>
+In case any of the sites are blocked, use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
+**We <u>Strongly</u> recommend you have [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team/) installed.**  
+<small>**Browser UserScripts require an UserScript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</small>
 
 ## General Torrent
 
 **[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/) (Torrent)**
 
-A very popular Torrenting site home to a few big uploaders. Because of it's nature, only Download from the specified Users below.  
+A very popular Torrenting site home to a few big uploaders. Only Download from the specified users below.  
 We **heavily** discourage the use of it's Applications/Software Category.  
-**<u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/) and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u>**  
-*<small>Empress's releases, who cracks Denuvo games, can be found on <https://telegra.ph/empress-biography-07-15>.</small>*
+**<u>Trusted users are [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/) and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u>**  
+*<small>Empress's releases, who cracks Denuvo-protected games, can be found on <https://telegra.ph/empress-biography-07-15>.</small>*
 
 **[RuTor](http://rutor.info) (Torrent)**
 
-An old Russian tracker that has plenty of content but with generally less seeders. Some Repackers upload exclusively here.  
-**Only get Games from [Chovka](http://rutor.info/browse/0/0/1642915/0) and [FitGirl](http://rutor.info/browse/0/0/1224038/0)**.
+An old Russian tracker that has plenty of content but with generally less seeders.  
+Only Download from the specified users below.  
+<small>Some Repackers exclusively upload here.</small>
+**Trusted users are [Chovka](http://rutor.info/browse/0/0/1642915/0) and [FitGirl](http://rutor.info/browse/0/0/1224038/0)**.
 
 ## Repackers
 
@@ -30,7 +32,6 @@ One of the most well known and reputable Repacker out there, very active and pro
 **[DODI](https://dodi-repacks.site) | [.download](https://dodi-repacks.download) (Torrent / DDL)**
 
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
-*<small>They also have a [forum](https://dodi-forums.win/) for requesting re-seeds, asking for support and more.</small>*
 
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
