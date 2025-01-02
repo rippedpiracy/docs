@@ -10,7 +10,7 @@ Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock) and 
 
 **[Myrient](https://myrient.erista.me/) (DDL)**
 
-Great site focused on game preservation with lots of game systems to choose from and high speed downloading.
+Website focused on Game preservation with lots of different systems to choose from and high speed downloading.
 
 **[ROMSPURE](https://romspure.cc/roms) (DDL)**
 
