@@ -12,7 +12,7 @@ In case any of the sites are blocked, use [GoodByeDPI](https://github.com/Valdik
 **[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/) (Torrent)**
 
 A very popular Torrenting site home to a few big uploaders. Only Download from the specified users below.  
-We **heavily** discourage the use of it's Applications/Software Category.  
+We **heavily** discourage the use of its Applications/Software Category.  
 **<u>Trusted users are [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/) and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u>**  
 *<small>Empress's releases, who cracks Denuvo-protected games, can be found on <https://telegra.ph/empress-biography-07-15>.</small>*
 
