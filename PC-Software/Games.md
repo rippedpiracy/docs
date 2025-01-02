@@ -11,7 +11,7 @@ In the case that any of the sites are blocked, use [GoodByeDPI](https://github.c
 
 **[1337x.to](https://1337x.to)** | **[.st](https://1337x.st/) (Torrent)**
 
-A very popular Torrenting site home to a few big uploaders. By it's nature, only Download from the specificed Groups below. We discourage the use of it's Applications/Software Category.  
+A very popular Torrenting site home to a few big uploaders. By it's nature, only Download from the specificed Groups below. We **heavily** discourage the use of it's Applications/Software Category.  
 **<u>Only get Games from [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/) and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u>**  
 *<small>Empress's releases, who cracks Denuvo games, can be found on <https://telegra.ph/empress-biography-07-15>.</small>*
 
