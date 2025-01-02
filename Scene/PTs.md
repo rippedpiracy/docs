@@ -35,7 +35,7 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 |  | General | HD | Movies | TV | Games | Anime | Music | Books | E-learning | Porn | Scene |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tier 1 | [TL](https://torrentleech.org/) | [HDB](https://hdbits.org/) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [GGN](https://gazellegames.net/) | [AB](https://animebytes.tv/) | [RED](https://redacted.ch) | [MAM](https://myanonamouse.net/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [TS](https://torrentseeds.org/) |
+| Tier 1 | [TL](https://torrentleech.org/) | [HDB](https://hdbits.org/) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [GGN](https://gazellegames.net/) | [AB](https://animebytes.tv/) | [RED](https://redacted.sh) | [MAM](https://myanonamouse.net/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [TS](https://torrentseeds.org/) |
 | Tier 2 | [IPT](https://iptorrents.com/) | [BHD](https://beyond-hd.me/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [PxC](https://pixelcove.me/) | [BBT](https://bakabt.me/) | [OPS](https://orpheus.network/) | [BIB](https://bibliotik.me/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [RTT](https://revolutiontt.me/) |
 | Tier 3 | [FL](https://filelist.io) | [BLU](https://blutopia.cc/) | None | [MTV](https://morethantv.me/) | None | [U2](https://u2.dmhy.org/) | [DIC](https://dicmusic.com/) | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [TL](https://torrentleech.org/) |
 
@@ -67,6 +67,6 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 [**Private Trackers Guide**](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers/) - Some info about Private Trackers by r/Piracy.  
 [**Private Tracker List**](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - A helpful list that has updated stats of most of the Private Trackers.  
 [**InviteRoute**](https://inviteroute.github.io/sheet/) - Shows which Private Trackers you can enter from which other ones.  
-[**r/OpenSignups**](https://reddit.com/r/OpenSignups) | [**r/TrackerSignups**](https://www.reddit.com/r/trackersignups/) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones. 
+[**r/OpenSignups**](https://reddit.com/r/OpenSignups) - Private Trackers that are currently having open signups get posted here, occasionally you get good ones. 
 
 <small>[Here](https://pastebin.pl/view/raw/f19e4e48) is a list of the homes of various Internal Groups in Private Trackers.</smal>
