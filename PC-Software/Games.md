@@ -20,7 +20,6 @@ We **heavily** discourage the use of its Applications/Software Category.
 
 An old Russian tracker that has plenty of content but with generally less seeders.  
 Only Download from the specified users below.  
-<small>Some Repackers exclusively upload here.</small>
 **Trusted users are [Chovka](http://rutor.info/browse/0/0/1642915/0) and [FitGirl](http://rutor.info/browse/0/0/1224038/0)**.
 
 ## Repackers
