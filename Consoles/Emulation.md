@@ -8,13 +8,9 @@ Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock) and 
 
 ## ROMs
 
-**[Myrient](https://myrient.erista.me/) (DDL)**
-
-Website focused on Game preservation with lots of different systems to choose from and high speed downloading.
-
 **[ROMSPURE](https://romspure.cc/roms) (DDL)**
 
-Nice place to get a large list of ROMs from every type of system.
+Contains large collection of ROMs from every type of system.
 
 **[RomUlation](https://www.romulation.org/) (DDL)**  
 
@@ -25,9 +21,9 @@ Offering ROM Downloads since 2004.
 
 The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with mkdocs.
 
-**[NoPayStation](https://nopaystation.com/) | [PSNDL](https://psndl.net/) (DDL)**
+**[NoPayStation](https://nopaystation.com/) (DDL)**
 
- The best places to get VITA, PS3, PSP, PSX Games / DLCs and more, directly from Sony's servers with no Middle-Man.
+ The best place to get VITA, PS3, PSP, PSX Games / DLCs and more, directly from Sony's servers with no Middle-Man.
 
 **[Vimm's Lair: Vault](https://vimm.net/vault/) (DDL / Torrent)**
 
@@ -41,22 +37,22 @@ Mr. AlvRo has organized all of his ROM's Download links via [1fichier](https://1
 
 Nice source for Nintendo and PlayStation ROMs, unfortunately only has those.
 
-**[CiasPara3DS](https://ciaspara3ds.blogspot.com/) (DDL)**
-
-This site is a pretty nice source for 3DS CIA Games, if you're a bit rusty in Spanish you might need to use a Translate Extension.
-
 **[hShop](https://hshop.erista.me/) (DDL)**
 
 You can easily Download 3DS Games by scanning a QR code with the [FBI](https://gbatemp.net/threads/release-fbi-open-source-cia-installer.386433/) app.  
 *<small>Installing via QR code on the 3DS may be quite slow as the device does not have a good NIC chip.</small>*
 
-**[nsw2u](https://nsw2u.xyz/) (DDL)**
+**[nsw2u](https://nsw2u.com/) (DDL)**
 
 Changes domains frequently, offers NSP / XCI files for Switch Games, with Updates included.
 
-**[CDRomance](https://cdromance.com/) (DDL)**
+**[CDRomance](https://cdromance.org/) (DDL)**
 
 A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for different consoles, uploaded directly to the site.
+
+**[Myrient](https://myrient.erista.me/) (DDL)**
+
+Website focused on Game preservation with lots of different systems to choose from.
 
 ## Emulators
 
