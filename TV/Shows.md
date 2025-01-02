@@ -20,10 +20,12 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 # Downloading
 
-<small>Higher Quality most of the time and better watching experience overall compared to Streaming.</small>
+<small>Higher Quality most of the time and better watching experience overall compared to Streaming.
+Enable file explorer on Windows to display file extensions and make sure the filename ends in .mkv or .mp4. If instead it is .exe it is likely Malware.
+</small>
 
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
-Quality can vary from one Release to another, ALWAYS check file sizes and Torrent names.  
+Quality can vary from one Release to another.
 
 **[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
