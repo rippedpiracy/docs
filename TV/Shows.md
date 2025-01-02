@@ -20,7 +20,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 # Downloading
 
-<small>Higher Quality most of the time and better watching experience overall compared to Streaming.
+<small>Higher Quality most of the time and better watching experience overall compared to Streaming.  
 Enable file explorer on Windows to display file extensions and make sure the filename ends in .mkv or .mp4. If instead it is .exe it is likely Malware.
 </small>
 
