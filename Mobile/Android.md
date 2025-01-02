@@ -46,10 +46,10 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) - Open-source password manager forked from [KeePassDroid](https://github.com/bpellin/keepassdroid); allows one to store passwords in an encrypted database locally.
 
 ## Optimization
-[**Canta**](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta allows you to uninstall any app
-from your device, even if you don't have root access.
+[**Canta**](https://f-droid.org/en/packages/org.samo_lego.canta/) - Allows you to uninstall (almost) any app from your device, without root access.  
+<small>*[Shizuku](https://shizuku.rikka.app/) required.*</small>  
 
-[**Universal Android Debloater**](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Android Debloater.
+[**Universal Android Debloater**](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Android Debloater, uses wired ADB to uninstall hidden OEM apps and bloat.  
 
 ## File Managers
 [**MiXplorer**](https://mixplorer.com/) - Fully-featured Android file manager that supports multiple cloud storages and server protocols.
