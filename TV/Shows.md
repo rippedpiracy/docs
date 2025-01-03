@@ -32,6 +32,9 @@ Quality can vary from one Release to another.
 **[OlaMovies](https://app2.olamovies.download/) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes, you can find Bollywood media here as well.
 *Join their [Telegram Channel](https://telegram.me/olamovies_officialv6) for domain updates.*
 
+**[Pahe](https://pahe.ink) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
+*<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links.</small>*
+
 **[Rarefilmm](https://rarefilmm.com/) (DDL)** - Site having downloads for old and lost films that are not easy to find publicly. Also has a chat room feature for requesting such type of films.
 
 # IRC
