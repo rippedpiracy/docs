@@ -3,8 +3,8 @@ title: Emulation
 description: Resources for Emulation and sites that offer ROM Downloads.
 ---
 
-Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) while browsing all of these sites!  
-<small>Note: Many of the tools on the <a target="_self" href="/Utilities/Misc">Misc</a> page can be used to improve your downloading experience.</small>
+**Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) while browsing all of these sites!**  
+**<small>Note: Many of the tools on the <a target="_self" href="/Utilities/Misc">Misc</a> page can be used to improve your downloading experience.</small>**
 
 ## ROMs
 
@@ -59,7 +59,8 @@ Website focused on Game preservation with lots of different systems to choose fr
 [/emugen/ Wiki](https://emulation.gametechwiki.com/) - The **ULTIMATE** guide for all Emulators on all Platforms.  
 *<small>Make sure to check with your Emulator [here](https://emulation.gametechwiki.com/index.php/Emulator_files) in case it requires some sort of BIOS or special file to function.</small>*
 
-<small>**Stable PS4/PS5 or Xbox One/Xbox Series Emulators do not exist. If you find an app that claims to be that, it's a scam or it's highly unstable. Some examples for scam apps are: PCSX4, PCSX5, PSemuX.**</small>
+<small>**Stable PS4/PS5 or Xbox One/Xbox Series Emulators do not exist. If you find an app that claims to be that, it's a scam or it's highly unstable.  
+Some examples for scam apps are: PCSX4, PCSX5, PSemuX, RPCS4.**</small>
 
 ## Apps
 
