@@ -10,7 +10,7 @@ description: Sources for Leaks, Account Generators and more.
 [**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Account Pastebins.  
 **_Use an AdBlocker._**  
 
-[**SimpCity**](https://simpcity.su) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
+[**Leak Zone**](https://leakzone.net/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
 **_Requires Sign-Up._**  
 *<small>You might need to like and reply to a post to get access to some content.</small>*
 
@@ -24,5 +24,5 @@ description: Sources for Leaks, Account Generators and more.
 
 [**Kemono**](https://kemono.su/) & [**Coomer**](https://coomer.su/) - The successors to yiff.party, they have Leaks for sites like Patreon, OnlyFans and more which are all user-submitted with an automated process.  
 
-[**PornLeaks**](https://pornleaks.in/) - Site dedicated to posting Leaks of Pornstars.  
+[**SimpCity**](https://simpcity.su) | [**PornLeaks**](https://pornleaks.in/) - Sites dedicated to posting Leaks of Pornstars.  
 **_Use an AdBlocker._**
