@@ -10,7 +10,7 @@ description: Sources for Leaks, Account Generators and more.
 [**Leak.sx**](https://leak.sx) - Account Leecher with lists of publicly available Account Pastebins.  
 **_Use an AdBlocker._**  
 
-[**Leak Zone**](https://leakzone.net/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
+[**SimpCity**](https://simpcity.su) | [**Leak Zone**](https://leakzone.net/Forum-Accounts) - Forums with an Account Leaks category, only get Accounts and __NOTHING ELSE__.  
 **_Requires Sign-Up._**  
 *<small>You might need to like and reply to a post to get access to some content.</small>*
 
