@@ -156,10 +156,7 @@ It may break some sites.
 
 [**urlscan**](https://urlscan.io/) - Allows you to see a Image preview of a Potentially Unsafe Website without actually visiting it yourself.
 
-[**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.
-
-[**Test AdBlock**](https://d3ward.github.io/toolz/adblock) - Check if your AdBlocker is working. The tool tries to connect to the most common domains for different categories (ads, analytics, social trackers, etc).  
-***Not a one-size-fits-all test.***  
+[**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.  
 
 # Informational
 
