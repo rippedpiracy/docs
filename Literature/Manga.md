@@ -41,7 +41,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 *Methods to rip Manga from various sites.*
 
 - [**Manga Downloader**](https://redsquirrel87.altervista.org/doku.php/manga-downloader) - A simple yet sleek Java-based app to download images from raw sites with internal descrambling and stitching. Supports forcing frameworks to download from unsupported sites. Example: tonarinoyj.jp isn't supported but can be used by forcing coreview.  
-- [**HakuNeko**](https://hakuneko.download/) - Cross-platform downloader for manga and anime from various websites.  
+- [**HaruNeko**](https://github.com/manga-download/haruneko) | [**HakuNeko**](https://hakuneko.download/) - Cross-platform downloader for manga and anime from various websites.  
 - [**Zeen3 Ripsters Userscripts**](https://zeen3.gitlab.io/ripsters/) - Various raw site rippers; intended to save raw images from ja/zh/ko sites.  
 *<small>Use a Userscript Manager like [Violentmonkey](https://violentmonkey.github.io).</small>*  
 - [**Bookwalker-downloader**](https://github.com/xuzhengyi1995/Manga_downloader) - A Bookwalker manga download framework using selenium. A little complex but there's an extensive readme file.
