@@ -15,7 +15,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 <h3>Manga</h3>
 
 - [**MangaDex**](https://mangadex.org/) - Top choice for manga reading. The main site where all scanlators upload primarilily. No image compression, no ads, ability to choose from different releases and recieve edits from uploaders directly.   
-- [**Mangasee123**](https://mangasee123.com/) - Our second best choice. Aggregator site with no image compression but has ads (Use Ublock). Consists of massive library of scans + offcials.
+- [**Weeb Central**](https://weebcentral.com/) - Our second best choice. Aggregator site with no image compression but has ads (Use Ublock). Consists of massive library of scans + offcials.
 - [**MangaReader**](https://mangareader.to/) - Easy to use UI with high quality Manga. Features language selection and endless scrolling for chapters.
 &nbsp;  
 &nbsp;
