@@ -9,7 +9,7 @@ description: Reliable sources to obtain e-Books.
 
 - [**Anna’s Archive**](https://annas-archive.org/) - Search Engine that indexes a few big libraries including libgen and Z-Lib.
 - [**Z-Library**](https://z-library.sk) - The Library is also accessible through [Tor](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion), **_Requires Sign-up_**.
-- [**Library Genesis (.fun)**](https://libgen.fun/) & [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - The .fun domain is currently being run by the original owner of libgen whereas the others are independent.
+- **LibraryGenesis** [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - A Shadow library for access to journal articles, academic and general Books, Comics, Audiobooks, etc.  
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum, **_Requires Sign-up_**.
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Forum, **_Requires Sign-up_**.
 - [**The-eye**](https://the-eye.eu/public/Books/) - Many e-Books and calibre libraries.
