@@ -152,7 +152,7 @@ It may break some sites.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret images.
 
-[**OTS**](https://ots.fyi/) - Open source one-time-secret sharing platform with encryption.
+[**OTS**](https://ots.fyi/) - Open-source one-time-secret sharing platform with encryption.
 
 [**Litterbox**](https://litterbox.catbox.moe/) | [**Uguu**](https://uguu.se/) | [**Kappa**](https://kappa.lol/) - Temporarily host your files.
 
