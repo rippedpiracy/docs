@@ -14,7 +14,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 [**WatchCartoonsOnline**](https://wcofun.net) - Site for Cartoons and subbed/dubbed Anime.
 
-[**StreamingCommunity**](https://streamingcommunity.paris/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
+[**StreamingCommunity**](https://streamingcommunity.luxe/) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
 
 [**Rarefilmm**](https://rarefilmm.com/) - Streaming site for classic, lost, and forgotten cinema.
 
