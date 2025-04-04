@@ -71,8 +71,6 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**Murglar**](https://murglar.app/) - Android client for playing and downloading music from services such as Deezer, SoundCloud, VK and Yandex music.
 *<small>Refer to [this](https://rentry.org/firehawk52/) guide for obtaining Deezer ARLs to use with Murglar.</small>*
 
-
-
 ## Torrenting
 [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) - Open-source Torrent client for Android.  
 [**LunaSea**](https://www.lunasea.app/) - Usenet/Torrent manager. Useful for those who utilize seedboxes.
@@ -83,6 +81,8 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 [**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.
 *<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21)</small>*
+
+[**AyuGram**](https://t.me/ayugramfcm) - Telegram client with ghost mode, message history, disabled ads and other features.
 
 ## Miscellaneous
 [**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier which can be used to remove license verification, advertisements, change permissions, unlock in-app purchases etc.
