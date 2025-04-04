@@ -56,11 +56,11 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**Round Sync**](https://roundsync.com/) - Fork of [RCX](https://github.com/xOb/rcx/); an Android port of [Rclone](https://rclone.org/) that has the ability to manage files on several different cloud service providers.
 
 ## Video/Music
-[**Seal**](https://github.com/JunkFood02/Seal) - Audio/Video Downloader GUI for use with **yt-dlp's [supported platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)**.
+[**Seal**](https://github.com/JunkFood02/Seal) - Audio/Video Downloader GUI for use with **yt-dlp's [supported platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)**.  
 
-[**Auxio**](https://github.com/OxygenCobalt/Auxio) - Open-source music music player with a fast, reliable UI/UX without the many useless features present in other music players.
+[**Auxio**](https://github.com/OxygenCobalt/Auxio) - Open-source music player with a fast, reliable UI/UX without the useless features present in other players.  
 
-[**mpv for Android**](https://github.com/mpv-android/mpv-android) - Open-source media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
+[**mpv for Android**](https://github.com/mpv-android/mpv-android) - Open-source media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.  
 
 [**VLC for Android**](https://videolan.org/vlc/download-android.html) - Another open-source media player which has the ability to play various media formats, network streams etc. along with other useful features. [Mod](https://t.me/waifupx_official/233) which allows Monet theming for the same.
 
