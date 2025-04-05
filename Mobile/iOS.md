@@ -18,10 +18,10 @@ description: List of useful iOS Mobile Apps and Tools.
 
 [**E-Sign**](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Free way to use expired certificates to sign unlimited apps without expiry.
 # YouTube Clients
-[**Youtube Plus**](https://github.com/dayanch96/YTLite) - iOS YouTube client including YouPiP, YTUHD, Return Youtube Dislikes, YouQuality, Don't Eat My Content, SponsorBlock, video downloading, removed ads and many more features.  
+[**Youtube Plus**](https://github.com/dayanch96/YTLite) - YouTube client including YouPiP, YTUHD, Return Youtube Dislikes, YouQuality, Don't Eat My Content, SponsorBlock, video downloading, removed ads and many more features.  
 
 ## Discord Clients
-[**Bunny**](https://github.com/bunny-mod/BunnyTweak) / [Plugins](https://purple-eyez.github.io/Plugins-List/) - Vendetta-based Discord mod for iOS.
+[**Bunny**](https://github.com/bunny-mod/BunnyTweak) / [Plugins](https://purple-eyez.github.io/Plugins-List/) - Vendetta-based Discord mod.
 
 # Telegram Clients
 [**Swiftgram**](https://apps.apple.com/app/swiftgram/id6471879502) - Includes Stories stealth mode, Speech-To-Text, unlimited accounts, unlocking blocked channels, removed cryptowallet and more.  
