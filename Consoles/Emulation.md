@@ -3,7 +3,8 @@ title: Emulation
 description: Resources for Emulation and sites that offer ROM Downloads.
 ---
 
-**Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) while browsing all of these sites!**  
+**Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) while browsing these sites!**  
+**Downloaded ROM files that have Application file extension .exe are likely Malware!**  
 **<small>Note: Many of the tools on the <a target="_self" href="/Utilities/Misc">Misc</a> page can be used to improve your downloading experience.</small>**
 
 ## ROMs
