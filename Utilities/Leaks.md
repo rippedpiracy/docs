@@ -20,6 +20,9 @@ description: Sources for Leaks, Account Generators and more.
 
 [**The Altening**](https://thealtening.com/free/free-minecraft-alts) - Minecraft Token Dispenser, needs an external app for the "Accounts" to work. 
 
+[**Leak.Date**](https://leak.date) – Daily updated leaked accounts for streaming, gaming, VPN, email, and social platforms.  
+**_Ad-free, clean interface with smart filters and Steam Dispenser._**
+
 # Paid Content Leaks
 
 [**Kemono**](https://kemono.su/) & [**Coomer**](https://coomer.su/) - The successors to yiff.party, they have Leaks for sites like Patreon, OnlyFans and more which are all user-submitted with an automated process.  
