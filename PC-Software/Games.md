@@ -19,8 +19,7 @@ We **heavily** discourage the use of its Applications/Software Category.
 **[RuTor](http://rutor.info) (Torrent)**
 
 An old Russian tracker that has plenty of content but with generally less seeders.  
-Only Download from the specified users below.  
-**Trusted users are [Chovka](http://rutor.info/browse/0/0/1642915/0) and [FitGirl](http://rutor.info/browse/0/0/1224038/0)**.
+**Only Download from [FitGirl](http://rutor.info/browse/0/0/1224038/0)**.
 
 ## Repackers
 
