@@ -22,6 +22,10 @@ Offering ROM Downloads since 2004.
 
 The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with mkdocs.
 
+**[r/EpicRoms](https://epicroms.net/) (DDL)**
+
+A vast collection of ROMs and ISOs for Nintendo, PlayStation, and all other consoles. We offer full Redump and No-Intro validated ROMs.
+
 **[NoPayStation](https://nopaystation.com/) (DDL)**
 
  The best place to get VITA, PS3, PSP, PSX Games / DLCs and more, directly from Sony's servers with no Middle-Man.
