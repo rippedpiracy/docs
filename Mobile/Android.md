@@ -56,9 +56,11 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**Round Sync**](https://roundsync.com/) - Fork of [RCX](https://github.com/xOb/rcx/); an Android port of [Rclone](https://rclone.org/) that has the ability to manage files on several different cloud service providers.
 
 ## Video/Music
-[**Seal**](https://github.com/JunkFood02/Seal) - Audio/Video Downloader GUI for use with **yt-dlp's [supported platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)**.
+[**Seal**](https://github.com/JunkFood02/Seal) - Audio/Video Downloader GUI for use with **yt-dlp's [supported platforms](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)**.  
 
-[**mpv for Android**](https://github.com/mpv-android/mpv-android) - Open-source media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.
+[**Auxio**](https://github.com/OxygenCobalt/Auxio) - Open-source music player with a fast, reliable UI/UX without the useless features present in other players.  
+
+[**mpv for Android**](https://github.com/mpv-android/mpv-android) - Open-source media player that supports a wide variety of media file formats, audio and video codecs, and subtitle types.  
 
 [**VLC for Android**](https://videolan.org/vlc/download-android.html) - Another open-source media player which has the ability to play various media formats, network streams etc. along with other useful features. [Mod](https://t.me/waifupx_official/233) which allows Monet theming for the same.
 
@@ -68,10 +70,8 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 
 [**Seeker**](https://github.com/jackBonadies/SeekerAndroid) - Open-source [Soulseek](https://slsknet.org/) client for Android which supports various features such as downloading, searching, sharing, messages, chat rooms, port forwarding etc.
 
-[**Murglar**](https://murglar.app/) - Android client for playing and downloading music from services such as Deezer, SoundCloud, VK and Yandex music.
+[**Murglar**](https://murglar.app/) - Android client for playing and downloading music from services such as Deezer, SoundCloud, VK and Yandex music.  
 *<small>Refer to [this](https://rentry.org/firehawk52/) guide for obtaining Deezer ARLs to use with Murglar.</small>*
-
-
 
 ## Torrenting
 [**LibreTorrent**](https://github.com/proninyaroslav/libretorrent) - Open-source Torrent client for Android.  
@@ -81,11 +81,13 @@ Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-s
 [**ReVanced**](https://github.com/revanced/revanced-manager) - Android App patcher that provides patches to popular apps such as YouTube, Twitter and Reddit.    
 *<small>It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced according to the community is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG), but it may be replaced in the future.</small>*
 
-[**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.
+[**Aliucord**](https://github.com/Aliucord/Aliucord) - Plugin-based Discord (Kotlin - below 126.21) client mod for Android.  
 *<small>Note that Aliucord only supports versions **before the React Native update** (all versions before 126.21)</small>*
 
+[**AyuGram**](https://t.me/ayugramfcm) | [**Nekogram**](https://nekogram.app/download) - Telegram Client with Ghost mode, Message history, disabled ads and more.
+
 ## Miscellaneous
-[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier which can be used to remove license verification, advertisements, change permissions, unlock in-app purchases etc.
+[**Lucky Patcher**](https://www.luckypatchers.com/) - Android app modifier which can be used to remove license verification, advertisements, change permissions, unlock in-app purchases etc.  
 *<small>This app isn't open source so giving it root access to use some of it's features is your responsibility!</small>*
 
 [**GameGuardian**](https://gameguardian.net/forum/) - A game/cheating app for Android. Similar to Cheat Engine on PC.  

@@ -142,7 +142,7 @@ It may break some sites.
 [**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) | [**Triage**](https://tria.ge/) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
 **_Some may require Sign-Up._**  
 
-[**Have I Been Pwned**](https://haveibeenpwned.com/) - Check if your e-mail or Phone number is in a data breach.
+[**Have I Been Pwned**](https://haveibeenpwned.com/) | [**LeakCheck**](https://leakcheck.io/) - Check if your e-mail or Phone number is in a data breach.
 
 [**Just Delete Me**](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 
@@ -151,6 +151,10 @@ It may break some sites.
 [**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret images.
+
+[**OTS**](https://ots.fyi/) - Open-source one-time-secret sharing platform with encryption.
+
+[**Litterbox**](https://litterbox.catbox.moe/) | [**Uguu**](https://uguu.se/) - Temporarily host your files.
 
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
 
