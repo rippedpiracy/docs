@@ -154,7 +154,7 @@ It may break some sites.
 
 [**OTS**](https://ots.fyi/) - Open-source one-time-secret sharing platform with encryption.
 
-[**Litterbox**](https://litterbox.catbox.moe/) | [**Uguu**](https://uguu.se/) | [**Kappa**](https://kappa.lol/) - Temporarily host your files.
+[**Litterbox**](https://litterbox.catbox.moe/) | [**Uguu**](https://uguu.se/) - Temporarily host your files.
 
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
 
