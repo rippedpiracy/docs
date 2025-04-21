@@ -16,7 +16,7 @@ description: List of useful iOS Mobile Apps and Tools.
 [**Sideloadly**](https://sideloadly.io/) - Simple installer of IPA files for non-Jailbroken iOS devices. Requires a PC.  
 
 # YouTube Clients
-[**uYouPlus**](https://github.com/qnblackcat/uYouPlus) - iOS YouTube client including YouPiP, iSponsorBlock, video downloading, removed ads and many more features.  
+[**uYouEnhanced**](https://github.com/arichornlover/uYouEnhanced) | [**YTLite**](https://github.com/dayanch96/YTLite) - iOS YouTube clients including YouPiP, iSponsorBlock, video downloading, removed ads and many more features. 
 
 ## Discord Clients
 [**Enmity**](https://enmity.unbound.rip/) - Plugin-based Discord mod for iOS.
