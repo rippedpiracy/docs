@@ -136,7 +136,7 @@ It may break some sites.
 
 # Useful Websites
 
-[**Internet Archive**](https://web.archive.org/) | [**Webpage Archive**](https://archive.today/) - Sites that host archived versions of other pages. You can archive any site you want.
+[**Internet Archive**](https://web.archive.org/) | [**Webpage Archive**](https://archive.is/) - Sites that host archived versions of other pages. You can archive any site you want.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
 [**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) | [**Triage**](https://tria.ge/) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
