@@ -16,11 +16,6 @@ We **heavily** discourage the use of its Applications/Software Category.
 **<u>Trusted users are [FitGirl](https://1337x.to/user/FitGirl/), [DODI](https://1337x.to/user/DODI/), [KaOsKrew](https://1337x.to/user/KaOsKrew/) and [johncena141](https://1337x.to/user/johncena141/) (who uploads Linux Games).</u>**  
 *<small>Empress's releases, who cracks Denuvo-protected games, can be found on <https://telegra.ph/empress-biography-07-15>.</small>*
 
-**[RuTor](http://rutor.info) (Torrent)**
-
-An old Russian tracker that has plenty of content but with generally less seeders.  
-**Only Download from [FitGirl](http://rutor.info/browse/0/0/1224038/0)**.
-
 ## Repackers
 
 **[FitGirl](https://fitgirl-repacks.site) (Torrent / DDL)**
