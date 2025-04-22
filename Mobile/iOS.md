@@ -19,7 +19,7 @@ description: List of useful iOS Mobile Apps and Tools.
 [**E-Sign**](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Free way to use expired certificates to sign unlimited apps without expiry.
 # YouTube Clients
 
-[**uYouEnhanced**](https://github.com/arichornlover/uYouEnhanced) | [**YTLite**](https://github.com/dayanch96/YTLite) - iOS YouTube clients including YouPiP, iSponsorBlock, video downloading, removed ads and many more features. 
+[**uYouEnhanced**](https://github.com/arichornlover/uYouEnhanced) | [**YTLite**](https://github.com/dayanch96/YTLite) - iOS YouTube clients including YouPiP, iSponsorBlock, video downloading, removed ads and many more features.  
 
 ## Discord Clients
 [**Bunny**](https://github.com/bunny-mod/BunnyTweak) / [Plugins](https://purple-eyez.github.io/Plugins-List/) - Vendetta-based Discord mod.
