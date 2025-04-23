@@ -31,7 +31,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - **[Manga-Zip](https://manga-zip.is/post) (DDL)** - Direct Download for magazines/volumes in zips.
 - **[DLraw.net](https://dlraw.net/) (DDL)** - Direct Download for manga/novels/artbooks zips.  
 *<small>Join our Discord to find out how to bypass mexa.sh download limitations.</small>*
-- **[JPraws](https://jraws.net/) (DDL)** - NSFW warning. Direct download in zips.
+- **[JPraws](https://jraws.net/) (DDL)** - <span style="color:red">NSFW</span> warning. Direct download in zips.
 - **[Nyaa.si](https://nyaa.si/?c=3_3) (Torrent)** - Huge Torrent Tracker for all types of Literature.
 
 <small>We recommend you use [qBittorrent](https://www.qbittorrent.org), [Deluge](https://www.deluge-torrent.org) or [Transmission](https://transmissionbt.com/) to Torrent.</small>  
