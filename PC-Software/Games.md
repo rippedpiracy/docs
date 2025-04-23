@@ -206,7 +206,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 
 ## Redistributables
 
-<small>Most of the time you can tell which redistributables are required for a specific Steam Game by going on its page at <https://steamdb.info/> and clicking the "Depots" section on the sidebar. On the "EXTRE INFO" column, if it mentions "Depot from 228980" then you can be sure those files are required.  
+<small>Most of the time you can tell which redistributables are required for a specific Steam Game by going on its page at <https://steamdb.info/> and clicking the "Depots" section on the sidebar. On the "Configuration" column, if it mentions "Depot from 228980" then you can be sure those files are required.  
 Some common redistributables are:</small>
 
 [**VisualCppRedist AIO**](https://github.com/abbodi1406/vcredist) - All in One repack for the latest Microsoft Visual C++ Redistributable Runtimes (VC 20XX Redist).  
