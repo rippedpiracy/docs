@@ -4,7 +4,7 @@ description: List of sources for getting all genres of Music.
 ---
 # Websites
 
-[**lucida**](https://lucida.to/) - Music Downloader for Spotify, Amazon Music, Soundcloud, Qobuz, Deezer and Tidal.  
+[**lucida**](https://lucida.to/) - Music Downloader for Amazon Music, Soundcloud, Qobuz, Deezer and Tidal.  
 
 [**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
 
