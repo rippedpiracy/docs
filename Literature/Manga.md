@@ -86,12 +86,15 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 - [**Suwayomi**](https://github.com/Suwayomi/Suwayomi-Server) **(PC)** - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
 *<small>Requires a client, read the readme file.</small>*
 
-- [**Mihon**](https://mihon.app/) - Free and open source manga reader with customization support, various extensions and a good reader. Some of the most Notable Forks are:  
+- [**Mihon**](https://mihon.app/) - Free and open source manga reader with customization support, various extensions and a good reader.  
+  Some of the most Notable Forks are:  
 	- [**Yokai**](https://mihon.app/forks/Yokai/)  
  	- [**Komikku**](https://komikku-app.github.io/)   
 	- [**TachiyomiSY**](https://github.com/jobobby04/TachiyomiSY) - Fork based off of [TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) adding custom unique features, also has new features from the latest Tachiyomi version as well as from other forks such as TachiyomiJ2K. Updates are very frequent, recommended to get the preview build.  
 	- [**Neko**](https://github.com/nekomangaorg/Neko) - This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. Contains features specific to Mangadex that those versions cannot offer except for other sources, local sources, and editting manga.  
 	- [**TachiyomiJ2K**](https://github.com/Jays2Kings/tachiyomiJ2K) - This fork takes a new approach to the design of the base app along with several other enhancements.
+
+&nbsp;
 
 - [**Kuro Reader+**](https://kurotoshiro.dev/) **(Android)** - An e-reader with a very intuitive design, synchronisation capabilities and a good reader.
 
