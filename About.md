@@ -6,7 +6,7 @@ description: Information about the Ripped Guide.
 
 The Ripped Guide stores **0 Cookies** in your Browser, doesn't use **IndexedDB** and only uses a <kbd>dark</kbd> or <kbd>light</kbd> value in **Local Storage** for the Theme.  
 
-The Ripped Guide uses Privacy-first [**Cloudflare Analytics**](https://www.cloudflare.com/web-analytics/) to measure site activity.  
+We use Privacy-first [**Cloudflare Analytics**](https://www.cloudflare.com/web-analytics/) to measure site activity.  
 <small>This does __not__ log any personal information apart from Country of Visit, Resolution, User-Agent and Referrer.</small>  
 If you wish to opt-out, install [**uBlock Origin**](https://github.com/gorhill/uBlock) on your browser.
 
