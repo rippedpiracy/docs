@@ -32,6 +32,6 @@ no_show_footer: true
 
 <center>Feel free to check the <a target="_self" href="/About">About</a> section if you wish to help out by contributing.</center>  
 
-*<p class="pc-only"><center>Click on the categories in the sidebar to start browsing.</center></p>*  
+*<center><p class="pc-only">Click on the categories in the sidebar to start browsing.</p></center>*  
 
-*<p class="mobile-only"><center>Swipe right to open the sidebar and start browsing.</center></p>*
+*<center><p class="mobile-only">Swipe right to open the sidebar and start browsing.</p></center>*
