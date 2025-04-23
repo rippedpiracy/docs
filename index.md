@@ -4,6 +4,13 @@ description: Welcome to Ripped!
 no_show_title: true
 no_show_footer: true
 ---
+
+<style>
+#content {
+  padding: 70px 40px;
+}
+</style>
+
 <img 
     style="display: block; 
            margin-left: auto;
