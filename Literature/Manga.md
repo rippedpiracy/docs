@@ -52,7 +52,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 
 <h3>Manga</h3>
 - [**E-Hentai**](http://e-hentai.org/) - The source of most of the manga online with an exceptional library, most of the translators also upload here. You can create bounties, fill requests and gain rep in its own system (read more about it [here](https://ehwiki.org/wiki/Main_Page)). In addition to h-manga, you can also find cosplays, image sets, game CGs and more.   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ExHentai](http://exhentai.org/) - The unfiltered version of e-Hentai which includes controversial content such as loli, shota, cub, guro. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ExHentai](http://exhentai.org/) - The unfiltered version of e-Hentai which includes controversial content. 
 <details>
 	<summary><b><u>Guide for acessing ExHentai (click this text)</u></b></summary>
 	<p>
