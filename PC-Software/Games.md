@@ -249,7 +249,7 @@ Some common redistributables are:</small>
 [**VRP Wiki**](https://vrpirates.wiki/) - A Wiki for standalone Quest Piracy by VRP.  
 [**ARMGDDN**](https://t.me/ARMGDDNGames) - A Telegram Group for PCVR and PC Repacks.  
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
-*<small>You can also ask for Piracy Support on our [Discord Server](https://discord.ripped.guide)</small>*
+*<small>You can also ask for Piracy Support on our [Discord Server](https://discord.ripped.guide).</small>*
 
 > <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
