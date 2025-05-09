@@ -14,8 +14,8 @@ As listed in the [**Scene Glossary**](/Scene-Glossary),
 > With commands one is able to 'check' a release.
 
 ## PreDB Sites
-- **[xREL](https://www.xrel.to/releases.html#)** 
-- **[PreDB.org](https://www.predb.org/)**  
+- **[xREL](https://www.xrel.to/releases.html#)**
+- **[PreDB.org](https://predb.org/)**  
 - **[PreDB.net](https://predb.net/)**  
 - **[PreDB.me](https://predb.me/)**
 - **[Predataba.se](https://predataba.se)**
