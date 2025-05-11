@@ -35,9 +35,9 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 |  | General | HD | Movies | TV | Games | Anime | Music | Books | E-learning | Porn | Scene |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tier 1 | [TL](https://torrentleech.org/) | [HDB](https://hdbits.org/) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [GGN](https://gazellegames.net/) | [AB](https://animebytes.tv/) | [RED](https://redacted.sh) | [MAM](https://myanonamouse.net/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [TS](https://torrentseeds.org/) |
+| Tier 1 | [TL](https://torrentleech.org/) | [HDB](https://hdbits.org/) | [PTP](https://passthepopcorn.me/) | [BTN](https://broadcasthe.net/) | [GGN](https://gazellegames.net/) | [AB](https://animebytes.tv/) | [RED](https://redacted.sh) | [MAM](https://myanonamouse.net/) | [TG](https://thegeeks.click/) | [EMP](https://empornium.is) | [TL](https://torrentleech.org/) |
 | Tier 2 | [IPT](https://iptorrents.com/) | [BHD](https://beyond-hd.me/) | [GPW](https://greatposterwall.com/) | [TVV](https://tv-vault.me/) | [PxC](https://pixelcove.me/) | [BBT](https://bakabt.me/) | [OPS](https://orpheus.network/) | [BIB](https://bibliotik.me/) | [BS](https://bitspyder.net/) | [PB](https://pornbay.org/) | [RTT](https://revolutiontt.me/) |
-| Tier 3 | [FL](https://filelist.io) | [BLU](https://blutopia.cc/) | None | [MTV](https://morethantv.me/) | None | [U2](https://u2.dmhy.org/) | [DIC](https://dicmusic.com/) | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | [TL](https://torrentleech.org/) |
+| Tier 3 | [FL](https://filelist.io) | [BLU](https://blutopia.cc/) | None | [MTV](https://morethantv.me/) | None | [U2](https://u2.dmhy.org/) | [DIC](https://dicmusic.com/) | [TG](https://thegeeks.click/) | None | [PL](https://pornolab.net/) | None |
 
 **Audiobooks**: [MyAnonaMouse](https://myanonamouse.net/) (note that the best GENERAL source of audiobooks is [AudioBookBay](https://audiobookbay.se/) and occasionally [RuTracker](https://rutracker.org/) which are not Private Trackers)
 
