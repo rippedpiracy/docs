@@ -51,7 +51,7 @@ Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is u
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
-An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 Scene Releases directly from [TorrentSeeds](https://torrentseeds.org/) to zippyshare.  
+An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac, Nintendo Switch and PS4 Scene Releases directly to zippyshare.  
 
 ## Forums
 
