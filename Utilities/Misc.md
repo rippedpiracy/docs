@@ -14,35 +14,34 @@ description: Tools and Apps to make your life easier.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of Filter lists for Anime Streaming, Manga reading, and Downloading of other Japanese Media.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.
 
-
-[**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
-*<small>Maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
+[**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.  
+_<small>Maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>_
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
 [**NoScript**](https://noscript.net/) - Allow/Disallow JavaScript, Flash, Java and other executable Content to only run on websites of your choice.  
-***Can be difficult to setup for the Average User.***   
+**_Can be difficult to setup for the Average User._**
 
 [**LocalCDN**](https://www.localcdn.org/) - Emulates Content Delivery Networks to improve online Privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment instead of fetching them from external services like Google or other CDNs.  
 It may break some sites.  
-*<small>[Guide](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>*     
+_<small>[Guide](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>_
 
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
 [**JustDeleteMe**](https://justdeleteme.xyz/) - Provides links and info on how to delete accounts based on the current active tab.
 
 [**The Great Suspender (<span style="color:red">Firefox</span>)**](https://github.com/dvalter/ff-thegreatsuspender) - Manually / Automatically suspend Tabs to save up RAM usage.  
-*<small>Chromium now has this functionality [built-in](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother).</small>*  
+_<small>Chromium now has this functionality [built-in](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother).</small>_
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
 
-[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension.  
+[**Buster**](https://github.com/dessant/buster) - reCAPTCHA solver extension.
 
 [**Web Archives**](https://github.com/dessant/web-archives) - Makes it easy to view archived and cached versions of web pages.
 
-[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) -  Save a full copy of an entire web page in a single HTML file.  
-*<small>SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.</small>*
+[**SingleFile**](https://github.com/gildas-lormeau/SingleFile) & [**SingleFileZ**](https://github.com/gildas-lormeau/SingleFileZ) - Save a full copy of an entire web page in a single HTML file.  
+_<small>SingleFileZ saves pages slightly differently so that the downloaded .html file can be opened as an archive.</small>_
 
 [**UserAgent-Switcher**](https://add0n.com/useragent-switcher.html) | [**Chameleon (<span style="color:red">Firefox</span>)**](https://sereneblue.github.io/chameleon/) - Highly configurable User-Agent Switchers.
 
@@ -55,11 +54,11 @@ It may break some sites.
 [**Media Reaper**](https://sasrip.sas41.com/Home/MediaReaper) - Easily download videos and audio files from any site that youtube-dl supports, found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
 
 [**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
-*<small>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence that it has tracked its users, its compatibility isn't great, and it's not very actively maintained.</small>*  
+_<small>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence that it has tracked its users, its compatibility isn't great, and it's not very actively maintained.</small>_  
 [**Stylus**](https://add0n.com/stylus.html) - Browser UserStyles Manager, used for loading CSS files for customising the appearance of webpages.
 
 [**SponsorBlock**](https://sponsor.ajay.app/) - Skip YouTube Sponsorships & Shoutouts.  
-[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the Dislike count on YouTube.  
+[**Return YouTube Dislike**](https://returnyoutubedislike.com/) - Unhides the Dislike count on YouTube.
 
 # Browser UserScripts
 
@@ -67,7 +66,7 @@ It may break some sites.
 
 [**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different Browsers.
 
-[**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses count-downs.   
+[**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses count-downs.  
 [**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
 [**SiteScrubber**](https://greasyfork.org/en/scripts/426078-sitescrubber) - Skip certain Timers or Ads and remove clutter that make it harder to Download from certain DDL sites.
 
@@ -88,39 +87,39 @@ It may break some sites.
 [**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip. NanaZip is a fork of 7-Zip with added functionality and better support for Windows 11.
 
 [**Everything**](https://www.voidtools.com/) - Easily find files on your drives.  
-[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
+[**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives.
 
 [**Process Hacker**](https://processhacker.sourceforge.io/) - Helps monitor system resources, debug software and detect Malware, advanced version of Task Manager.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[plugins-extra](https://github.com/processhacker/plugins-extra) - Incomplete and potentially buggy plugins that are not included with Process Hacker by default.  
 [**pe-studio**](https://www.winitor.com/) - Spots artifacts of executables in order to aid in Malware Analysis.  
 [**Cuckoo Sandbox**](https://cuckoosandbox.org/) - An advanced, extremely modular, and 100% FOSS automated Malware Analysis system.
 
 **[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** & **[GoodByeDPI GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)** | **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** & **[PowerTunnel for Android](https://github.com/krlvm/PowerTunnel-Android)** - Simple, scalable, cross-platform and effective solutions on Government blocked Websites. An alternative to using VPNs to unblock sites.  
-*<small>For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app.</small>*
+_<small>For GoodByeDPI GUI to work you will have to disable "Settings > Software Settings > Auto Check Updates" and relaunch the app.</small>_
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
-*<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
+_<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/blob/-/README.md) - A qBittorrent fork with enhanced privacy (IP filtering, auto-ban bots and copyright trolls, auto-update public trackers).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBittorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBittorrent.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBittorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBittorrent.
 
 [**AB-DM**](https://abdownloadmanager.com/) | [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, and JD2 is best for downloading multiple files simultaneously. IDM is paid.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Elephant](https://github.com/meowcateatrat/elephant) - Adds YT-DLP support to FDM, meaning it can download from all [these](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[JDownloader 2 Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/jdownloader2.md) - A guide for setting up JDownloader 2.
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
-*<small>Maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
+_<small>Maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>_  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
 [**cobalt**](https://cobalt.tools/) - Downloader that supports Instagram, Reddit, TikTok and [more](https://github.com/wukko/cobalt?tab=readme-ov-file#supported-services).  
-[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
+[**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
-*<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>*
+_<small>Actively maintained fork of the now inactive [Livestreamer](https://livestreamer.io/).</small>_
 
-[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss. 
+[**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
 [**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
 
-[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab) | [**Frog (<span style="color:red">Linux</span>)**](https://getfrog.app/) - Use OCR to grab and read text from images or unselectable text. 
+[**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab) | [**Frog (<span style="color:red">Linux</span>)**](https://getfrog.app/) - Use OCR to grab and read text from images or unselectable text.
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
 
@@ -138,7 +137,7 @@ It may break some sites.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
 [**Intezer Analyze**](https://analyze.intezer.com/) | [**Hybrid Analysis**](https://www.hybrid-analysis.com/) | [**Joe Sandbox**](https://www.joesandbox.com/) | [**Manalyzer**](https://manalyzer.org/) | [**YOMI**](https://yomi.yoroi.company/) | [**FileScan**](https://www.filescan.io/) | [**Any.run**](https://any.run) | [**Triage**](https://tria.ge/) - Virus Scanners that check for Malicious Files by Sandboxing and logging their behavior.  
-**_Some may require Sign-Up._**  
+**_Some may require Sign-Up._**
 
 [**Have I Been Pwned**](https://haveibeenpwned.com/) | [**LeakCheck**](https://leakcheck.io/) - Check if your e-mail or Phone number is in a data breach.
 
@@ -146,7 +145,7 @@ It may break some sites.
 
 [**AlternativeTo**](https://alternativeto.net/), [**OpenSourceAlternativeTo**](https://www.opensourcealternative.to/) - Find open source alternatives to any software you use.
 
-[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
+[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://bypass.link/) - Unshorten annoying Ad-links on the spot.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret images.
 
@@ -158,7 +157,7 @@ It may break some sites.
 
 [**urlscan**](https://urlscan.io/) - Allows you to see a Image preview of a Potentially Unsafe Website without actually visiting it yourself.
 
-[**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.  
+[**URL Pages**](https://jstrieb.github.io/urlpages/) - Create and view web pages stored entirely in the URL.
 
 # Informational
 
@@ -169,14 +168,14 @@ It may break some sites.
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://reddit.com/r/PrivacyGuides)'s Website, has good information about various Security and Privacy Tools.  
 [**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://reddit.com/r/privacy).
 
-[**Awesome Privacy**](https://pluja.github.io/awesome-privacy/) - A curated list of services and alternatives that respect your privacy.  
+[**Awesome Privacy**](https://pluja.github.io/awesome-privacy/) - A curated list of services and alternatives that respect your privacy.
 
 [**TechSupport Wiki**](https://rtech.support/) - [r/TechSupport](https://reddit.com/r/techsupport)'s Wiki that has some useful Tech Guides.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Malware Removal Guide](https://rtech.support/books/safety-and-security/page/malware-guide) - Guide that may help you remove Malware.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ransomware Mitigation Guide](https://rtech.support/books/safety-and-security/page/ransomware) - Helps to mitigate and prevent a Ransomware attack.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ransomware Mitigation Guide](https://rtech.support/books/safety-and-security/page/ransomware) - Helps to mitigate and prevent a Ransomware attack.
 
 [**Video Software Downloads**](https://www.videohelp.com/software) - Indexes many Video/Audio and other Media Ripping/Recording/Encoding tools.  
-*<small>A [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.</small>*
+_<small>A [Guides](https://www.videohelp.com/guides) section is also available with walkthroughs on various uses of these Tools.</small>_
 
 [**Awesome Linux Software**](https://luong-komorebi.github.io/Awesome-Linux-Software) & [**Awesome Linux Software v2**](https://www.fossmint.com/awesome-linux-software) - A collection of Linux applications and tools for any Users/Developers.
 
@@ -186,4 +185,4 @@ It may break some sites.
 
 [**r/Piracy**](https://rentry.org/megathread) - The [r/Piracy](https://reddit.com/r/piracy) Megathread.  
 [**FREEMEDIAHECKYEAH**](https://fmhy.net/) - A Wiki by the FMHY community, they also have a [guides](https://rentry.co/fmhy-guides) section.  
-***Use at your own risk.***
+**_Use at your own risk._**
