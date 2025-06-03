@@ -146,7 +146,7 @@ It may break some sites.
 
 [**AlternativeTo**](https://alternativeto.net/), [**OpenSourceAlternativeTo**](https://www.opensourcealternative.to/) - Find open source alternatives to any software you use.
 
-[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://thebypasser.com/) - Unshorten annoying Ad-links on the spot.
+[**UnshortenIt**](https://unshorten.it/) | [**Linkvertise Bypasser**](https://bypass.link/) - Unshorten annoying Ad-links on the spot.
 
 [**Unsee**](https://unsee.cc/) - Privately / Temporarily host your secret images.
 
