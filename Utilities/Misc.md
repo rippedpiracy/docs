@@ -120,8 +120,6 @@ It may break some sites.
 
 [**MegaKeep**](https://github.com/xCryptic/MegaKeep) - Log into multiple mega.nz accounts to keep files from being deleted.
 
-[**simplewall**](https://www.henrypp.org/product/simplewall) - Simple tool to configure the Windows Filtering Platform (WFP) which can configure Network Activity on your PC.
-
 [**Text-Grab (<span style="color:red">Windows</span>)**](https://github.com/TheJoeFin/Text-Grab) | [**Frog (<span style="color:red">Linux</span>)**](https://getfrog.app/) - Use OCR to grab and read text from images or unselectable text. 
 
 [**HashCheck**](https://github.com/idrassi/HashCheck) | [**OpenHashTab**](https://github.com/namazso/OpenHashTab) & [**RapidCRC Unicode**](https://www.ov2.eu/programs/rapidcrc-unicode) - Convenient and Efficient File Hash checkers and verifiers, they also integrate into Windows Shell.
