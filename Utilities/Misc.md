@@ -126,7 +126,7 @@ It may break some sites.
 
 [**KDE Connect**](https://kdeconnect.kde.org/) - Powerful application to integrate your phone with your computer and vice-versa allowing sharing files and more.
 
-[**Kdenlive**](https://kdenlive.org/en/) - Open source free video editor.
+[**Kdenlive**](https://kdenlive.org/) - Open source free video editor.
 
 [**OBS Studio**](https://obsproject.com/) - Open source application for streaming and recording.
 
