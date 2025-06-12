@@ -23,10 +23,6 @@ You can mostly find Adobe Products and Autodesk Software.
 
 General DDL Site With a Long History And Library. Usually Has multiple File Hosters.
 
-**[Lrepacks](https://lrepacks.net/)**
-
-**Translator Recommended** Russian Site With A Bunch of software. 
-
 **[Nsane Forums](https://nsaneforums.com/)**
 
 Forum focused on News for everything Piracy, with downloads for Software and Utilites. Forum, **_Requires Sign-up._**  
