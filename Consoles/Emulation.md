@@ -9,14 +9,9 @@ description: Resources for Emulation and sites that offer ROM Downloads.
 
 ## ROMs
 
-**[ROMSPURE](https://romspure.cc/roms) (DDL)**
+**[Myrient](https://myrient.erista.me/) (DDL)**
 
-Contains large collection of ROMs from every type of system.
-
-**[RomUlation](https://www.romulation.org/) (DDL)**  
-
-Offering ROM Downloads since 2004.  
-*<small><b>Ignore any Pop-ups/Banners about faster Downloads/Premium. Try another ROM site if the Download is for Premium Users.</b></small>*
+Website focused on Game preservation with lots of different systems to choose from.
 
 **[r/ROMs Megathread](https://r-roms.github.io/) (DDL)**
 
@@ -25,6 +20,15 @@ The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with m
 **[NoPayStation](https://nopaystation.com/) (DDL)**
 
  The best place to get VITA, PS3, PSP, PSX Games / DLCs and more, directly from Sony's servers with no Middle-Man.
+
+**[ROMSPURE](https://romspure.cc/roms) (DDL)**
+
+Contains large collection of ROMs from every type of system.
+
+**[RomUlation](https://www.romulation.org/) (DDL)**  
+
+Offering ROM Downloads since 2004.  
+*<small><b>Ignore any Pop-ups/Banners about faster Downloads/Premium. Try another ROM site if the Download is for Premium Users.</b></small>*
 
 **[Vimm's Lair: Vault](https://vimm.net/vault/) (DDL / Torrent)**
 
@@ -50,10 +54,6 @@ Changes domains frequently, offers NSP / XCI files for Switch Games, with Update
 **[CDRomance](https://cdromance.org/) (DDL)**
 
 A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for different consoles, uploaded directly to the site.
-
-**[Myrient](https://myrient.erista.me/) (DDL)**
-
-Website focused on Game preservation with lots of different systems to choose from.
 
 ## Emulators
 
