@@ -36,6 +36,10 @@ Repacks contain optional lossily compressed assets to reduce Game size further i
 
 ## General DDL
 
+**[SteamRIP](https://steamrip.com/) (DDL)**
+
+Uploads Pre installed Steam Games And mostly Offers Multiple File Hosters To download from And Have Both Torrent and DDL Options For Some Games. Takes Requests.
+
 **[Ova Games](https://ovagames.com) (DDL)**
 
 A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. Rarely includes Torrent links. Takes requests.
@@ -48,6 +52,10 @@ Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 
 Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-256 key from GOG.  
 *<small>This site is also accessible through [Tor](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion).</small>*
+
+**[SteamGG](https://steamgg.net/) (DDL)**
+
+Pre-installed Games with Steam in mind. Games Usually on Multiple File Hosters. Takes Requests.
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
@@ -102,7 +110,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 ## Apps
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
-*<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
+*<small>We do not recommend using **µTorrent** or **BitTorrent**, as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/blob/-/README.md) - A qBittorrent fork with enhanced privacy (IP filtering, auto-ban bots and copyright trolls, auto-update public trackers).  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBittorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBittorrent.  
 
