@@ -12,6 +12,8 @@ description: List of sites to Stream and Download TV Shows and Movies.
 [**SFlix**](https://sflix.to/home) | [**MovieOrca**](https://movieorca.com) - Streaming sites with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
+**[Hexa](https://hexa.watch/)** - Simple to Use Streaming site With A clean UI. Watch Parties Supported. 
+
 [**WatchCartoonsOnline**](https://wcofun.net) - Site for Cartoons and subbed/dubbed Anime.
 
 [**StreamingCommunity**](https://t.me/+YID6ZoJtgjg5NGEx) - Constantly updated site with Italian Dubbed/Subbed Content, similar to Netflix.
@@ -27,7 +29,7 @@ Enable file explorer on Windows to display file extensions and make sure the fil
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
 Quality can vary from one Release to another.
 
-**[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
+**[RGshows](https://www.rgshows.me/?p=1) (DDL)** - Site With Movies, Tv, Anime, All At 4k Quality. 
 
 **[OlaMovies](https://olamovies.rent/) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes, you can find Bollywood media here as well.
 *Join their [Telegram Channel](https://telegram.me/olamovies_officialv6) for domain updates.*
