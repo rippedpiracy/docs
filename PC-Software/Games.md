@@ -36,10 +36,6 @@ Repacks contain optional lossily compressed assets to reduce Game size further i
 
 ## General DDL
 
-**[SteamRIP](https://steamrip.com/) (DDL)**
-
-Uploads Pre installed Steam Games And mostly Offers Multiple File Hosters To download from And Have Both Torrent and DDL Options For Some Games. Takes Requests.
-
 **[Ova Games](https://ovagames.com) (DDL)**
 
 A site which focuses on re-uploading Repacks, P2P Cracks, Scene Releases and GOG Rips to various hosts. Rarely includes Torrent links. Takes requests.
@@ -52,10 +48,6 @@ Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 
 Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-256 key from GOG.  
 *<small>This site is also accessible through [Tor](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion).</small>*
-
-**[SteamGG](https://steamgg.net/) (DDL)**
-
-Pre-installed Games with Steam in mind. Games Usually on Multiple File Hosters. Takes Requests.
 
 **[GamesDrive](https://gamesdrive.net) (DDL)**
 
