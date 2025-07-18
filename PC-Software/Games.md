@@ -213,7 +213,7 @@ Some common redistributables are:</small>
 [**DirectX**](https://www.microsoft.com/en-us/download/details.aspx?id=35) - A Web-Downloader that installs a number of Runtime libraries for Games that use D3DX9, D3DX10, D3DX11, XAudio 2.7, XInput 1.3, XACT, and/or Managed DirectX 1.1 (DirectX Jun 2010 Redist).  
 *<small>Alternative Offline-Downloader link available [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109).</small>*  
 [**.NET**](https://dotnet.microsoft.com/en-us/download/dotnet) - Various versions of .NET, you generally need a single version only (.NET X.X Redist).  
-**<span style="color:#00AFF4">XNA Framework</span>** - [**3.0**](https://www.microsoft.com/en-us/download/details.aspx?id=22588) | [**3.1**](https://www.microsoft.com/en-us/download/details.aspx?id=15163) | [**4.0**](https://www.microsoft.com/en-us/download/details.aspx?id=20914) - Various versions of the Microsoft XNA Framework Redistributable (XNA X.X Redist).
+**<span style="color:#72b1fc">XNA Framework</span>** - [**3.0**](https://www.microsoft.com/en-us/download/details.aspx?id=22588) | [**3.1**](https://www.microsoft.com/en-us/download/details.aspx?id=15163) | [**4.0**](https://www.microsoft.com/en-us/download/details.aspx?id=20914) - Various versions of the Microsoft XNA Framework Redistributable (XNA X.X Redist).
 
 <small>[Here](https://krakenfiles.com/view/p7fe1MSkKm/file.html) you can find an archive of all the [Steamworks Common Redistributables](https://steamdb.info/app/228980/depots/) downloaded directly from Steam using [DepotDownloader](https://github.com/SteamRE/DepotDownloader) on 16/09/2022, by a Ripped Staff Member.</small>
 
