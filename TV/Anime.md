@@ -3,6 +3,7 @@ title: Anime
 description: Comprehensive list of sites for downloading and streaming Anime.
 ---
 
+[**EverythingMoe**](https://everythingmoe.com/) - huge list of Sites, Apps, Tools, for everything related with anime/manga media.
 [**Wotaku**](https://wotaku.wiki/) - a **HUGE** list of Streaming/Downloading sites and apps categorized in Languages, Sub/Dubs and more.  
 [**The Anime Index**](https://theindex.moe/) - a list of Tools, Apps and Sites for your Anime needs.
 
@@ -11,6 +12,8 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 **[Nyaa](https://nyaa.si/?c=1_0) (Torrent)** - The Best Public Tracker to get Anime from.  
 **[Sukebei](https://sukebei.nyaa.si/?c=1_1) (Torrent)** - The Best Public Tracker to get Hentai from.  
 *<small>Use Japanese titles to get beter results.</small>*
+
+**[EverythingMoe](https://everythingmoe.com/?section=download) (DDL / Torrent)** List of sites to download anime / manga related media.
 
 **[The Anime Index](https://theindex.moe/library/anime) (DDL / Torrent)** - This site also has Download sites/apps for Anime/**_Hentai_**/Manga and more.
 
