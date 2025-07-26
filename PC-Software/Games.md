@@ -25,6 +25,7 @@ One of the most well known and reputable Repacker out there, very active and pro
 **[DODI](https://dodi-repacks.site) | [.download](https://dodi-repacks.download) (Torrent / DDL)**
 
 Another active Repacker that provides Torrent links with DDL mirrors. Usually takes less time to install compared to FitGirl, while having ever so slightly larger Releases. Other than DDL Mirrors on his site, he Uploads on 1337x.  
+**Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock), and use [FastForward](https://fastforward.team/) as there are malicious ads.** 
 
 **[KaOsKrew](https://kaoskrew.org/viewforum.php?f=13) (Torrent / DDL)**
 
@@ -73,7 +74,7 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 **[Online-Fix](https://online-fix.me) (DDL / Torrent)**
 
 Provides Online-Fixes (Multiplayer) for many Games available, the more complex fixes being coded by their own Crackers (0xdeadc0de and others).  
-**Be <u>SURE</u> to use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock), and use [FastForward](https://fastforward.team/) as there are malicious ads.**  
+**Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock), and use [FastForward](https://fastforward.team/) as there are malicious ads.**  
 **_Requires Sign-up_**.  
 *<small>Downlading from "Online-Fix Drive" requires a donation, use the other options. Always use burner Accounts for playing Games asking for an Account, such as Microsoft Games asking for a Microsoft Account.</small>*
 
