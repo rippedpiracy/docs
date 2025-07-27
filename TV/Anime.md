@@ -27,7 +27,7 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 # Release Indexes
 
-[**A Certain Smoke's Index**](https://sneedex.moe) - A big list of the best Releases for Anime (by Seadex).
+[**SeaDex**](https://releases.moe) - A big list of the best Releases for Anime organised by Seadex.
 
 [**A Certain Fansubber's Index**](https://index.fansubcar.tel/) - Another list of the top Quality Releases for Anime.
 
