@@ -9,14 +9,9 @@ description: Resources for Emulation and sites that offer ROM Downloads.
 
 ## ROMs
 
-**[ROMSPURE](https://romspure.cc/roms) (DDL)**
+**[Myrient](https://myrient.erista.me/) (DDL)**
 
-Contains large collection of ROMs from every type of system.
-
-**[RomUlation](https://www.romulation.org/) (DDL)**  
-
-Offering ROM Downloads since 2004.  
-*<small><b>Ignore any Pop-ups/Banners about faster Downloads/Premium. Try another ROM site if the Download is for Premium Users.</b></small>*
+Website focused on Game preservation with lots of different systems to choose from.
 
 **[r/ROMs Megathread](https://r-roms.github.io/) (DDL)**
 
@@ -25,6 +20,15 @@ The r/ROMs Megathread, with links for Popular and Arcade ROMs, visualized with m
 **[NoPayStation](https://nopaystation.com/) (DDL)**
 
  The best place to get VITA, PS3, PSP, PSX Games / DLCs and more, directly from Sony's servers with no Middle-Man.
+
+**[ROMSPURE](https://romspure.cc/roms) (DDL)**
+
+Contains large collection of ROMs from every type of system.
+
+**[RomUlation](https://www.romulation.org/) (DDL)**  
+
+Offering ROM Downloads since 2004.  
+*<small><b>Ignore any Pop-ups/Banners about faster Downloads/Premium. Try another ROM site if the Download is for Premium Users.</b></small>*
 
 **[Vimm's Lair: Vault](https://vimm.net/vault/) (DDL / Torrent)**
 
@@ -47,10 +51,6 @@ You can easily Download 3DS Games by scanning a QR code with the [FBI](https://g
 
 A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for different consoles, uploaded directly to the site.
 
-**[Myrient](https://myrient.erista.me/) (DDL)**
-
-Website focused on Game preservation with lots of different systems to choose from.
-
 ## Emulators
 
 [/emugen/ Wiki](https://emulation.gametechwiki.com/) - The **ULTIMATE** guide for all Emulators on all Platforms.  
@@ -62,7 +62,7 @@ Some examples for scam apps are: PCSX4, PCSX5, PSemuX, RPCS4.**</small>
 ## Apps
 
 [**qBittorrent**](https://www.qbittorrent.org) | [**Deluge**](https://www.deluge-torrent.org) | [**Transmission**](https://transmissionbt.com/) - Free, Lightweight and open source Torrent Clients.  
-*<small>We do not recommend using [µTorrent](https://www.utorrent.com) or [BitTorrent](https://www.bittorrent.com/), as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
+*<small>We do not recommend using **µTorrent** or **BitTorrent**, as it came bundled with Adware, Spyware, and Crypto-Miners in the past [<sup>[1]</sup>](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). In its current state, it's Adware and Bloatware. We don't recommend using µTorrent v2.2.1 either due to confirmed Security Exploits.</small>*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[qBitorrent Guide](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/qbittorrent.md) - A guide for configuring qBitorrent.
 
 [**AB-DM**](https://abdownloadmanager.com/) | [**IDM**](https://www.internetdownloadmanager.com/) | [**JD2**](https://jdownloader.org/jdownloader2) | [**Motrix**](https://motrix.app/) | [**FDM**](https://www.freedownloadmanager.org/) - Download Managers that can boost Download speeds. Motrix and FDM support Torrenting, and JD2 is best for downloading multiple files simultaneously. IDM is paid.  
