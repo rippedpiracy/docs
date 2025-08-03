@@ -49,7 +49,7 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 **Hentai**: [Sukebei](https://sukebei.nyaa.si/?c=1_1) (Public Tracker), [AnimeBytes](https://animebytes.tv/)
 
-**Porn**: [M-Team TP](https://kp.m-team.cc/) (JAV), [EMPornium](https://www.empornium.is/) (General), [ExoticaZ](https://exoticaz.to/) (Asian), [Sinderella](https://slitopen.me/) (Korean), [Sukebei](https://sukebei.nyaa.si/?c=2_0) (Public Tracker, JAV)
+**Porn**: [M-Team TP](https://kp.m-team.cc/) (JAV), [EMPornium](https://www.empornium.is/) (General), [ExoticaZ](https://exoticaz.to/) (Asian), [Sukebei](https://sukebei.nyaa.si/?c=2_0) (Public Tracker, JAV)
 
 **Asian Music**: [JPopSuki](https://jpopsuki.eu/), [AnimeBytes](https://animebytes.tv/) (Anisons), [Nyaa](https://nyaa.si/?c=2_0) (Public Tracker)
 
