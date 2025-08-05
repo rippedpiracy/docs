@@ -16,7 +16,7 @@ description: Guides for obtaining Homebrew on various Consoles.
 [**NH Switch Guide**](https://nh-server.github.io/switch-guide/) - A Nintendo Switch guide.  
 <sub>Consider checking out [GBATemp](https://gbatemp.net/threads/the-ultimate-list-of-mods-to-enter-rcm.502145/) to see other ways to enter RCM without soldering, but it is recommended to buy an RCM Jig.</sub>  
 
-[**WiiBrew**](https://wiibrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
+[**WiiBrew**](https://wiibrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii.  
 [**Wii Guide**](https://wii.hacks.guide) - Guide made by the NH team to Homebrew the Wii.
 
 [**WiiUBrew**](https://wiiubrew.org/wiki/Main_Page) - A wiki dedicated to Homebrew on the Nintendo Wii U.  
