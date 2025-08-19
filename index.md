@@ -37,7 +37,8 @@ no_show_footer: true
 ![]()
 
 <blockquote style="text-align: center; margin: 20px auto; max-width: 600px;">
-<strong>Update: </strong>Leaks page was removed. Kemono & Coomer were moved from the Leaks page to <a href="/Utilities/Misc#useful-websites"> Misc > Useful Websites</a>
+<strong>📢 Update: </strong>Leaks page was removed. <br>
+ Kemono & Coomer were moved from the Leaks page to <a href="/Utilities/Misc#useful-websites"> Misc > Useful Websites</a>
 </blockquote>
 
 **<center>This is a collection of sites and tools that are trusted by the community.**</center>  
