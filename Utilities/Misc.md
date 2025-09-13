@@ -134,6 +134,8 @@ It may break some sites.
 
 # Useful Websites
 
+[**Kemono**](https://kemono.su/) & [**Coomer**](https://coomer.su/) - The successors to yiff.party, they have Leaks for sites like Patreon, OnlyFans and more which are all user-submitted with an automated process.  
+
 [**Internet Archive**](https://web.archive.org/) | [**Webpage Archive**](https://archive.is/) - Sites that host archived versions of other pages. You can archive any site you want.
 
 [**VirusTotal**](https://www.virustotal.com/) - Quickly sends the File you want to Analyze through various popular Anti-Malware scaners.  
