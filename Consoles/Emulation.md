@@ -41,9 +41,7 @@ Nice source for Nintendo and PlayStation ROMs, unfortunately only has those.
 **[hShop](https://hshop.erista.me/) (DDL)**
 
 You can easily Download 3DS Games by scanning a QR code with the [FBI](https://gbatemp.net/threads/release-fbi-open-source-cia-installer.386433/) app.  
-*<small>Installing via QR code on the 3DS may be quite slow as the device does not have a good NIC chip.</small>*
-
-**[CDRomance](https://cdromance.org/) (DDL)**
+*<small>Installing via QR code on the 3DS may be quite slow as the device does not have a good NIC chip.</small>*  
 
 A Site similar to [Ziperto](https://ziperto.com) which offers more ROMs for different consoles, uploaded directly to the site.
 
