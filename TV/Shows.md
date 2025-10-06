@@ -13,7 +13,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 [**P-Stream**](https://erynith.github.io/movie-web-instances) - Spiritual successor of movie-web, it aggregates content from different providers and serves it in a modern, polished UX.
 
-[**SFlix**](https://sflix.to/home) | [**MovieOrca**](https://movieorca.com) - Streaming sites with a UI similar to Prime Video, **_beware of Pop-ups._**  
+[**Fmovies+**](https://www.fmovies.gd/home) | [**MovieOrca**](https://movieorca.com) - Streaming sites with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
 
 [**WatchCartoonsOnline**](https://wcofun.net) - Site for Cartoons and subbed/dubbed Anime.
@@ -29,7 +29,7 @@ Enable File Explorer on Windows to display file extensions and **make sure** the
 </small>
 
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
-Quality can vary from one Release to another.
+*<small>Quality can vary from one Release to another.</small>*
 
 **[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
@@ -38,7 +38,7 @@ Quality can vary from one Release to another.
 **[Pahe](https://pahe.ink) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
 *<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links.</small>*
 
-**[Rarefilmm](https://rarefilmm.com/) (DDL)** - Site having downloads for old and lost films that are not easy to find publicly. Also has a chat room feature for requesting such type of films.
+**[Rarefilmm](https://rarefilmm.com/) (DDL)** - Site having downloads for classic, lost, and forgotten cinema. Also has a chatroom feature for requesting such films.
 
 # IRC
 
