@@ -74,7 +74,7 @@ Another well moderated Forum with active Uploaders and discussions that allow Sc
 **[Online-Fix](https://online-fix.me) (DDL / Torrent)**
 
 Provides Online-Fixes (Multiplayer) for many Games available, the more complex fixes being coded by their own Crackers (0xdeadc0de and others).  
-**Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock), and use [FastForward](https://fastforward.team/) as there are malicious ads.**  
+**Use an AdBlocker such as [uBlock Origin](https://github.com/gorhill/uBlock), as there are malicious ads.**  
 **_Requires Sign-up_**.  
 *<small>Downlading from "Online-Fix Drive" requires a donation, use the other options. Always use burner Accounts for playing Games asking for an Account, such as Microsoft Games asking for a Microsoft Account.</small>*
 
@@ -220,7 +220,7 @@ Some common redistributables are:</small>
 
 ## Misc
 
-<small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team) installed.</small> 
+<small>We recommend you have at least [uBlock Origin](https://github.com/gorhill/uBlock) installed.</small> 
 
 [**PrismLauncher**](https://rentry.co/freemc) - The best way to Play and manage Minecraft. Linked here is a guide to a bypass that allows offline accounts.  
 <span style="color: red">**We do not recommend TLauncher as there's been proof they distribute malicious payloads.**</span>  
@@ -243,14 +243,14 @@ Some common redistributables are:</small>
 [**Steam Workshop Downloader**](https://steam-workshop-downloader.com/) - Steam Workshop Downloader, only supports Games listed [here](https://steamdb.info/sub/17906/apps/).  
 [**SteamWorkshop.Download**](http://steamworkshop.download) - Download Steam Workshop online without having to own the Game. Do note that this site is extremely unreliable.
 
-[**Kemono**](https://kemono.su/) - They host leaks of Patreon creators (among other platforms), useful if a Mod is locked behind Patreon. NSFW Warning.
+[**Kemono (<span style="color:red">NSFW</span>)**](https://kemono.cr/) - They host leaks of Patreon creators (among other platforms), useful if a Mod is locked behind Patreon.  
 
 [**r/LinuxCrackSupport**](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - A Wiki for Linux Game Piracy.  
 [**r/QuestPiracy**](https://www.reddit.com/r/QuestPiracy/wiki/index/) - A Wiki for Oculus Quest Game Piracy.  
 [**VRP Wiki**](https://vrpirates.wiki/) - A Wiki for standalone Quest Piracy by VRP.  
 [**ARMGDDN**](https://t.me/ARMGDDNGames) - A Telegram Group for PCVR and PC Repacks.  
 [**r/CrackSupport**](https://www.reddit.com/r/CrackSupport/) - SubReddit for asking Game Piracy Support.  
-*<small>You can also ask for Piracy Support on our [Discord Server](https://discord.ripped.guide).</small>*
+*<small>You can also ask for Support on our [Discord Server](https://discord.ripped.guide).</small>*
 
 > <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
 
