@@ -6,14 +6,14 @@ description: List of sources for getting all genres of Music.
 
 [**lucida**](https://lucida.to/) - Music Downloader for Amazon Music, Soundcloud, Qobuz, Deezer and Tidal.  
 
-[**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - Best looking and performing online YouTube music downloader.
+[**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - The best looking and performing Online YouTube Music Downloader.
 
-[**RuTracker**](https://rutracker.org) - Russian tracker with a lot of Unknown or Foreign Music.  
+[**RuTracker**](https://rutracker.org) - Russian Tracker with a lot of Unknown or Foreign Music.  
 **_Requires Sign-up._**  
 
 [**SoftArchive**](https://sanet.st/music/) - SoftArchive's Music Section, has many different Albums you might not find elsewhere.
 
-[**KHInsider**](https://downloads.khinsider.com/) - Offers plenty of Video Game Soundtracks and Game audio rips. But audio quality tends to be extremely low.
+[**KHInsider**](https://downloads.khinsider.com/) - Offers plenty of Video Game Soundtracks and Game audio rips. Audio quality tends to be extremely low.
 
 [**Sitting on Clouds**](https://www.sittingonclouds.net/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. Sitting on Clouds also has a good collection of Game OST. They use friendly file hosters except Nyaa, it uses Torrents instead.  
 [**AnimeThemes**](https://animethemes.moe) | [**Themes.moe**](https://themes.moe) - A huge collection of Ending/Opening Themes for Anime. Right click to download the Audio/Video.
@@ -24,11 +24,7 @@ description: List of sources for getting all genres of Music.
 # Tools
 
 [**SoulseekQT**](https://www.slsknet.org/) - P2P Music Sharing Client, can have some niche and hard to find Music.     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated unlike Soulseek and has added features.
-
-[**Deemix**](https://archive.org/details/deemix) & [**d-fi**](https://notabug.org/sayem314/d-fi) - Deezer downloaders. Deemix can convert Spotify playlists into Deezer playlists to download. d-fi can also accept Spotify or Tidal song links and download them from Deezer. They can download up to 128Kbps quality with a free account.  
-**Deemix and d-fi are abandoned, if you're having issues use streamrip instead.**  
-**_For higher quality downloads, a paid Deezer account is required._**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Nicotine+](https://nicotine-plus.org/) - A graphical client for Soulseek that is frequently updated, unlike Soulseek and has added features.
 
 [**Qobuz-DL**](https://github.com/vitiko98/qobuz-dl) - Qobuz downloader. Supports downloads of last.fm, Spotify and Apple Music playlists through Qobuz.   
 **_Requires a paid Qobuz account._**  
@@ -51,14 +47,12 @@ description: List of sources for getting all genres of Music.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-Musixmatch](https://github.com/yarrm80s/orpheusdl-musixmatch) - Musixmatch Lyrics downloader plugin.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OrpheusDL-KKBox](https://github.com/uhwot/orpheusdl-kkbox) - KKBox downloader plugin.
 
-[**Zotify**](https://gitlab.com/team-zotify/zotify) - A highly customizable Music and podcast downloader for Spotify.  
-*<small>This tool downloads songs directly from Spotify. Use a burner account.</small>*  
 [**spotDL**](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata fetched from YouTube.  
 *<small>This tool does not download songs directly from Spotify.</small>*
 
 **[SpotX](https://github.com/SpotX-Official/SpotX)** - Block video, audio and banner ads on Spotify, also unlocks some Premium and Experimental features.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - Linux/Mac version.  
-**[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - Video, audio & banner adblock/skip for Spotify. 
+**[BlockTheSpot](https://github.com/mrpond/BlockTheSpot)** - Video, audio & banner adblock/skip for Spotify on Windows. 
 
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Actively maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*
@@ -92,4 +86,5 @@ description: List of sources for getting all genres of Music.
 
 [**CUETools**](http://cue.tools/wiki/CUETools) - CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately.  
 
-[**Tune My Music**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.
+[**TuneMyMusic**](https://www.tunemymusic.com/) - Transfer your music library from any music service to any other you want. Supports Spotify, TIDAL, Apple Music, YouTube, Amazon Music, Pandora and many more.  
+*<small>TuneMyMusic by itself has some free-tier limits, using it to transfer your libary to Deezer via [this partnership](https://www.deezer.com/explore/en-us/features/transfer-playlist/) doesn't.</small>*
