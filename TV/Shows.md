@@ -4,7 +4,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 ---
 
 **Some of these sites have Fake and Mirror sites, you should only use the ones we link to.**  
-**In case any of the sites are blocked, Change DNS to [1.1.1.1](https://one.one.one.one/dns/) or use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) / [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
+**In case any of the sites are blocked or inaccessible, Change DNS to [1.1.1.1](https://one.one.one.one/dns/) or use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) / [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
 **We <u>Strongly</u> recommend you have [uBlock Origin](https://github.com/gorhill/uBlock), [ViolentMonkey](https://violentmonkey.github.io/) and [bypass-all-shortlinks-debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) installed.**  
 
 # Streaming
@@ -25,7 +25,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 # Downloading
 
 <small>Higher Quality most of the time and better watching experience overall compared to Streaming.  
-Enable file explorer on Windows to display file extensions and make sure the filename ends in .mkv or .mp4. If instead it is .exe it is likely Malware.
+Enable File Explorer on Windows to display file extensions and **make sure** the filename ends in .mkv or .mp4. If ends in .exe it's Malware.
 </small>
 
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
