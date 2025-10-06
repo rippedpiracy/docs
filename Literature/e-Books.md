@@ -9,7 +9,9 @@ description: Reliable sources to obtain e-Books.
 
 # General E-Books
 
-- **Anna’s Archive** [**.org**](https://annas-archive.org) | [**.li**](https://annas-archive.li) | [**.se**](https://annas-archive.se) - Search Engine that indexes a few big libraries including libgen and Z-Lib.
+- **Anna’s Archive** [**.org**](https://annas-archive.org) | [**.li**](https://annas-archive.li) | [**.se**](https://annas-archive.se) - Search Engine that indexes many big Libraries including libgen, Z-Lib and Sci-Hub.
+&nbsp;  
+&nbsp;
 - [**Z-Library**](https://www.reddit.com/r/zlibrary/wiki/index/access) - The Library is also accessible through [Tor](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion). **_Requires Sign-up_**.
 - **LibraryGenesis** [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - A Shadow library for access to journal articles, academic and general Books, Comics, Audiobooks, etc.  
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum. **_Requires Sign-up_**.
