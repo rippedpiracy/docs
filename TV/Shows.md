@@ -5,7 +5,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 **Some of these sites have Fake and Mirror sites, you should only use the ones we link to.**  
 **In case any of the sites are blocked or inaccessible, Change DNS to [1.1.1.1](https://one.one.one.one/dns/) or use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) / [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
-**We <u>Strongly</u> recommend you have [uBlock Origin](https://github.com/gorhill/uBlock), [ViolentMonkey](https://violentmonkey.github.io/) and [bypass-all-shortlinks-debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) installed.**  
+**We <u>Strongly</u> recommend you have [uBlock Origin](https://github.com/gorhill/uBlock), [Violentmonkey](https://violentmonkey.github.io/) and [bypass-all-shortlinks-debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) installed.**  
 
 # Streaming
 
