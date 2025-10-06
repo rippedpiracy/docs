@@ -7,7 +7,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 <small>Useful for watching Content easily, but mostly with a loss of Quality.</small>
 
-[**movie-web Instances**](https://erynith.github.io/movie-web-instances) - Multiple instances for a well-known open-source streaming project that works by aggregating content from different providers.
+[**P-Stream**](https://erynith.github.io/movie-web-instances) - Spiritual successor of movie-web, it aggregates content from different providers and serves it in a modern, polished UX.
 
 [**SFlix**](https://sflix.to/home) | [**MovieOrca**](https://movieorca.com) - Streaming sites with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
