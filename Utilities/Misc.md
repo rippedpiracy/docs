@@ -7,16 +7,14 @@ description: Tools and Apps to make your life easier.
 
 <sub>We recommend coupling these Extensions & UserScripts with [**LibreWolf**](https://librewolf.net) or [**Ungoogled Chromium**](https://github.com/Eloston/ungoogled-chromium).</sub>
 
-[**uBlock Origin**](https://github.com/gorhill/uBlock) - An efficient Ad & Content Blocker for Chromium and Firefox, fast and lean.  
+[**uBlock Origin (<span style="color:red">Firefox</span>)**](https://github.com/gorhill/uBlock) | [**Lite (<span style="color:red">Chromium</span>)**](https://github.com/uBlockOrigin/uBOL-home) - An efficient Ad & Content Blocker for Chromium and Firefox, fast and lean.  
+*<small>uBO **Lite** does **not** support Custom Filter Lists.</small>*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Filter Stalker](https://rentry.co/FilterStalker) - A collection of Filter lists by **LukeThighStalker**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Filters for blocking Pop-ups and Anti-AdBlocks.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[iplogger](https://github.com/piperun/iploggerfilter) - Filters any site who's only purpose is to log your IP.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs) - A collection of Filter lists for Anime Streaming, Manga reading, and Downloading of other Japanese Media.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying web elements such as sticky headers, floating boxes, etc.
 
-
-[**FastForward**](https://fastforward.team) - Don't waste your time with compliance, FastForward circumvents link shorteners.   
-*<small>Maintained fork of the now inactive [Universal-Bypass](https://github.com/Sainan/Universal-Bypass).</small>*
 
 [**ClearURLs**](https://docs.clearurls.xyz/) - Remove Tracking elements from URLs.
 
@@ -30,9 +28,6 @@ It may break some sites.
 [**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
 [**JustDeleteMe**](https://justdeleteme.xyz/) - Provides links and info on how to delete accounts based on the current active tab.
-
-[**The Great Suspender (<span style="color:red">Firefox</span>)**](https://github.com/dvalter/ff-thegreatsuspender) - Manually / Automatically suspend Tabs to save up RAM usage.  
-*<small>Chromium now has this functionality [built-in](https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother).</small>*  
 
 [**Search by Image**](https://github.com/dessant/search-by-image) - Quickly & Efficiently Reverse Image Search on 35+ different Search Engines.  
 [**Download All Images**](https://add0n.com/save-images.html) - Download all Images from any web page you're on.
@@ -68,24 +63,18 @@ It may break some sites.
 [**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different Browsers.
 
 [**AdsBypasser**](https://github.com/adsbypasser/adsbypasser) - FastForward alternative, bypasses count-downs.   
-[**Bypass All Shortlinks**](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
+[**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated) - Shortlink Bypasser, bypassess some sites other tools can't bypass.  
 [**SiteScrubber**](https://greasyfork.org/en/scripts/426078-sitescrubber) - Skip certain Timers or Ads and remove clutter that make it harder to Download from certain DDL sites.
 
 [**Direct links out**](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Skips redirection pages and removes redirect tracking from urls
 
 [**MoreCAPTCHA**](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 
-[**Mega.nz Unlimited Import**](https://pastebin.com/raw/4AXkE1yE) - Import any file/folder to your Mega Cloud without worrying about the space it takes as long as your Storage isn't full.
-
-[**YouTube Age Bypass**](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) - Bypass YouTube's Age restricted videos.
-
-[**Google Unlocked**](https://github.com/Ibit-to/google-unlocked) - Uncensor Google Search results.
-
 [**Direct Download from Google Play**](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APK-DL, APKPure, APKCombo, APKPremier, APKMirror and Evozi download buttons to the Play Store when browsing apps.
 
 # Useful Apps
 
-[**7-Zip**](https://7-zip.org/) | [**WinRAR**](https://www.win-rar.com/) | [**NanaZip**](https://github.com/M2Team/NanaZip) - File archivers, can pack and unpack many archive types such as 7z, rar, zip. NanaZip is a fork of 7-Zip with added functionality and better support for Windows 11.
+[**7-Zip**](https://7-zip.org/) | [**NanaZip**](https://github.com/M2Team/NanaZip) | [**WinRAR**](https://www.win-rar.com/) - File archivers, can pack and unpack many archive types such as 7z, rar, zip. NanaZip is a fork of 7-Zip with added functionality and better support for Windows 11.
 
 [**Everything**](https://www.voidtools.com/) - Easily find files on your drives.  
 [**WizTree**](https://www.diskanalyzer.com/) | [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/) - See exactly what's taking up space on your drives. 
@@ -110,7 +99,7 @@ It may break some sites.
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
-[**cobalt**](https://cobalt.tools/) - Downloader that supports Instagram, Reddit, TikTok and [more](https://github.com/wukko/cobalt?tab=readme-ov-file#supported-services).  
+[**cobalt**](https://cobalt.tools/) | [**community instances**](https://instances.cobalt.best/) - Downloader that supports Instagram, Reddit, TikTok and [more](https://github.com/wukko/cobalt?tab=readme-ov-file#supported-services).  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
 
 [**Streamlink**](https://streamlink.github.io/) - Allows video streams from various services such as Twitch and Youtube into a video player, like VLC.  
@@ -134,7 +123,7 @@ It may break some sites.
 
 # Useful Websites
 
-[**Kemono**](https://kemono.su/) & [**Coomer**](https://coomer.su/) - The successors to yiff.party, they have Leaks for sites like Patreon, OnlyFans and more which are all user-submitted with an automated process.  
+[**Kemono**](https://kemono.cr/) & [**Coomer**](https://coomer.st/) - The successors to yiff.party, they have Leaks for sites like Patreon, OnlyFans and more which are all user-submitted with an automated process.  
 
 [**Internet Archive**](https://web.archive.org/) | [**Webpage Archive**](https://archive.is/) - Sites that host archived versions of other pages. You can archive any site you want.
 
