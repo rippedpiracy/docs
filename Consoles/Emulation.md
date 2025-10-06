@@ -54,7 +54,7 @@ Website focused on Game preservation with lots of different systems to choose fr
 [/emugen/ Wiki](https://emulation.gametechwiki.com/) - The **ULTIMATE** guide for all Emulators on all Platforms.  
 *<small>Make sure to check with your Emulator [here](https://emulation.gametechwiki.com/index.php/Emulator_files) in case it requires some sort of BIOS or special file to function.</small>*
 
-<small>**Stable Switch 2, PS4/PS5 or Xbox One/Xbox Series Emulators do not exist. If you find an app that claims to be that, it's a scam or it's highly unstable.  
+<small>**Stable Switch 2, PS5 or Xbox One/Xbox Series Emulators do not exist. If you find an app that claims to be that, it's a scam or it's highly unstable.  
 Some examples for scam apps are: PCSX4, PCSX5, PSemuX, RPCS4.**</small>
 
 ## Apps
