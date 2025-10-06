@@ -16,18 +16,19 @@ description: List of useful iOS Mobile Apps and Tools.
 
 [**Sideloadly**](https://sideloadly.io/) - Simple installer of IPA files for non-Jailbroken iOS devices. Requires a PC.  
 
-[**E-Sign**](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Free way to use expired certificates to sign unlimited apps without expiry.
-# YouTube Clients
+[**E-Sign**](https://avieshek.wordpress.com/2024/06/11/how-to-sideload-on-ios/) - Free way to use expired certificates to sign unlimited apps without expiry.  
+
+# YouTube Client Mods
 [**Youtube Plus**](https://github.com/dayanch96/YTLite) - YouTube client including YouPiP, YTUHD, Return Youtube Dislikes, YouQuality, Don't Eat My Content, SponsorBlock, video downloading, removed ads and many more features.  
 
-## Discord Clients
-[**Bunny**](https://github.com/bunny-mod/BunnyTweak) / [Plugins](https://purple-eyez.github.io/Plugins-List/) - Vendetta-based Discord mod.
+# Discord Client Mods
+[**BTLoader**](https://github.com/CloudySn0w/BTLoader) / [Plugins](https://plugins-list.pages.dev) - Plugin-based Discord modification for jailed and jail-broken devices.
 
 # Telegram Clients
 [**Swiftgram**](https://apps.apple.com/app/swiftgram/id6471879502) - Includes Stories stealth mode, Speech-To-Text, unlimited accounts, unlocking blocked channels, removed cryptowallet and more.  
 
 # Telegram Channels
-[**ethMods**](https://t.me/ethMods) - Posts cracked IPAs for mostly social apps and games, including YTLite, Instagram mods, X mods, etc.
+[**ethMods**](https://t.me/ethMods) - Posts cracked IPAs for mostly Social apps and Games, including YTLite, Instagram mods, X mods, etc.
 
 [**Blatant's IPA Library**](https://t.me/blatants) - Posts cracked IPAs for apps, has an inject bot to fix sideloading issues with certificates.
 
