@@ -5,25 +5,20 @@ description: Make your OS lighter, faster and more secure.
 
 <sub>*Pro Tip: Make a Restore Point before running these apps!*</sub>
 # Debloating & Privacy
-**[TronScript](https://bmrf.org/repos/tron/)** - The most efficient and automated way to clean, De-bloat, optimize and disinfect your old PCs, recommended.  
-**_BE SURE TO READ THE INSTRUCTIONS!_**
 
-**[AtlasOS](https://atlasos.net)** - A modification of Windows designed to maximize your system's performance and optimize latency.    
-**Full Re-install required.**
+**[AtlasOS](https://atlasos.net)** - A lightweight modification of Windows designed to maximize your system's performance and optimize latency, recommended.    
+**Full Windows Re-install required.**
+
+**[TronScript](https://old.reddit.com/r/TronScript)** - The most efficient and automated way to clean, De-bloat, optimize and disinfect your old Windows install, recommended.  
+**_BE SURE TO READ THE INSTRUCTIONS!_**
 
 **[privacy.sexy](https://privacy.sexy/)** - Easily create a custom Debloating script made for your specific needs.
 
-**[PrivateZilla](https://github.com/builtbybel/privatezilla)** & [**ThisIsWin11**](https://github.com/builtbybel/ThisIsWin11) - The simplest ways to perform a quick Privacy and Security check of your Windows 10 & 11 OS.
-
 **[Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows)** - The largest PowerShell module for Windows 10 & 11 tuning.
-
-**[WPD](https://wpd.app)** | **[WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)** - Tools created to intercept your Network Traffic and block Tracking requests even before they get to Microsoft.
 
 **[Optimizer](https://github.com/hellzerg/optimizer/releases)** - Portable Utility that helps you restore your Security and increase your Privacy.
 
-**[Fix-Windows-Privacy](https://modzero.github.io/fix-windows-privacy/)** - Deletes Telemetry Registry keys that may have been skipped by other Utilities.
-
-**[NTLite](https://www.ntlite.com/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** | **[AME Wizard](https://ameliorated.io/)** - Tools to customize your Windows ISO.
+**[AME Wizard](https://ameliorated.io/)** | **[MSMG Toolkit](https://msmgtoolkit.in/)** | **[NTLite](https://www.ntlite.com/)** - Tools to customize your Windows ISO.
  
 # Honorable Mentions 
 
@@ -33,9 +28,9 @@ description: Make your OS lighter, faster and more secure.
 
 [**BleachBit**](https://www.bleachbit.org/) - A FOSS replacement for CCleaner which helps to effectively clean and uninstall apps.
 
-[**Rufus**](https://rufus.ie/) | [**Ventoy**](https://www.ventoy.net/) - A tool to create bootable USB drives.  
+[**Ventoy**](https://www.ventoy.net/) | [**Rufus**](https://rufus.ie/) - A tool to create bootable USB drives.  
 [**InstallWindowsWithoutUSB**](https://github.com/iidanL/InstallWindowsWithoutUSB) - A batch script to install Windows to a partition without a USB stick.
 
 <sub>*Disable [**hibernation**](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation) to free as much space as your amount of RAM.*</sub>
 
-<sub>*Note: You can also grab an ISO from Bob Pony [**here**](https://bobpony.com/downloads/) if you wish to reinstall Windows before running these apps.*</sub>
+<sub>*Note: You can also grab an ISO from MASSGRAVE [**here**](https://massgrave.dev/genuine-installation-media) if you wish to reinstall Windows before running these apps.*</sub>
