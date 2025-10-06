@@ -130,17 +130,17 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 
 [**DS4Windows**](https://github.com/Ryochan7/DS4Windows) - Turns your Controller into one that all Programs can read, useful with Knockoffs or weird ones.
 
-[**ALVR**](https://github.com/alvr-org/alvr) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net), works really well.  
-*<small>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/Use-ALVR-through-a-USB-connection) connection.</small>*
+[**ALVR**](https://github.com/alvr-org/alvr) - Stream VR games from your PC to your headset via Wi-Fi. Free and Open Source alternative to [Virtual Desktop](https://www.vrdesktop.net).  
+*<small>A Guide for [wired](https://github.com/alvr-org/ALVR/wiki/ALVR-wired-setup-(ALVR-over-USB)) connection.</small>*
 
-[**Playnite**](https://playnite.link) - A Video-Game library manager with the goal to provide a unified interface for all Games, including but not limited to: Steam, GOG, Origin, Battle.net and Uplay. Also has Game emulation support.  
+[**Playnite**](https://playnite.link) - A Video-Game library manager with the goal to provide a unified interface for all Games, including but not limited to: Steam, GOG, Origin, Battle.net and Ubisoft. Also has Game emulation support.  
 *<small>Make sure to check out the [Add-ons](https://playnite.link/addons.html).</small>*  
 [**Lutris**](https://lutris.net/) - An easy to use game manager for Linux.
 
 [**CompactGUI**](https://github.com/ImminentFate/CompactGUI) | [**Compactor**](https://github.com/Freaky/Compactor) - Transparently compresses games, programs and other folders with virtually no performance loss.
 
 [**Achievement Watcher**](https://xan105.github.io/Achievement-Watcher/) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=95791
-) - Allows recording Game play time, tracking Game achievements (with notifications) even on Games that you don't own.
+) - Allows recording Game playtime, tracking Achievements (with notifications) even on Games that you don't own.
 
 ## Cracking Tools
 
