@@ -10,6 +10,8 @@ description: List of useful iOS Mobile Apps and Tools.
 ## Third-Party App Stores
 [**SideStore**](https://sidestore.io/) - Fork of AltStore which only asks for an Internet connection, no PC required.  
 
+[**Feather**](https://github.com/khcrysalis/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.  
+
 [**AltStore**](https://altstore.io/) - Alternative App Store for non-jailbroken iOS devices. Requires a PC hosting AltServer due to Apple's account limits.  
 
 [**TrollStore**](https://ios.cfw.guide/installing-trollstore/) - Permasigned jailed app that can permanently sign any IPA, only supports iOS 14.0 beta 2 up to 16.6.1, 16.7 RC, 17.0.
@@ -28,11 +30,11 @@ description: List of useful iOS Mobile Apps and Tools.
 [**Swiftgram**](https://apps.apple.com/app/swiftgram/id6471879502) - Includes Stories stealth mode, Speech-To-Text, unlimited accounts, unlocking blocked channels, removed cryptowallet and more.  
 
 # Telegram Channels
-[**ethMods**](https://t.me/ethMods) - Posts cracked IPAs for mostly Social apps and Games, including YTLite, Instagram mods, X mods, etc.
+[**ethMods**](https://t.me/ethMods) - Posts cracked IPAs for mostly Social Apps and Games, including YTLite, Instagram mods, X mods, etc.
 
-[**Blatant's IPA Library**](https://t.me/blatants) - Posts cracked IPAs for apps, has an inject bot to fix sideloading issues with certificates.
+[**Blatant's IPA Library**](https://t.me/blatants) - Posts cracked IPAs for Apps, has an inject bot to fix sideloading issues with certificates.
 
 # Music Streaming
-[**EeveeSpotify**](https://github.com/whoeevee/EeveeSpotify) - Ad-free Spotify mod.
+[**EeveeSpotify**]([https://github.com/whoeevee/EeveeSpotifyReborn) - Ad-free Spotify Client Mod.
 
-[**YTMusicUltimate**](https://github.com/dayanch96/YTMusicUltimate) - Ad-free Youtube Music client.
+[**YTMusicUltimate**](https://github.com/dayanch96/YTMusicUltimate) - Ad-free Youtube Music Client.
