@@ -4,7 +4,7 @@ description: List of safe and trusted sites for Games.
 ---
 **Some of these sites have Fake and Mirror sites, you should only use the ones we link to.  
 In case any of the sites are blocked, use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) or [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
-**We <u>Strongly</u> recommend you have [uBlock Origin](https://github.com/gorhill/uBlock) and [FastForward](https://fastforward.team/) installed.**  
+**We <u>Strongly</u> recommend you have [uBlock Origin](https://github.com/gorhill/uBlock) and [bypass-all-shortlinks-debloated](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js) installed.**  
 <small>**Browser UserScripts require a UserScript Manager to function, we recommend [Violentmonkey](https://violentmonkey.github.io/).**</small>
 
 ## General Torrent
