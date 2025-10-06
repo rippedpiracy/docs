@@ -8,7 +8,7 @@ description: Reliable sources to obtain e-Books.
 <sub>Use an e-Book manager like [Calibre](https://calibre-ebook.com/) to manage and convert your e-Books, it provides a good interface.</sub>  
 
 # General E-Books
-Easily verify the status of the largest Libraries online using [**SLUM: The Shadow Library Uptime Monitor**](https://open-slum.org/).  
+Easily verify the status of the largest Libraries online using [**SLUM: The Shadow Library Uptime Monitor**](https://open-slum.org/).<br>  
 
 - **Anna’s Archive** [**.org**](https://annas-archive.org) | [**.li**](https://annas-archive.li) | [**.se**](https://annas-archive.se) - Search Engine that indexes many big Libraries including libgen, Z-Lib and Sci-Hub.
 &nbsp;  
