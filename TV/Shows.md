@@ -36,7 +36,7 @@ Enable File Explorer on Windows to display file extensions and **make sure** the
 **[OlaMovies](https://telegram.me/s/olamovies_officialv6) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes, you can find Bollywood media here as well.  
 
 **[Pahe](https://pahe.ink) (DDL)** - Has all sorts of content ranging from Anime to general Movies to Korean Drama.  
-*<small>You may have to disable [Fast-Forward](https://fastforward.team) to access the links.</small>*
+*<small>You may have to disable [FastForward](https://fastforward.team) to access the links.</small>*
 
 **[Rarefilmm](https://rarefilmm.com/) (DDL)** - Site having downloads for classic, lost, and forgotten cinema. Also has a chatroom feature for requesting such films.
 
