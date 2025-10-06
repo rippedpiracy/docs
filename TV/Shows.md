@@ -9,7 +9,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 # Streaming
 
-<small>Useful for watching Content easily, but mostly with a loss of Quality.</small>
+<small>Useful for watching Content easily and quickly, but mostly with a loss of Quality.</small>
 
 [**P-Stream**](https://erynith.github.io/movie-web-instances) - Spiritual successor of movie-web, it aggregates content from different providers and serves it in a modern, polished UX.
 
@@ -24,8 +24,8 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 # Downloading
 
-<small>Higher Quality most of the time and better watching experience overall compared to Streaming.  
-Enable File Explorer on Windows to display file extensions and **make sure** the filename ends in .mkv or .mp4. If ends in .exe it's Malware.
+<small>Higher Quality most of the time and better viewing experience compared to Streaming.  
+Enable File Explorer on Windows to display file extensions and **make sure** the filename ends in .mkv or .mp4. If ends in .exe it's Malware.  
 </small>
 
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
