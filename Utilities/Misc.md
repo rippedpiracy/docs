@@ -49,7 +49,7 @@ It may break some sites.
 [**DownThemAll!**](https://www.downthemall.org/) | [**ArrowDL**](https://github.com/setvisible/ArrowDL/) - DownThemAll is a mass download manager directly built inside the Browser, whereas ArrowDL is a fork of DownThemAll with more features but a required desktop client for it to function. They are mostly used for site scraping (such as images).  
 [**Media Reaper**](https://sasrip.sas41.com/Home/MediaReaper) - Easily download videos and audio files from any site that youtube-dl supports, found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
 
-[**ViolentMonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
+[**Violentmonkey**](https://violentmonkey.github.io) | [**Tampermonkey**](https://www.tampermonkey.net) - Browser UserScript Managers, used for loading in Userscripts that work similar to Browser Extensions.  
 *<small>We do not recommend using [GreaseMonkey](https://www.greasespot.net) as there is evidence that it has tracked its users, its compatibility isn't great, and it's not very actively maintained.</small>*  
 [**Stylus**](https://add0n.com/stylus.html) - Browser UserStyles Manager, used for loading CSS files for customising the appearance of webpages.
 
@@ -58,7 +58,7 @@ It may break some sites.
 
 # Browser UserScripts
 
-<sub>**Requires a Browser UserScript Manager, such as [ViolentMonkey](https://violentmonkey.github.io).**</sub>
+<sub>**Requires a Browser UserScript Manager, such as [Violentmonkey](https://violentmonkey.github.io).**</sub>
 
 [**AdGuard Popup Blocker**](https://github.com/AdguardTeam/PopupBlocker) - Blocks all unwanted Pop-up windows in different Browsers.
 
