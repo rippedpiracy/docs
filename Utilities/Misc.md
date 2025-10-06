@@ -25,7 +25,7 @@ description: Tools and Apps to make your life easier.
 It may break some sites.  
 *<small>[Guide](https://codeberg.org/nobody/LocalCDN#installation) for installing LocalCDN on Firefox Mobile and Chromium Browsers.</small>*     
 
-[**ToS;DR**](https://tosdr.org/downloads) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
+[**ToS;DR**](https://tosdr.org) - Grades websites based on their Terms of Service agreements and Privacy Policies. It also gives short summaries of those agreements. Has a [Website](https://tosdr.org/) too that allows searching through its database.
 
 [**JustDeleteMe**](https://justdeleteme.xyz/) - Provides links and info on how to delete accounts based on the current active tab.
 
