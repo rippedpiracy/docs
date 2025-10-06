@@ -27,7 +27,7 @@ description: Reliable sources to obtain e-Books.
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=124) | [**.org**](https://forum.mobilism.org/viewforum.php?f=124) - Forum, **_Requires Sign-up_**.
 - [**Galaxy Audiobooks**](https://galaxyaudiobook.com/)
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=26) - Audiobooks section of a Forum. **_Requires Sign-up_**.
-- [**LibriVox**](https://librivox.org/) - Legally free audiobooks
+- [**LibriVox**](https://librivox.org/) - Legally free Audiobooks.
 &nbsp;  
 &nbsp;
 # Scientific Journals/Technical Manuals
