@@ -31,7 +31,7 @@ Enable File Explorer on Windows to display file extensions and **make sure** the
 **[1337x](https://1337x.to) (Torrent)** - Torrent Tracker with an enourmous amount of Movies, TV Shows and everything in-between.  
 *<small>Quality can vary from one Release to another.</small>*
 
-**[TorrentGalaxy](https://torrentgalaxy.to/) (Torrent)** - One of the better sources for new Movies and TV shows.
+**[TorrentGalaxy](https://torrentgalaxy.one/) (Torrent)** - One of the better sources for new Movies and TV shows.
 
 **[OlaMovies](https://telegram.me/s/olamovies_officialv6) (DDL)** - Site that has downloads for higher quality and relatively storage-friendly encodes, you can find Bollywood media here as well.  
 
