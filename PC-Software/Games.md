@@ -84,17 +84,17 @@ Offers Downloads for old titles and hard to find Abandonware Games, including ev
 
 **[F95zone](https://f95zone.to/)** & **[U18-Chan](https://u18chan.com/a/) (DDL)**
 
-Big Forums for **_Adult Games_**. F95zone is a Forum with various Tools, Translation & Game Request channels, many English **_Porn Games_** and even English translated foreign Games such as **_Japanese Eroges_** (a searchable index can be found [here](https://f95zone.to/sam/latest_alpha/)). U18-Chan instead has exclusively **_Yiff Games_**.  
+Big Forums for <span style="color:red">**_Adult Games_**</span>. F95zone is a Forum with various Tools, Translation & Game Request channels, many English <span style="color:red">**_Porn Games_**</span> and even English translated foreign Games such as <span style="color:red">**_Japanese Eroges_**</span> (a searchable index can be found [here](https://f95zone.to/sam/latest_alpha/)). U18-Chan instead has exclusively <span style="color:red">**_Yiff Games_**</span>.  
 **_They both require Sign-up_**.
 
 **[Sukebei](https://sukebei.nyaa.si/?c=1_3)** & **[Nyaa](https://nyaa.si/?c=6_0) (Torrent)**
 
-Sukebei is an outstanding source for *__Japanese Eroges__*, while Nyaa is an alright source for some Japanese Games and ROMs. It's recommended that you use an Anti-Malware scanner on the files you download and only ever download Japanese Games from these sites.  
+Sukebei is an outstanding source for <span style="color:red">*__Japanese Eroges__*</span>, while Nyaa is an alright source for some Japanese Games and ROMs. It's recommended that you use an Anti-Malware scanner on the files you download and only ever download Japanese Games from these sites.  
 *<small>Most Japanese Games require a [Locale Emulator](https://pooi.moe/Locale-Emulator/) to work. You also might get better results if you search the Game by its Japanese title.</small>*
 
 **[Lewd Patcher](https://lewdpatcher.com) (DDL)**
 
-Has some **_Uncensored_** and **_Lewd_** patches for Games, which can be applied as a mod.
+Has some <span style="color:red">**_Uncensored_**</span> and <span style="color:red">**_Lewd_**</span> patches for Games, which can be applied as a Mod.
 
 **[Flashpoint](https://bluemaxima.org/flashpoint/downloads/) (DDL/Torrent)**
 
