@@ -11,7 +11,7 @@ description: List of sites to Stream and Download TV Shows and Movies.
 
 <small>Useful for watching Content easily and quickly, but mostly with a loss of Quality.</small>
 
-[**P-Stream**](https://erynith.github.io/movie-web-instances) - Spiritual successor of movie-web, it aggregates content from different providers and serves it in a modern, polished UX.
+[**P-Stream**](https://pstream.mov/) - Spiritual successor of movie-web, it aggregates content from different providers and serves it in a modern, polished UX.
 
 [**Fmovies+**](https://www.fmovies.gd/home) | [**MovieOrca**](https://movieorca.com) - Streaming sites with a UI similar to Prime Video, **_beware of Pop-ups._**  
 *<small>There are some Anti-Popup filters in our <a target="_self" href="/Utilities/Misc">Misc</a> section.</small>*
