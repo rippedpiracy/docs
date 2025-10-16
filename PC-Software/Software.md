@@ -3,6 +3,8 @@ title: Software
 description: List of safe and trusted sites for Software.
 ---
 
+**In case any of the sites are blocked or inaccessible, Change DNS to [1.1.1.1](https://one.one.one.one/dns/) or use [GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI) / [PowerTunnel](https://github.com/krlvm/PowerTunnel).**  
+
 # Torrent
 
 **[RuTracker.org](https://rutracker.org)** | **[.net](https://rutracker.net)**  
