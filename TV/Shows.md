@@ -67,7 +67,7 @@ Their [Subreddit](https://reddit.com/r/PopCornTimeApp) can be visited for more i
 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp) - Can download from over 1500 sites including: Crunchyroll, Funimation, SoundCloud, Bandcamp, PornHub and more. [Link](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) to all supported sites.  
 *<small>Maintained fork of the popular YouTube Downloader [youtube-dl](https://ytdl-org.github.io/youtube-dl/) with more functionality.</small>*  
 [**Stacher**](https://stacher.io/) - A modern YouTube Downloader, front-end/GUI for [youtube-dl](https://ytdl-org.github.io/youtube-dl/).  
-[**cobalt**](https://cobalt.tools/) - Downloader that supports Instagram, Reddit, TikTok and [more](https://github.com/wukko/cobalt?tab=readme-ov-file#supported-services).  
+[**cobalt**](https://cobalt.tools/) | [**community instances**](https://instances.cobalt.best/) - Downloader that supports Instagram, Reddit, TikTok and [more](https://github.com/wukko/cobalt?tab=readme-ov-file#supported-services).  
 [**TubeDigger**](https://www.tubedigger.com/index.html) - Advanced Media Downloader, has wider support for capturing and downloading media.  
 
 > <span style="color:orange">**DDL:**</span> Direct Download, where you can download a file from a server usually done through your Browser.    
