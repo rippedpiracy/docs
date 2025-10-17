@@ -6,7 +6,8 @@ description: List of sources for getting all genres of Music.
 
 [**lucida**](https://lucida.to/) - Music Downloader for Amazon Music, Soundcloud, Qobuz, Deezer and Tidal.  
 
-[**YtmDL Web**](https://ytmdl.deepjyoti30.dev/) - The best looking and performing Online YouTube Music Downloader.
+[**cobalt**](https://cobalt.tools) | [**community instances**](https://instances.cobalt.best/) - The best looking and performing Online Downloader for Social Media (YouTube included).  
+**_Use a community instance with a high score._**
 
 [**RuTracker**](https://rutracker.org) - Russian Tracker with a lot of Unknown or Foreign Music.  
 **_Requires Sign-up._**  
