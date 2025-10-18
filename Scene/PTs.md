@@ -59,7 +59,7 @@ There are two kinds of trackers, content-wise: **specialised** and **general**. 
 
 **3D Software, Graphic Design, VFX**: [CGpeers](https://cgpeers.to/), [GFXpeers](https://gfxpeers.net)
 
-<sub>credits: [https://wiki.installgentoo.com/index.php/Private_trackers](https://wiki.installgentoo.com/index.php/Private_trackers)</sub>
+<sub>credits: <https://igwiki.lyci.de/wiki/Main_Page></sub>
 
 # Resources
 
