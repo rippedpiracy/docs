@@ -210,7 +210,7 @@ There is a <span style="color:red">**Mac**</span> [build](https://gitlab.com/Mr_
 <small>Most of the time you can tell which redistributables are required for a specific Steam Game by going on its page at <https://steamdb.info/> and clicking the "Depots" section on the sidebar. On the "Configuration" column, if it mentions "Depot from 228980" then you can be sure those files are required.  
 Some common redistributables are:</small>
 
-[**VisualCppRedist AIO**](https://github.com/abbodi1406/vcredist) - All in One repack for the latest Microsoft Visual C++ Redistributable Runtimes (VC 20XX Redist).  
+[**VCRedist AIO**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) - All in One package for the latest Microsoft Visual C++ Redistributable Runtimes.  
 [**DirectX**](https://www.microsoft.com/en-us/download/details.aspx?id=35) - A Web-Downloader that installs a number of Runtime libraries for Games that use D3DX9, D3DX10, D3DX11, XAudio 2.7, XInput 1.3, XACT, and/or Managed DirectX 1.1 (DirectX Jun 2010 Redist).  
 *<small>Alternative Offline-Downloader link available [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109).</small>*  
 [**.NET**](https://dotnet.microsoft.com/en-us/download/dotnet) - Various versions of .NET, you generally need a single version only (.NET X.X Redist).  
