@@ -2,6 +2,7 @@
 title: Manga
 description: Collection of resources for your Manga needs
 ---
+[**EverythingMoe**](https://everythingmoe.com/) - huge list of Sites, Apps, Tools, for everything related with anime/manga media.
 [**Wotaku**](https://wotaku.wiki/) - a **HUGE** list of reading/downloading sites and apps categorized in Platforms, Categories and more.  
 [**The Anime Index**](https://theindex.moe/) - a list of Tools, Apps and Sites for your Manga needs.
 
