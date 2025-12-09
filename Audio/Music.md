@@ -14,6 +14,8 @@ description: List of sources for getting all genres of Music.
 
 [**SoftArchive**](https://sanet.st/music/) - SoftArchive's Music Section, has many different Albums you might not find elsewhere.
 
+[**MusicsAndBooks**](musicsandbooks.org) - High Quality Music for Free Download.
+
 [**KHInsider**](https://downloads.khinsider.com/) - Offers plenty of Video Game Soundtracks and Game audio rips. Audio quality tends to be extremely low.
 
 [**Sitting on Clouds**](https://www.sittingonclouds.net/) | [**Sukidesuost**](https://sukidesuost.info/) | [**Nyaa**](https://nyaa.si/?c=2_0) - Very good and reliable sources to get mainly Anisons from, but also other Asian Music as well. Sitting on Clouds also has a good collection of Game OST. They use friendly file hosters except Nyaa, it uses Torrents instead.  
