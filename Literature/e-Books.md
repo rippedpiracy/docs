@@ -14,7 +14,8 @@ Easily verify the status of the largest Libraries online using [**SLUM: The Shad
 &nbsp;  
 &nbsp;
 - [**Z-Library**](https://www.reddit.com/r/zlibrary/wiki/index/access) - The Library is also accessible through [Tor](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion). **_Requires Sign-up_**.
-- **LibraryGenesis** [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - A Shadow library for access to journal articles, academic and general Books, Comics, Audiobooks, etc.  
+- **LibraryGenesis** [**.rs**](https://libgen.rs/) | [**.is**](https://libgen.is/) | [**.st**](https://libgen.st/) - A Shadow library for access to journal articles, academic and general Books, Comics, Audiobooks, etc.
+- [**MusicsAndBooks**](musicsandbooks.org) - Free Download Ebooks / Audio Books and Magazines.
 - [**Mobilism (.me)**](https://forum.mobilism.me/viewforum.php?f=106) | [**.org**](https://forum.mobilism.org/viewforum.php?f=106) - Forum. **_Requires Sign-up_**.
 - [**MYWAREZ.ORG**](https://mywarez.org/viewforum.php?f=25) - Forum. **_Requires Sign-up_**.
 - [**The-eye**](https://the-eye.eu/public/Books/) - Many e-Books and calibre libraries.
