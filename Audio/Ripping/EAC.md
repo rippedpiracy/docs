@@ -15,16 +15,16 @@ This is meant to be a no-frills guide with little extra info.
 
 Download the installer and fire it up.
 
-![](https://i.imgur.com/N16chOM.png)
+![](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/1.png)
 
 Eventually you'll get to a screen like this. Make sure you install AccurateRip, CDRDAO, CTDB, and freedb as a bare minimum. FLAC will be useful as well if you don't have it separately installed. GD3 is only useful if you want to pay for metadata results. I assume you don't.
 
 #### Step 2: Start EAC
-![](https://i.imgur.com/JvvhuGo.png)
+![](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/2.png)
 
 When you first start EAC, you'll see a screen like this one. Hit "Cancel". Next, put a popular CD into your drive, preferably not one that was recently released (a few months old at least). You'll see a window like the one below appear. If you have an older version of EAC or dBpoweramp installed, it's likely AccurateRip was already configured, and this may not appear.
 
-![](https://i.imgur.com/s6Rbs5A.png)
+![](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/3.png)
 
 Hit Configure. It may take a few minutes. Hit "Ok" afterward. Once again, if you have an older version of EAC or dBpoweramp installed, it's likely AccurateRip was already configured, and this may not appear.
 
@@ -32,31 +32,31 @@ Hit Configure. It may take a few minutes. Hit "Ok" afterward. Once again, if you
 
 All of the options dialogs can be found from the EAC menu at the top of the screen.
 
-![https://i.imgur.com/k8DAbdV.png](https://i.imgur.com/k8DAbdV.png)  
+![https://i.imgur.com/k8DAbdV.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/4.png)  
 
 Start with EAC Options. Any tabs not pictured are completely optional settings, or are irrelevant to ripping.  
 
-![https://i.imgur.com/SqQVeYk.png](https://i.imgur.com/SqQVeYk.png)  
+![https://i.imgur.com/SqQVeYk.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/5.png)  
 
 Make sure you set the green highlighted settings as shown. If you're using an older version of EAC, make sure "No use of null samples for CRC calculations is UNCHECKED. The rest is optional, choose as you will. Locking the drive tray during extraction isn't a bad idea though.  
 
-![https://i.imgur.com/T8PABG6.png](https://i.imgur.com/T8PABG6.png)  
+![https://i.imgur.com/T8PABG6.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/6.png)  
 
 These settings are pretty much all optional and self explanatory. I'd recommend using Alternate CD play routines and disabling autostart though.  
 
 The "Create log files always in english language" is very important for our international users. This will let you keep EAC's language as your native one, but write the log file in English
 
-![https://i.imgur.com/T9zXp3U.png](https://i.imgur.com/T9zXp3U.png)  
+![https://i.imgur.com/T9zXp3U.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/7.png)  
 
 If your drive is capable of reading UPC/ISRC codes and CD-Text (you can only really figure this out by trial and error), you're welcome to keep the top two options checked. Otherwise, uncheck them.  
 
 Other than that, these settings are pretty much ideal. I wouldn't recommend using more than 1 compressor thread even if you have a multicore computer. It doesn't take very long compared to the track extraction anyway. Note that in tests run by punkmeup, disabling the queue of external compressors in the background fixed an issue where EAC was generating WAV files instead of FLAC, so I've made that a required option. It should have no bearing on the rip quality. If rip queueing works for you (it does for me), feel free to leave it enabled.  
 
-![https://i.imgur.com/RVPFE9J.png](https://i.imgur.com/RVPFE9J.png)  
+![https://i.imgur.com/RVPFE9J.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/8.png)  
 
 Friends don't let friends normalize their EAC rips. Don't ever do it.  
 
-![https://i.imgur.com/A64Bgne.png](https://i.imgur.com/A64Bgne.png)  
+![https://i.imgur.com/A64Bgne.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/9.png)  
 
 This is the proper way to name tracks. The only difference acceptable here would be perhaps %tracknr2%. %title% if you prefer periods instead of dashes in the filenames. If you need track numbers to go into triple digits for some reason, use %tracknr3% instead.  
 
@@ -69,7 +69,7 @@ Don't replace spaces by underscores. It looks ridiculous.
 #### Step 4: Drive Options
 
 
-![https://i.imgur.com/5BGuq4w.png](https://i.imgur.com/5BGuq4w.png)  
+![https://i.imgur.com/5BGuq4w.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/10.png)  
 
 Start by hitting "Detect Read Features...". This will actually take a few minutes. The only feature detection that actually matters is Accurate Stream. If your drive can use it, checkmark the setting (most modern drives have Accurate Stream). If it can't, don't.  
 
@@ -77,11 +77,11 @@ Even if your drive doesn't cache audio, just do us a favour and leave that check
 
 Do not use C2, even if EAC thinks you can. Most drives have terrible C2 error implementation.  
 
-![https://i.imgur.com/ZAwJdyK.png](https://i.imgur.com/ZAwJdyK.png)  
+![https://i.imgur.com/ZAwJdyK.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/11.png)  
 
 Hit "Autodetect read command now". It shouldn't take long. Leave everything else unchecked unless you're having problems. You can checkmark "CD-Text Read capable drive" if you want to test whether your drive can do it. If it can, great, otherwise, uncheck it. It's unlikely you'll ever use that feature anyway.  
 
-![https://i.imgur.com/Iq9Oc11.png](https://i.imgur.com/Iq9Oc11.png)  
+![https://i.imgur.com/Iq9Oc11.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/12.png)  
 
 If you did the AccurateRip configuration at the start of this guide, the top half here will be greyed out. If not, you'll need to find your read offset correction from this list. Don't use a combined read/write offset.  
 
@@ -91,7 +91,7 @@ Originally Posted by blowfish.be
 Check "Overread Lead-In and Lead-Out" only if the test result says that your drive can overread from both the Lead-In and Lead-Out, or if it says Lead-Out and your offset correction is positive ,or if it says Lead-In and your offset correction is negative. Otherwise disable (uncheck) it.  
 Remember to check "Use AccurateRip with this drive" again once you're finished. AccurateRip is always a good idea.  
 
-![https://i.imgur.com/ahrVeIO.png](https://i.imgur.com/ahrVeIO.png)  
+![https://i.imgur.com/ahrVeIO.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/13.png)  
 
 Pretty much every drive should work with the settings shown. If yours stalls on detecting gaps or detects gaps that are obviously wrong (like 30 second gaps on a non-live album), try Detection method B or C. If A, B, and C all fail, you can switch "Secure" to "Accurate" and try again.  
 
@@ -99,11 +99,11 @@ Pretty much every drive should work with the settings shown. If yours stalls on 
 #### Step 5: Metadata Options
 
 
-![https://i.imgur.com/jtpaKbL.png](https://i.imgur.com/jtpaKbL.png)  
+![https://i.imgur.com/jtpaKbL.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/14.png)  
 
 Here's where you pick your metadata provider. If you did install GD3, it'll be in the list. You can only rip 10 discs before you have to pay for a subscription though. Otherwise, you have a choice between the MusicBrainz plugin (CTDB), freedb plugin and EAC's native freedb support. I'm not really sure what the big difference is, I'm guessing it's the cover+lyrics. Anyway, change those settings above if you wish.  
 
-![https://i.imgur.com/cL3fxyt.png](https://i.imgur.com/cL3fxyt.png)  
+![https://i.imgur.com/cL3fxyt.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/15.png)  
 
 If you use EAC's native freedb instead, the settings should look like this. Make sure you put an email at the top, it doesn't need to be real. Hit "Get active freedb server list". Then checkmark the last option.  
 
@@ -111,7 +111,7 @@ If you use EAC's native freedb instead, the settings should look like this. Make
 #### Step 6: Compression Options
 
 
-![https://i.imgur.com/GOWfbPH.png](https://i.imgur.com/GOWfbPH.png)  
+![https://i.imgur.com/GOWfbPH.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/16.png)  
 
 Set up this tab exactly as shown. You'll have to browse to the path where you have flac.exe, if you installed it with EAC it's in `C:\Program Files (x86)\Exact Audio Copy\FLAC\flac.exe`. If you installed it separately it's wherever you installed it. The bitrate and high/low quality have no effect on the rip.  
 
@@ -151,7 +151,7 @@ q8 Ogg:
 -q 8 -a "%artist%" -t "%title%" -l "%albumtitle%" -d "%year%" -N "%tracknr%" -G "%genre%" %source% -o %dest%
 ```
 
-![https://i.imgur.com/4KJfgSf.png](https://i.imgur.com/4KJfgSf.png)  
+![https://i.imgur.com/4KJfgSf.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/17.png)  
 
 Leave everything unchecked except the last option.  
 
@@ -165,7 +165,7 @@ Congrats! EAC is now properly set up! You may wish to save your settings in a pr
 #### Step 7: Tagging
 
 
-![https://i.imgur.com/SZc7Trg.png](https://i.imgur.com/SZc7Trg.png)  
+![https://i.imgur.com/SZc7Trg.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/18.png)  
 
 So now let's look at the main window. Be sure everything is named correctly here, as these will be the tags on your ripped files. If you're ripping a classical CD, you may wish to fill in the Composer/Performer fields.  
 
@@ -181,7 +181,7 @@ Note: I've also highlighted the "New" button where you can save your settings. T
 #### Step 8: Gap Detection and Cuesheets
 
 
-![https://i.imgur.com/CJL8XFi.png](https://i.imgur.com/CJL8XFi.png)  
+![https://i.imgur.com/CJL8XFi.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/19.png)  
 
 The pre-rip stuff happens here. Make sure "Append Gaps to Previous Track (default)" is checked. It should be. Next, hit the options in the order shown.  
 
@@ -204,7 +204,7 @@ Anyway, make the folder, save the .cue file into it. I usually just name mine No
 #### Step 9: Ripping
 
 
-![https://i.imgur.com/eVHpnsB.png](https://i.imgur.com/eVHpnsB.png)  
+![https://i.imgur.com/eVHpnsB.png](https://cdn.jsdelivr.net/gh/rippedpiracy/docs/img/guide/20.png)  
 
 Finally, the rip itself! Make sure all the tracks are checkmarked in the main window unless there are some you don't want to rip.  
 
