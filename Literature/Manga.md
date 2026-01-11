@@ -83,7 +83,7 @@ Remember to always use an AdBlocker like [uBlock Origin](https://github.com/gorh
 &nbsp;
 <li><a href="https://sourceforge.net/p/mcomix/wiki/Home/" target="_blank"><b>MComix</b></a> <b>(PC)</b> - User-friendly, customizable comic viewer.</li></ul>
 
-- [OpenComic](https://opencomic.app/) **(PC)** - Comic and Manga reader, written with Node.js and using Electron.
+- [**OpenComic**](https://opencomic.app/) **(PC)** - Comic and Manga reader, written with Node.js and using Electron.
 
 - [**Suwayomi**](https://github.com/Suwayomi/Suwayomi-Server) **(PC)** - A multi-platform free and open source manga reader server that can run extensions built for Tachiyomi.  
 *<small>Requires a client, read the readme file.</small>*
