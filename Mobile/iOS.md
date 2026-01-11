@@ -35,6 +35,6 @@ description: List of useful iOS Mobile Apps and Tools.
 [**Blatant's IPA Library**](https://t.me/blatants) - Posts cracked IPAs for Apps, has an inject bot to fix sideloading issues with certificates.
 
 # Music Streaming
-[**EeveeSpotify**]([https://github.com/whoeevee/EeveeSpotifyReborn) - Ad-free Spotify Client Mod.
+[**EeveeSpotify**](https://github.com/whoeevee/EeveeSpotifyReborn) - Ad-free Spotify Client Mod.
 
 [**YTMusicUltimate**](https://github.com/dayanch96/YTMusicUltimate) - Ad-free Youtube Music Client.
