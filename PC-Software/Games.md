@@ -50,7 +50,7 @@ Uploads Repacks and Scene Releases for PC and various Consoles. Takes requests.
 Every GOG DRM-free Game, ripped and re-uploaded on Mirrors. Every installer is untouched and has a cryptographic SHA-256 key from GOG.  
 *<small>This site is also accessible through [Tor](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion).</small>*
 
-**[GamesDrive](https://gamesdrive.net) (DDL)**
+**[scene.cat](https://scene.cat/) (DDL)**
 
 An Automatic Scene Uploading Bot which Uploads Windows, Linux, Mac and Nintendo Switch Scene Releases directly to DDL sites.  
 
@@ -148,7 +148,7 @@ Preservation project for Adobe Flash Games. Has over 90k Games in its [library](
 **Most links here require sign-up on [CS.RIN.RU](https://cs.rin.ru/forum).**  
 <small>All DLC unlocker tools require the actual DLC files to work, to find the DLC files: find the Game topic on [CS.RIN.RU](https://cs.rin.ru/forum) and check the first post for links to the DLC files. If there are none, then use the searchbar to search for the DLC files within the thread or just pirate the entire Game and extract the DLCs. Note that rarely, DLC files will come preinstalled with the base Game.</small>
 
-[**Koalageddon**](https://github.com/acidicoala/Koalageddon) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans).  
+[**Koalageddon**](https://github.com/acidicoala/Koalageddon) [<small>[cs.rin.ru]</small>](https://cs.rin.ru/forum/viewtopic.php?t=112021) - An incredibly easy to use DLC unlocker for Steam, Epic Games, Origin, EA Desktop & Uplay (R1 only) for legitimately owned Games. Family Sharing restrictions can also be bypassed. It can also work with Games that have Anti-Cheat such as EAC and VAC, though it is inadvisable to do so (even though there have been no confirmed cases of bans). This project is abandoned, if it doesn't work, use the DLC unlockers mentioned below.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[KG-GUI](https://cs.rin.ru/forum/viewtopic.php?t=112374) - A simple GUI to configure Koalageddon.  
 [**CreamInstaller**](https://cs.rin.ru/forum/viewtopic.php?t=117227) - Automatically finds all installed Steam/Ubisoft/Epic Games and provides a neat GUI to automatically configure and apply ScreamAPI/Uplay R1 Unlocker/Uplay R2 Unlocker/[Koaloader](https://cs.rin.ru/forum/viewtopic.php?t=119395) which unlock DLCs in their respective platforms. The project is abandoned, latest downloadable snapshot can be found [here](https://github.com/FroggMaster/CreamInstaller).
 
