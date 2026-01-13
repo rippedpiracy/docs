@@ -10,7 +10,7 @@ description: Comprehensive list of sites for downloading and streaming Anime.
 
 **[Nyaa](https://nyaa.si/?c=1_0) (Torrent)** - The Best Public Tracker to get Anime from.  
 **[Sukebei](https://sukebei.nyaa.si/?c=1_1) (Torrent)** - The Best Public Tracker to get Hentai from.  
-*<small>Use Japanese titles to get beter results.</small>*
+*<small>Use Japanese titles to get better results.</small>*
 
 **[The Anime Index](https://theindex.moe/library/anime) (DDL / Torrent)** - This site also has Download sites/apps for Anime/**_Hentai_**/Manga and more.
 
