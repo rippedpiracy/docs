@@ -143,6 +143,8 @@ It may break some sites.
 
 [**OTS**](https://ots.fyi/) - Open-source one-time-secret sharing platform with encryption.
 
+[**Port scanner Online**](https://portscanner.online/) - Scan and detect open ports online easily.
+
 [**Litterbox**](https://litterbox.catbox.moe/) | [**Uguu**](https://uguu.se/) - Temporarily host your files.
 
 [**Link Lock**](https://jstrieb.github.io/link-lock) - Password-protect URLs using AES in the Browser and the ability to create hidden bookmarks without a Browser extension.
