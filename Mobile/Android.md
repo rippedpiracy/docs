@@ -21,6 +21,9 @@ description: List of useful Android mobile apps.
 
 [**Obtainium**](https://github.com/ImranR98/Obtainium) - App which allows you to install and update different applications directly from their release pages. Supports a lot of sources such as Github, Gitlab, F-Droid, Codeberg etc.
 
+
+[**GitHub Store**](https://github-store.org) - An open-source app store for discovering, installing, and updating software directly from GitHub releases across Android, Windows, macOS, and Linux.
+
 ## Browsers
 [**Firefox Nightly**](https://play.google.com/store/apps/details?id=org.mozilla.fenix) | [**Fennec**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid) - Nightly and Stable versions of Firefox.
 Here's a [Guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) to add more extensions to Firefox Nightly.
