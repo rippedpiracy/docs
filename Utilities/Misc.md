@@ -155,8 +155,6 @@ It may break some sites.
 
 [**Spyware Watchdog**](https://spyware.neocities.org/articles/) - Site which periodically analyzes apps for spying behavior and helps you mitigate it.
 
-[**File Hosting Wiki**](https://filehostlist.miraheze.org/wiki/Main_Page) - Wiki for Premium Leechers, Torrent Leechers and Debrids.
-
 [**PrivacyGuides**](https://privacyguides.org/) - [r/PrivacyGuides](https://reddit.com/r/PrivacyGuides)'s Website, has good information about various Security and Privacy Tools.  
 [**r/Privacy Wiki**](https://www.reddit.com/r/privacy/wiki/index) - A Privacy Wiki by [r/Privacy](https://reddit.com/r/privacy).
 
