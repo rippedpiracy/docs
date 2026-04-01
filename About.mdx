@@ -1,0 +1,231 @@
+---
+title: About
+sort: 2
+description: Information about the Ripped Guide.
+---
+
+## Transparency
+
+The Ripped Guide stores **0 Cookies** in your Browser.  
+
+We use Privacy-first [**Cloudflare Analytics**](https://www.cloudflare.com/web-analytics/) to measure site activity.  
+<small>This does __not__ log any personal information apart from Country of Visit, Resolution, User-Agent and Referrer.</small>  
+If you wish to opt-out, install [**uBlock Origin**](https://github.com/gorhill/uBlock) on your browser.
+
+## Contributing
+
+Feel free to contribute to the Guide by making a Pull Request or an Issue in our [**docs**](https://github.com/rippedpiracy/docs) repo.  
+If you think you can help out with the code, feel free to make a PR in our [**site**](https://github.com/rippedpiracy/site) repo.
+
+## Formatting
+
+This website is built using **Vite** and **React** with custom MDX rendering setup. You can write regular Markdown along with custom React components directly in `.mdx` files.
+
+In brief, here's how a document works:
+
+````text
+---
+title: My Page
+description: A short description for embeds
+---
+
+# Header 
+
+Here is normal text.
+
+> Quote
+
+## Subheading
+
+Here is a [link](https://ripped.guide)
+
+Here is *italic text*, **bold text**, and **_italic and bold text_**
+
+Here is an unordered list:
+- item 1
+- item 2
+
+Here is an ordered list:
+1. item 1
+2. item 2
+
+Here is a superscript^1^
+
+Here is a table:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Value 1  | Value 2  | Value 3  |
+````
+You can also use HTML tags:
+````html
+Here is <u>underlined text</u>
+Here is <small>small text</small>
+Here is <span className="text-red-500">red color text</span>
+````
+
+### Rendered Version:
+
+# Header 
+
+Here is normal text.
+
+> Quote
+
+## Subheading
+
+Here is a [link](https://ripped.guide).
+
+Here is *italic text*, **bold text**, **_italic and bold text_**, and `inline code`.
+
+Here is an unordered list:
+- item 1
+- item 2
+
+Here is an ordered list:
+1. item 1
+2. item 2
+
+Here is a superscript^1^.
+
+Here is a table:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Value 1  | Value 2  | Value 3  |
+
+You can also use HTML tags:  
+
+Here is <u>underlined text</u>  
+Here is <small>small text</small>  
+Here is <span className="text-red-500">red color text</span>  
+
+## Custom Components
+
+We provide several custom MDX components you can use anywhere within the `.mdx` files.
+
+### 1. Alerts
+
+Alerts call attention to important information.
+
+````jsx
+<Alert type="info">
+  Here is some helpful information.
+</Alert>
+<Alert type="warn">
+  Watch out! This is a warning.
+</Alert>
+<Alert type="danger">
+  Danger! Do not proceed further.
+</Alert>
+````
+
+**Example:**
+
+<Alert type="info">
+  Here is some helpful information.
+</Alert>
+<Alert type="warn">
+  Watch out! This is a warning.
+</Alert>
+<Alert type="danger">
+  Danger! Do not proceed further.
+</Alert>
+
+### 2. Collapsible
+
+Collapsible sections help hide lengthy information behind an expandable header.
+
+````jsx
+<Collapsible title="My Expandable Section" description="Click here to expand the section" icon="info">
+  Here is the hidden content!
+</Collapsible>
+````
+
+**Example:**
+
+<Collapsible title="My Expandable Section" description="Click here to expand the section" icon="info">
+  Here is the hidden content!
+</Collapsible>
+
+### 3. Tabs
+
+Tabs allow you to structure content conditionally without taking up too much vertical space.
+
+````jsx
+<Tabs>
+  <Tab label="Windows">
+    Download the `.exe` file.
+  </Tab>
+  <Tab label="macOS">
+    Download the `.dmg` file.
+  </Tab>
+</Tabs>
+````
+
+**Example:**
+
+<Tabs>
+  <Tab label="Windows">
+    Download the `.exe` file.
+  </Tab>
+  <Tab label="macOS">
+    Download the `.dmg` file.
+  </Tab>
+</Tabs>
+
+### 4. RouteHeader
+
+Used to document API endpoints efficiently.
+
+````jsx
+<RouteHeader method="GET" url="/api/v1/users/{user.id}" unauthenticated>Get User Info</RouteHeader>
+````
+
+**Example:**
+
+<RouteHeader method="GET" url="/api/v1/users/{user.id}" unauthenticated>Get User Info</RouteHeader>
+
+### 5. Changelog
+
+Displays release notes in an organized timeline structure.
+
+````jsx
+<Changelog>
+  <ChangelogEntry version="v1.2.0" date="October 24, 2026">
+    - Added a new feature
+    - Fixed a bug
+  </ChangelogEntry>
+  <ChangelogEntry version="v1.1.0" date="September 5, 2026">
+    - Initial release
+  </ChangelogEntry>
+</Changelog>
+````
+
+**Example:**
+
+<Changelog>
+  <ChangelogEntry version="v1.2.0" date="October 24, 2026">
+    - Added a new feature
+    - Fixed a bug
+  </ChangelogEntry>
+  <ChangelogEntry version="v1.1.0" date="September 5, 2026">
+    - Initial release
+  </ChangelogEntry>
+</Changelog>
+
+### 6. YouTube Embed
+
+Embeds a YouTube video responsively.
+
+````jsx
+<YouTubeEmbed src="https://www.youtube.com/embed/dQw4w9WgXcQ" />
+````
+
+**Example:**
+
+<YouTubeEmbed src="https://www.youtube.com/embed/dQw4w9WgXcQ" />
+
+## Thanks to our Contributors:
+
+import Contributors from '@components/Contributors';
+
+<Contributors />
