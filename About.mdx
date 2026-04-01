@@ -6,10 +6,13 @@ description: Information about the Ripped Guide.
 
 ## Transparency
 
-The Ripped Guide stores **0 Cookies** in your Browser.  
+The Ripped Guide stores **0 Cookies** in your Browser.
 
-We use Privacy-first [**Cloudflare Analytics**](https://www.cloudflare.com/web-analytics/) to measure site activity.  
-<small>This does __not__ log any personal information apart from Country of Visit, Resolution, User-Agent and Referrer.</small>  
+We use Privacy-first [**Cloudflare Analytics**](https://www.cloudflare.com/web-analytics/) to measure site activity.
+
+<small>
+  This does __not__ log any personal information apart from Country of Visit, Resolution, User-Agent and Referrer.
+</small>
 If you wish to opt-out, install [**uBlock Origin**](https://github.com/gorhill/uBlock) on your browser.
 
 ## Contributing
@@ -23,13 +26,13 @@ This website is built using **Vite** and **React** with custom MDX rendering set
 
 In brief, here's how a document works:
 
-````text
+```text
 ---
 title: My Page
 description: A short description for embeds
 ---
 
-# Header 
+# Header
 
 Here is normal text.
 
@@ -55,17 +58,18 @@ Here is a table:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Value 1  | Value 2  | Value 3  |
-````
+```
+
 You can also use HTML tags:
-````html
-Here is <u>underlined text</u>
-Here is <small>small text</small>
-Here is <span className="text-red-500">red color text</span>
-````
+
+```html
+Here is <u>underlined text</u> Here is <small>small text</small> Here is
+<span className="text-red-500">red color text</span>
+```
 
 ### Rendered Version:
 
-# Header 
+# Header
 
 Here is normal text.
 
@@ -75,13 +79,15 @@ Here is normal text.
 
 Here is a [link](https://ripped.guide).
 
-Here is *italic text*, **bold text**, **_italic and bold text_**, and `inline code`.
+Here is _italic text_, **bold text**, **_italic and bold text_**, and `inline code`.
 
 Here is an unordered list:
+
 - item 1
 - item 2
 
 Here is an ordered list:
+
 1. item 1
 2. item 2
 
@@ -90,13 +96,13 @@ Here is a superscript^1^.
 Here is a table:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Value 1  | Value 2  | Value 3  |
+| Value 1 | Value 2 | Value 3 |
 
-You can also use HTML tags:  
+You can also use HTML tags:
 
 Here is <u>underlined text</u>  
 Here is <small>small text</small>  
-Here is <span className="text-red-500">red color text</span>  
+Here is <span className="text-red-500">red color text</span>
 
 ## Custom Components
 
@@ -106,7 +112,7 @@ We provide several custom MDX components you can use anywhere within the `.mdx` 
 
 Alerts call attention to important information.
 
-````jsx
+```jsx
 <Alert type="info">
   Here is some helpful information.
 </Alert>
@@ -116,29 +122,23 @@ Alerts call attention to important information.
 <Alert type="danger">
   Danger! Do not proceed further.
 </Alert>
-````
+```
 
 **Example:**
 
-<Alert type="info">
-  Here is some helpful information.
-</Alert>
-<Alert type="warn">
-  Watch out! This is a warning.
-</Alert>
-<Alert type="danger">
-  Danger! Do not proceed further.
-</Alert>
+<Alert type="info">Here is some helpful information.</Alert>
+<Alert type="warn">Watch out! This is a warning.</Alert>
+<Alert type="danger">Danger! Do not proceed further.</Alert>
 
 ### 2. Collapsible
 
 Collapsible sections help hide lengthy information behind an expandable header.
 
-````jsx
+```jsx
 <Collapsible title="My Expandable Section" description="Click here to expand the section" icon="info">
   Here is the hidden content!
 </Collapsible>
-````
+```
 
 **Example:**
 
@@ -150,62 +150,56 @@ Collapsible sections help hide lengthy information behind an expandable header.
 
 Tabs allow you to structure content conditionally without taking up too much vertical space.
 
-````jsx
+```jsx
 <Tabs>
-  <Tab label="Windows">
-    Download the `.exe` file.
-  </Tab>
-  <Tab label="macOS">
-    Download the `.dmg` file.
-  </Tab>
+  <Tab label="Windows">Download the `.exe` file.</Tab>
+  <Tab label="macOS">Download the `.dmg` file.</Tab>
 </Tabs>
-````
+```
 
 **Example:**
 
 <Tabs>
-  <Tab label="Windows">
-    Download the `.exe` file.
-  </Tab>
-  <Tab label="macOS">
-    Download the `.dmg` file.
-  </Tab>
+  <Tab label="Windows">Download the `.exe` file.</Tab>
+  <Tab label="macOS">Download the `.dmg` file.</Tab>
 </Tabs>
 
 ### 4. RouteHeader
 
 Used to document API endpoints efficiently.
 
-````jsx
-<RouteHeader method="GET" url="/api/v1/users/{user.id}" unauthenticated>Get User Info</RouteHeader>
-````
+```jsx
+<RouteHeader method="GET" url="/api/v1/users/{user.id}" unauthenticated>
+  Get User Info
+</RouteHeader>
+```
 
 **Example:**
 
-<RouteHeader method="GET" url="/api/v1/users/{user.id}" unauthenticated>Get User Info</RouteHeader>
+<RouteHeader method="GET" url="/api/v1/users/{user.id}" unauthenticated>
+  Get User Info
+</RouteHeader>
 
 ### 5. Changelog
 
 Displays release notes in an organized timeline structure.
 
-````jsx
+```jsx
 <Changelog>
   <ChangelogEntry version="v1.2.0" date="October 24, 2026">
-    - Added a new feature
-    - Fixed a bug
+    - Added a new feature - Fixed a bug
   </ChangelogEntry>
   <ChangelogEntry version="v1.1.0" date="September 5, 2026">
     - Initial release
   </ChangelogEntry>
 </Changelog>
-````
+```
 
 **Example:**
 
 <Changelog>
   <ChangelogEntry version="v1.2.0" date="October 24, 2026">
-    - Added a new feature
-    - Fixed a bug
+    - Added a new feature - Fixed a bug
   </ChangelogEntry>
   <ChangelogEntry version="v1.1.0" date="September 5, 2026">
     - Initial release
@@ -216,9 +210,9 @@ Displays release notes in an organized timeline structure.
 
 Embeds a YouTube video responsively.
 
-````jsx
+```jsx
 <YouTubeEmbed src="https://www.youtube.com/embed/dQw4w9WgXcQ" />
-````
+```
 
 **Example:**
 
@@ -226,6 +220,6 @@ Embeds a YouTube video responsively.
 
 ## Thanks to our Contributors:
 
-import Contributors from '@components/Contributors';
+import Contributors from "@components/Contributors";
 
 <Contributors />
