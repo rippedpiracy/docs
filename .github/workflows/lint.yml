@@ -1,18 +1,31 @@
 name: Lint Docs
 on: [push, pull_request]
 
+# Allow the action to commit back to the repo
+permissions:
+  contents: write
+
 jobs:
   prettier:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Required for the auto-commit to work properly
+          ref: ${{ github.head_ref }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Check Formatting
-        # npx will automatically download and run the latest prettier
+      - name: Format with Prettier
         run: npx prettier --write "**/*.mdx"
+
+      - name: Auto-Commit fixed files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: automated prettier formatting"
+          # Optional: only commit if there are changes
+          skip_dirty_check: false 
