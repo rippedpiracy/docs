@@ -7,9 +7,7 @@
     {
       "files": "*.mdx",
       "options": {
-        "useTabs": false,
-        "htmlWhitespaceSensitivity": "ignore",
-        "proseWrap": "preserve"
+        "useTabs": false
       }
     }
   ]
