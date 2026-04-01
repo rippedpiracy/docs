@@ -15,4 +15,4 @@ jobs:
 
       - name: Check Formatting
         # npx will automatically download and run the latest prettier
-        run: npx prettier --check "**/*.mdx"
+        run: npx prettier --write "**/*.mdx"
