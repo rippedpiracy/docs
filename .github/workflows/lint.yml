@@ -1,10 +1,18 @@
 name: Lint Docs
 on: [push, pull_request]
+
 jobs:
   prettier:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v2
-      - run: pnpm install prettier -g
-      - run: prettier -c "**/*.mdx"
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check Formatting
+        # npx will automatically download and run the latest prettier
+        run: npx prettier --check "**/*.mdx"
