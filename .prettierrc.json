@@ -1,0 +1,14 @@
+{
+  "quoteProps": "consistent",
+  "endOfLine": "lf",
+  "printWidth": 120,
+  "useTabs": false,
+  "overrides": [
+    {
+      "files": "*.mdx",
+      "options": {
+        "useTabs": false
+      }
+    }
+  ]
+}
